@@ -2,23 +2,24 @@
 
 ここは、有志の手によってDistant worldsを勝手に、非公式に、日本語化してしまおうというプロジェクトです。
 
-## インストール方法
+### インストール方法
 
 1. `C:\Matrix Game\Distant Worlds Universe\`フォルダのバックアップを取ります
 2. この[distantsworlds-master.zip](https://github.com/distantworlds-jp/distantworlds/archive/master.zip)を解凍し、distantworlds-master/distantworlds-master以下のフォルダを、上記のゲームがインストールされているフォルダに上書きします
 
-## Gitがわかる人,翻訳者向けインストール(WIP)
+### Gitがわかる人,翻訳者向けインストール(WIP)
 
 1. Git for Windowsをインストール
-2. C:\Matrix Game\Distant Worlds Universe\で`git init`して`git remote set-url https://github.com/distantworlds-jp/distantworlds.git`して`git pull origin master` (未検証)
+2. `C:\Matrix Game\Distant Worlds Universe\`で`git init`して`git remote set-url https://github.com/distantworlds-jp/distantworlds.git`して`git pull origin master` (未検証)
+
+----
 
 ## はじめに
 
-数年間にわたり、2chスレッド等で本ゲームの日本語化が行われてきましたが、成果があちこちに分散し、「どれをどの順番に適用すればよいのかがわかりにくい」という課題がありました。
+ 数年間にわたり、2chスレッド等で本ゲームの日本語化が行われてきましたが、成果があちこちに分散し、「どれをどの順番に適用すればよいのかがわかりにくい」という課題がありました。
 これをうまいこと解決できないか？ということで本リポジトリの立ち上げへと踏み切りました。
-ついでに日本語Wikiが無いのでGitHub Wikiをその代わりにしちゃおうという目論見もあります。
 
-
+ ついでに日本語Wikiが無いのでGitHub Wikiをその代わりにしちゃおうという目論見もあります。
 
 ## このプロジェクトのゴール（Why)
 
