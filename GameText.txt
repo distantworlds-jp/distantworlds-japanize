@@ -7,7 +7,7 @@ Game Concepts		;ゲーム概念
 Game Screens		;ゲーム画面
 Planet and Star Types		;惑星と星の種類
 Resources		;資源
-Ships and Bases		;船舶と基地
+Ships and Bases		;艦船と基地
 Alien Races		;異星人種
 Government Types		;政府体制
 Space Creatures		;宇宙生物
@@ -34,7 +34,7 @@ Edit Empire - Research		;[編集]帝国 - 研究
 Edit Empire - Ships and Bases		;[編集]帝国 - 船と基地
 Edit Gas Cloud		;[編集]ガス星雲
 Edit Planet or Moon		;[編集]惑星 or 衛星
-Edit Ship or Base		;[編集]船舶 or 基地
+Edit Ship or Base		;[編集]艦船 or 基地
 Edit Star		;[編集]星
 Edit Creature		;[編集]生物
 Empire Exploration		;帝国を探査する
@@ -54,7 +54,7 @@ Place Moon		;[配置]衛星
 Place Pirate Faction		;[配置]海賊団
 Place Planet		;[配置]惑星
 Place Ruins		;[配置]遺跡
-Place Ship or Base		;[配置]船舶 or 基地
+Place Ship or Base		;[配置]艦船 or 基地
 Place Star		;[配置]星
 Place System		;[配置]星系
 Exploration		;探査
@@ -66,10 +66,10 @@ Diplomacy		;外交
 Empire Reputation		;帝国の評判
 Diplomatic Relation Types		;外交関連の形式
 Blockades		;封鎖
-Construction		;建設
+Construction		;建造
 Research		;研究
-Ship Designs		;船舶設計
-Ship Costs		;船舶費
+Ship Designs		;艦船設計
+Ship Costs		;艦船費
 Fleets		;艦隊
 Intelligence Missions		;諜報任務
 Troops		;地上軍
@@ -89,24 +89,24 @@ Colonization Tips		;入植ヒント
 Colony Taxes		;コロニー税
 
 Democracy		;民主主義
-Republic		;共和国
+Republic		;共和制
 Feudalism		;封建制
 Monarchy		;君主制
 Despotism		;専制政治
 Military Dictatorship		;軍事独裁
 Mercantile Guild		;商業連合
 Technocracy		;技術主義
-Utopian Paradise		;ユートピアパラダイス
+Utopian Paradise		;楽園思想
 Hive Mind		;集合意識
-Way of the Ancients		;古代への道
-Way of Darkness		;暗黒への道
+Way of the Ancients		;古代政治
+Way of Darkness		;暗黒政治
 
 Mouse Actions		;マウス操作
 Controlling your Ships		;船を制御する
-Ship Mission Types		;船舶任務の種類
+Ship Mission Types		;艦船任務の種類
 Keyboard Commands		;キーボードコマンド
 Messages and Events		;メッセージとイベント
-Ship Symbols		;船舶のシンボル
+Ship Symbols		;艦船のシンボル
 Colonies Screen		;コロニー画面
 Design Detail Screen		;設計詳細画面
 Designs Screen		;設計画面
@@ -121,7 +121,7 @@ Selection Panel		;選択パネル
 Intelligence Agents Screen		;人材画面
 Main Screen		;メイン画面
 Research Screen		;研究画面
-Ships and Bases Screen		;船舶と基地画面
+Ships and Bases Screen		;艦船と基地画面
 Speaking to Other Empires		;他国と交渉
 Troops Screen		;地上軍画面
 Message History Screen		;メッセージ履歴画面
@@ -140,7 +140,7 @@ Escorts		;護衛艦
 Exploration Ships		;探査船
 Freighters		;貨物船
 Frigates		;フリゲート艦
-Star Bases		;恒星基地
+Star Bases		;汎用基地
 Mining Ships		;採掘船
 Mining Stations		;採掘基地
 Space Ports		;宇宙港
@@ -228,7 +228,7 @@ Giant Kaltor		;ジャイアントカルター
 Space Slug		;スペーススラッグ
 Sand Slug		;サンドスラッグ
 
-Ships & Bases		;船舶と基地
+Ships & Bases		;艦船と基地
 Maint.		;維持
 TOTAL		;総計
 Other Bases		;他の基地
@@ -312,7 +312,7 @@ Troop Recruitment		;地上軍募集
 Agent Recruitment		;諜報員募集
 Agent Assignment		;諜報員任命
 Colony Tax Rates		;コロニー税率
-Ship Design		;船舶設計
+Ship Design		;艦船設計
 Ship Building		;造船
 Fleet Formation		;艦隊編成
 Diplomatic Gifts		;外交上の贈り物
@@ -400,13 +400,13 @@ Your Empire		;貴方の帝国
 Speak with		;{0}と交渉する
 Selected Item		;選択した項目
 system		;星系
-selected ships		;選択した船舶
+selected ships		;選択した艦船
 View locked on SELECTED		;{0}に視点を固定します(Lキーで解除)
 
 Left-click to place Independent Alien Race		;左クリックで独立した種族を配置する
 Left-click to place Asteroid		;左クリックで小惑星を配置する
 Left-click to place Asteroid Field		;左クリックで小惑星帯を配置する
-Left-click to place Ship or Base		;左クリックで船舶や基地を配置する
+Left-click to place Ship or Base		;左クリックで艦船や基地を配置する
 Left-click to erase Alien Race		;左クリックで種族を消去する
 Left-click to erase Asteroid Field		;左クリックで小惑星帯を消去する
 Left-click to erase Colony		;左クリックでコロニーを消去する
@@ -485,7 +485,7 @@ Zoom to selected item		;選択した項目を拡大する
 Select nearest available military ship		;最も近い利用可能な軍艦を選択する
 Toggle display detail level		;表示している詳細レベルを切り替える
 Open Galactopedia Help screen		;銀河百科事典のヘルプを開く
-Open Ships and Bases screen		;船舶と基地画面を開く
+Open Ships and Bases screen		;艦船と基地画面を開く
 Open Colonies screen		;コロニー画面を開く
 Open Construction Yards screen		;建造工廠画面を開く
 Open Designs screen		;設計画面を開く
@@ -625,7 +625,7 @@ Celebration!		;祝賀会を開け！
 You must decide...		;貴方が決めて下さい...
 You've been warned!		;警告されました！
 Remove Military forces from System		;星系から軍を退去させる
-Ship Mission Complete		;船舶任務の完了
+Ship Mission Complete		;艦船任務の完了
 Ship needs Refuelling		;船は給油が必要です
 Ship Stranded		;船が擱座しました
 Pirates Offer Alliance		;海賊が同盟を提案しています
@@ -656,7 +656,7 @@ Trade Sanctions Imposed		;貿易制裁が課されました
 War Declared!		;宣戦布告されました！
 Empire Defeated!		;帝国は敗北しました！
 New empire encountered		;新しい帝国に遭遇しました
-Ship discovered		;船舶が発見されました
+Ship discovered		;艦船が発見されました
 Planet discovered		;惑星が発見されました
 Location discovered		;場所が発見されました
 Ruins discovered		;遺跡が発見されました
@@ -711,7 +711,7 @@ View Design		;設計を表示
 Shortest Range		;最短距離
 Longest Range		;最長距離
 Bombard		;爆撃
-Maximum Weapons Energy use per second		;毎秒ごとに使用する兵器の最大エネルギー
+Maximum Weapons Energy use per second		;全力攻撃時消費エネルギー/毎秒
 Maximum Ship size		;船の最大サイズ
 Maximum Base size		;基地の最大サイズ
 when not at colony		;コロニー上は例外
@@ -751,41 +751,41 @@ At nearest refuelling point		;最も近い給油地点で
 Clear All Queued Missions		;予約中の全任務を達成
 Prepare and Attack X		;{0}の攻撃準備
 Prepare and Bombard X		;{0}の爆撃準備
-Refuel all ships		;全ての船舶に給油する
+Refuel all ships		;全ての艦船に給油する
 At your nearest Space Port		;最も近い宇宙港で
-Repair and Refuel damaged ships		;損傷した船舶を修理して燃料を補給する
-Return to base		;基地に戻る
+Repair and Refuel damaged ships		;損傷した艦船を修理して燃料を補給する
+Return to base		;母港に戻る
 Stop		;停止
 Escape		;逃走
 Escape from X		;{0}から逃走する
-Assign X as base		;基地として{0}を指定する
+Assign X as base		;母港として{0}を指定する
 Retrofit to latest designs		;最新設計に改修
 colonizing		;入植
 SHIPNAME colonizing PLANETNAME		;{1}に入植中の{0}
 SHIPNAME building at COLONY to colonize PLANETNAME		;{2}に入植する{1}で{0}を建造する
 Build new Colony Ship and Colonize X		;新しい殖民船を建造して{0}に入植する
 Recruit Troops at X		;{0}で地上軍を募集する
-Repair damaged ships		;損傷した船舶を修理する
+Repair damaged ships		;損傷した艦船を修理する
 Join Fleet		;艦隊に参加する
 Leave Current Fleet		;現在の艦隊をそのままにする
-Retire all ships		;全船舶を退役させる
+Retire all ships		;全艦船を退役させる
 Scrap Ships Immediately		;直ちに船を廃棄する
-Automate all ships		;全船舶を自動化する
+Automate all ships		;全艦船を自動化する
 'Retrofit to X for Y credits 
 To X for Y credits		;{1}クレジットで{0} へ
 Scrap Base Immediately		;直ちに基地を廃棄する
 All systems in sector X		;セクター{0}内の全ての星系
-Deploy at X		;{0}に配備する
-Undeploy		;配備を解除する
+Deploy at X		;{0}に配置する
+Undeploy		;配置を解除する
 Investigate Ruins		;遺跡を調査する
-Investigate Ship		;船舶を調査する
+Investigate Ship		;艦船を調査する
 Investigate Base		;基地を調査する
 Leave FLEETNAME		;{0}を去る
 Make lead ship for FLEETNAME		;{0}の旗艦を決める
 'Retrofit to X at Y
 To X at Y		;{0}にある{1}へ
 To X at nearest ship yard		;{0}にある最も近い造船所へ
-Scrap Ship Immediately		;直ちに船舶を廃棄する
+Scrap Ship Immediately		;直ちに艦船を廃棄する
 Automate		;自動化
 Nth Fleet		;{0}艦隊
 The screenshot has been saved at the following location		;スクリーンショットは次の場所に保存されました
@@ -817,9 +817,9 @@ Superweapon may not fire because total reactor energy output and storage is low	
 Cannot currently build a design of this size maximum size		;現在、このサイズの設計({0})を建造する事はできません、最大サイズは{1}です
 Cannot currently build a design of this size unless at colony		;現在、コロニーでは{0}サイズの建造は出来ません
 Cannot currently build a design of this size		;現在、このサイズ({0})の設計を建造する事は出来ません
-Resupply Ships: min X% cargo storage, docking bays, gas extractors		;補給母艦: min {0}% 貨物倉庫、ドッキングベイ、ガス抽出装置
-Construction Ships: min X% cargo storage, construction, manufacturers		;建設船: min {0}% 貨物倉庫、建設、製造設備
-Colony Ships: min X% colonization module		;殖民船: min {0}% 入植モジュール
+Resupply Ships: min X% cargo storage, docking bays, gas extractors		;補給母艦: 少なくとも{0}% 貨物倉庫、ドッキングベイ、ガス抽出装置
+Construction Ships: min X% cargo storage, construction, manufacturers		;建設船: 少なくとも{0}% 貨物倉庫、建造工廠、製造設備
+Colony Ships: min X% colonization module		;殖民船: 少なくとも{0}% 入植モジュール
 Need more Habitation Modules		;もっと多くの居住モジュールが必要です
 Need more Life Support components		;もっと多くの生命維持部品が必要です
 Reactor power output inadequate to supply static energy requirements		;定常消費エネルギーを供給する為に必要なリアクター出力が不足しています
@@ -832,7 +832,7 @@ Must set Battle Tactics against stronger opponents for this Design		;この設�
 Must set Battle Tactics against weaker opponents for this Design		;この設計には弱い敵との戦闘戦術を設定する必要があります
 Flee When for civilian ships must be When Enemy Military Sighted		;敵に発見された場合、民間船を護衛する必要がなければ逃走します
 Battle Tactics for civilian ships must be Evade		;民間船の戦闘戦術は”逃走”以外は選択できません
-Invasion Tactics for civilian ships must be Do Not Invade		;民間船の侵略戦術は”侵略しない”以外は選択できません
+Invasion Tactics for civilian ships must be Do Not Invade		;民間船の侵略戦術は”侵攻禁止”以外は選択できません
 Copy of X		;{0}のコピー
 Are you sure that you want to delete this design?		;この設計を破棄しますか？
 Delete Design		;設計を破棄する
@@ -963,7 +963,7 @@ Editing of this game is protected by a password		;パスワードで保護され
 Invalid password		;無効なパスワード
 The password you entered was incorrect		;入力されたパスワードが間違っています
 Leave the Ruins alone		;遺跡から立ち去る
-Leave the Ship alone		;船舶から立ち去る
+Leave the Ship alone		;艦船から立ち去る
 Leave the Base alone		;基地から立ち去る
 Go to Event Location		;発見場所に向かう
 Accept rogue fleet into our empire		;ならず者を受け入れる
@@ -971,7 +971,7 @@ Reject offer from rogue fleet		;ならず者からの提案を拒否する
 Warn target empire about this secret deal		;目標の帝国にこの秘密の取引について警告する
 Keep this information to ourselves		;この情報を保持する
 Expose this secret project to all empires		;全ての帝国は秘密の計画を公開する
-Distant Worlds ship designs files		;Distant Worlds の船舶設計ファイル
+Distant Worlds ship designs files		;Distant Worlds の艦船設計ファイル
 Save Distant Worlds designs		;Distant Worlds の設計を保存する
 Load Distant Worlds designs		;Distant Worlds の設計を読み込む
 Show All Messages		;全メッセージを表示する
@@ -1011,7 +1011,7 @@ Messages		;メッセージ
 Research Area		;研究分野
 Resources required to manufacture		;製造に必要な資源
 Learn about X		;{0}を学ぶ
-Requirements for building ship design X		;船舶設計{0}を建造する為に必要な条件
+Requirements for building ship design X		;艦船設計{0}を建造する為に必要な条件
 Requirements for building base design X		;基地設計{0}を建造する為に必要な条件
 Components Required		;必要な部品
 Resources Required		;必要な資源
@@ -1026,9 +1026,9 @@ Cannot afford this retrofit		;改修する余裕がありません
 Some of the selected items cannot be retrofitted		;選択した項目の一部は改修する事が出来ません（例：民間船、コロニーにはない基地など）
 The selected items are not of the same type, thus you cannot retrofit them to a specific design		;選択した項目は同じタイプではないため、特定の設計に改修する事が出来ません。代わりに選択した各項目は、そのタイプの最新設計に改修出来ます。
 Some of the selected items must be retrofitted at a colony		;選択した項目の一部はコロニー（例：基地、殖民船、建設船、補給母艦など）で改修する必要があります。これらの項目は使用可能なコロニーで改修出来ます。
-Scrapping ships and bases permanently and immediately removes them from the game		;船舶や基地を破棄すると永久にゲームから除外されます。\n\n本当に全ての選択した船や基地を破棄してもよろしいですか？
+Scrapping ships and bases permanently and immediately removes them from the game		;艦船や基地を破棄すると永久にゲームから除外されます。\n\n本当に全ての選択した船や基地を破棄してもよろしいですか？
 Scrap selected ships and bases?		;選択した船や基地を破棄しますか？
-Retiring ships permanently removes them from the game		;退役する船舶は永久にゲームから除外されます。\n\n本当に全ての選択した船を退役させてもよろしいですか？
+Retiring ships permanently removes them from the game		;退役する艦船は永久にゲームから除外されます。\n\n本当に全ての選択した船を退役させてもよろしいですか？
 Retire selected ships?		;選択した船を退役させますか？
 Game Paused		;一時停止
 Press Spacebar or Pause key to resume		;スペースキー または ポーズキー を押すことで再開します
@@ -1267,7 +1267,7 @@ Auto-Generate		;自動生成
 Amount		;数量
 List		;一覧
 Type the name of your empire here		;ここに帝国の名前を入力して下さい
-The primary color for your empire		;プレイヤーの基本色です。この色は船舶や基地を識別する為に使用されます。旗の一色でもあります。
+The primary color for your empire		;プレイヤーの基本色です。この色は艦船や基地を識別する為に使用されます。旗の一色でもあります。
 The secondary color for your empire		;プレイヤーの補助色です。旗の一色でもあります。
 The dominant race at your empire's home colony		;プレイヤーの首都星で最も有力な種族。プレイヤーは追加の惑星にコロニーを作成する事で、他の異星人種の原住民を同化させて自国の人口を増加できます。
 Determines the layout and distribution of stars within the galaxy		;銀河内の星の配置と分布を決定します。
@@ -1280,8 +1280,8 @@ Determines how fast research occurs in the galaxy		;銀河内の研究速度を�
 Determines how many space creatures are present in the galaxy		;宇宙生物が銀河に存在する数を決定します
 The form of government that your empire follows		;プレイヤーの政府体制を決定します。プレイヤーの政府は革命を行う事でゲーム内で変更する事が出来ます。しかし、革命は好ましくない副作用を伴う事を忘れないで下さい。
 The favorability of your home system		;プレイヤーの首都星系の好ましさ。これは次の要因を含みます: 豊富な資源、プレイヤーの首都星の人口レベル、星系内の他の有利な惑星の存在
-Determines how many colonies you have and how well established your empire is		;プレイヤーがどの位のコロニーを統治しているか、どの程度確立されているかを決定します。これには以下の要因を含みます: コロニー数、コロニーの人口レベル、銀河の探査率、船舶と基地の数
-Determines how advanced your research is		;プレイヤーの研究の進捗を決定します。レベルに応じて高度な部品が船舶や基地の建造に利用できます。プリワープは技術研究が全く始まってません。海賊はプリワープには設定できません。
+Determines how many colonies you have and how well established your empire is		;プレイヤーがどの位のコロニーを統治しているか、どの程度確立されているかを決定します。これには以下の要因を含みます: コロニー数、コロニーの人口レベル、銀河の探査率、艦船と基地の数
+Determines how advanced your research is		;プレイヤーの研究の進捗を決定します。レベルに応じて高度な部品が艦船や基地の建造に利用できます。プリワープは技術研究が全く始まってません。海賊はプリワープには設定できません。
 Determines the level of corruption		;プレイヤーのコロニーでの汚職や収入損失のレベルを決定します。
 When this is turned on the specified number of empires are automatically generated		;これがオンになっている場合は、指定数の帝国がゲーム開始時に自動生成されます。帝国と種族特性がランダムで割り当てられます。銀河拡張設定ではこれらの帝国がどの位大きいのかについて影響を与えます。
 The number of starting empires to auto-generate		;開始時に自動生成される帝国の数
@@ -1296,9 +1296,9 @@ SHIPTYPE NAME requires refuelling		;{0}{1}に給油が必要です
 Refugee		;難民
 We have encountered a refugee SHIPTYPE		;{1}星系内で、漂流していた難民{0}に遭遇しました
 We have encountered an abandoned SHIPTYPE		;{1}星系内で、放棄され漂流している{0}に遭遇しました
-Should we investigate the ship?		;船舶を調査する必要がありますか？
+Should we investigate the ship?		;艦船を調査する必要がありますか？
 Should we investigate the base?		;基地を調査する必要がありますか？
-Abandoned Ship Encountered		;放棄されている船舶に遭遇しました
+Abandoned Ship Encountered		;放棄されている艦船に遭遇しました
 Abandoned Base Encountered		;放棄されている基地に遭遇しました
 Restricted Area Encounter		;{1}星系近くの立入禁止エリアで、{0}に遭遇しました
 Debris Field Encounter		;{0}星系内で広大な宇宙デブリ域を発見しました
@@ -1308,7 +1308,7 @@ Secret Construction Project Discovered		;秘密の建造計画を発見しまし
 HyperjumpDisabledArea		;このエリアはハイパードライブに何らかの影響を与えているようだ - このエリア内にハイパージャンプする事は出来ません
 A broadcast message announces		;一斉通信メッセージを発しました
 Perhaps it would be wise to leave this area		;恐らく、このエリアを離れるのが賢明だろう
-Debris Field Detail		;それは壮大な戦いのあった戦場跡のようです。\n\nこの残骸には沢山の強力な軍艦が眠っています。これらの貴重な船舶を可能な限り修理し回復する為に、一度この場所に建設船を派遣するべきでしょう。\n\nこれらの船舶の高度な技術を修理する事により、帝国に研究ボーナスをもたらします。\n\n建設船と一緒に武装した護衛を派遣するのが賢明でしょう - 我々はこの船舶の所有権を主張します。発見を独占し続けましょう...
+Debris Field Detail		;それは壮大な戦いのあった戦場跡のようです。\n\nこの残骸には沢山の強力な軍艦が眠っています。これらの貴重な艦船を可能な限り修理し回復する為に、一度この場所に建設船を派遣するべきでしょう。\n\nこれらの艦船の高度な技術を修理する事により、帝国に研究ボーナスをもたらします。\n\n建設船と一緒に武装した護衛を派遣するのが賢明でしょう - 我々はこの艦船の所有権を主張します。発見を独占し続けましょう...
 Planet Destroyer Detail		;建造途中のこれは、あらゆる惑星を破壊するために設計された超兵器を収納する、移動可能な軍事基地です！{0}という名の基地は、どうやら半分ほど完成した時点で放棄されたようです。\n\nこの基地が完成してしまえば、所有国が銀河を支配する事は容易でしょう。更にこの計画で高度な技術を調べれば、帝国に多大な研究ボーナスをもたらす事は確実です。\n\nこの巨大な兵器の建造を急いで終わらせましょう！
 Valuable Discovery ENVIRONMENT PLANETTYPE NAME SYSTEM		;{3}星系内の{0} {1} {2}で非常に貴重な発見をしました
 Restricted Resource Discovery - Korabbian Spice		;この{0}は極めて希少な資源採取地です:コラビアンスパイス\n\nコラビアンスパイスを食べると精神力を大幅に強化する事ができ、信じられないほど知的な功績を達成できるようになります。
@@ -1327,7 +1327,7 @@ Deserted Ship Marshy Swamp		;{0}の{1}は密集したジャングルで蔦と葎
 Deserted Ship Ocean		;{0}の{1}は浅海の底で泥の中に半分埋まった状態で眠っていました。\n\n見るからに古ぼけていますが、船はまだ正常に動作可能なようです。それに乗り込み、手に入れる事にしました。
 Deserted Ship Desert		;{0}の{1}は広大な砂漠平原の端に存在する砂丘に半分埋もれた状態で眠っていました。\n\n見るからに古ぼけていますが、船はまだ正常に動作可能なようです。それに乗り込み、手に入れる事にしました。
 Deserted Ship Volcanic		;{0}の{1}は燃えさかる溶岩湖の端の近くに眠っていました。\n\n見るからに古ぼけていますが、船はまだ正常に動作可能なようです。それに乗り込み、手に入れる事にしました。
-Deserted Ship Discovered		;朽ち果てた船舶を発見しました
+Deserted Ship Discovered		;朽ち果てた艦船を発見しました
 Colony Ship Race		;殖民船内には休止状態にある何百万もの{0}達が存在しています
 Disassembling the advanced technology in this ship		;宇宙港の一つでこの船の高度な技術を分解すると研究ボーナスが得られる可能性があります(右クリック > 退役 > 最も近い造船所)\n\n或いはこの高度な船を保持し、帝国の為に利用した方が良いかもしれない。
 The existing population joined our empire		;{0}の原住民は帝国に加わりました
@@ -1345,13 +1345,13 @@ Pirate Base Bonus Abandoned Ship		;海賊拠点{0}を破壊した後、デブリ
 Lost Ship Location Revealed		;難破船の場所が明らかになった
 Pirate Base Bonus Money		;海賊拠点{0}を破壊した後、デブリの中に浮遊している財宝を発見しました。財宝の価値は{1}クレジットに上るようです。
 Valuable Treasure Discovered		;貴重な財宝を発見しました
-Pirate Base Bonus Faction Joins		;海賊拠点{0}を破壊した後、近くの海賊団は帝国に参加する事に決めたようです。{1}は我々の攻撃リストに載る事を恐れ、海賊を廃業し、軍に加わりました。\n\n{1}の全ての船舶と基地は帝国に譲渡されました。
+Pirate Base Bonus Faction Joins		;海賊拠点{0}を破壊した後、近くの海賊団は帝国に参加する事に決めたようです。{1}は我々の攻撃リストに載る事を恐れ、海賊を廃業し、軍に加わりました。\n\n{1}の全ての艦船と基地は帝国に譲渡されました。
 Pirate Faction Joins Your Empire		;海賊団は貴方の帝国に参加しました
 Pirate Base Bonus Exploration		;海賊拠点{0}を破壊した後、デブリの中に浮遊しているデータコアを発見しました。データコアには海賊がかつて一度だけ取引した事のある{1}達の独立したコロニーに関する情報がありました。\n\n情報は欠損していますが、コロニーがセクター{3}中にある{2}星系内のどこかに位置している事を示しています。\n\n独立した{1}達に殖民船を派遣すれば、帝国に参加してくれる可能性があります。
 Independent Colony of RACE		;{0}個の独立したコロニー
-We have disassembled the ship X at Y		;{1}で船舶{0}を解体しました
+We have disassembled the ship X at Y		;{1}で艦船{0}を解体しました
 Unfortunately our engineers were unable to learn anything new from inspecting its technology		;技術者がその技術を検査しましたが、残念な事に新しい何かを学ぶ事は出来ませんでした
-We have received a research bonus in X from disassembling Y		;{2}で船舶{1}の高度な技術を分解する事によって{0}の研究ボーナスを得ました
+We have received a research bonus in X from disassembling Y		;{2}で艦船{1}の高度な技術を分解する事によって{0}の研究ボーナスを得ました
 Retrofitting for the SHIPTYPE NAME has been completed at LOCATION		;{0}の'{1}'の改修は{2}で完了しました
 The SHIPTYPE NAME has been completed at LOCATION		;{0}の'{1}'は{2}で完成しました
 Asteroid Field		;小惑星帯
@@ -1384,7 +1384,7 @@ Communications Intercept SHIPNAME EMPIRE		;探査船{0}が{1}の幾つかの秘�
 Communications Intercept MONITORINGSTATION EMPIRE		;{0}の傍受施設は{1}の幾つかの秘密通信を傍受しました
 Communications Intercept Planet Destroyer		;メッセージによって、彼らがセクター{1}中の{0}星系内に大規模な秘密の建造計画を実施している事が明らかになりました。\n\n{2}は主砲で惑星を丸ごと破壊できる致命的な宇宙要塞を建造しています！\n\nこの秘密計画を暴露すれば、他国に{2}対する敵意を向けさせ、{2}の評判を傷つける事が出来ます。\n\nしかし、それを行うと{2}は我々に対して怒りを露わにするでしょう。\n\n極悪非道な陰謀を公開しますか？
 Secret Construction Project Revealed		;秘密の建造計画が明らかになった
-Communications Intercept Debris Field		;{0}のメッセージによって、戦闘で損傷した高度な軍艦が広大なデブリ域で発見された事が明らかになりました。デブリ域はセクター{2}中の{1}星系内に存在します。船舶の殆どは救出が可能な状態のようです。\n\nこれらの貴重な船舶を可能な限り修理し回復する為に、この場所に急行する必要があります。
+Communications Intercept Debris Field		;{0}のメッセージによって、戦闘で損傷した高度な軍艦が広大なデブリ域で発見された事が明らかになりました。デブリ域はセクター{2}中の{1}星系内に存在します。艦船の殆どは救出が可能な状態のようです。\n\nこれらの貴重な艦船を可能な限り修理し回復する為に、この場所に急行する必要があります。
 Debris Field Revealed		;デブリ域が明らかになった
 Communications Intercept Restricted Area		;メッセージには{0}がセクター{2}で{1}星系近くの立入禁止エリアを発見したという報告がありました\n\nこの場所を調査する為に船を派遣するべきです。
 Restricted Area Revealed		;立入禁止エリアが明らかになった
@@ -1392,10 +1392,10 @@ Warning Planet Destroyer Construction		;{0}に関する警告を送信します�
 Uncover Pirate Attack Funding Against Us		;情報網によって、{0}の秘密の協定が明らかになりました。彼らは施設を攻撃する為に、海賊団{1}との秘密の取引を行っていました！\n\n{0}の非道な裏切りに対して、然るべき天罰を下す必要あるでしょう！
 Pirates secretly funded to attack us		;海賊は我々を攻撃する為に密かに資金を供給していました
 Uncover Pirate Attack Funding Against Us Threaten		;我々を攻撃する為の{0}との協定が明らかになった！\n\n貴国はこの裏切りの代償を支払う事になるだろう！
-Uncover Pirate Attack Funding Against Other		;情報網によって、{0}の秘密の協定が明らかになりました。\n\n{0}は{2}の船舶と基地を攻撃する為に、海賊団{1}との秘密の取引を行っていました！この秘密の取引について{2}に警告を行えば、感謝される事は間違いないでしょう。そうする事で{0}の評判にも傷を付ける事が出来ます。\n\n{2}に警告を行いますか？
+Uncover Pirate Attack Funding Against Other		;情報網によって、{0}の秘密の協定が明らかになりました。\n\n{0}は{2}の艦船と基地を攻撃する為に、海賊団{1}との秘密の取引を行っていました！この秘密の取引について{2}に警告を行えば、感謝される事は間違いないでしょう。そうする事で{0}の評判にも傷を付ける事が出来ます。\n\n{2}に警告を行いますか？
 Pirates secretly funded to attack empire		;海賊は帝国を攻撃する為に密かに資金を供給していました
 Rogue Fleet Defects!		;ならず者は逃走しています！
-Rogue Fleet Defects Detail		;艦隊{0}の全ての船舶が{1}に亡命しています！\n\n{0}の司令官は圧政と暴虐をこれ以上看過する事は出来ないと息巻いています。\n\n{1}はこの裏切りの代償を支払う事になるだろう！
+Rogue Fleet Defects Detail		;艦隊{0}の全ての艦船が{1}に亡命しています！\n\n{0}の司令官は圧政と暴虐をこれ以上看過する事は出来ないと息巻いています。\n\n{1}はこの裏切りの代償を支払う事になるだろう！
 Rogue Fleet Defects Warning		;貴国が反逆者{0}などを抱え込む勇気があるとはな！\n\nいずれ、この裏切りの代償を支払う事になるだろう！
 Rogue Fleet offers to defect		;ならず者は逃走を打診してきています
 Rogue Fleet offers to defect Detail		;{0}からの艦隊は帝国への亡命を希望しています。\n\n{1}も帝国への参加を希望しています。しかし、この亡命を受け入れるにはかなりの危険が伴います。\n\n亡命を受け入れますか？
@@ -1407,7 +1407,7 @@ Energy Research Bonus from Ruin		;{1}から{0}エネルギー研究
 HighTech Research Bonus from Ruin		;{1}から{0}ハイテク研究
 Industrial Research Bonus from Ruin		;{1}から{0}産業研究
 Ongoing bonus while repairing advanced tech		;{0}の高度な技術を修理している間に発生する継続的なボーナス
-Ongoing bonus while repairing advanced ships		;{0}の高度な船舶を修理している間に発生する継続的なボーナス
+Ongoing bonus while repairing advanced ships		;{0}の高度な艦船を修理している間に発生する継続的なボーナス
 Our engineers have invented a new CATEGORY COMPONENT		;技術者が新しい{0}部品を発明しました:{1}
 
 We agree to end this war. We will cease hostilities immediately.		;和平に同意しよう。直ちに敵対行為を中止する。
@@ -1604,7 +1604,7 @@ Automation Defensive Base		;軍事立案官は{1}星系内のコロニー{0}で�
 Automation Colonization Existing Ship		;{3}星系の{0}の{1}の{2}は、新しいコロニーの良い候補地です。\n\n予備の殖民船{4}をこの場所に派遣する準備は既に整っています。\n\n{2}に入植する為に{4}を派遣しますか？
 Automation Colonization New Ship		;{3}星系の{0}の{1}の{2}は、新しいコロニーの良い候補地です。\n\n{5}星系内のコロニー{4}で新しい殖民船を建造し、{2}に入植する為に派遣出来ます。\n\n{2}に入植する為に新しい殖民船を建造して派遣しますか？
 Automation Construction Colony		;専門家は{6}星系内の{3}の{4}の{5}で{2}クレジットの費用を消費し、新しい{0}({1})を建造する事を推奨しています。\n\n新しい{0}を建造する為に{2}クレジットを消費しますか？
-Automation Construction Forces		;専門家が現在の軍事力を分析したところ、以下の新しい船舶を造船するべきだと判断しました:\n{0}には総費用{1}クレジットが必要です。\n\nこれらの新しい船舶は帝国全体の任意の利用可能な建造工廠で造船されます。\n\n新しい船舶の建造を許可しますか？
+Automation Construction Forces		;専門家が現在の軍事力を分析したところ、以下の新しい艦船を造船するべきだと判断しました:\n{0}には総費用{1}クレジットが必要です。\n\nこれらの新しい艦船は帝国全体の任意の利用可能な建造工廠で造船されます。\n\n新しい艦船の建造を許可しますか？
 Automation Attack Forces In Our System		;{0}が領域内に侵入しています。彼らの軍の一部は{1}星系内に潜伏しているようです\n\n我が軍は既に星系内から侵入者を撃退する準備が整っています。\n\n{1}星系内の{0}を攻撃しますか？
 Automation Intelligence Mission		;熟練諜報員は{1}に秘密の任務として諜報員{0}を派遣する事を推奨しています。\n\n諜報員が{2}を試みます。\n\nこの任務に諜報員を派遣しますか？
 Automation Prepare Attack		;軍事顧問は敵である{0}に対して奇襲攻撃を準備する事を推奨しています。\n\n準備には{3}星系内の{2}に攻撃部隊({1})を移動させる必要があります。{1}は{5}星系内の{4}に対して即座に攻撃を仕掛ける為の最適な位置に配置されます。当然、我々は実際に攻撃を仕掛ける前に命令を待ちます。\n\n攻撃準備を開始しますか？
@@ -1642,7 +1642,7 @@ Serious		;深刻
 Critical		;危機的
 Rampant		;過激化
 
-Ship Maintenance Ability Bonus		;マスターエンジニア: 船の維持費{0}
+Ship Maintenance Ability Bonus		;名匠: 船の維持費{0}
 Troop Maintenance Ability Bonus		;武門: 地上軍の維持費{0}
 Resource Extraction Ability Bonus		;勤勉な鉱夫: 高速採掘{0}
 War Weariness Ability Bonus		;猛烈な闘争本能: 低い厭戦性{0}
@@ -1669,7 +1669,7 @@ Victory Conditions Economy Lose		;{0}は銀河の富の{1}%以上を生み出し
 
 Independent Colony Report Intro		;{4}星系内の{1}の{2}の{3}で{0}達の独立した民衆に遭遇しました
 Independent Colony Legend Intro		;{0}と共有する古代の伝説を保存しました
-Independent Colony Colonization Hostile		;原住民は非常に敵対的なようです。この{0}に入植する事は非常に難しいでしょう。当然、別の方法としては、コロニーを正当に侵略して、この役に立たずの土人共を永久に奴隷にする事も出来ます...
+Independent Colony Colonization Hostile		;原住民は非常に敵対的なようです。この{0}に入植する事は非常に難しいでしょう。当然、別の方法としては、コロニーを正当に侵略して、この役立たずの土人共を永久に奴隷にする事も出来ます...
 Independent Colony Colonization Unlikely		;原住民はかなり非友好的なようです。この{0}に入植する事は難しいかもしれません。当然、別の方法としては、コロニーを正当に侵略して、永久に奪い取る事も出来ます...
 Independent Colony Colonization Good		;原住民はとても友好的なようです。この{0}に入植する事は簡単でしょう。
 
@@ -1689,7 +1689,7 @@ cunning spies		;狡猾なスパイ
 gifted scientists		;天賦の科学者
 industrious miners		;勤勉な鉱夫
 natural optimists		;天然の楽観主義者
-master starship engineers		;宇宙船のマスターエンジニア
+master starship engineers		;宇宙船の名匠
 superb ground troops		;卓越した地上兵士
 tenacious fighters		;粘り強い戦闘機パイロット
 
@@ -1702,7 +1702,7 @@ Mission Build		;建造
 Mission Bombard		;爆撃
 Mission Blockade		;封鎖
 Mission Colonize		;入植
-Mission Deploy		;配備
+Mission Deploy		;配置
 Mission Escape		;脱出
 Mission Escort		;護衛
 Mission Explore		;探査
@@ -1717,7 +1717,7 @@ Mission Rescue		;救出
 Mission Retire		;退役
 Mission Retrofit		;改修
 Mission Transport		;輸送
-Mission Undeploy		;配備解除
+Mission Undeploy		;配置解除
 Mission Unload Troops		;軍揚陸
 Mission Prepare and Attack		;準備後攻撃
 Mission Prepare and Bombard		;準備後爆撃
@@ -1731,17 +1731,17 @@ Race Family Rodent		;齧歯類
 Race Family Ursidian		;熊類
 
 Ship Role Base		;基地
-Ship Role Build		;建造
-Ship Role Colony		;コロニー
+Ship Role Build		;建設
+Ship Role Colony		;殖民
 Ship Role Exploration		;探査
 Ship Role Freight		;運送
 Ship Role Military		;軍艦
-Ship Role Passenger		;乗客
+Ship Role Passenger		;旅客
 Ship Role Resource		;資源
 
 Flee When Attacked		;攻撃される
 Flee When Enemy Military Sighted		;敵を視認する
-Flee When Never		;必ず
+Flee When Never		;逃げない
 Flee When Shields 20		;シールド 20%
 Flee When Shields 50		;シールド 50%
 
@@ -1757,7 +1757,7 @@ Ship SubRole ExplorationShip		;探査船
 Ship SubRole Frigate		;フリゲート艦
 Ship SubRole GasMiningShip		;ガス採掘船
 Ship SubRole GasMiningStation		;ガス採掘基地
-Ship SubRole GenericBase		;恒星基地
+Ship SubRole GenericBase		;汎用基地 
 Ship SubRole HighTechResearchStation		;ハイテク研究基地
 Ship SubRole IndustrialResearchStation		;工業研究基地
 Ship SubRole LargeFreighter		;大型貨物船
@@ -1802,7 +1802,7 @@ Component Category WeaponTorpedo		;魚雷兵器
 
 Component Type Stealth		;ステルス
 Component Type Damage Control		;ダメージコントロール
-Component Type Command Center		;司令部
+Component Type Command Center		;司令室
 Component Type Commerce Center		;商業センター
 Component Type Countermeasures		;防護対策
 Component Type Targetting		;火器管制
@@ -1810,7 +1810,7 @@ Component Type Construction Yard		;建造工廠
 Component Type Main Thrust Engine		;メイン推力エンジン
 Component Type Vectoring Engine		;ベクターエンジン
 Component Type Gas Extractor		;ガス抽出装置
-Component Type Luxury Resource Extractor		;高級資源採集装置
+Component Type Luxury Resource Extractor		;奢侈資源採集装置
 Component Type Mine		;採掘
 Component Type Colony		;コロニー
 Component Type Habitation Module		;居住モジュール
@@ -1828,8 +1828,8 @@ Component Type Weapons Manufacturer		;兵器製造
 Component Type Proximity Array		;近接探知アレイ
 Component Type Resource Profile Sensor		;資源探査センサー
 Component Type Long Range Scanner		;長距離スキャナ
-Component Type Cargo Module		;貨物モジュール部品
-Component Type Docking Bay		;ドッキングベイ部品
+Component Type Cargo Module		;貨物モジュール
+Component Type Docking Bay		;ドッキングベイ
 Component Type Fuel Storage Cell		;燃料貯蔵セル
 Component Type Troop Module		;地上部隊モジュール
 Component Type Area Weapon		;エリア兵器
@@ -1855,7 +1855,7 @@ BattleTactics Standoff		;膠着
 
 InvasionTactics Do Not Invade		;侵攻禁止
 InvasionTactics Invade Immediately		;即時侵攻
-InvasionTactics Invade When Clear		;状況次第
+InvasionTactics Invade When Clear		;掃討後侵攻
 
 DiplomaticRelationType FreeTradeAgreement		;自由貿易協定
 DiplomaticRelationType MutualDefensePact		;相互防衛条約
@@ -2017,10 +2017,10 @@ Our survey team found nothing of interest in the RUINNAME		;調査チームか�
 Ruins are Silent		;遺跡は静寂に満ちている
 Navigational Coordinates		;航法座標
 
-Ship		;船舶
+Ship		;艦船
 Abandoned Ship Explodes		;{0}は目が眩む程の火球によって爆発しました - それは罠だった！\n\n
-Abandoned Ship Explodes Damage		;巨大な爆発は船舶にダメージを与えました！
-Abandoned Ship Explodes Shields		;幸いにも船舶シールドによりダメージは吸収されました - ダメージはありません
+Abandoned Ship Explodes Damage		;巨大な爆発は艦船にダメージを与えました！
+Abandoned Ship Explodes Shields		;幸いにも艦船のシールドによりダメージは吸収されました - ダメージはありません
 SHIPBASE Explodes		;{0}が爆発しました！
 Abandoned Ship Pirate Ambush		;搭乗チームが{0}に接近すると、船はエンジンを始動し、攻撃準備を開始しました。{0}は待ち伏せていた{1}からの海賊です！\n\n着弾する敵の射撃を迎撃する準備を行って下さい！
 Abandoned Ship Acquire Intro		;{2}で放棄されている{0}({1})を調査したところ、殖民船内には数百万の冷凍睡眠で眠っている人間が存在しました。
@@ -2040,7 +2040,7 @@ Abandoned Ship Acquire Tech Multiple		;{0}の中央コンピュータでは、�
 Abandoned Ship Acquire NAVIGATIONAL DIRECTIONS		;{0}はまた、いくつかの魅力的な情報を明らかにした：メイン画面に表示されている航行の目標地点。
 Maybe we should send a ship to investigate this location.		;この場所を調査する為に船を派遣するべきかもしれません
 Abandoned Ship Acquire Colony Ship		;殖民船内には数百万の冷凍睡眠で眠っている{0}が存在しました。
-Abandoned Ship Acquired		;放棄された船舶を獲得しました
+Abandoned Ship Acquired		;放棄された艦船を獲得しました
 Abandoned Base Acquired		;放棄された基地を獲得しました
 Galactic History Uncovered		;銀河の歴史は解き明かされなかった
 
@@ -2202,7 +2202,7 @@ Not Applicable Abbreviation		;n/a
 WARNING: This mission is highly risky - your agent may be captured		;警告: この任務は余りにも危険過ぎます - 諜報員が拘束される可能性があります
 This mission is somewhat risky, maybe you should reconsider		;この任務には多少の危険が伴います、考え直すべきかもしれません
 Recruiting		;募集している
-Invading		;進入している
+Invading		;侵攻している
 Readiness		;準備
 Overall Strength		;全体的な強さ
 Pirate Faction		;海賊団
@@ -2228,7 +2228,7 @@ Maintenance savings		;維持費の節約
 Trade bonuses		;貿易ボーナス
 Effectiveness		;有効性
 Construction Speed		;建造速度
-At this tech level ALL construction yards can build ships up to size		;この技術レベルでの全ての建造工廠は、サイズ{0}までの船舶とサイズ{1}までの基地を建造する事が出来ます
+At this tech level ALL construction yards can build ships up to size		;この技術レベルでの全ての建造工廠は、サイズ{0}までの艦船とサイズ{1}までの基地を建造する事が出来ます
 Potential Energy		;潜在エネルギー収集力
 Maximum Thrust		;最大推力
 Max Energy Usage		;最大エネルギー使用量
@@ -2253,7 +2253,7 @@ Storage Capacity		;燃料容量
 Fuel Type		;燃料種類
 X fuel units per 1000 energy units		;エネルギー1000ごとに燃料{0}
 Range		;範囲
-Recharge Rate		;再チャージ率
+Recharge Rate		;リチャージ率
 Cargo Throughput		;積荷処理能力
 Damage		;ダメージ
 Energy Used		;エネルギー使用量
@@ -2262,19 +2262,19 @@ Fire Rate		;発射間隔
 Bombard Damage		;爆撃ダメージ
 X credits		;{0} クレジット
 Available Funds		;資金
-Defense		;防衛
-Shield Recharge Rate		;シールド再チャージ率
+Defense		;防御
+Shield Recharge Rate		;シールドリチャージ率
 Reactive Armor Strength		;反応装甲強度
 Stealth: Visibility Range		;ステルス: 可視範囲
 Energy		;エネルギー
-Energy Collection		;集積エネルギー
+Energy Collection		;エネルギー収集力
 Reactor Power Output		;リアクター出力
 Static Energy Usage		;定常消費エネルギー
-Excess Energy Output		;超過エネルギー出力
+Excess Energy Output		;余剰エネルギー出力
 Fuel Capacity		;燃料容量
 Energy Storage		;貯蔵エネルギー
 Gas		;ガス
-Luxury		;高級
+Luxury		;奢侈
 Yards		;ヤード
 Bays		;ベイ
 Industry		;産業
@@ -2285,12 +2285,12 @@ Mining		;採掘
 Manufacturing		;製造
 Obsolete		;旧式
 Not obsolete		;旧式ではない
-Movement		;移動
-No movement		;停止
-Impulse		;推進力
-Cruise		;航海
-Sprint		;短距離
-Hyper		;長距離
+Movement		;航行
+No movement		;固定
+Impulse		;惰性
+Cruise		;巡航
+Sprint		;全速
+Hyper		;超空間
 Curve		;曲線
 Acceleration		;加速
 Turn Rate		;旋回速度
@@ -2416,11 +2416,11 @@ click for design details		;設計の詳細はこちらをクリックして下�
 All components normal		;全ての部品は正常
 Retrofitting to DESIGN		;{0}に改修する
 Unknown component status		;未知の部品状態
-Deployed		;配備
+Deployed		;配置中
 Status		;状態
-Deploying		;展開
-Undeploying		;展開しない
-Not Deployed		;展開不可
+Deploying		;配置準備
+Undeploying		;移動準備
+Not Deployed		;移動中
 No passengers		;乗客なし
 Onboard		;搭載
 Unknown passengers		;未知の乗客
@@ -2470,7 +2470,7 @@ Lead Ship		;旗艦
 Ships		;艦
 Summary		;概要
 X troops (Y strength)		;{0} 地上部隊 (戦闘力{1})
-Multiple Ships		;複数の船舶
+Multiple Ships		;複数の艦船
 Main Sequence star system		;主系列星系
 Red Giant or Super Giant star system		;赤色巨星 or 超巨星星系
 White Dwarf star system		;白色矮星星系
@@ -2501,7 +2501,7 @@ Cannot afford crash research		;突貫研究を行う余裕がない({0}クレジ
 Maximum Potential		;最大潜在力
 Actual Output		;実際の出力
 All Resources		;全ての資源
-Strategic		;戦略的
+Strategic		;戦略
 Top Colonies		;最上位コロニー
 Development Level		;開発レベル
 Restricted Resource Trade Description		;彼らは貿易を行える{0}を持っています
@@ -2516,7 +2516,7 @@ Category		;カテゴリー
 Role		;役割
 Mission		;任務
 Amount Abbreviation		;総量
-Reserved Abbreviation		;備蓄
+Reserved Abbreviation		;予約
 Completion		;完了
 Quantity Abbreviation		;数量
 Progress		;進捗
@@ -2556,7 +2556,7 @@ Location of selected Colony in Galaxy		;選択したコロニーの位置
 Overview		;概要
 Flee When		;逃走
 Stance		;態度
-Invasion		;侵略
+Invasion		;侵略戦術
 Stronger Opponents		;強い敵
 Weaker Opponents		;弱い敵
 Bombard Power		;爆撃力
@@ -2624,7 +2624,7 @@ Save Designs...		;設計を保存...
 Save		;保存
 Show Component Guide		;部品ガイドを表示
 Upgrade		;アップグレード
-Go to Ship or Base		;船舶 or 基地に向かう
+Go to Ship or Base		;艦船 or 基地に向かう
 Add New Empire		;新しい帝国を追加
 Remove Empire		;帝国を削除
 Have Revolution		;革命
@@ -2667,8 +2667,8 @@ Treaty offers		;条約提案
 Empire Discovery		;帝国の発見
 Exploration discoveries		;探査の発見量
 Requests, Warnings and Gifts		;要求、警告と贈り物
-New Ship Built		;新しい船舶の造船や改修
-Ship Needs Refuelling or Repair		;船舶の給油や修理
+New Ship Built		;新しい艦船の造船や改修
+Ship Needs Refuelling or Repair		;艦船の給油や修理
 Under Attack		;攻撃を受けている
 Display nebulae clouds in systems		;星系内の星雲を表示
 Construction Summary		;建造の概要
@@ -2679,7 +2679,7 @@ Galaxy Map		;銀河マップ
 Advanced Display Settings		;ディスプレイの詳細設定
 Retrofit Selected Items		;選択した項目を改修する
 Ruin Summary		;遺跡の概要
-Show all ships and bases		;全ての船舶と基地を表示する
+Show all ships and bases		;全ての艦船と基地を表示する
 Resource Targets by Your Empire Priority		;自国の優先順位による資源目標
 Resource Targets by Galaxy Priority		;銀河の優先度による資源目標
 Your Empire Resource Locations		;自国の資源位置
@@ -2690,7 +2690,7 @@ Fully automate		;全自動
 Suggest offensive missions		;攻撃任務を提案
 Suggest attack targets		;攻撃目標を提案
 Suggest new colonies		;新しいコロニーを提案
-Suggest new ships and bases		;新しい船舶や基地を提案
+Suggest new ships and bases		;新しい艦船や基地を提案
 Suggest gifts to empires		;他国への贈り物を提案
 Suggest war and trade sanctions		;戦争や貿易制裁を提案
 Suggest new treaties		;新しい条約を提案
@@ -2716,7 +2716,7 @@ Allow new Empires to appear during the game		;新しい帝国がゲーム内に�
 Auto-Generate Starting Empires		;開始帝国の自動生成
 Start a New Game		;新しいゲームを開始
 Change Theme		;テーマ変更
-Galaxy View - Ship Display		;銀河を見る - 船舶表示
+Galaxy View - Ship Display		;銀河を見る - 艦船表示
 Maximum Framerate		;最大フレームレート
 Default Engagement Stances		;相手に対する態度の初期設定
 Fleet Attack Settings		;艦隊の攻撃設定
@@ -2824,7 +2824,7 @@ All Types		;全ての種類
 Learn about Fleets		;艦隊について
 Learn about Troops		;地上軍について
 Learn about Research		;研究について
-Transport X		;{0}を運ぶ
+Transport X		;{0}を輸送
 
 Show me first		;目標確認
 Winner is the empire with the greatest strategic value at this time		;勝者はこの時点で最大の戦略的価値を保有する帝国です
@@ -2848,7 +2848,7 @@ Component Category Point Defense Weapon		;防空兵器
 Component Category Ion Weapon		;イオン兵器
 Component Type Missile Weapon		;ミサイル兵器
 Component Type Point Defense		;防空兵器
-Component Type Ion Cannon		;イオンキャノン
+Component Type Ion Cannon		;イオン砲
 Component Type Ion Pulse		;イオンパルス
 Component Type Ion Defense		;イオン防御
 Component Type HyperStop		;ハイパーブロック
@@ -2865,7 +2865,7 @@ Annual Income		;年間収入
 Annual Expenses		;年間経費
 This Year's Bonus Income		;今年のボーナス収入
 Colony Tax Revenue		;コロニー税収
-Tribute From Others		;属国からの貢納
+Tribute From Others		;属国の貢納
 Ship & Base Maintenance		;船と基地の維持費
 Troop Maintenance		;地上軍の維持費
 Agent Maintenance		;諜報員の維持費
@@ -2893,7 +2893,7 @@ Location of Resource Target and Construction Ship		;資源目標の位置と建�
 Ion Weapons		;イオン兵器
 Point Defense Weapons		;防空兵器
 Fighter Bays		;戦闘機ベイ
-Area Shield Recharge		;エリアシールド再チャージ
+Area Shield Recharge		;エリアシールドリチャージ
 HyperDeny Components		;ハイパーディナイ装置
 Gravity Well Projectors		;重力井戸プロジェクター
 Trace Scanners		;トレース・スキャナ
@@ -2924,12 +2924,12 @@ Cluster galaxies have groups of stars clustered together Varied		;星団銀河�
 Star Amount		;星の総数
 Influences the number of colonizable planets and moons in the galaxy		;銀河内の入植可能な惑星と衛星の数に影響します。低い密集率は多くのコロニーが分散し、疎らな帝国を意味しており、高い密集率はコロニーが分散せず、密集した帝国を意味しています
 Research Costs		;研究費
-Shield Area Recharge Range		;シールドエリア再チャージ範囲
+Shield Area Recharge Range		;エリアリチャージ範囲
 Victory Conditions Defend Colony		;{2}の{0}{1}を転覆もしくは破壊から防がなければならない
 Victory Conditions Conquer Colony		;貴方が強引に占領するかまたは{2}の{0}の{1}を破壊する必要があります
 Our empire happiness is enhanced by the RUIN at COLONY in the SYSTEM		;民衆の幸福は{2}星系内の{1}で{0}によって高まっています
 Special ruins at this X		;この{0}の特別な遺跡です！
-Special luxury resources at this X		;この{0}の特別な高級資源です！
+Special luxury resources at this X		;この{0}の特別な奢侈資源です！
 X is in one of our systems		;{0}は自国星系の一つです
 disabled		;使用禁止
 X research bonus to AREA		;{1}研究に{0}ボーナス
@@ -2948,9 +2948,9 @@ Investigate - show all results		;調査 - 全ての成果を表示する
 Investigate - do not show results		;調査 - 成果を表示しない
 Investigate - report discoveries		;調査 - 発見の報告をする
 Investigate - report major discoveries		;調査 - 主な発見の報告をする
-When encounter Abandoned Ship or Base		;放棄されている船舶や基地に遭遇した場合
+When encounter Abandoned Ship or Base		;放棄されている艦船や基地に遭遇した場合
 When encounter Ruins		;遺跡に遭遇した場合
-Newly built ships are automated		;船舶の新規造船を自動化する
+Newly built ships are automated		;艦船の新規造船を自動化する
 Enable Return Of The Shakturi story events and victory conditions		;Return Of The Shakturiのイベントと勝利条件を有効にします
 Return Of The Shakturi storyline		;Return Of The Shakturiのストーリー
 Enable original Distant Worlds story events		;オリジナルのDistant Worlds ストーリーイベントを有効にする
@@ -2959,7 +2959,7 @@ Apply New Tech Level		;新たな技術レベルを適用
 Fleet Targeting		;艦隊火器管制
 Hyper Disruption		;ハイパーブロック
 Point Defense		;防空
-Fighter Capacity		;収容能力
+Fighter Capacity		;艦載容量
 Build Facility		;施設を建設
 Scrap Facility		;施設を廃棄
 Enter Game Editor		;ゲームエディタ
@@ -2985,19 +2985,19 @@ Weapons Research Bonus from Station		;兵器研究: {1}から{0}
 Energy Research Bonus from Station		;エネルギー研究: {1}から{0}
 HighTech Research Bonus from Station		;ハイテク研究: {1}から{0}
 the ability to colonize PLANETTYPE planets and moons		;{0}惑星及び衛星に入植する能力
-an increase to the maximum construction sizes of ships and bases		;船舶{0}と基地{1}の最大建造サイズの増加
+an increase to the maximum construction sizes of ships and bases		;艦船{0}と基地{1}の最大建造サイズの増加
 double population growth rate at all of our PLANETTYPE colonies		;{0}コロニー全体で人口成長率が倍増
 Our engineers have completed research in RESEARCHPROJECT		;技術者は{0}の研究を完了しました
 This breakthrough provides BENEFITS		;以下の成果 {0}
-the new component X for our ships and bases		;船舶及び基地の新しい部品'{0}'
+the new component X for our ships and bases		;艦船及び基地の新しい部品'{0}'
 improvements to the existing component X		;既存の部品'{0}'を改善
 the ability to build a new planetary facility X		;新しい惑星施設{0}を建設する能力
 access to a new fighter type X		;新しい戦闘機の種類{0}を入手
 We reject your treaty proposal		;貴国との条約を拒否する
-Build new ships for X credits		;{0}クレジットで新しい船舶を造船する
-Retrofit Recommendation Message Components		;最近の画期的な研究成果によって以下の新しい部品がアンロックされています:\n{0}...この新技術を組み込んだ新しい船舶や基地が設計されました。
+Build new ships for X credits		;{0}クレジットで新しい艦船を建造する
+Retrofit Recommendation Message Components		;最近の画期的な研究成果によって以下の新しい部品がアンロックされています:\n{0}...この新技術を組み込んだ新しい艦船や基地が設計されました。
 Retrofit Recommendation Message		;最近の画期的な研究成果によって、この新技術を組み込んだ新しい船や基地が設計されました。
-Retrofit Recommendation Explanation		;新しい設計を使用する為には全ての船舶と基地を改修する必要があります。全ての国有船と基地の改修費用は{0}クレジットとなります。また船舶や基地は現在の任務が完了した後に改修されます。\n\n船舶や基地を改修する為に{0}クレジットを消費しますか？
+Retrofit Recommendation Explanation		;新しい設計を使用する為には全ての艦船と基地を改修する必要があります。全ての国有船と基地の改修費用は{0}クレジットとなります。また艦船や基地は現在の任務が完了した後に改修されます。\n\n艦船や基地を改修する為に{0}クレジットを消費しますか？
 advisors		;宰相
 military planners		;軍事計画
 bureaucrats		;官僚
@@ -3063,7 +3063,7 @@ Planetary Facility Description Regional Capital		;貴方の近くのコロニー
 Defensive bonus		;防衛ボーナス
 Rate of fire		;発射速度
 second abbreviation		;秒
-Maximum ship size		;船舶の最大サイズ
+Maximum ship size		;艦船の最大サイズ
 Maximum base size		;基地の最大サイズ
 Bases built at colonies have unlimited size		;コロニーで建設された基地は無制限の大きさになります
 Fleet Bonus		;艦隊ボーナス
@@ -3071,23 +3071,23 @@ Hyperjump Tracking		;ハイパージャンプ追跡
 Projects a powerful gravity well that prevents nearby ships from initiating a hyperjump		;近くの船のハイパージャンプを妨害する、強力な重力井戸を発生させます。
 X per 100 distance		;距離100につき{0}
 Close-in weapons system that fires deadly bursts at enemy fighters, disabling or destroying them		;敵の戦闘機の無力化または破壊に適した、致命的な弾幕を張る事ができる至近距離の兵器システム。
-Provides facilities for manufacture, storage and repair of star fighters and bombers aboard ships or bases		;船舶または基地内に搭載している戦闘機や爆撃機を保管及び修理を行う為の施設を提供。
+Provides facilities for manufacture, storage and repair of star fighters and bombers aboard ships or bases		;艦船または基地内に搭載している戦闘機や爆撃機を保管及び修理を行う為の施設を提供。
 Repair Rate		;修理能力
 Power Loss		;威力減衰
 Disabling Power		;無力化ダメージ
-Fires a bolt of ionized particles that disables weapons and engines of the target ship or base		;イオン化粒子のボルトを発射する事で、目標の船舶または基地の兵器やエンジンを無力化します。
-Fires an omni-directional shockwave that disables weapons and engines of nearby ships and bases		;近くの船舶と基地の兵器やエンジンを無力化する全方位衝撃波を放出します
-Protects a ship or base against the disabling effects of Ion weapons		;イオン兵器の無力化効果に対して船舶や基地を保護します
+Fires a bolt of ionized particles that disables weapons and engines of the target ship or base		;イオン化粒子のボルトを発射する事で、目標の艦船または基地の兵器やエンジンを無力化します。
+Fires an omni-directional shockwave that disables weapons and engines of nearby ships and bases		;近くの艦船と基地の兵器やエンジンを無力化する全方位衝撃波を放出します
+Protects a ship or base against the disabling effects of Ion weapons		;イオン兵器の無力化効果に対して艦船や基地を保護します
 Ion Defense Strength		;対イオン防御力
-Restores the shield levels of nearby friendly ships when their shields drop below 50%		;近くの友好的な船舶のシールドが50%以下に低下した場合、船舶のシールドレベルを復元します
-Recharge Range		;再チャージ範囲
+Restores the shield levels of nearby friendly ships when their shields drop below 50%		;近くの友好的な艦船のシールドが50%以下に低下した場合、艦船のシールドレベルを復元します
+Recharge Range		;リチャージ範囲
 Max Recharge Amount		;最大チャージ量
 Energy Required		;必要なエネルギー
 Max Population		;最大人口
-Allows scanning another ship or base to determine its cargo, onboard troops and component status		;貨物や搭載された地上部隊及び部品の状態を見極める為に、自国以外の船舶や基地のスキャンを許可する
+Allows scanning another ship or base to determine its cargo, onboard troops and component status		;貨物や搭載された地上部隊及び部品の状態を見極める為に、自国以外の艦船や基地のスキャンを許可する
 Scan Range		;走査範囲
 Scan Power		;走査力
-Jams enemy trace scanners, preventing them from scanning the contents of a ship		;敵のトレース・スキャナを故障させ、船舶の中身を走査される事を防ぎます
+Jams enemy trace scanners, preventing them from scanning the contents of a ship		;敵のトレース・スキャナを故障させ、艦船の中身を走査される事を防ぎます
 Jamming Power		;妨害力
 Projects a powerful gravity well that pulls enemy ships out of hyperspace within a defined range		;定まった範囲内で超空間外の敵船を引きずり寄せる、強力な重力井戸を発生させます。これは敵船が攻撃に反応して増援が到着するまでの時間を効果的に稼ぐ事ができ、亜高速で航行しなければならない安全地帯を提供します。
 Hyper Stop Range		;ハイパーストップ範囲
@@ -3143,7 +3143,7 @@ Xth of Y		;{1}ヵ国中{0}
 click to close items		;項目をクリックすると閉じます
 click to show items		;項目をクリックすると表示します
 Special Ruins		;特別な遺跡
-Special Luxury Resources		;特別な高級資源
+Special Luxury Resources		;特別な奢侈資源
 In our system		;自国星系に
 In another empire's system		;他国星系に
 Hostile population		;敵対的な原住民
@@ -3194,7 +3194,7 @@ Explore nearest system		;最も近い星系を探査する
 Load Troops at nearest colony		;最も近いコロニーで地上部隊を収容する
 Return to Base		;基地に戻る
 Refuel and Repair Fleet		;艦隊に給油と修理を施す
-Refuel and Repair ship		;船舶に給油と修理を施す
+Refuel and Repair ship		;艦船に給油と修理を施す
 Scrap base immediately		;直ちに基地を廃棄する
 Scrap Fighter immediately		;直ちに戦闘機を廃棄する
 Scrap Bomber immediately		;直ちに爆撃機を廃棄する
@@ -3202,9 +3202,9 @@ Retrofit to latest design		;{1}クレジットで最新設計({0})に改修す�
 Retrofit fleet to latest designs		;最新設計に艦隊を改修する
 Attack with nearest available fleet		;最も近い利用可能な艦隊で攻撃する
 Return to Top		;トップに戻る
-Build new ship or base		;新しい船舶 or 基地を建造する
+Build new ship or base		;新しい艦船 or 基地を建造する
 Build new planetary facility		;新しい惑星施設を建設する
-Automate Ship		;船舶を自動化する
+Automate Ship		;艦船を自動化する
 Cannot Build		;建造する事ができません
 Spaceport Already At Colony		;既にコロニーに宇宙港があります
 Already Colonizing		;既に入植中
@@ -3221,9 +3221,9 @@ Mining Station Already Here		;ここには既に採掘基地があります
 Already Latest Design		;既に最新設計
 Already Retrofitting		;既に改修中
 Already Repairing		;既に修理中
-Troop Carrier Full		;地上部隊輸送艦が満載
+Troop Carrier Full		;揚陸艦が満載
 Already Attacking		;既に攻撃中
-All Troop Carriers Full		;全ての地上部隊輸送艦が満載
+All Troop Carriers Full		;全ての揚陸艦が満載
 
 
 Diplomacy - Treaties		;外交 - 条約
@@ -3277,10 +3277,10 @@ Tax Rate policy for medium colonies (X - Y)		;中規模コロニーの税率政�
 Tax Rate policy for large colonies (above X)		;大規模コロニーの税率政策({0}以上)
 Increase colony tax rates when at War		;戦時中はコロニーの税率を引き上げる
 Never recruit Troops until colony population reaches		;規定人口まで決して地上軍を募集しない
-Fully automate Ship Design		;完全に船舶設計を自動化する
+Fully automate Ship Design		;完全に艦船設計を自動化する
 Fully automate Research		;完全に研究を自動化する
 Control Research manually		;手動で研究を制御する
-Control Ship Design manually		;手動で船舶設計を制御する
+Control Ship Design manually		;手動で艦船設計を制御する
 Tech emphasis 1		;技術重点 1
 Tech emphasis 2		;技術重点 2
 Overall focus		;全体に焦点を当てる
@@ -3313,19 +3313,19 @@ Priority: invade enemy colonies		;優先度: 敵のコロニーに進入する
 Priority: attack enemy spaceports		;優先度: 敵の宇宙港を攻撃する
 Priority: attack enemy mining stations		;優先度: 敵の採掘基地を攻撃する
 Priority: attack enemy fleets		;優先度: 敵の艦隊を攻撃する
-Typical number of ships in Strike Force		;戦隊内の船舶の標準配備数
-Typical number of ships in Fleet		;艦隊内の船舶の標準配備数
+Typical number of ships in Strike Force		;戦隊内の軍艦の標準配備数
+Typical number of ships in Fleet		;艦隊内の軍艦の標準配備数
 Proportion of Military ships assigned to Fleets && Strike Forces		;艦隊 && 戦隊に指定軍艦の割合
-Build Order Explanation		;造船したい船種の設計と数量を選択します。選択後、発注を決定するために'購入'ボタンをクリックして下さい。船舶は帝国全体で利用可能な宇宙港とコロニーで建造されます。
+Build Order Explanation		;造船したい船種の設計と数量を選択します。選択後、発注を決定するために'購入'ボタンをクリックして下さい。艦船は帝国全体で利用可能な宇宙港とコロニーで建造されます。
 No buildable designs		;建造可能な設計がありません
 Purchase for X credits		;{0}クレジットで購入する
-Build Order Purchase Cannot Afford		;これらの新しい船舶の全てを建造する余裕はありません。この注文には{0}クレジットの費用が必要ですが、{1}クレジットしか持っていません。\n\n発注数を減らして、もう一度試して下さい。
+Build Order Purchase Cannot Afford		;これらの新しい艦船の全てを建造する余裕はありません。この注文には{0}クレジットの費用が必要ですが、{1}クレジットしか持っていません。\n\n発注数を減らして、もう一度試して下さい。
 Cannot afford build order		;造船発注を受ける余裕がありません
 Bonus Income		;ボーナス収入
 Error reading name in file Startup.ini at line X		;Startup.iniの{0}行目で名前の読み込みエラーが発生しました
 Error reading value in file Startup.ini at line X		;Startup.iniの{0}行目で値の読み込みエラーが発生しました
 Error at line X reading file Y		;{1}ファイルの{0}行目で読み込みエラーが発生しました
-Shakturi Ship Encounter		;この船舶の光景は貴方に不気味な感覚を与えています。貴方はこの高度な異星人の設計に見覚えはありませんが、不思議な事に妙な既知感を感じています...
+Shakturi Ship Encounter		;この艦船の光景は貴方に不気味な感覚を与えています。貴方はこの高度な異星人の設計に見覚えはありませんが、不思議な事に妙な既知感を感じています...
 Enemy Targets: cycle fleets (X key) and click to assign attack		;目標の敵: 攻撃を指定する定期艦隊({0}キー)をクリック
 Select a fleet below to attack this target (closest fleets listed first)		;この目標を攻撃するには以下の艦隊を選択します(最寄の艦隊が最初に一覧されます)
 No targets		;目標がありません
@@ -3448,7 +3448,7 @@ Save Distant Worlds empire policy		;Distant Worlds 帝国政策を保存する
 At every opportunity		;あらゆる機会で
 Against empires we intensely dislike		;激しく嫌悪する帝国に対して
 Against empires with Diabolical reputation		;極悪非道な悪評を持つ帝国に対して
-Never		;必ず
+Never		;禁止
 
 Posture		;姿勢
 Fleet Posture Attack Target		;{0}のみを攻撃する
@@ -3502,7 +3502,7 @@ Character Bonus Development Growth		;人口増加
 Character Bonus Targeting		;火器管制
 Character Bonus Countermeasures		;防護対策
 Character Bonus Ship Maneuvering		;操船
-Character Bonus Fighters		;戦闘機
+Character Bonus Fighters		;艦載機
 Character Bonus Colony Attack		;コロニー攻撃
 Character Bonus Colony Defense		;コロニー防衛
 Character Bonus Weapons Research		;兵器研究
@@ -3557,7 +3557,7 @@ Fuel Production Rate		;燃料生産率
 Enable building of SHIPTYPE		;{0}の建造を有効にする
 Ship SubRole Carrier		;航空母艦
 Military construction proportion: Carriers		;建造の割合: 航空母艦
-Carriers: min X% fighter bays		;航空母艦: min {0}% 戦闘機ベイ
+Carriers: min X% fighter bays		;航空母艦: 少なくとも{0}% 戦闘機ベイ
 Carriers		;航空母艦
 When construction size allows		;建造サイズが許可されている場合
 Note that Carriers can be built 50% larger than current maximum ship construction size		;航空母艦は現在の最大の船の建造サイズよりも50％大きく構築することができますが、戦闘機ベイのために船体スペースの40％を確保しなければなりません。
@@ -3638,8 +3638,8 @@ Main Thrust Engines		;メイン推力エンジン
 Medicine		;医療
 
 the ability to build SHIPTYPE		;{0}を建造する能力
-Transfer to new location		;新しい場所に運びます
-Double-click to move to location		;場所に移動するにはダブルクリック
+Transfer to new location		;新しい任地に運びます
+Double-click to move to location		;現地に移動するにはダブルクリック
 
 Advisors		;宰相
 Advisor Suggestion Screen		;宰相提言画面
@@ -3649,7 +3649,7 @@ Show		;閲覧
 
 Advisor Message AllowTradeRestrictedResources		;有限資源を貿易する
 Advisor Message BuildOneOff		;新しい基地を建造する
-Advisor Message BuildOrder		;新しい船舶を建造する
+Advisor Message BuildOrder		;新しい艦船を建造する
 Advisor Message CancelMilitaryRefueling		;軍事給油権を取り消す
 Advisor Message CancelMiningRights		;採鉱権を取り消す
 Advisor Message Colonization		;新しいコロニーを確立する
@@ -3670,7 +3670,7 @@ Advisor Message OfferMiningRights		;採鉱権を提供する
 Advisor Message PrepareRaid		;帝国に対して奇襲を準備する
 Advisor Message RequestEndWarOther		;帝国に和平交渉を要求する
 Advisor Message RequestLiftTradeSanctionsOther		;帝国に貿易制裁の解除を要求する
-Advisor Message Retrofit		;船舶や基地を改修する
+Advisor Message Retrofit		;艦船や基地を改修する
 Advisor Message TreatyOffer		;条約を提案する
 Advisor Message WarTradeSanctions		;関係を変更する
 Advisor Message DeclareWar		;宣戦布告を行う
@@ -3756,8 +3756,8 @@ Homeworld Defense Priority		;首都防衛の優先度
 Protect Leader At All Costs		;全力で元首を保護
 Colony Invasion Overkill Factor		;コロニー侵略の過剰殺戮要因
 Invasion Overkill Explanation		;敵コロニー侵略の際の地上軍運用規模
-Ship Battle Caution Factor		;船舶戦闘の警告要因
-Ship Battle Caution Explanation		;船舶が多数の敵に圧倒される可能性を想定して撤退時期を決定する
+Ship Battle Caution Factor		;艦船戦闘の警告要因
+Ship Battle Caution Explanation		;艦船が多数の敵に圧倒される可能性を想定して撤退時期を決定する
 Default 'Flee When' Stance for Military ships		;軍艦'逃走'態度の初期設定
 Flee When Explanation		;護衛艦、フリゲート艦、駆逐艦、巡洋艦と戦艦に適用
 Control Restricted Resources Priority		;有限資源の優先度を制御
@@ -3768,8 +3768,8 @@ HighTech Research Bonus From Colony Resources		;貴方のコロニーにある�
 
 Race Resource Bonus BaseMaintenanceReduction Source		;このコロニーで採掘された{0}によって、ここに建造された全ての基地は維持費が{1}% 削減されます
 Race Resource Bonus BaseMaintenanceReduction		;このコロニーの{0}によって、ここに建造された全ての基地は維持費が{1}% 削減されます
-Race Resource Bonus ConstructionSpeed Source		;このコロニーで採掘された{0}によって、ここに建造された全ての船舶と基地は建設速度が{1}%と上昇します
-Race Resource Bonus ConstructionSpeed		;このコロニーの{0}によって、ここに建造された全ての船舶と基地は建設速度が{1}%と上昇します
+Race Resource Bonus ConstructionSpeed Source		;このコロニーで採掘された{0}によって、ここに建造された全ての艦船と基地は建設速度が{1}%と上昇します
+Race Resource Bonus ConstructionSpeed		;このコロニーの{0}によって、ここに建造された全ての艦船と基地は建設速度が{1}%と上昇します
 Race Resource Bonus Development Source		;このコロニーで採掘された{0}によって、{1}%の開発ボーナスが提供されます
 Race Resource Bonus Development		;このコロニーの{0}によって、{1}%の開発ボーナスが提供されます
 Race Resource Bonus Happiness Source		;このコロニーで採掘された{0}によって、+{1} の幸福ボーナスが提供されます
@@ -3873,7 +3873,7 @@ Race Event Description SwarmsFullTroopTransport		;攻撃的な若き戦士の大
 Race Event Description CannibalismPopulationShrinks		;コロニー{0}で民衆は次々に正気を失い発狂しています。この超攻撃的な偏執症によって、広範囲に渡る共食いが発生しています！\n\nその結果、{0}の人口は減少しました。
 Race Event Description MetamorphosisCharacterChange NewTrait		;{0}、{2}で{1}は、自種族の変化周期の一部として変貌を遂げました。\n\nその結果、{0}は新しい人材特性を取得しました: {3}
 Race Event Description MetamorphosisCharacterChange LoseTrait		;{0}、{2}で{1}は、自種族の変化周期の一部として変貌を遂げました。\n\nその結果、{0}は人材特性を失いました: {3}
-Race Event Description StrengthInNumbersMaintenanceLowerForSmallShips		;自種族の変化周期によって、小型船造船が種族における生来の嗜好に合致し、宇宙船技術者の注目を集めています。この事により、帝国内の全小型船の維持費が減少しています\n\n従って、来年は200サイズ以下の全船舶は維持費が25%減少します。
+Race Event Description StrengthInNumbersMaintenanceLowerForSmallShips		;自種族の変化周期によって、小型船造船が種族における生来の嗜好に合致し、宇宙船技術者の注目を集めています。この事により、帝国内の全小型船の維持費が減少しています\n\n従って、来年は200サイズ以下の全艦船は維持費が25%減少します。
 Race Event Description AntiXenoRiotsExterminate		;排外思想の広まりは{1}星系内のコロニー{0}で突発しました！自警団の暴徒によって、全異種族は根絶政策の残忍な処置の目標にされています！\n\n{0}で秩序を回復するには多少の時間を要します。秩序が回復するまでは人口根絶政策を変更する事が出来なくなります。
 Race Event Description XenophobiaNoAssimilate		;民衆はコロニーで新たな種族を受け入れない事を決意しました。異種族は歓迎され無くなりました！\n\n従って、来年は全てのコロニーで人口同化政策を実施する事が出来なくなります。
 Race Event Description DestinyCharacterTraits		;様々な経験の結果、{0}の{1}は人材特性を取得しました: {2}
@@ -3932,8 +3932,8 @@ Race Victory Condition LeastBrokenTreaties		;銀河内で最も条約を破ら�
 Race Victory Condition LeastTimeWarring		;銀河内で最も戦争に時間を費やさない
 Race Victory Condition LeastTreaties		;銀河内で最も条約を締結しない
 Race Victory Condition LeastWars		;銀河内で最も戦争を行わない
-Race Victory Condition LoseFewestShipsBySize		;銀河内で最も船舶の損失が少ない
-Race Victory Condition LoseFewestShips		;銀河内で最も船舶と基地の損失が少ない
+Race Victory Condition LoseFewestShipsBySize		;銀河内で最も艦船の損失が少ない
+Race Victory Condition LoseFewestShips		;銀河内で最も艦船と基地の損失が少ない
 Race Victory Condition LoseFewestTroops		;銀河内で最も地上軍の損失が少ない
 Race Victory Condition MostExperiencedAdmiral		;銀河内で最も経験豊富な提督を抱える
 Race Victory Condition MostExperiencedGeneral		;銀河内で最も経験豊富な将軍を抱える
@@ -3960,7 +3960,7 @@ Race Victory Condition ResearchLeastAdvanced		;銀河内で最も研究を行わ
 Race Victory Condition ResearchMostAdvanced		;銀河内で最も多くの研究を行う
 Race Victory Condition ResearchMostCompletedBranches		;銀河内で最も早く研究分岐を完了する
 Race Victory Condition ResearchMostCompletedBranchesByIndustry		;銀河内で最も早く{0}の研究分岐を完了する
-Race Victory Condition MineMostResourcesLuxury		;銀河内で最も多く高級資源を採掘する
+Race Victory Condition MineMostResourcesLuxury		;銀河内で最も多く奢侈資源を採掘する
 Race Victory Condition MineMostResourcesStrategic		;銀河内で最も多く戦略資源を採掘する
 Race Victory Condition BuildMostMilitaryShips		;銀河内で最も多く軍艦を建造する
 Race Victory Condition BuildMostCivilianShips		;銀河内で最も多く民間船を建造する
@@ -3975,7 +3975,7 @@ Race Victory Condition PirateMostProtectionIncome		;銀河内で最も多く海�
 Race Victory Condition PirateMostSmugglingIncome		;銀河内で最も多く密輸で収入を得る
 Race Victory Condition PirateMostSuccessfulMissionsAttack		;銀河内で最も多く海賊攻撃任務を完了する
 Race Victory Condition PirateMostSuccessfulMissionsDefend		;銀河内で最も多く海賊防衛任務を完了する
-Race Victory Condition CaptureMostShips		;銀河内で最も多く船舶と基地を占領する
+Race Victory Condition CaptureMostShips		;銀河内で最も多く艦船と基地を占領する
 Race Victory Condition PirateMostSuccessfulRaids		;銀河内で最も多く海賊襲撃に成功する
 
 Race Victory Condition Detail ControlPlanetTypePercentage		;{0} {1} コロニー、銀河全体の{2}
@@ -4005,8 +4005,8 @@ Race Victory Condition Detail LeastBrokenTreaties		;{0}回 条約を破棄した
 Race Victory Condition Detail LeastTimeWarring		;戦争期間{0}年
 Race Victory Condition Detail LeastTreaties		;{0} 条約
 Race Victory Condition Detail LeastWars		;{0} 戦争
-Race Victory Condition Detail LoseFewestShipsBySize		;{0}隻の船舶を失いました
-Race Victory Condition Detail LoseFewestShips		;{0}の船舶と基地が失われました
+Race Victory Condition Detail LoseFewestShipsBySize		;{0}隻の艦船を失いました
+Race Victory Condition Detail LoseFewestShips		;{0}の艦船と基地が失われました
 Race Victory Condition Detail LoseFewestTroops		;{0}部隊が失われました
 Race Victory Condition Detail MostExperiencedAdmiral		;提督{0}
 Race Victory Condition Detail MostExperiencedGeneral		;将軍{0}
@@ -4030,7 +4030,7 @@ Race Victory Condition Detail ResearchLeastAdvanced		;{0}の全研究が完了�
 Race Victory Condition Detail ResearchMostAdvanced		;{0}の全研究が完了しました
 Race Victory Condition Detail ResearchMostCompletedBranches		;{0}の研究分岐は完了しました
 Race Victory Condition Detail ResearchMostCompletedBranchesByIndustry		;{0}の{1}研究分岐は完了しました
-Race Victory Condition Detail MineMostResourcesLuxury		;{0}の高級資源を採掘しました
+Race Victory Condition Detail MineMostResourcesLuxury		;{0}の奢侈資源を採掘しました
 Race Victory Condition Detail MineMostResourcesStrategic		;{0}の戦略資源を採掘しました
 Race Victory Condition Detail BuildMostMilitaryShips		;{0}隻の軍艦を造船しました
 Race Victory Condition Detail BuildMostCivilianShips		;{0}隻の民間船を造船しました
@@ -4042,7 +4042,7 @@ Race Victory Condition Detail PirateMostProtectionIncome		;｢保護｣協定か
 Race Victory Condition Detail PirateMostSmugglingIncome		;密輸から{0}クレジットの収入
 Race Victory Condition Detail PirateMostSuccessfulMissionsAttack		;{0}回海賊攻撃任務を完了しました
 Race Victory Condition Detail PirateMostSuccessfulMissionsDefend		;{0}回海賊防衛任務を完了しました
-Race Victory Condition Detail CaptureMostShips		;{0}の船舶と基地を占領
+Race Victory Condition Detail CaptureMostShips		;{0}の艦船と基地を占領
 Race Victory Condition Detail PirateMostSuccessfulRaids		;{0}回 海賊襲撃に成功
 
 Race Victory Conditions		;種族勝利条件
@@ -4221,7 +4221,7 @@ Character Skill ResearchEnergy		;エネルギー研究
 Character Skill ResearchHighTech		;ハイテク研究
 Character Skill ResearchWeapons		;兵器研究
 Character Skill Sabotage		;破壊活動
-Character Skill ShieldRechargeRate		;シールド再チャージ率
+Character Skill ShieldRechargeRate		;シールドリチャージ率
 Character Skill ShipEnergyUsage		;省エネ
 Character Skill ShipManeuvering		;操船
 Character Skill Targeting		;火器管制
@@ -4237,7 +4237,7 @@ Character Skill WarWeariness		;厭戦減少
 Character Skill WeaponsDamage		;兵器ダメージ増加
 Character Skill WeaponsRange		;兵器射程範囲拡大
 
-Character Event Ship Built		;船舶を建造しました
+Character Event Ship Built		;艦船を建造しました
 Character Event Facility Built		;惑星施設を建設しました
 Character Event Base Built		;基地を建設しました
 Character Event Spaceport Built		;宇宙港を建設しました
@@ -4285,10 +4285,10 @@ Space Battle Title		;{0}の戦闘
 Space Battle Title Nearby		;{0}近くの戦闘
 Space Skirmish Title		;{0}で小競り合い
 Space Skirmish Title Nearby		;{0}近くの小競り合い
-Space Battle Stats Destroyed Tonnage		;撃破した敵船と基地: {0}、合計{1}(戦闘機は{2})\n\n失った自国の船舶と基地: {3}、合計{4}(戦闘機は{5})
+Space Battle Stats Destroyed Tonnage		;撃破した敵船と基地: {0}、合計{1}(戦闘機は{2})\n\n失った自国の艦船と基地: {3}、合計{4}(戦闘機は{5})
 Space Battle Enemy Losses		;撃破した敵の種類: {0}
 Space Battle Friendly Losses		;撃破した味方の種類: {0}
-Other Ships		;他の船舶
+Other Ships		;他の艦船
 Colony Invasion Title		;{0}の侵略
 Colony Defense Title		;{0}の防衛
 Colony Invasion Troop Losses		;防衛軍の損害{0}\n侵略軍の損害{1}
@@ -4352,7 +4352,7 @@ Character Death Title		;{0}が死亡しました！
 Character Death Assassination Title		;{0}が暗殺されました！
 Character Death Description		;{0}の{1}は{2}で殺されました！
 Character Death Assassination Description		;{0}の{1}は{2}で他国の諜報員によって暗殺されました！
-Character Death Ship Destroyed Description		;{0}の{1}は{3}近くの戦闘中に船舶{2}が破壊された時に死亡しました！
+Character Death Ship Destroyed Description		;{0}の{1}は{3}近くの戦闘中に艦船{2}が破壊された時に死亡しました！
 Character Death Base Destroyed Description		;{0}の{1}は{2}が破壊された時に死亡しました！
 Character Death Invasion Description		;{0}の{1}は{2}の侵略中に殺されました！
 Character Death Bombardment Description		;{0}の{1}は{2}の軌道爆撃中に殺されました！
@@ -4491,7 +4491,7 @@ Base Destroyed Sabotage		;基地が破壊されました
 Base Destroyed Sabotage Description		;{1}星系内の{0}は爆発により完全に破壊されました！\n\nこれは他国の諜報員による破壊活動の疑いがあります...
 
 We ask you to end your trade sanctions against us		;我々に対する貿易制裁を終了するように依頼する
-Cannot currently build a design of this ship type		;現在、この種類の船舶({0})を建造する事は出来ません
+Cannot currently build a design of this ship type		;現在、この種類の艦船({0})を建造する事は出来ません
 Civilian ships cannot have fighter bays		;民間船に戦闘機ベイを付ける事は出来ません
 Critical Empire Resources		;重要な帝国の資源
 Agent Rebellion		;コロニー{0}は我々の支配に反逆した!\n\nこの反乱には外国諜報員の関与が強く疑われます...
@@ -4499,7 +4499,7 @@ Agent Rebellion		;コロニー{0}は我々の支配に反逆した!\n\nこの反
 Pirate Faction Joins Your Empire Fearful Phantom Pirates		;近くの海賊団{0}は、私たちの帝国に参加することを決めました。\n\n{0}は伝説の海賊ギャング{1}を恐れており、そのため我々との同盟を望んでいます。彼らは海賊行為をあきらめ、私たちの軍に参加しています。\n\n{0}のすべての船と拠点は我が帝国に引き渡されます。
 You cannot currently dismiss your leader, because your empire already had a recent leadership change		;貴方の帝国は首脳部を変更したばかりなので、暫くは元首を解任する事は出来ません。
 Cannot Dismiss Leader Now		;現在、元首を辞職させる事は出来ません
-Local Defense Tactics Description		;局地防空戦術: {0}の火器管制と防護対策
+Local Defense Tactics Description		;局地防衛戦術: {0}の火器管制と防護対策
 Character untested - skill levels and traits unknown		;未知数の人材 - 未知の技能レベルと特性
 Dismiss		;免職
 Showing low-quality colonies		;低品質のコロニーを表示している
@@ -4611,10 +4611,10 @@ Design Component Details Explanation General		;以下の新しい設計を作成
 Design Component Details Explanation Military Ships		;以下の新たな軍艦の設計を作成する為の設定を微調整する
 Design Component Details Explanation Spaceports		;以下の新しい宇宙港デザインを作成する為の設定を微調整する
 
-DesignComponentArmorLevel		;装甲レベル(全ての船舶と基地)
-DesignComponentShieldLevel		;シールドレベル(全ての船舶と基地)
-DesignComponentPointDefenseLevel		;防空レベル(全ての船舶と基地)
-DesignComponentEnsureFullSpeedHyperdriveFromReactorsStateShips		;全ての国有船舶に最高のハイパードライブ速度が発揮できるように十分なリアクター出力を確保する
+DesignComponentArmorLevel		;装甲レベル(全ての艦船と基地)
+DesignComponentShieldLevel		;シールドレベル(全ての艦船と基地)
+DesignComponentPointDefenseLevel		;防空レベル(全ての艦船と基地)
+DesignComponentEnsureFullSpeedHyperdriveFromReactorsStateShips		;全ての国有艦船に最高のハイパードライブ速度が発揮できるように十分なリアクター出力を確保する
 DesignComponentMiningStationsArmed		;採掘基地は武装している
 DesignComponentFighterMilitaryLevel		;巡洋艦や戦艦の戦闘機レベル
 DesignComponentTroopMilitaryLevel		;駆逐艦、巡洋艦や戦艦の地上部隊レベル
@@ -4641,7 +4641,7 @@ Very Heavy		;とても重い
 Heavy		;重い
 Light		;軽い
 Very Light		;とても軽い
-Ship Design Fine-tuning		;船舶設計の微調整
+Ship Design Fine-tuning		;艦船設計の微調整
 Tech emphasis 3		;技術重点 3
 Tech emphasis 4		;技術重点 4
 Tech emphasis 5		;技術重点 5
@@ -4666,12 +4666,12 @@ Component Type Assault Pod		;強襲ポッド
 Component Type Gravity Area Weapon		;重力エリア兵器
 Component Type Gravity Beam Weapon		;重力ビーム兵器
 Enemy Base captured		;敵基地を占領しました
-Enemy Ship captured		;敵船舶を拿捕しました
+Enemy Ship captured		;敵艦船を拿捕しました
 Base boarded and lost		;移乗されて基地を失いました
-Ship boarded and lost		;移乗されて船舶を失いました
+Ship boarded and lost		;移乗されて艦船を失いました
 Our ship X has been boarded and captured		;我々の{0}'{1}'は{2}によって移乗され、拿捕されました！
 BASE has been boarded and captured		;{0}は{1}に移乗され、占領されてしまった！
-We have boarded and captured the ship X		;{1}の船舶'{0}'に移乗を行い、拿捕しました！
+We have boarded and captured the ship X		;{1}の艦船'{0}'に移乗を行い、拿捕しました！
 We have boarded and captured BASE		;{1}の{0}に移乗を行い、占領しました！
 Disabled		;使用禁止
 Boarding		;移乗
@@ -4783,17 +4783,17 @@ Start a New Game: Your Pirate Empire		;新しいゲームを開始: 海賊団
 Next: Playstyle		;次へ: プレイスタイル
 Previous: Playstyle		;前へ: プレイスタイル
 Your pirate empire has been eliminated		;プレイヤーは討伐されました
-Last Year		;最後\n年
-This Year		;現在\n年
+Last Year		;前年\n
+This Year		;今年\n
 Stable		;安定
 Variable		;変動
 Pirate Missions		;海賊任務
 Looting Destroyed Ships		;損壊船の回収
 Scrapping Captured Ships		;鹵獲船の廃棄
 Smuggling		;密輸
-Selling Information		;売却情報
+Selling Information		;情報売却
 Resorts		;リゾート
-Ship Maintenance		;船舶維持
+Ship Maintenance		;艦船維持費
 Resource Purchases		;資源購入
 Crash Research		;突貫研究
 Facility Building		;施設を建設する
@@ -4807,7 +4807,7 @@ Variable Expenses		;変動経費
 Pirate Economy		;海賊経済
 Pirate Home Base at Location		;{1}の{0}
 Boarding && Capture		;移乗 && 鹵獲
-Capture targeted ships		;目標とした船舶を拿捕する
+Capture targeted ships		;目標とした艦船を拿捕する
 Capture targeted bases		;目標とした基地を占領する
 Never (always destroy)		;鹵獲せず(常に破壊)
 When high tech or larger than we can build		;ハイテクまたは建造サイズ限界より大きい場合
@@ -4961,7 +4961,7 @@ Pirate Evaluation Happy Over Requests Description		;あなたとの有利な貿�
 Pirate Evaluation Detected Intelligence Missions Description		;諜報任務に対して動揺している
 Pirate Evaluation Pirate Missions Succeed Description		;任務が成功した事に満足している
 Pirate Evaluation Pirate Missions Fail Description		;任務が失敗した事に不満がある
-Pirate Evaluation Ship Attacks Description		;船舶や基地に対する攻撃に怒っている
+Pirate Evaluation Ship Attacks Description		;艦船や基地に対する攻撃に怒っている
 Pirate Evaluation Protection Cancelled Description		;｢保護｣協定の取り消しに苛立っている
 Pirate Evaluation Coveted Colonies Description		;同じコロニーの支配を競い合っている
 Pirate Evaluation Long Relationship Description		;長い付き合いで信頼関係を築き上げてきた
@@ -4978,7 +4978,7 @@ Cancel Mercenary Smuggling Mission		;傭兵密輸任務を取り消す
 
 Mission Already Assigned		;任務が既に指定されています
 Captured Base Scrapped		;占領した基地を廃棄しました
-Captured Ship Scrapped		;拿捕した船舶を廃棄しました
+Captured Ship Scrapped		;拿捕した艦船を廃棄しました
 Captured Base Scrapped Description		;帝国の政策として、我々は{1}クレジットの収入のためにその場で占領基地{0}を直ちにスクラップにしている
 Captured Ship Scrapped Description		;帝国の政策として、我々は{1}クレジットの収入のためにその場で鹵獲船{0}を直ちにスクラップにしている
 
@@ -5067,17 +5067,17 @@ Pirate Event New Freighter		;独立した貨物船が密輸船として我々の
 Pirate Event New Freighter With Captain		;密輸船長{0}が私たちの派閥に参加しています！{0}と彼の密輸船{1}はコロニー{2}にあります。
 Pirate Event New Military Ship		;軍艦がコロニー{0}の近くで｢見つかり｣、｢取得｣されています。{1}は私たちの艦隊に加わり、活動の準備ができています！
 Pirate Event New Military Ship With Captain		;賞金稼ぎ{0}が我々の派閥に参加しています！{0}と彼の軍艦{1}はコロニー{2}にあります。{1}は私たちの艦隊に加わり、活動の準備ができています！
-Pirate Event New Ship		;船舶がコロニー{0}の近くで｢見つかり｣、｢取得｣されています。{1}は我々が使用可能です。
-Pirate Event New Ship With Captain		;艦長{0}は私たちの派閥に参加しています！{0}と彼の船舶{1}はコロニー{2}にあります。{1}は我々が使用可能です。
+Pirate Event New Ship		;艦船がコロニー{0}の近くで｢見つかり｣、｢取得｣されています。{1}は我々が使用可能です。
+Pirate Event New Ship With Captain		;艦長{0}は私たちの派閥に参加しています！{0}と彼の艦船{1}はコロニー{2}にあります。{1}は我々が使用可能です。
 
 Smuggler Joins Us		;密輸船長が加わります
 Bounty Hunter Joins Us		;賞金稼ぎが加わります
 Ship Captain Joins Us		;艦長が加わります
 Smuggling Ship Acquired		;密輸船を獲得しました
 Military Ship Acquired		;軍艦を獲得しました
-Ship Acquired		;船舶を獲得しました
+Ship Acquired		;艦船を獲得しました
 
-Inform Empire Their Contact Details Sold		;{0}は{1}に我々との接触の詳細を売却しました。現在、{1}を経由して外交画面で接触を図る事が出来ます。
+Inform Empire Their Contact Details Sold		;{0}は{1}に我々との接触の詳細を売却しました。現在、外交画面を通じて{1}と接触を図る事が出来ます。
 Inform Empire Their Contact Details Sold Title		;海賊は{0}に我々との接触の詳細を売却
 We have lost control of the colony X		;我が勢力は{2}星系内の{0}のコロニー{1}の支配を失いました
 We have gained control of the colony X		;我が派閥は{2}星系の{0}のコロニー{1}を支配下に置きました。ここに居座り続ければ、このコロニーでの我々の影響力が拡張されていきます。
@@ -5127,10 +5127,10 @@ PreWarpProgressEvent Message BuildFirstResearchStation		;研究基地の建設�
 PreWarpProgressEvent Message BuildFirstResearchStation New Scientist		;研究基地の建設によって、研究活動が大きく後押しされ、技術的な解明を速く達成することができます。\n\n新しい研究基地には、新しい科学者も登場しています: {0}.
 PreWarpProgressEvent Message BuildFirstShip		;我々は最初の宇宙船{0}を建造しました！このイベントは、星々の世界への帰還の始まりです。\n\n恒星系を探索し、さらなる拡大を続けましょう。そして、繁栄した恒星系帝国を確立するために、もっと多くの宇宙船を建造しましょう。
 PreWarpProgressEvent Message BuildFirstMilitaryShip		;我々は最初の軍艦{0}を建造しました！我々はいまや、自らを脅威から守ることができます。\n\n星系に広がる我が帝国を保護するために、もっと多くの軍艦を建造しましょう。
-PreWarpProgressEvent Message BuildFirstSpaceport		;我々は宇宙港を建造しました。この大きな軌道上基地は造船所として機能し、多種多様な宇宙船の建造が可能となります。\n\n宇宙港の建設は、経済を短期的に押し上げ、民衆の決意を刺激しています。\n\n新しい宇宙港は、貿易や商業の拠点としても機能します。貨物船はここで荷を降ろし、船舶への燃料補給も行われます。\n\n我々の技術発展につれて随時、他の機能とともに宇宙港を改修していく必要があります: 防衛のためのシールドと武装、研究所、観測装置、など。
+PreWarpProgressEvent Message BuildFirstSpaceport		;我々は宇宙港を建造しました。この大きな軌道上基地は造船所として機能し、多種多様な宇宙船の建造が可能となります。\n\n宇宙港の建設は、経済を短期的に押し上げ、民衆の決意を刺激しています。\n\n新しい宇宙港は、貿易や商業の拠点としても機能します。貨物船はここで荷を降ろし、艦船への燃料補給も行われます。\n\n我々の技術発展につれて随時、他の機能とともに宇宙港を改修していく必要があります: 防衛のためのシールドと武装、研究所、観測装置、など。
 PreWarpProgressEvent Message DiscoverColonizationTech		;{0}の開発に伴い、我々は新しい世界に入植するために必要な技術のすべてを習得しています！\n\nこのイベントは、経済を短期的に押し上げ、民衆の決意を刺激しています。\n\n我々は、新しいコロニーとして良い候補となる、居住可能な惑星を識別する必要があります。次に、これらの新しい世界に送り出すための、巨大な殖民船の建造を開始しましょう。\n\nこの時点において、我々は真に宇宙の民の文明となりました。我々が銀河に向けて動き出せば、影の時代はたちまち色褪せます。我々は発展し続け、海賊や傭兵に対して優位に立つことができるでしょう。\n\n今、私たちは銀河を支配するため、他の帝国に対抗しなければならない、拡張の時代が来ています...
-PreWarpProgressEvent Message DiscoverHyperspaceTech		;以前の探査中に回収した古代知識を活用して、初の基本的なハイパードライブ技術を開発しました！この画期的な技術は宇宙船を超光速で星間移動する事を可能にします！\n\nこの重大な発明は、ついに我々の恒星系を離れ、真の意味で銀河を探査し、遠い星々を渡り歩ける事を意味しています。\n\nこの驚くべき発見は、経済に短期の景気上昇を起こし、民衆の決意を活気付けます。\n\n速やかにハイパードライブを組み込んだ新しい船舶を再設計し、新たな造船を行い、この新機能を利用する必要があります。
-PreWarpProgressEvent Message DiscoverHyperspaceTech New Scientist		;我々は宇宙船の超光速航行が可能となる、超空間技術を発明しました！\n\nこの重大な発明は、ついに我々の恒星系を離れ、真の意味で銀河を探査し、遠い星々を渡り歩ける事を意味しています。\n\nこの驚くべき発見は、私たちの帝国に新たな科学者を生み出しています: {0}.\n\n速やかにハイパードライブを組み込んだ新しい船舶を再設計し、新たな造船を行い、この新機能を利用する必要があります。
+PreWarpProgressEvent Message DiscoverHyperspaceTech		;以前の探査中に回収した古代知識を活用して、初の基本的なハイパードライブ技術を開発しました！この画期的な技術は宇宙船を超光速で星間移動する事を可能にします！\n\nこの重大な発明は、ついに我々の恒星系を離れ、真の意味で銀河を探査し、遠い星々を渡り歩ける事を意味しています。\n\nこの驚くべき発見は、経済に短期の景気上昇を起こし、民衆の決意を活気付けます。\n\n速やかにハイパードライブを組み込んだ新しい艦船を再設計し、新たな造船を行い、この新機能を利用する必要があります。
+PreWarpProgressEvent Message DiscoverHyperspaceTech New Scientist		;我々は宇宙船の超光速航行が可能となる、超空間技術を発明しました！\n\nこの重大な発明は、ついに我々の恒星系を離れ、真の意味で銀河を探査し、遠い星々を渡り歩ける事を意味しています。\n\nこの驚くべき発見は、私たちの帝国に新たな科学者を生み出しています: {0}.\n\n速やかにハイパードライブを組み込んだ新しい艦船を再設計し、新たな造船を行い、この新機能を利用する必要があります。
 PreWarpProgressEvent Message EncounterFirstKaltor		;我々は{0}の付近において、宇宙怪獣Giant Kaltorに遭遇しました！この恐ろしい獣は、宇宙の冷たく暗い真空に生息し、すれ違う船を攻撃します。\n\nこのKaltorは、出会う全てを食い尽くすために空から降って来たという、古代の伝説に記載されている怪物に奇妙に類似しています。\n\nおそらく、この危険な生き物達は避けて舵を取るのが賢明でしょう...
 PreWarpProgressEvent Message FirstContactNormalEmpire		;我々は異星人種の{1}に遭遇しました!{1}は彼らの文明を{0}と呼んでいます。\n\n外交画面から{2}と通信できます
 PreWarpProgressEvent Message FirstContactNormalEmpire War		;我々は異星人種の{1}と初めて接触しました!\n\n{1}は彼らの文明を{0}と呼んでいます。\n\n{0}に優しい挨拶を送信しようとしたとき、残念ながら我々の不器用な翻訳のために、誤って代わりに下劣な侮辱を送ってしまいました。返信で{0}は我が帝国に宣戦布告しています！
@@ -5156,7 +5156,7 @@ Mission Available Forces		;{0}の軍艦が利用可能です({1}火力)
 Target Firepower		;目標の火力
 X ships are attacking this target		;この目標({1}火力)を{0}船で攻撃しています
 X ships are defending this target		;この目標({1}火力)を{0}船で防衛しています
-Pirate Base Bonus Targeted Faction Joins		;我々が海賊基地{0}を破壊した後、{1}は我が帝国に参加することを決めました。{1}は、我々の成長している強さを見てきましたので、海賊行為を放棄し、私たちの軍に参加することを決めました。\n\n{1}の全ての船舶と基地は我が帝国に編入されています
+Pirate Base Bonus Targeted Faction Joins		;我々が海賊基地{0}を破壊した後、{1}は我が帝国に参加することを決めました。{1}は、我々の成長している強さを見てきましたので、海賊行為を放棄し、私たちの軍に参加することを決めました。\n\n{1}の全ての艦船と基地は我が帝国に編入されています
 
 Improved our understanding of PROJECT		;{0}の理解の改善
 Research breakthrough in PROJECT		;{0}の画期的な研究成果
@@ -5255,7 +5255,7 @@ This colony was recently Raided		;このコロニーは最近、襲撃されま�
 Economy Efficiency Bonus Description		;帝国における最近の出来事に起因して、人口増加、および開発と研究は一時的に加速している。
 Economy Efficiency Penalty Description		;政府のお粗末な選択によって我が帝国は傷つき、人口増加、および開発と研究は鈍化している。
 
-Raids and Other		;襲撃とその他
+Raids and Other		;略奪など
 Raid Withdrawal Description Invader		;コロニー{0}の襲撃は捗らず、我が軍は撤退している。
 Raid Withdrawal Description Defender		;我々は、我がコロニー{0}を襲った海賊団{1}を撃退しています。敵軍は逃げました。
 Raid Economy Damage Description		;このコロニーに対する最近の襲撃は、経済活動を傷つけ、歳入を下げている。
@@ -5286,7 +5286,7 @@ Accept Pirate Smuggle Mission All Resources Advisor Suggestion		;海賊会議は
 Accept Pirate Smuggle Mission Independent Advisor Suggestion		;海賊会議は、独立コロニーの依頼による密輸任務を引き受けることを推奨しています。\n\nこの任務は{2}星系のコロニー{1}が要望する{0}の密輸です。我々は{1}に{0}が100単位到達するごとに{3}クレジットの代金を受け取れます。\n\n密輸任務を引き受けますか?
 Accept Pirate Smuggle Mission Independent All Resources Advisor Suggestion		;海賊会議は、独立コロニーの依頼による密輸任務を引き受けることを推奨しています。\n\nこの任務は{1}星系のコロニー{0}が要望する資源の密輸です。我々は{0}に貨物が100単位到達するごとに{2}クレジットの代金を受け取れます。\n\n密輸任務を引き受けますか?
 
-Pirate Playstyle Description Balanced		;バランス型海賊は、コロニーを支配し、他の帝国との｢保護｣協定から収入を得て、敵の船舶と基地を奪います。
+Pirate Playstyle Description Balanced		;バランス型海賊は、コロニーを支配し、他の帝国との｢保護｣協定から収入を得て、敵の艦船と基地を奪います。
 Pirate Playstyle Description Smuggler		;密輸業者は、コロニーに資源を密輸して収入を獲得し、他の帝国との｢保護｣協定ネットワークの構築に焦点を当てています。密輸業者はまた、好ましい出来事に影響を与えるためにスパイを十分に活用します。
 Pirate Playstyle Description Mercenary		;傭兵は、他の帝国のための攻撃および防御の任務を模索しているレンタル銃です。任務を遂行しないときは、敵の帝国の艦船に乗り込み、鹵獲することにより、自らの艦隊を編成します。傭兵はまた戦利品を得るためにコロニーと基地を襲撃します。
 Pirate Playstyle Description Pirate		;略奪者は、独立および帝国所有のいずれのコロニーでも支配下に置こうとします。彼らは、これらの支配下に置いたコロニーから富を吸い上げることによって豊かな成長します。それらの支配を固めるために、コロニーにおいて海賊基地や要塞の建設を試み、競合するライバル海賊と戦います。
@@ -5313,7 +5313,7 @@ Very Many		;とても多い
 PreWarp Abandoned Ship Encounter		;船からの無線通信は、何度も繰り返している: ｢あなたがそれを危険にさらすことができるように、この任務は、私にとってあまりにも重要である｣
 
 Ship Capture Reveals Pirate Base		;海賊団{1}から最近鹵獲した{0}によって、彼らの基地{2}の位置が判明しました。\n\n{0}の記録によれば{2}はセクター{4}の{3}星系で見つかります。
-Ship Capture Reveals Pirate Base Title		;船舶の捕獲により海賊本拠地が判明した
+Ship Capture Reveals Pirate Base Title		;艦船の捕獲により海賊本拠地が判明した
 
 Facility Maintenance Cost		;年間維持
 Facility Maintenance		;施設維持
@@ -5323,12 +5323,12 @@ Pirate Bonus Modifier Smuggling Income		;密輸収入
 Pirate Bonus Modifier Raid Strength		;移乗力と襲撃力
 Pirate Bonus Modifier Raid Bonuses		;襲撃ボーナス
 Pirate Bonus Modifier Ship Maintenance State		;国有船と国有基地の維持費
-Pirate Bonus Modifier Ship Maintenance Private		;民間船舶と民間基地の維持費
+Pirate Bonus Modifier Ship Maintenance Private		;民間艦船と民間基地の維持費
 Pirate Bonus Modifier Research Weapons		;兵器研究
 Pirate Bonus Modifier Research Energy		;エネルギー研究
 Pirate Bonus Modifier Research HighTech		;ハイテク研究
 Pirate Bonus Modifier Facility Elimination		;施設の強化と防衛
-Pirate Bonus Modifier Looting Bonuses		;破壊した船舶と基地から略奪収入
+Pirate Bonus Modifier Looting Bonuses		;破壊した艦船と基地から略奪収入
 Pirate Bonus Modifier Facility Build		;海賊拠点と要塞の建造時間と費用
 Pirate Bonus Modifier Wonder Build		;犯罪ネットワークの構築時間と費用
 
@@ -5336,8 +5336,8 @@ Pirate Playstyle Description		;海賊{0}
 
 Successful Intelligence Missions		;成功した諜報活動
 Successful Raids		;襲撃成功数
-Captured Ships and Bases		;占領した船舶と基地
-Destroyed Ships and Bases		;破壊した船舶と基地
+Captured Ships and Bases		;占領した艦船と基地
+Destroyed Ships and Bases		;破壊した艦船と基地
 Smuggling Freighters		;貨物船の密輸
 Completed Attack Missions		;完了した攻撃任務
 Completed Defense Missions		;完了した防衛任務
@@ -5345,7 +5345,7 @@ Completed Defense Missions		;完了した防衛任務
 Bonus from Pirate Bases and Fortresses at Controlled Colonies		;支配コロニーで海賊拠点と要塞から{0}の研究ボーナス
 
 Pirate Corruption Description		;このコロニーの海賊支配と基地は汚職を増加させます
-Fade civilian ships and bases		;民間船舶と民間基地の表示を隠す
+Fade civilian ships and bases		;民間艦船と民間基地の表示を隠す
 
 Zero		;ゼロ
 
@@ -5371,7 +5371,7 @@ Raiding		;襲撃
 
 Ground Report		;地上報告
 Planetary Facility Build Recommendation With Maintenance		;{0}は{3}星系内のコロニー{2}で{1}を建造する事を推奨しています。\n\n{4}。この建造には{5}クレジットの費用が必要となり、{6}クレジットの年間維持費が発生します。\n\n新しい施設に{5}クレジットを消費しますか？
-Retrofit Recommendation Explanation Partial		;これらの新設計を使用するためには船舶と基地のすべてを改修する必要があります。国有船と基地の部分改修の費用は{0}クレジットでしょう。船舶と基地は現在の任務を完了した後に改修されるでしょう。\n\n船舶と基地の部分改修ために{0}のクレジットを費やしますか？
+Retrofit Recommendation Explanation Partial		;これらの新設計を使用するためには艦船と基地のすべてを改修する必要があります。国有船と基地の部分改修の費用は{0}クレジットでしょう。艦船と基地は現在の任務を完了した後に改修されるでしょう。\n\n艦船と基地の部分改修ために{0}のクレジットを費やしますか？
 Pirate Territory Colonies Controlled vs Owned		;{0}が支配, {1}が所有
 
 Empire Contact From Galaxy Map		;{0}は銀河の我々のエリアを含むマップを獲得しました。これは現在、外交画面で{0}に接触出来る事を意味しています。
@@ -5473,8 +5473,8 @@ Completed Games		;ゲーム完了
 
 Boarding And Capture		;移乗と占領
 Ground Report Screen		;地上報告画面
-Including Ships in Fleets		;艦隊内の船舶を含む
-Excluding Ships in Fleets		;艦隊内の船舶を除く
+Including Ships in Fleets		;艦隊内の艦船を含む
+Excluding Ships in Fleets		;艦隊内の艦船を除く
 
 PRODUCERS		;PRODUCERS
 ADDITIONAL DESIGN		;ADDITIONAL DESIGN
@@ -5503,8 +5503,8 @@ Pirate Missions List Type Smuggling		;密輸任務を表示
 Pirate Missions List Type Attack		;攻撃任務を表示
 Pirate Missions List Type Defend		;防衛任務を表示
 
-Pirate Base Destroyed Faction Joins		;{1}の海賊拠点{0}を破壊した事により、彼らは帝国に降る決心をしたようです。\n\nいくつかの商船は独自の道を歩む事にしたようですが、あっさりと放棄された{1}の船舶や基地の多くは帝国に加わりました。
-Weak Pirate Faction Joins		;{1}星系内の海賊団{0}は、今後を生き残るには厳しい状態になってきました。\n\nその結果、いくつかの商船は独自の道を歩む事にしたようですが、あっさりと放棄された{0}の船舶や基地の多くは帝国に加わっています。
+Pirate Base Destroyed Faction Joins		;{1}の海賊拠点{0}を破壊した事により、彼らは帝国に降る決心をしたようです。\n\nいくつかの商船は独自の道を歩む事にしたようですが、あっさりと放棄された{1}の艦船や基地の多くは帝国に加わりました。
+Weak Pirate Faction Joins		;{1}星系内の海賊団{0}は、今後を生き残るには厳しい状態になってきました。\n\nその結果、いくつかの商船は独自の道を歩む事にしたようですが、あっさりと放棄された{0}の艦船や基地の多くは帝国に加わっています。
 
 Default Engagement Stances - Auto		;相手に対する態度の初期設定 - 自動
 Default Engagement Stances - Manual		;相手に対する態度の初期設定 - 手動
@@ -5572,18 +5572,18 @@ Clear existing Space Creatures from the map and regenerate new Space Creatures w
 Clear existing Ruins from the map and regenerate new Ruins when starting your new game		;新たにゲームを開始するときに、マップから既存の遺跡をクリアし、新たに遺跡を再生成する
 Clear existing Special Locations from the map and regenerate new Special Locations when starting your new game		;新たにゲームを開始するときに、マップから既存の特別な場所をクリアし、新たに特別な場所を再生成する
 
-EventActionType AcquireBuiltObject		;船舶もしくは基地を獲得
+EventActionType AcquireBuiltObject		;艦船もしくは基地を獲得
 EventActionType AcquireHabitat		;コロニーを獲得
 EventActionType BuildPlanetaryFacility		;惑星施設を建設
 EventActionType ChangeEmpireGovernment		;帝国の政府体制を変更
-EventActionType DestroyBuiltObject		;船舶もしくは基地を破壊
+EventActionType DestroyBuiltObject		;艦船もしくは基地を破壊
 EventActionType DestroyPlanetaryFacility		;惑星施設を破壊
 EventActionType DisasterAtColony		;コロニーで災害
 EventActionType EmpireDeclaresWarOnTriggerEmpire		;帝国が対象国に宣戦布告
 EventActionType EndPlague		;伝染病の終息
 EventActionType EnemyFleetDefectsToTriggerEmpire		;敵国の艦隊が脱走
 EventActionType FindMoneyTreasure		;財宝発見
-EventActionType GenerateBuiltObject		;船舶もしくは基地を生成
+EventActionType GenerateBuiltObject		;艦船もしくは基地を生成
 EventActionType GenerateCreatureSwarm		;生物の群れを生成
 EventActionType GenerateErutkah		;Erutkahを生成
 EventActionType GenerateNewEmpire		;新たな帝国を生成
@@ -5671,23 +5671,23 @@ MultipleEventActionType ExecuteSingleRandomAction		;単独のランダムアク�
 Triggered By Ruin		;遺跡を引き金として
 Triggered By Ruin X		;遺跡({0})を引き金として
 
-Ship/Base Type		;船舶/基地のタイプ
+Ship/Base Type		;艦船/基地のタイプ
 Creature Type		;生物のタイプ
 Special Location		;特別な場所
 Research Project		;研究計画
 # Creatures		;# 生物
-# Ships		;# 船舶
+# Ships		;# 艦船
 Pop in millions		;百万単位にポップ
 # Systems		;# 星系
 Event for X		;{0}のイベント
 SetEventActionTarget Description		;クリックでイベント対象に{0}をセットする
-SetEventActionTargetInvalid Description		;有効なイベント対象を選ぶ - 船舶、基地、惑星および衛星、小惑星もしくは恒星でなければならない(空白をクリックするとキャンセル)
+SetEventActionTargetInvalid Description		;有効なイベント対象を選ぶ - 艦船、基地、惑星および衛星、小惑星もしくは恒星でなければならない(空白をクリックするとキャンセル)
 No Event set		;イベントなし
 Edit Event		;編集
 Add Event		;イベント追加
 Description		;説明
 Build Facility Type		;建設する施設
-Build Base/Ship		;建設する船舶/基地
+Build Base/Ship		;建造する艦船/基地
 Go to Target		;対象に移動
 Delete Action		;アクションを削除
 Double-click to edit		;ダブルクリックで編集
@@ -5953,7 +5953,7 @@ Edit Skills and Traits		;スキル/特性
 Change Empire		;国籍変更
 Change location immediately		;近くの場所に移動
 Edit Characters		;人材を編集
-Left-click to place Character		;船舶、基地もしくはコロニーの人材の場所で左クリック
+Left-click to place Character		;艦船、基地もしくはコロニーの人材の場所で左クリック
 
 Construction Resource Shortage		;建設資源不足
 Cannot add both Mineral and Gas resources at same location		;鉱物及びガス資源を両方を同じ場所には追加できない
@@ -6051,9 +6051,9 @@ Edit Game Events		;イベントの編集
 Game Options - Message Settings Screen		;ゲームオプション - メッセージの設定
 
 Play as a PreWarp Empire		;プリワープ帝国としてプレイ
-Your Empire and Colonies		;貴方の帝国とコロニー
-Expansion and Diplomacy		;拡大と外交
-Research, Ship Design and Construction		;研究、船舶の設計と建造
+Your Empire and Colonies		;あなたの帝国とコロニー
+Expansion and Diplomacy		;帝国の拡大と外交
+Research, Ship Design and Construction		;研究、艦船の設計と建造
 Fleets, Troops and Intelligence missions		;艦隊、地上軍と諜報活動
 Dealing with Pirates		;海賊との取引
 Play as a Pirate Faction		;海賊団としてプレイ
@@ -6065,3 +6065,17 @@ Race Report RACE ADVANCEMENT RACEFAMILY		;{0}は{1}の{2}種族
 Start New Game Description - Introductory Game		;Distant Worlds入門。資源が豊富で海賊が少ない、古典的な時代のイージーゲームに直接飛び込む
 
 Colony Lost to Pirate Criminal Network		;{1}星系の我がコロニー{0}は海賊団{2}によって失われた！彼らはコロニー{0}を完全に支配し、本格的な帝国になることを可能とする、犯罪ネットワークを完成させている
+
+Set as Home Base		;母港として設定
+
+Component Type Super Torpedo Weapon		;スーパー魚雷兵器
+Component Type Super Missile Weapon		;スーパーミサイル兵器
+Component Type Super RailGun Weapon		;スーパーレールガン兵器
+Component Type Super Phaser Weapon		;スーパーフェイザー兵器
+Component Category WeaponSuperTorpedo		;スーパー魚雷
+
+Range Shortest/Longest		;射程 最短/最長
+Fighter Firepower		;艦載機火力
+
+Flee When Armor 50 or Shields 20		;装甲 50% もしくは シールド 20%
+Character Death Dismiss Description		;{2}において勤務している{0}の{1}は、その無能さとあまりの横暴さにより処断された。
