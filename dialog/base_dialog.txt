@@ -1,175 +1,175 @@
+﻿
+INFO_NOFUNDS				;金は持っているのか？
+INFO_UNMETEMPIRE			;新しい帝国は{0}と呼ばれている
+INFO_EXPLORATION	 		;我々はセクター{0}の{1}星系の地図を与える
+INFO_INDEPENDENTCOLONY			;独立したコロニーは{0}にある
+"INFO_RUINS				;{1}星系の{0}に古代遺跡があるぜ\n\nおそらく、あんただったら価値のあるものを見つけられるるんじゃないか..."
+INFO_DEBRISFIELD			;俺たちは、セクター{1}の{0}星系にある古戦場跡で、船の巨大な残骸についての噂を聞いた事がある\n\n 残骸の多くはサルベージできる。あんたが建設船を送れば、それらの一部を回復する事が出来るんじゃないか...
+INFO_PLANETDESTROYER			;セクター{1}の{0}星系で放棄された巨大な建設計画についての噂を聞いた事がある\n\n俺たちは、計画が何の為にあるのか分からないが、適切な施設があれば完成させる事が出来ると思うぜ...
+INFO_RESTRICTEDAREA			;俺たちは、セクター{1}の{0}星系の近くで 隠された立入禁止地域についての噂を聞いた\n\n　どうやらこの領域に入る船はハイパードライブが止まるらしい。まぁ、誰も帰っては来ないがな。
+PIRATE_PROTECTIONPROPOSE		;襲われたくなかったら俺たちに頼むのがスジってもんだ。完全に合理的な料金で6ヶ月間の安全を保障してやるぜ。
+PIRATE_PROTECTIONPROPOSEINITIATE	;宇宙の無法地域を通って移動する時、誰が隠れた危険性から守ってくれるっていうんだ？\n\n完全に合理的な料金で6ヶ月間の安全を保障してやるぜ\n\n　なあ、どうだ？
+PIRATE_PROTECTIONACCEPTRESPONSE		;素晴らしいな！俺たちが'任意の不幸な事故'も起こらないって事を保障してやるぜ...
+PIRATE_PROTECTIONREJECTRESPONSE		;残念なこった！支払えないっていうんじゃ仕方ねえな、せいぜい気をつけな...
+PIRATE_PROTECTIONALREADYPAID                ;追加で払ってくれるのかい？\n\n 大層なもんは仕舞っておきな。次の時に貰うぜ。
+PIRATE_BUYINFO				;待ってな。情報を送るぜ。
+PIRATE_ATTACKOFFER_EMPIRES		;不幸にも海賊に襲われるってわけだ。
+PIRATE_ATTACKOFFER_SINGLEEMPIRE		;{0}とはどうだ？。奴等の基地がどこぞの誰かに襲われるって寸法だ\n\n大丈夫。ばれやしないって\n\n わずか{1}クレジットで皆幸せになるんだ。なあ、どうだ？
+PIRATE_ATTACKCOMMENCE                        ;すぐに{0}からの訃報が届くはずだぜ！
 
-INFO_NOFUNDS				;Looks like you don't have enough money to pay for this
-INFO_UNMETEMPIRE			;The new empire is called the {0}
-INFO_EXPLORATION	 		;We have given you maps of the {0} system in sector {1}
-INFO_INDEPENDENTCOLONY			;The independent colony is at the {0} 
-INFO_RUINS				;Our contacts tell us about some ancient ruins, the {0}, at the {1}.\n\nMaybe you will find something of value there...
-INFO_DEBRISFIELD			;We have heard rumors about a vast debris field of ship wrecks from an ancient battle in the {0} system in sector {1}.\n\nApparently many of the wrecks are salvageable. If you send a construction ship you should be able to recover some of them...
-INFO_PLANETDESTROYER			;We have heard rumors about a colossal abandoned construction project in the {0} system in sector {1}.\n\nWe are unsure what the project is for, but with the right equipment it could probably be completed...
-INFO_RESTRICTEDAREA			;We have heard rumors about a secret restricted area near the {0} system in sector {1}.\n\nApparently ships entering this area find that their hyperdrive becomes suddenly and mysteriously disabled. Many who enter are never heard from again...
-PIRATE_PROTECTIONPROPOSE		;You are wise to come to us for protection. For the entirely reasonable fee shown below we can ensure your safety throughout our domain.
-PIRATE_PROTECTIONPROPOSEINITIATE	;Who knows what hidden dangers await you when travelling through the lawless regions of space?\n\nFor the entirely reasonable fee shown below we can ensure your safety throughout our domain.\n\nWhat do you say?
-PIRATE_PROTECTIONACCEPTRESPONSE		;Excellent! We will ensure that your ships do not suffer any 'unfortunate accidents' until our next fee is due...
-PIRATE_PROTECTIONREJECTRESPONSE		;Too bad you're so cheap! Without payment we cannot guarantee your safety...
-PIRATE_PROTECTIONALREADYPAID		;You have already paid us protection.\n\nCome back when your current protection period expires. We will be happy to accept further payment then.
-PIRATE_BUYINFO				;We can supply you information on any of the items listed below for the prices indicated
-PIRATE_ATTACKOFFER_EMPIRES		;We would be willing to attack any of the empires listed below for the prices indicated
-PIRATE_ATTACKOFFER_SINGLEEMPIRE		;Seems like you're having trouble with the {0}. We would be very happy to attack their bases for you.\n\nOf course we would be very discreet about our arrangement - no one else would know.\n\nAll we ask for this service is a small payment of {1} credits. What do you say?
-PIRATE_ATTACKCOMMENCE			;Consider it money well spent. We will commence our attacks on the {0} immediately!
+PIRATE_ALLIANCEPROPOSE                        ;送金、忘れてるぜ。\n\n 毎月{0}クレジットで手を打とう。なあ、どうだ？
+PIRATE_ALLIANCEACCEPT			;まあ、仲良くやろうぜ。
+PIRATE_ALLIANCEACCEPTRESPONSE	;結構結構！\n\n これで夜道は心配しなくていいぜ、獲物は他から頂くからな！\n\n「任意の不幸な事故」は オプションにしといてやったぜ
+PIRATE_ALLIANCEREJECT			;今はやめとくぜ。
+PIRATE_ALLIANCEREJECTRESPONSE	;残念だねぇ\n\n 貰う物貰わないと\n\n 海賊ってのは金が掛かるんでね。
+PIRATE_ALLIANCECANCEL			;俺たちは手を引くぜ。
+PIRATE_ALLIANCECANCELRESPONSE	;おいおい、俺とあんたの仲じゃないか... \n\n冗談だろ？
 
-PIRATE_ALLIANCEPROPOSE			;Your previous arrangement with us has now expired. Why not upgrade to a permanent alliance with us?\n\nFor the ongoing monthly fee of {0} credits, we could both protect your ships and also attack your enemies, while you keep your hands clean.\n\nWhat do you think?
-PIRATE_ALLIANCEACCEPT			;We accept your offer of an alliance
-PIRATE_ALLIANCEACCEPTRESPONSE	;An excellent decision!\n\nWe'll make sure that your ships are safe from our marauders. And we'll start targetting the assets of your enemies.\n\nLet us know if there's anyone you'd especially like us to attack
-PIRATE_ALLIANCEREJECT			;We reject your alliance offer
-PIRATE_ALLIANCEREJECTRESPONSE	;A poor choice.\n\nWe cannot help you without appropriate reimbursement.\n\nPiracy is an expensive business you know!
-PIRATE_ALLIANCECANCEL			;We wish to cancel this alliance
-PIRATE_ALLIANCECANCELRESPONSE	;A sad end to a most profitable relationship...\n\nRemember that without ongoing payment we cannot ensure the safety of your ships.\n\nMaybe you should reconsider?
+INFO_OFFER_UNMETEMPIRE			;他の文明との交流は成長と繁栄の鍵である、だろ？\n\n {0}クレジットで連絡をつけてやるぜ
+INFO_OFFER_INDEPENDENTCOLONY		;次はどこに目をつけているんだ？\n\n {0}クレジットで独立コロニーの場所を教えてやるぜ
+INFO_OFFER_SYSTEMMAPS			;獲物は多いほうがいいだろう？\n\n {0}クレジットで未踏星系の地図を譲ってやるぜ
+INFO_OFFER_RUINS			;銀河の秘宝ってのは昔からある有名な話だが\n\n  一枚かむか？\n\n ({0} クレジット)
+INFO_OFFER_DEBRISFIELD			;銀河の秘宝ってのは昔からある有名な話だが\n\n  一枚かむか？\n\n ({0} クレジット)
+INFO_OFFER_RESTRICTEDAREA		;銀河の秘宝ってのは昔からある有名な話だが\n\n  一枚かむか？\n\n ({0} クレジット)
+INFO_OFFER_PLANETDESTROYER		;銀河の秘宝ってのは昔からある有名な話だが\n\n  一枚かむか？\n\n ({0} クレジット)
 
-INFO_OFFER_UNMETEMPIRE			;Exchange with other civilizations is the key to growth and prosperity, don't you think?\n\nWe can put you in contact with another empire for {0} credits
-INFO_OFFER_INDEPENDENTCOLONY		;Wondering where to establish your next colony?\n\nWe can reveal the location of an independent colony for {0} credits
-INFO_OFFER_SYSTEMMAPS			;Knowing your surroundings is key to survival.\n\nWe have maps of an unexplored system that we are willing to sell to you for {0} credits
-INFO_OFFER_RUINS			;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_DEBRISFIELD			;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_RESTRICTEDAREA		;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
-INFO_OFFER_PLANETDESTROYER		;There are many valuable secrets hidden throughout the galaxy.\n\nWe have made an intriguing discovery that we would be happy to share with you for {0} credits.\n\nWhat do you say?
+GREETING_INTRODUCTION			;俺たちは{0}だ。
+GREETING_FRIENDLY			;よう兄弟！調子はどうだい？
+GREETING_NEUTRAL			;ん？あんたか。今日はなんだい？
+GREETING_ANGRY				;なんだ？
 
-GREETING_INTRODUCTION			;Greetings! We are the {0}
-GREETING_FRIENDLY			;Share your thoughts with us friend
-GREETING_NEUTRAL			;You wanted to speak with me?
-GREETING_ANGRY				;What do you want?
+OFFER_FREETRADE				;我が国は貴国に対して、二国間の活発な経済交流のための自由貿易協定の締結を提案します！\n\nどう思われますか？
+OFFER_PROTECTORATE			;我が友よ、貴国の安全のために保護領条約を提案する。強大な我が帝国はあらゆる攻撃者達から貴国を守るだろう\n\nどう思われるか？
+OFFER_MUTUALDEFENSE			;心の友よ、相互防衛条約の締結は我々にとって最善の利益になると感じています。このことは我々のいずれかに対する他国からの攻撃を抑止するでしょう\n\nどう思われますか？
+OFFER_DEAL				;取引をしないか？
+OFFER_DEAL_RESPONSE		;何の要請だ？
 
-OFFER_FREETRADE				;We urge you to join with our dynamic economy in a Free Trade Agreement!\n\nWhat do you say?
-OFFER_PROTECTORATE			;Our friends, we offer you refuge in a Protectorate treaty. Our mighty empire will defend you against any attackers.\n\nWhat do you think?
-OFFER_MUTUALDEFENSE			;Our good friends, we feel that it would be in both our best interests to form a Mutual Defense Pact.\n\nThis would discourage others from launching attacks against either of us.\n\nWhat do you think?
-OFFER_DEAL				;Would you accept this trade?
-OFFER_DEAL_RESPONSE		;What kind of deal are you offering?
+OFFER_DEAL_TERRITORYMAP	;領土マップを交換するか？
+OFFER_DEAL_GALAXYMAP	;銀河マップを交換するか？
+OFFER_DEAL_COMPONENT        ;技術は欲しくないか？\n\n{0}を{1}クレジットで提供してやるぜ
 
-OFFER_DEAL_TERRITORYMAP	;Care to swap territory maps?
-OFFER_DEAL_GALAXYMAP	;Care to swap galaxy maps?
-OFFER_DEAL_COMPONENT	;Would you like to buy some technology from us?\n\nWe are willing to sell you {0} for {1} credits.\n\nWhat do you say?
+DEAL_BEGIN				;あんたの要望は？
+DEAL_OFFER				;この取引の提案を検討して貰いたい\n\n報酬: {0}\n\n 要求事項: {1}
+DEAL_DEMAND				;所有権を放棄する必要がある:\n\n {1}
+DEAL_THREAT				;我々に以下のものを贈与する必要がある:\n\n {1} \n\n ... {0}
+DEAL_ACCEPT				;貴国の提案を受け入れる
+DEAL_ACCEPTCOMPLAIN		;貴国の法外な要求に応じる...この屈辱は決して忘れんぞ！
+DEAL_IMPROVE			;更なる検討の価値がある - 申し出の変更を行いますか？
+DEAL_REJECT				;関心がない - 取引拒否
+DEAL_REJECTCOMPLAIN		;ちょっかいを出すのをやめろ！貴国など敵では無いぞ！
+DEAL_REJECT_RESPONSE		;失望した...
+DEAL_REJECTDEMAND_RESPONSE	;我々の合理的な最後通告を拒否するとは！\n\nその判断が最大の間違いにならないとよいな！
+DEAL_ACCEPT_RESPONSE		;素晴らしい成果だ！
+'DEAL_REJECTCOMPLAIN		;そのような一方的な提案を受け入れる事はできない！
+'DEAL_REJECTCOMPLAIN		;馬鹿にしているのか！公正な取引をせよ、対等な取引ならば多少は考慮しよう。
 
-DEAL_BEGIN				;What do you propose?
-DEAL_OFFER				;Please consider this trade offer.\n\nWe give you: {0}...\n\n...in exchange for: {1}
-DEAL_DEMAND				;We require you to relinquish ownership of this:\n\n{1}
-DEAL_THREAT				;You must give us this:\n\n{1}\n\n...{0}
-DEAL_ACCEPT				;We accept your proposal
-DEAL_ACCEPTCOMPLAIN		;We accede to your outrageous demands, but under duress!
-DEAL_IMPROVE			;Your proposal is worthy of further consideration - can you improve your offer?
-DEAL_REJECT				;This proposal is not in our interests - no deal
-DEAL_REJECTCOMPLAIN		;Don't bully us! We are not scared of your threats!
-DEAL_REJECT_RESPONSE		;How disappointing...
-DEAL_REJECTDEMAND_RESPONSE	;How dare you reject our entirely reasonable ultimatum!\n\nThat's the last mistake you'll ever make!
-DEAL_ACCEPT_RESPONSE		;An excellent outcome!
-'DEAL_REJECTCOMPLAIN		;This proposal is totally one-sided! We will NOT accept it!
-'DEAL_REJECTCOMPLAIN		;Don't bully us! Offer a fair trade and we might consider it
+MUTUALDEFENSE_ACCEPT			;喜んで受け入れよう。貴国との同盟は我々にとっても心強いかぎりだ。\n\n長く友好が保たれる事を願っている！
+MUTUALDEFENSE_REJECT			;提案には感謝致しますが、現時点で貴国と同盟を結ぶつもりはありません
+MUTUALDEFENSE_REQUESTHELP		;{0}から攻撃を受けている！条約に従い、共に戦って頂きたい\n\nどうしますか？
+MUTUALDEFENSE_HONORREQUESTHELP		;我々は友人や同盟国を見捨てはしない - {0}に宣戦布告する！
+MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;貴国の忠実なる支援に感謝を！
+MUTUALDEFENSE_DECLINEREQUESTHELP	;申し訳ないが、今回は貴国だけで切り抜けてくれ...
+MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;貴国の裏切りを忘れる事はない、絶対にな！
+PROTECTORATE_ACCEPT			;喜んで保護領の申し出を受け入れよう！
+PROTECTORATE_REJECT			;申し訳ないが、現時点で保護領の一部になるつもりはない
+FREETRADE_ACCEPT			;喜んで自由貿易協定の申し出を受け入れよう！
+FREETRADE_REJECT			;申し訳ないが、現時点で自由貿易協定に興味を持っていない
 
-MUTUALDEFENSE_ACCEPT			;We agree, a Mutual Defense Pact with you would be highly beneficial.\n\nLong live our alliance!
-MUTUALDEFENSE_REJECT			;Thank you for your offer, but we do not desire a Mutual Defense Pact at this time
-MUTUALDEFENSE_REQUESTHELP		;We are under attack from the {0}! We call on you to honor your treaty with us and declare war on them.\n\nWill you stand with us?
-MUTUALDEFENSE_HONORREQUESTHELP		;We stand alongside our friends and allies - we declare war on the {0}!
-MUTUALDEFENSE_HONORREQUESTHELP_RESPONSE	;We deeply appreciate your loyal support friend!
-MUTUALDEFENSE_DECLINEREQUESTHELP	;Sorry but you're on your own...
-MUTUALDEFENSE_DECLINEREQUESTHELP_RESPONSE	;We will not forget the way you treacherously abandoned us!
-PROTECTORATE_ACCEPT			;We gratefully accept your offer of a Protectorate!
-PROTECTORATE_REJECT			;Sorry, but we do not want to be part of a Protectorate treaty at the moment
-FREETRADE_ACCEPT			;We gladly accept your offer of a Free Trade Agreement!
-FREETRADE_REJECT			;Sorry, but we are not interested in a Free Trade Agreement at this time
+CANCELTREATY				;貴国との{0}を取り消す
+CANCELTREATY_RESPONSE_FRIENDLY		;貴国が我々との有益な関係の終結を選択するとは...残念だ
+CANCELTREATY_RESPONSE_NEUTRAL		;お望みのままに...
+CANCELTREATY_RESPONSE_ANGRY		;やっとこの無価値な条約から開放されたか...今日は最高の一日だな！
 
-CANCELTREATY				;We are cancelling our {0} with you
-CANCELTREATY_RESPONSE_FRIENDLY		;We are saddened that you have chosen to end this beneficial relationship
-CANCELTREATY_RESPONSE_NEUTRAL		;As you wish
-CANCELTREATY_RESPONSE_ANGRY		;We are glad to rid ourselves of this worthless treaty!
+TREATY_PROPOSAL				;そちらの提案は？
+TREATY_ACCEPTRESPONSE			;素晴らしい！新たな盟友を歓迎する
+TREATY_REJECTRESPONSE			;失望した...
 
-TREATY_PROPOSAL				;What do you propose?
-TREATY_ACCEPTRESPONSE			;Excellent! We welcome our new allies
-TREATY_REJECTRESPONSE			;How disappointing...
+SUBJUGATION_RELEASE_RESPONSE		;遂に自由だ！
+SUBJUGATIONDEMAND_ACCEPT_RESPONSE        ;ようこそ、我々の新たな奴隷よ！無様な敗北を受け入れたくはないかね？
+WAR_END_ACCEPT_RESPONSE			;賢明な判断だ
 
-SUBJUGATION_RELEASE_RESPONSE		;Freedom at last!
-SUBJUGATIONDEMAND_ACCEPT_RESPONSE	;Welcome to our new slaves! Defeat is bitter, wouldn't you agree?
-WAR_END_ACCEPT_RESPONSE			;A wise choice
+TRADESANCTIONS_IMPOSE			;貴国に対して貿易制裁を課した。即刻、貴国との全取引を終了する！
+TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;何という暴挙だ！貴国はこの背信行為の代価を支払うことになるだろう！
+TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;いいだろう！我々よりもそちらが傷つく事になるだろうがな！
+TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;貿易制裁だと！我々が一体何をしたというのだ？貴国とは友好な関係を築けていると思っていたのに！
+TRADESANCTIONS_LIFT			;貴国に対する貿易制裁を撤廃した。現状を持って貴国との正常な貿易を再開する
+TRADESANCTIONS_LIFT_RESPONSE		;ほぅ！貴国との貿易など必要ではないのだが...この変化を受け入れる事にするよ
+TRADESANCTIONS_REQUESTLIFTOTHER		;貴国が直ちに{0}との貿易を再開する事を要求する！
+TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT	;要求に従い、{0}との貿易を再開します
+TRADESANCTIONS_REQUESTLIFTOTHER_REJECT	;{0}との貿易を再開する事はない
+TRADESANCTIONS_REQUESTIMPOSEJOINT	;貴国が{0}との貿易を取りやめる事を要求する！
+TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT	;ご要望に応じて、{0}との全貿易を終了しました
+TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT	;{0}との貿易を終了するつもりはない
 
-TRADESANCTIONS_IMPOSE			;We are imposing Trade Sanctions against you. Effective immediately, all trade between our two empires is terminated!
-TRADESANCTIONS_IMPOSE_RESPONSE_ANGRY	;This is an outrage! You will pay for this perfidy!
-TRADESANCTIONS_IMPOSE_RESPONSE_NEUTRAL	;Fine then! This will hurt you more than us!
-TRADESANCTIONS_IMPOSE_RESPONSE_SURPRISED	;Trade Sanctions?! What did we do wrong? I thought we were friends!
-TRADESANCTIONS_LIFT			;We are lifting our Trade Sanctions against you. We will now resume normal trade
-TRADESANCTIONS_LIFT_RESPONSE		;Huh! We do not need your trade,... but we accept this change
-TRADESANCTIONS_REQUESTLIFTOTHER		;We demand that you restore trade with the {0} at once!
-TRADESANCTIONS_REQUESTLIFTOTHER_ACCEPT	;As you have requested, we will resume trade with the {0}
-TRADESANCTIONS_REQUESTLIFTOTHER_REJECT	;We see no reason to resume trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT	;We request that you terminate trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT_ACCEPT	;At your request, we have terminated all trade with the {0}
-TRADESANCTIONS_REQUESTIMPOSEJOINT_REJECT	;We see no need to end trade with the {0}
+WAR_DECLARE				;貴国に宣戦布告する。貴国の植民地は圧政からの解放を待ち望んでいるのだ
+WAR_DECLARE_RESPONSE_EAGER		;塵ほどにも役に立たない帝国を叩き潰せるのが楽しみだ！
+WAR_DECLARE_RESPONSE_NEUTRAL		;それでいい。迅速に防衛準備を整えよ！
+WAR_DECLARE_RESPONSE_SURPRISED		;何かの間違いだ！我々が一体何をしたというのだ！貴国は些細な事で我々との友好な関係をなかった事にするつもりか？
 
-WAR_DECLARE				;We formally declare War on your worthless empire. Your colonies await liberation from your tyranny
-WAR_DECLARE_RESPONSE_EAGER		;We eagerly anticipate crushing your worthless empire to dust!
-WAR_DECLARE_RESPONSE_NEUTRAL		;So be it. Prepare your defenses!
-WAR_DECLARE_RESPONSE_SURPRISED		;There must be some mistake! What did we do to offend you?! Aren't we friends any more?
+WAR_DECLARE_REQUESTJOINT		;貴国が正式に{0}との戦争を宣言する事を要求する
+WAR_DECLARE_REQUESTJOINT_ACCEPT		;ご要望に応じて、{0}に宣戦布告しました
+WAR_DECLARE_REQUESTJOINT_REJECT		;{0}と戦争をするつもりはありません。戦うのならば独力でどうぞ！
 
-WAR_DECLARE_REQUESTJOINT		;We formally request that you declare war on the {0}
-WAR_DECLARE_REQUESTJOINT_ACCEPT		;At your request, we declare war on the {0}
-WAR_DECLARE_REQUESTJOINT_REJECT		;We will not declare war on the {0}. Fight your own wars!
+WAR_END					;この無意味な戦争の終結を提案する\n\nどうだろうか？
+WAR_END_SUBJUGATIONDEMAND		;我々に服従し、支配下に置かれる事に同意した場合のみ、この馬鹿げた戦争を終結しようではないか。\n\n小さな代償で多くの命を救えるのだ、悪い提案ではないと思うが？
+WAR_END_SUBJUGATIONOFFER		;この戦争を終結する事に合意して頂ければ、強大な帝国の奴隷となることを誓いましょう。\n\n貴国の忠実な奴隷は返答を待っております。 - 返答は？
+WAR_END_ACCEPT				;この戦争の終結に同意する - 我々は直ちに敵対行為を中止する
+WAR_END_REJECT				;断る、我々は戦い続ける
 
-WAR_END					;We propose an end to this pointless war.\n\nWhat do you say?
-WAR_END_SUBJUGATIONDEMAND		;We agree to end this war only if you agree to enslave yourselves and become our Subjugated Dominion.\n\nA small price to pay to spare your lives, don't you think?
-WAR_END_SUBJUGATIONOFFER		;We offer to subjugate ourselves as slaves of your mighty empire if you agree to end this destructive war against us.\n\nYour humble slaves await your reply - what do you say?
-WAR_END_ACCEPT				;We agree that this war should end - we will cease hostilities immediately
-WAR_END_REJECT				;No, we will fight on.
+WAR_END_REQUESTOTHER			;{0}で、戦争を終結させてください
+WAR_END_REQUESTOTHER_ACCEPT		;ご要望に応じて、我々は{0}との戦争を終結します
+WAR_END_REQUESTOTHER_REJECT		;我々は惨めな{0}に対して戦争を終わらせるつもりはない！
 
-WAR_END_REQUESTOTHER			;Please end your war with the {0}
-WAR_END_REQUESTOTHER_ACCEPT		;At your request, we will end our war with the {0}
-WAR_END_REQUESTOTHER_REJECT		;We will not stop our fight against the miserable {0}!
+SUBJUGATIONDEMAND_ACCEPT		;わかった、敗北を認め、貴国が支配者である事を認めよう
+SUBJUGATIONDEMAND_REJECT		;断る、支配のための法外な要求に応じる事はない！
+SUBJUGATIONOFFER_ACCEPT			;いいだろう、敗北を受け入れ我が国の手足となった事を歓迎しよう。\n\n定期的な貢物を楽しみに待っているぞ。貴様達が問題を起こす厄介者ではないことを願ってな。
+SUBJUGATIONOFFER_REJECT			;だめだ、貴様達にはまだまだ地獄のような苦しみを味わってもらうぞ
 
-SUBJUGATIONDEMAND_ACCEPT		;Yes, we accept defeat and acknowledge your status as our ruler
-SUBJUGATIONDEMAND_REJECT		;No, we will not accede to your outrageous demand for subjugation!
-SUBJUGATIONOFFER_ACCEPT			;Good, we accept your acknowledgement of defeat. We look forward to receiving our regular tribute from you.\n\nGo now, and try not to be such troublemakers!
-SUBJUGATIONOFFER_REJECT			;No, you must suffer further before this war will end
+SUBJUGATION_REQUESTRELEASE		;人々は貴方の専制支配に苛立っている！奴隷解放を要求する！
+SUBJUGATION_RELEASE			;わかりました、貴方達を解放しましょう。さぁ、自由を満喫するといい。
+SUBJUGATION_REFUSERELEASE		;だめだ、貴様達はずっと奴隷のままだ。貴様達が更に良い奴隷を見つければよい、そうは思わないか？
 
-SUBJUGATION_REQUESTRELEASE		;Our people chafe under your despotic rule! We beg you to release us from our slavery
-SUBJUGATION_RELEASE			;We set you free from your slavery. Use your freedom wisely
-SUBJUGATION_REFUSERELEASE		;No, you will remain our slaves. You make rather good slaves, don't you think?
+GIFT_GIVE				;分け前だ　受け取ってくれ（{0}クレジット）
+GIFT_THANKS				;感謝するぜ
+GIFT_PROPOSE				;どのような贈り物をしますか？
 
-GIFT_GIVE				;Please accept this gift of {0} credits as a token of our goodwill
-GIFT_THANKS				;Thank you for your kind gift
-GIFT_PROPOSE				;What kind of gift do you have in mind?
+WARNING						;何それ？
+WARNING_INTELLIGENCEMISSIONS			;貴国の我が国に対する隠密任務を直ちに終了するように警告する！我々はこのような活動を一切許すつもりはない！
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;我々は貴国に対するそのような活動を認識していないが、直ちに状況の調査及び改善を約束する
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;我々が必ずこの事件を調査、解決する事を約束します。
+WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;隠密任務？何の任務を？どんな任務があったにしろ、確かにそれらについて貴国には話さないだろう。だが、いずれにせよそのような任務は存在しない...被害妄想で言い掛かりをつけるのは止めて貰いたい！
+WARNING_ATTACKS					;我が国に対する全攻撃を直ちに中止せよ！中止しない場合、圧倒的な武力で対抗する！
+WARNING_ATTACKS_RESPONSE_FRIENDLY		;何と恐ろしい事を...今回の軍司令官の行き過ぎた行動に対し、心から謝罪致します
+WARNING_ATTACKS_RESPONSE_NEUTRAL		;我々はこの事件を調査し、軍司令官に然るべき処置をすることを約束します
+WARNING_ATTACKS_RESPONSE_ANGRY			;攻撃？貴国のような脆弱な帝国などに攻撃するほど暇ではない
 
-WARNING						;What is it?
-WARNING_INTELLIGENCEMISSIONS			;We warn you to end your treacherous covert missions against us immediately! We will not tolerate your continued meddling in our affairs!
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_FRIENDLY	;We are not aware of any missions against you my friend, but we will investigate this situation at once
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_NEUTRAL	;Be assured that we will investigate this incident
-WARNING_INTELLIGENCEMISSIONS_RESPONSE_ANGRY	;Covert missions? What missions? If there were any missions, we certainly wouldn't talk to you about them. But there are no missions anyway... So stop being so paranoid!
-WARNING_ATTACKS					;We serve official warning on you to cease all military attacks against us! Failure to stop will lead us to respond with overwhelming force!
-WARNING_ATTACKS_RESPONSE_FRIENDLY		;How terrible, please accept our sincere apologies for any overzealous actions of our military commanders
-WARNING_ATTACKS_RESPONSE_NEUTRAL		;We will investigate this incident and deal with the offending military commander
-WARNING_ATTACKS_RESPONSE_ANGRY			;Attacks? We wouldn't waste our time on attacks against such a pathetic empire like yours.
+WARNING_REMOVEFORCESSYSTEM					;我が国の領土に貴国の軍隊が駐留している。\n\n即刻、{0}星系からの撤退を要求する！
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY	;{0}星系から軍船を撤退するつもりはない
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE	;貴国の要求に応じる。我々の軍船は{0}星系から撤退を開始した。
+WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT	;おかしいですね？貴国の領土内に我々の軍隊など駐留しておりませんよ。
 
-WARNING_REMOVEFORCESSYSTEM					;We will not tolerate the presence of your forces in our territory.\n\nRemove your military ships from the {0} system at once!
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_COMPLY	;We see no need to remove our ships from the {0} system.
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_REFUSE	;We will comply with your request. Our ships are leaving the {0} system.
-WARNING_REMOVEFORCESSYSTEM_RESPONSE_NOFORCESPRESENT	;Surely you are mistaken? We do not have any military forces in your territory.
-
-HISTORY_OFFER_LOCATIONHINT		;Our research has uncovered the location of important historical items.\n\nWould you like to know more?
-HISTORY_LOCATIONHINT			;Our sources tell us about the {0}.\n\nImportant items can be found there.
-HISTORY_OFFER_STORYCLUE			;We have discovered something important that we think you should see for yourselves.\n\nDo we have your full attention?
-HISTORY_OFFER_STORYMESSAGE		;We have an important warning that you need to hear.\n\nDo we have your full attention?
-
-
-
-MININGRIGHTS_OFFER		;We are pleased to offer your empire mining rights within our borders.\n\nYou may now construct mining stations in our territory.
-MININGRIGHTS_CANCEL		;Your mining rights within our borders have been cancelled.\n\nYou must remove all of your mining stations within our territory!
-MILITARYREFUELING_OFFER		;We are pleased to allow your military ships to refuel at our colonies and space ports.\n\nWe hope that your fleets find this arrangement useful.
-MILITARYREFUELING_CANCEL		;Your military refueling rights have been cancelled.\n\nYour military ships may no longer refuel at our colonies and space ports.
+HISTORY_OFFER_LOCATIONHINT		;我々の研究は、歴史的に重要な遺物の場所を明らかにしました。\n\n詳しく知りたいですか？
+HISTORY_LOCATIONHINT			;情報源は{0}について我々に伝えました。\n\n遺物はそこで見つかります。
+HISTORY_OFFER_STORYCLUE			;我々は、我々はあなたが自分のために参照すべきだと思うことが何か重要なことを発見しました。\n\n処理を我々は細心の注意を持っている？
+HISTORY_OFFER_STORYMESSAGE		;私たちは、あなたが聞く必要があることが重要な警告があります。\n\n処理を我々は細心の注意を持っている？
 
 
 
-CANCELPIRATEPROTECTION				;We no longer want your 'protection'. Our arrangement with you is cancelled.
-CANCELPIRATEPROTECTIONPIRATE				;We no longer wish to protect you. Our protection arrangement with you is cancelled.
-PIRATE_PROTECTIONPROPOSE_OFFER_ACCEPT		;We accept your offer of protection. We agree to pay {0} credits per month to you.
-PIRATE_PROTECTIONPROPOSE_OFFER_REJECT		;We reject your offer of 'protection'.
+MININGRIGHTS_OFFER		;我々の領土内に貴国に対する採掘権を用意しています\n\n削除すると、今我々の領土の採掘ステーションを構築することができる。
+MININGRIGHTS_CANCEL		;我々の国境内のあなたの採掘権が取り消されています\n\n削除すると、我々の領土内にあなたの採掘ステーションのすべてを削除する必要があります！
+MILITARYREFUELING_OFFER		;私たちはあなたの軍の船が私たちのコロニーや宇宙港で燃料補給できるようにするために喜んでいます\n\nWEがあなたの艦隊はこの配置が役立つことを願っています。
+MILITARYREFUELING_CANCEL		;あなたの軍の燃料補給の権利が取り消されたん\n\nあなたの軍艦はもはや我々のコロニーや宇宙港で給油しないかもしれません。
 
-PIRATE_EXTORTPROTECTION		;Greetings to our victims! You may have noticed that we are about to attack you. But for the small price of {0} credits per month we could avoid this unnecessary violence.\n\nOf course, you really should have paid up sooner. Now that our attack is underway, we have no choice but to increase our prices.\n\nSo are you ready to pay up now?
 
-PIRATE_TRUCEPROPOSE		;You are wise to seek a truce with us. If you agree to a truce, we can ensure your safety throughout our domain.
-PIRATE_TRUCEPROPOSEINITIATE		;Who knows what hidden dangers await you when travelling through the lawless regions of space?\n\nBy agreeing to a truce we can ensure your safety throughout our domain.\n\nWhat do you say?
-PIRATE_TRUCEACCEPTRESPONSE		;Excellent! We will ensure that your ships do not suffer any 'unfortunate accidents' while our truce holds...
-PIRATE_TRUCEREJECTRESPONSE		;As you wish. But without a truce we cannot guarantee your safety...
+
+CANCELPIRATEPROTECTION				;私達は、もはやあなたの保護を必要としなくなった。あなたと私たちの協定は解除されます。
+CANCELPIRATEPROTECTIONPIRATE				;俺達は貴様の保護を必要としなくなった。協定を解除する。
+PIRATE_PROTECTIONPROPOSE_OFFER_ACCEPT		;私達は、あなた達からの｢保護｣の申し出を受け入れます。私達はあなたに毎月{0}クレジットを支払うことに同意します。
+PIRATE_PROTECTIONPROPOSE_OFFER_REJECT		;私達は、あなた達からの｢保護｣の申し出を拒絶する。
+
+PIRATE_EXTORTPROTECTION		;ごきげんよう、哀れな犠牲者諸君！諸君らは俺達の攻撃に気付いたかもしれない。しかし、わずか月額{0}クレジットの投資で不必要な暴力を回避することができる\n\nよく考えてくれ。時間は待っちゃくれないぜ\n\n支払う準備はできたかな？
+
+PIRATE_TRUCEPROPOSE		;諸君らは、俺達と休戦をするのが賢明だ。同意すれば安全を確保することが出来る
+PIRATE_TRUCEPROPOSEINITIATE                ;宇宙の無法地域を通って移動する時、誰が隠れた危険性から守ってくれるっていうんだ？\n\n休戦すればすくなくとも俺達との安全は確保できるぜ\n\nこういう時はどう言うかわかっているよな？
+PIRATE_TRUCEACCEPTRESPONSE		;素晴らしいな！停戦の間、俺たちが'任意の不幸な事故'も起こらないって事を保障してやるぜ...
+PIRATE_TRUCEREJECTRESPONSE		;残念なこった！仲良く出来ないっていうんじゃ仕方ねえな、せいぜい気をつけな...
