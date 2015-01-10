@@ -1,0 +1,34 @@
+*.pdf
+*.dll
+*.DLL
+*.exe
+*.ico
+*.cdd
+*.config
+*.url
+
+# Customization内の画像
+Customization/Distant Worlds Original/images
+Customization/Distant Worlds Original/shipImages
+Customization/The Ancient Galaxy/images
+
+# Customization内の作成済み銀河
+Customization/The Ancient Galaxy/maps
+
+# 不要フォルダ
+AutoPlay
+images
+Manuals
+movies
+Patches
+redist
+Sounds
+Uninstall
+
+# 個別不要ファイル
+autorun.inf
+Distant Worlds Universe Update Log.txt
+End Users Agreement.doc
+Universeserialreg.txt
+update.dat
+readme.doc
