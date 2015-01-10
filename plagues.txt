@@ -16,7 +16,7 @@
 ' - SpecialFunctionCode: 0=NONE, 1=Xaraktor virus (Researchable and Deployable)
 ' - Description: extended textual description of plague. Should be no longer than 200 characters
 
-0, ヘクレトズ熱病,					0, 0.06, 30, 150, 3, N,		, 0, 0, 0, 0,						Hekretos Fever is a deadly infection that attacks the internal organs, causing rapid degeneration and death. An outbreak of Hekretos Fever typically lasts about 3 months.
-1, デカラウィルス,					1, 0.09, 10, 300, 3, N,		, 0, 0, 0, 0,						Dekara Virus is a very painful disease that slowly cripples the central nervous system of any creature it infects, ultimately leading to death. An outbreak of Dekara Virus typically lasts about 6 months.
-2, 遺伝子組み換え症候群,		2, 0.45, 85, 60, 2, N,		, 0, 0, 0, 0,						Genetic Scrambling Syndrome attacks the genetic code in all of the cells of an infected creature, wiping out any useful biological instructions. This leads to very rapid disintegration of the infected creature, finally breaking them down to a puddle of protein slime. An outbreak of Genetic Scrambling Syndrome typically lasts only one month. However it is highly infectious and thus can spread rapidly.
-3, マータロブ伝染病,					3, 0.27, 25, 180, 1, N,		, 0, 0, 0, 0,						Merturov Plague is the most deadly disease in the known galaxy. It swiftly eats the brain of the infected creature, progressively causing insanity, immobilization and eventual death. Merturov Plague is a highly resilient air-borne virus, and is thus very infectious. An outbreak of Merturov Plague typically lasts 4 months.
+0, ヘクレトス熱病,					0, 0.06, 30, 150, 3, N,		, 0, 0, 0, 0,						ヘクレトス熱病は急速な変性と死を引き起こす、内蔵に発症する致命的な感染症です。ヘクレトス熱病の爆発的流行は一般的に約3ヶ月ほど持続します。
+1, デカラウィルス,					1, 0.09, 10, 300, 3, N,		, 0, 0, 0, 0,						デカラウィルスは、感染したどんな生物の中枢神経系でも、じわじわと麻痺させていく非常に痛みの伴う病気であり、最終的には死に至ります。デカラウィルスの爆発的流行は一般的に約6ヶ月ほど持続します。
+2, 遺伝子組み換え症候群,		2, 0.45, 85, 60, 2, N,		, 0, 0, 0, 0,						遺伝子組み換え症候群は、感染した生物の細胞のあらゆる遺伝情報に発症し、どんな有用な生物学的な教示も拭い去ってしまいます。これは感染した生物の非常に急速な崩壊に繋がり、最終的には蛋白質状の粘液溜まりとして分解されてしまいます。遺伝子組み換え症候群の爆発的流行は一般的に約1ヶ月ほど持続します。しかし、感染力が強いので急速に広がる可能性があります。
+3, マートゥロフ伝染病,					3, 0.27, 25, 180, 1, N,		, 0, 0, 0, 0,						マートゥロフ伝染病は既知の銀河内で最も致命的な病気として恐れられています。感染した生物の脳を迅速に食い荒らし、次第に狂気へと陥りながら動けなくなり、最終的に死に至ります。マートゥロフ伝染病は非常に打たれ強い空気感染性のウィルスであり、当然ながら凄まじい伝染力を持っています。マートゥロフ伝染病の爆発的流行は一般的に約4ヶ月ほど持続します。

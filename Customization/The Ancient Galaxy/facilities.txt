@@ -74,42 +74,42 @@
 
 ' - Description: extended textual description of facility. Should be no longer than 200 characters
 
-0, Troop Academy, 0, 0, 0,						10000.0, 2000.0, 0, 0, 0,		Allows the training of elite troops at a colony, giving them 50% greater strength than normal
-1, Robotic Troop Foundry, 1, 0, 1,				15000.0, 2000.0, 0, 0, 0,		Manufactures robotic troops at a colony. Robotic troops are not especially strong, but can be manufactured quickly, and have one third the normal maintenance costs
-2, Troop Cloning Facility, 2, 0, 2,				15000.0, 2000.0, 0, 0, 0,		Produces clone troops at a colony. The strongest current troop in your empire is cloned
-3, Giant Ion Cannon, 4, 0, 3,					15000.0, 2000.0, 105, 0, 0,		Fires massive ionized blasts at nearby enemy ships, disabling their engines and weapons
-4, Planetary Shield, 3, 0, 4,					20000.0, 2000.0, 50, 0, 0,		Projects a defensive shield around a planet, protecting the colony from enemy bombardment
-5, Regional Capital, 5, 0, 5,					20000.0, 2000.0, 0, 0, 0,		Regional Capitals lower corruption in your nearby colonies, increasing revenue for your empire. This project allows you to build one additional regional capital in your empire
-6, Regional Capital, 5, 0, 6,					20000.0, 2000.0, 0, 0, 0,		Regional Capitals lower corruption in your nearby colonies, increasing revenue for your empire. This project allows you to build one additional regional capital in your empire
-7, Regional Capital, 5, 0, 7,					20000.0, 2000.0, 0, 0, 0,		Regional Capitals lower corruption in your nearby colonies, increasing revenue for your empire. This project allows you to build one additional regional capital in your empire
-8, Fortified Bunker, 6, 0, 8,					10000.0, 2000.0, 10, 0, 0,		Provides a defensive bonus for troops defending a colony. Their defensive strength is increased by the amount below when fending off invasions
-9, Terraforming Facility, 7, 0, 9,				20000.0, 2000.0, 200, 0, 0,		Repairs planetary damage to a colony, thus improving the quality and increasing the happiness and income of the colony. Although damage will naturally repair over time, the Terraforming Facility repairs damage much faster
+0, 軍訓練所, 0, 0, 0,						10000.0, 2000.0, 0, 0, 0,		コロニーでの精鋭軍の訓練は、通常よりも50%高い強さを与える事ができます
+1, ﾛﾎﾞｯﾄ軍鋳造所, 1, 0, 1,				15000.0, 2000.0, 0, 0, 0,		コロニーでロボット軍を製造します。ロボット軍は特に強くはありませんが、迅速に製造する事ができ、通常の4分の1の維持費で賄う事ができます
+2, ｸﾛｰﾝ軍施設, 2, 0, 2,				15000.0, 2000.0, 0, 0, 0,		コロニーでクローン軍を生み出します。現在、帝国最強の地上軍はクローンによって作られています
+3, 巨大ｲｵﾝ砲, 4, 0, 3,					15000.0, 2000.0, 105, 0, 0,		惑星周辺の敵船に向けて大規模なイオン爆発を発生させ、エンジンや兵器を無力化します。
+4, 惑星ｼｰﾙﾄﾞ, 3, 0, 4,					20000.0, 2000.0, 0, 0, 0,		コロニーを敵の爆撃から防ぐ為に、惑星周辺に防御シールドを展開します
+5, 州都, 5, 0, 5,					20000.0, 2000.0, 0, 0, 0,		州都は汚職を減少させ、自国の収入を増加させます。この計画は自国で州都を1つ追加建設する毎に総計{0}の効果を見込む事が出来ます
+6, 州都, 5, 0, 6,					20000.0, 2000.0, 0, 0, 0,		州都は汚職を減少させ、自国の収入を増加させます。この計画は自国で州都を1つ追加建設する毎に総計{0}の効果を見込む事が出来ます
+7, 州都, 5, 0, 7,					20000.0, 2000.0, 0, 0, 0,		州都は汚職を減少させ、自国の収入を増加させます。この計画は自国で州都を1つ追加建設する毎に総計{0}の効果を見込む事が出来ます
+8, 要塞, 6, 0, 8,					10000.0, 2000.0, 10, 0, 0,		コロニーを防衛している地上軍に防衛ボーナスを与えます。侵略を防ぐ際の地上部隊の防御力は以下の値によって増加します
+9, ﾃﾗﾌｫｰﾐﾝｸﾞ施設, 7, 0, 9,				20000.0, 2000.0, 200, 0, 0,		コロニーの環境破壊を修復して品質を回復させ、コロニーの幸福と収入を増加させます。ダメージは通常は自然に時間を掛けて回復していきますが、テラフォーミング施設はダメージを超高速で回復してくれます
 
-10, Bakuras Highspeed Shipyards, 8, 10, 10,		50000.0, 10000.0, 20, 200, 0,	A massive array of orbital star-ship construction yards. Construction speed is increased for all ships and bases built at the colony with this wonder
-11, Merkidor Planetary Fortress, 8, 9, 11,		50000.0, 10000.0, 20, 20, 0,	An impregnable stronghold with heavy defensive weaponry. Defense against invasion is increased for the colony with this wonder
-12, Holographic Network, 8, 8, 12,				50000.0, 10000.0, 20, 100, 0,	A huge virtual reality system that presents highly immersive recreation. Happiness is increased for the colony with this wonder
-13, Traders Bazaar, 8, 11, 13,					50000.0, 10000.0, 20, 30, 0,	A colossal marketplace connected by a maze of alleys and bridges. Income is increased for the colony with this wonder
-14, Advanced Medicomplex, 8, 7, 14,				50000.0, 10000.0, 20, 100, 0,	The finest medical treatment is available at this facility. The population growth rate is increased for the colony with this wonder
-15, Holographic Universe, 8, 2, 15,				100000.0, 20000.0, 40, 30, 0,	An all-encompassing virtual reality world that can entertain an individual for weeks at a time. Increases the happiness for every colony in an empire
-16, Koloros Medical Academy, 8, 1, 16,			100000.0, 20000.0, 40, 30, 0,	Provides unequalled medical training to produce the best physicians in the galaxy. Increases the population growth rate for every colony in an empire
-17, Danuta Engineering Center, 8, 4, 17,		100000.0, 20000.0, 40, 50, 0,	Advanced facilities for studying the secrets of high-energy physics. Provides an Energy research bonus for the empire
-18, Rusan Technology Installation, 8, 5, 18,	100000.0, 20000.0, 40, 50, 0,	Center for advanced technology projects. Provides a HighTech research bonus for the empire
-19, Casidor Weapons Facility, 8, 3, 19,			100000.0, 20000.0, 40, 50, 0,	Center for development and testing of radical new weaponry. Provides a Weapons research bonus for the empire
-20, Trade Guild, 8, 6, 20,						100000.0, 20000.0, 40, 20, 0,	A vast hub of galactic commerce spread across hundreds of free-floating atmospheric platforms. Increases the income for every colony in an empire
-21, Universal Hive, 8, 12, 21,					100000.0, 20000.0, 50, 0, 0,	The ultimate expression of telepathic harmony, the Universal Hive is a crowning cultural achievement
-22, Galactic Archives, 8, 12, 22,				100000.0, 20000.0, 50, 0, 0,	Both a museum and a library, the Galactic Archives are a vast storehouse of all galactic history. Ancient records and artifacts from the remotest corners of the galaxy are stored here
-23, Lava Palace Resort, 8, 12, 23,				100000.0, 20000.0, 50, 0, 6,	An exquisite resort with shimmering lava lakes and millions of glittering gemstones. The Lava Palace Resort attracts visitors from all over the known galaxy
-24, Underwater Palace, 8, 12, 24,				100000.0, 20000.0, 50, 0, 4,	A spectacular underwater palace with thousands of pearl-encrusted spires. Vast vaults beneath the Underwater Palace also store an enormous wealth of precious crystals
+10, ﾊﾞｷｭﾗｽ高速造船所, 8, 10, 10,		50000.0, 10000.0, 20, 200, 0,	軌道上にある宇宙船建造工廠の大規模なライン。この驚異的建造物のあるコロニーにおいて全ての船舶と基地の建造速度が上昇します
+11, ﾒﾙｷﾄﾞ惑星要塞, 8, 9, 11,		50000.0, 10000.0, 20, 20, 0,	大型の防衛兵器による難攻不落の要塞。この驚異的建造物のあるコロニーで侵略に対する防衛力が増加します
+12, ﾎﾛｸﾞﾗﾌｨｯｸ･ﾈｯﾄﾜｰｸ, 8, 8, 12,				50000.0, 10000.0, 20, 100, 0,	非常に没入感のある娯楽を提供する巨大な仮想現実システムです。この驚異的建造物のあるコロニーで幸福が上昇します
+13, ﾄﾚｰﾀﾞｰｽﾞ･ﾊﾞｻﾞｰﾙ, 8, 11, 13,					50000.0, 10000.0, 20, 30, 0,	巨大な市場は路地や橋の迷路によって繋がっています。この驚異的建造物のあるコロニーで収入が増加します
+14, ﾒﾃﾞｨｺﾝﾌﾟﾚｯｸｽ, 8, 7, 14,				50000.0, 10000.0, 20, 100, 0,	最高の医療はこの施設で受ける事ができます。この驚異的建造物があるコロニーで人口成長率が上昇します
+15, ﾎﾛｸﾞﾗﾌｨｯｸ･ﾕﾆﾊﾞｰｽ, 8, 2, 15,				100000.0, 20000.0, 40, 30, 0,	一度に何週間も個人を楽しませる事のできる限りなく広い仮想現実世界です。帝国内の全コロニーの幸福が上昇します
+16, ｺﾛﾛｽ医学ｱｶﾃﾞﾐｰ, 8, 1, 16,			100000.0, 20000.0, 40, 30, 0,	銀河内で最高の医師を育成する為の比類なき医療訓練を行います。帝国内の全コロニーの人口成長率が上昇します
+17, ﾀﾞﾇｰﾀ工学ｾﾝﾀｰ, 8, 4, 17,		100000.0, 20000.0, 40, 50, 0,	高エネルギー物理学の秘密を研究する為の高度な施設です。帝国にエネルギー研究ボーナスをもたらします
+18, ﾙｻﾝ技術施設, 8, 5, 18,	100000.0, 20000.0, 40, 50, 0,	高度な技術計画研究センター。帝国にハイテク研究ボーナスをもたらします
+19, ｷｬｼﾄﾞｰ造兵廠, 8, 3, 19,			100000.0, 20000.0, 40, 50, 0,	先鋭的な新兵器の開発及び試験を行う為の研究センター。帝国に兵器研究ボーナスをもたらします
+20, 貿易ｷﾞﾙﾄﾞ, 8, 6, 20,						100000.0, 20000.0, 40, 20, 0,	銀河商業の広大な中枢には何者にも縛られない自由な気風のプラットフォームが数百に渡って広がりを見せています。帝国内の全コロニーの収入が増加します
+21, ﾕﾆﾊﾞｰｻﾙ･ﾊｲﾌﾞ, 8, 12, 21,					100000.0, 20000.0, 50, 0, 0,	テレパシー調和が織り成す究極の表現力。ユニバーサル・ハイブは無上の文化的な偉業です
+22, 銀河の記録保管所, 8, 12, 22,				100000.0, 20000.0, 50, 0, 0,	博物館と図書館を兼ねる銀河の記録保管所は全銀河の歴史を納める巨大な宝庫と言えます。銀河の最果ての隅々から古代の記録や遺物が納められています
+23, 溶岩宮殿ﾘｿﾞｰﾄ, 8, 12, 23,				100000.0, 20000.0, 50, 0, 6,	ちらちらと光る溶岩湖と数百万もの煌びやかな宝石による優雅なリゾートです。溶岩宮殿リゾートは既知の銀河各地から観光客を惹き付けます
+24, 海底宮殿, 8, 12, 24,				100000.0, 20000.0, 50, 0, 4,	何千もの真珠に覆われた尖塔を持つ壮観な海底宮殿。海底宮殿の地下にある広大な保管庫にも、高価な結晶が莫大な富として蓄えられています
 
-25, Hidden Pirate Base, 9, 0, 25,				30000.0, 0, 50, 25, 10,			The Hidden Pirate Base is a secret base of operations for raiders, smugglers and criminals of all kinds. From here the local planetary crimelord directs his network of criminal enterprises, amassing income from various sources.\n\nThis planetary facility gives our pirate faction permanent control of the colony where it is built. It also increases the research output for our pirate faction
-26, Hidden Pirate Fortress, 10, 0, 26,			100000.0, 0, 100, 50, 20,		The Hidden Pirate Fortress is a large secret base of operations for raiders, smugglers and criminals of all kinds. From this enormous fortress the local planetary crimelord directs his network of criminal enterprises, amassing income from various sources.\n\nThis planetary facility gives our pirate faction permanent control of the colony where it is built. It also increases the research output for our pirate faction
-27, Armored Factory, 11, 0, 27,					20000.0, 2000.0, 0, 0, 0,		Allows the recruitment of Armored troop units at a colony. Armored troops have very high attack strength and are thus specialized at invading enemy colonies
-28, Spy Academy, 12, 0, 28,						40000.0, 2000.0, 30, 0, 0,		Increases the chance of new Intelligence Agents appearing in our empire
-29, Science Academy, 13, 0, 29,					40000.0, 2000.0, 30, 0, 0,		Increases the chance of new Scientists appearing in our empire
-30, Naval Academy, 14, 0, 30,					40000.0, 2000.0, 30, 0, 0,		Increases the chance of new Fleet Admirals appearing in our empire
-31, Military Academy, 15, 0, 31,				30000.0, 2000.0, 30, 0, 0,		Increases the chance of new Troop Generals appearing in our empire. Also allows recruitment of Special Forces troop units. Special Forces are specialized at taking out enemy defences prior to a colony invasion
-32, Criminal Network, 16, 0, 32,				200000.0, 0, 100, 0, 40,		The Criminal Network is a powerful criminal organization that allows a pirate faction to take full ownership of a colony, controlling it just like a standard empire. This means that the colony publicly identifies as belonging to us. We can then recruit troops here to invade other colonies. We can also build Colony Ships here to colonize other planets. And we can build Contruction Ships here too
+25, 隠れた海賊拠点, 9, 0, 25,				30000.0, 0, 50, 25, 10,			隠れた海賊拠点は、あらゆる種類の侵入者、密輸業者や犯罪者の活動のための秘密基地です。コロニーの代貸はここから犯罪企業ネットワークに指示を出し、さまざまな資金源から集金しています。\n\nこの惑星施設はそれがあるコロニーに対して我が海賊団による継続的な支配をもたらします。またそれは我が海賊団の研究力を増加させます。
+26, 隠れた海賊要塞, 10, 0, 26,			100000.0, 0, 100, 50, 20,		隠れた海賊要塞は、あらゆる種類の侵入者、密輸業者や犯罪者の活動のための大規模秘密基地です。 コロニーの代貸はこの巨大要塞から犯罪企業ネットワークに指示を出し、さまざまな資金源から集金しています\n\nこの惑星施設はそれがあるコロニーに対して我が海賊団による継続的な支配をもたらします。またそれは我が海賊団の研究力を増加させます。
+27, 機甲兵工廠, 11, 0, 27,					20000.0, 2000.0, 0, 0, 0,		機甲部隊の募集を可能とします。機甲部隊は非常に高い攻撃力を有しており、敵コロニー侵略に特化しています。
+28, 諜報員養成所, 12, 0, 28,						40000.0, 2000.0, 30, 0, 0,		諜報員が出現する可能性を増加させます
+29, 科学ｱｶﾃﾞﾐｰ, 13, 0, 29,					40000.0, 2000.0, 30, 0, 0,		科学者が出現する可能性を増加させます
+30, 宇宙軍士官学校, 14, 0, 30,					40000.0, 2000.0, 30, 0, 0,		提督が出現する可能性を増加させます
+31, 地上軍士官学校, 15, 0, 31,				30000.0, 2000.0, 30, 0, 0,		将軍が出現する可能性を増加させます。また、特殊部隊の募集が可能になります。特殊部隊はコロニー侵略に先立って防衛力を削ぐ事に特化しています
+32, 犯罪ﾈｯﾄﾜｰｸ, 16, 0, 32,				200000.0, 0, 100, 0, 40,		犯罪ネットワークは海賊団がコロニーの完全な所有権を普通の帝国の様に取得する事が可能になる、強力な犯罪組織です。これは従属をコロニーが承認する事を意味します。他のコロニーに侵略する為の地上軍を募集する事が可能です。 また、殖民船や建設船を建造する事も出来ます。
 
-33, Bio-Engineering Facility, 8, 12, 33,		100000.0, 20000.0, 50, 2, 3,	Enables the development and breeding of Giant Kaltors, which can be used in spreading infectious bio-agents.
-34, Sentient Computer Core, 8, 12, 34,			100000.0, 20000.0, 50, 1, 0,	Leads to a new life-form of sentient computer code and machines. This wonder also provides a +75% bonus in high-tech research for your empire. Additionally, for each year this wonder remains standing, your empire will receive a 5% victory condition bonus.
-35, Intergalactic Gateway, 8, 12, 35,			100000.0, 20000.0, 50, 3, 0,	Gateway that allows military and civilian ship convoys to be sent from far away galaxies. When built this wonder will trigger regular arrivals of convoys of military and civilian ships at the capital of the empire where it is built.
+33, 生物工学施設, 8, 12, 33,		100000.0, 20000.0, 50, 2, 3,	感染性病原体の拡散に使用することができる、ジャイアントカルターの開発と繁殖を可能にします。
+34, 人工知能ｺｱ, 8, 12, 34,			100000.0, 20000.0, 50, 1, 0,	プログラムコードと機材で構成された人工知能という新たな生命のかたちをもたらします。また、この驚異的建造物は貴方の帝国に+75%のハイテク研究ボーナスを与えます。さらに、この驚異的建造物があるだけで、貴方の帝国は毎年5％の勝利条件ボーナスを受け取れます。
+35, 銀河間ｹﾞｰﾄｳｪｲ, 8, 12, 35,			100000.0, 20000.0, 50, 3, 0,	軍及び民間の船団を、遠くの銀河から送りだすことができるゲートウェイ。この驚異的建造物が建設されると、それがある帝国の首都において、軍及び民間の船団が定期的に到着するようになるでしょう。
