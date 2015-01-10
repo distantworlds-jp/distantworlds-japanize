@@ -112,237 +112,237 @@ href=3D"GameConcepts_ColonyPopulationPolicies_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -351,8 +351,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -511,8 +511,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -530,8 +530,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -549,8 +549,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -665,8 +665,8 @@ div.WordSection1
  @list l0
 	{mso-list-id:977026937;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1434566538 336134159 336134169 336134171 336134159 =
-336134169 336134171 336134159 336134169 336134171;}
+	mso-list-template-ids:-1434566538 336134159 336134169 336134171 336134159=
+ 336134169 336134171 336134159 336134169 336134171;}
 @list l0:level1
 	{mso-level-tab-stop:none;
 	mso-level-number-position:left;
@@ -786,10 +786,10 @@ table.DWChartOddRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coor=
-dsize=3D"21600,21600"
- o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=
-=3D"f"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"=
+ coordsize=3D"21600,21600"
+ o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe"=
+ filled=3D"f"
  stroked=3D"f">
  <v:stroke joinstyle=3D"miter"/>
  <v:formulas>
@@ -812,176 +812,290 @@ dsize=3D"21600,21600"
 =3D"#_x0000_t75"
  style=3D'position:absolute;margin-left:118.9pt;margin-top:0;width:170.1pt;
  height:163.25pt;z-index:1;visibility:visible;mso-wrap-style:square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
- <v:imagedata src=3D"GameConcepts_ColonyPopulationPolicies_files/image001.p=
-ng"
+ <v:imagedata src=3D"GameConcepts_ColonyPopulationPolicies_files/image001=
+.png"
   o:title=3D""/>
  <w:wrap type=3D"square" side=3D"right"/>
 </v:shape><![endif]--><![if !vml]><img width=3D284 height=3D272
-src=3D"GameConcepts_ColonyPopulationPolicies_files/image002.png" align=3Dri=
-ght
-hspace=3D15 v:shapes=3D"Picture_x0020_1"><![endif]><span lang=3DEN-GB
-style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>Population Policies prov=
-ide
-control over which alien races you allow at your colonies.<o:p></o:p></span=
-></p>
+src=3D"GameConcepts_ColonyPopulationPolicies_files/image002.png" align=
+=3Dright
+hspace=3D15 v:shapes=3D"Picture_x0020_1"><![endif]><o:p><span
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&nbsp; &#20154;&#21475;=
+</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#25919;&#31574;</span>=
+<span
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12391;&#12289;&#12354=
+;</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12394;&#12383;&#12398=
+;</span><span
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12467;&#12525;&#12491=
+;&#12540;&#12391;</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12393;&#12398;</span>=
+<span
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12456;&#12452;&#12522=
+;&#12450;&#12531;</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12434;&#23481;&#35469=
+;&#12377;&#12427;&#12363;</span><span
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12398;&#31649;&#29702=
+;&#12364;&#20986;&#26469;&#12414;&#12377;</span><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Population policies can be set in the Colonies screen (F2), in the
-Population tab.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;&#20154;&#21475;<o:p><span lang=3DEN-GB style=
+=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#25919;&#31574;</span><span style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#12399;&#12289;&#12467;&#12525;&#12491;&#12540;&#30011;&#38754;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#65288;F2&#65289;</span><span style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#12398;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#20154;&#21475;&#12479;&#12502;&#12391;&#27770;&#23450;</span><span=
+ style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12377;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&=
+#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>There are two policy settings per colony:<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#26893;&#27665;&#22320;&#27598;&#12395;&#65298;&#12388;&#12398;=
+<span lang=3D"en-nz">&#35373;&#23450;&#12364;</span>&#12354;&#12426;&=
+#12414;&#12377;&#65306;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-GB style=3D'mso-fareast-font-family:Verdana;mso-bidi-font-family:=
-Verdana;
-mso-ansi-language:EN-GB;mso-no-proof:yes'><span style=3D'mso-list:Ignore'>1=
-.<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></s=
-pan><![endif]><span
-lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>Global sett=
-ing that
-applies to all other races (except your race)<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-GB style=3D'mso-fareast-font-family:Verdana=
+;mso-bidi-font-family:Verdana;
+mso-ansi-language:EN-GB;mso-no-proof:yes'><span style=3D'mso-list:Ignore'=
+>1.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>=
+</span><![endif]>
+<span
+lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>
+<o:p>&#65288;&#12354;&#12394;&#12383;&#12398;<span lang=3D"en-nz">&#31278;=
+&#26063;</span>&#20197;&#22806;<span lang=3D"en-nz">&#12398;</span>&#65289=
+;&#20182;&#12398;<span lang=3D"en-nz">&#20840;&#31278;&#26063;</span>&=
+#12395;&#24403;&#12390;&#12399;&#12414;&#12427;<span lang=3D"en-nz">&=
+#20840;&#20307;</span>&#12475;&#12483;&#12486;&#12451;&#12531;&#12464;=
+</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-GB style=3D'mso-fareast-font-family:Verdana;mso-bidi-font-family:=
-Verdana;
-mso-ansi-language:EN-GB;mso-no-proof:yes'><span style=3D'mso-list:Ignore'>2=
-.<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></s=
-pan><![endif]><span
-lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>Same race f=
-amily as
-your own. This allows you to have harsh settings for races not in your race
-family, but kinder policies for races of your race family<o:p></o:p></span>=
-</p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-GB style=3D'mso-fareast-font-family:Verdana=
+;mso-bidi-font-family:Verdana;
+mso-ansi-language:EN-GB;mso-no-proof:yes'><span style=3D'mso-list:Ignore'=
+>2.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span>=
+</span><![endif]>
+<span
+lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>
+<o:p><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12354;&=
+#12394;&#12383;&#12392;&#21516;&#12376;&#31278;&#26063;&#31185;</span>=
+</span><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>&#12290;&=
+#12371;&#12428;&#12399;&#12289;&#12354;&#12394;&#12383;&#12398;&#31278;&=
+#26063;&#31185;&#12395;&#12399;&#12424;&#12426;&#20778;&#12375;&#12367;&=
+#20182;&#12398;&#31278;&#26063;&#31185;&#12395;&#12399;&#21427;&#12375;&=
+#12356;&#12392;&#12356;&#12358;&#35373;&#23450;&#12434;&#21487;&#33021;&=
+#12395;&#12375;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>The five different population policy settings are described below.<o:p=
-></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12288;&#20197;&#19979;&#12398;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#65301;&#12388;&#12398;&#30064;&#12394;&#12387;&#12383;&#20154;&=
+#21475;&#25919;&#31574;<span lang=3D"en-nz">&#35373;&#23450;&#12364;&=
+#12354;&#12426;&#12414;&#12377;</span>&#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-GB>Assimilate</span></h3>
+<h3>&#21516;&#21270;</h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Assimilate means to accept these races into your empire. This is the
-default setting.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>
+<o:p>&#12288;&#21516;&#21270;&#12399;&#12289;&#12354;&#12394;&#12383;&=
+#12398;&#24093;&#22269;&#12395;&#23550;&#35937;&#12398;&#31278;&#26063;&=
+#12434;&#21463;&#12369;&#20837;&#12428;&#12427;&#26041;&#27861;&#12391;&=
+#12377;&#12290;&#12371;&#12428;&#12399;&#12487;&#12501;&#12457;&#12523;&=
+#12488;&#12398;&#35373;&#23450;&#12391;&#12377;&#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-GB>Do Not Accept</span></h3>
+<h3>&#21463;&#20837;&#25298;&#21542;</h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Do not allow migration of these races to the colony. This will prevent
-passenger ships from dropping off migrants from these races at the colony.<=
-o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#12288;&#12467;&#12525;&#12491;&#12540;&#12395;&#23550;&#35937;=
+&#12398;&#31278;&#26063;&#12398;&#31227;&#20303;&#12434;&#35469;&#12417;&=
+#12414;&#12379;&#12435;&#12290;&#26053;&#23458;&#33337;&#12364;&#23550;&=
+#35937;&#12398;&#31278;&#26063;&#12434;&#12467;&#12525;&#12491;&#12540;&=
+#12395;&#31227;&#27665;&#12434;&#19979;&#12429;&#12377;&#12398;&#12434;&=
+#38450;&#27490;&#12375;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-GB>Resettle</span></h3>
+<h3>&#24375;&#21046;&#31227;&#27665;</h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Actively migrate these races away from the colony to other colonies th=
-at
-will accept them. Passenger ships will pick up these races from the colony.=
-<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#31309;&#26997;&#30340;&#12395;&#12289;<span lang=3D"en-nz">&=
+#23550;&#35937;&#12398;&#31278;&#26063;&#12434;&#12381;&#12398;&#12467;&=
+#12525;&#12491;&#12540;&#12363;&#12425;&#20986;&#12375;&#12390;&#12289;&=
+#21463;&#12369;&#20837;&#12428;&#12390;&#12367;&#12428;&#12427;&#20182;&=
+#12398;&#12467;&#12525;&#12491;&#12540;&#12408;&#12392;&#31227;&#20303;&=
+#12373;&#12379;&#12414;&#12377;</span>&#12290;<span lang=3D"en-nz">&#26053=
+;&#23458;</span>&#33337;&#12364;<span lang=3D"en-nz">&#12467;&#12525;&=
+#12491;&#12540;&#12363;&#12425;</span>&#12371;&#12428;&#12425;&#12398;=
+<span lang=3D"en-nz">&#31278;&#26063;</span>&#12434;<span lang=3D"en-nz">&=
+#36617;&#12379;&#12390;&#12356;&#12367;</span>&#12391;&#12375;&#12423;&=
+#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_0" o:s=
-pid=3D"_x0000_s1028"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:254.6pt;margin=
--top:0;
- width:305.8pt;height:46.75pt;z-index:2;visibility:visible;mso-wrap-style:s=
-quare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_0"=
+ o:spid=3D"_x0000_s1028"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:254.6pt=
+;margin-top:0;
+ width:305.8pt;height:46.75pt;z-index:2;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
- <v:imagedata src=3D"GameConcepts_ColonyPopulationPolicies_files/image003.p=
-ng"
+ <v:imagedata src=3D"GameConcepts_ColonyPopulationPolicies_files/image003=
+.png"
   o:title=3D""/>
  <w:wrap type=3D"square"/>
 </v:shape><![endif]--><![if !vml]><img width=3D510 height=3D78
-src=3D"GameConcepts_ColonyPopulationPolicies_files/image004.png" align=3Dri=
-ght
-hspace=3D15 v:shapes=3D"Picture_x0020_0"><![endif]><span lang=3DEN-GB
-style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'>If you have enabled the =
-empire
-policy setting &quot;Use Penal Colonies to implement Enslave policy&quot; t=
-hen
-these unwanted races will be migrated to Penal colonies for enslavement the=
-re.<o:p></o:p></span></p>
+src=3D"GameConcepts_ColonyPopulationPolicies_files/image004.png" align=
+=3Dright
+hspace=3D15 v:shapes=3D"Picture_x0020_0"><![endif]>&#12288;<span lang=
+=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'><o:p>&#12418;&#12375;&=
+#24093;&#22269;<span lang=3D"en-nz">&#25919;&#31574;&#12391;&#12364;</span=
+>&#12300;&#22900;&#38583;'&#25919;&#31574;&#12434;&#23455;&#26045;&#12377;=
+&#12427;&#28858;&#12395;&#27969;&#21009;&#22320;&#12434;&#29992;&#12356;&=
+#12427;&#12301;<span lang=3D"en-nz">&#12434;ON&#12395;&#12375;&#12390;&=
+#12356;&#12427;&#12394;&#12425;&#12289;</span>&#12371;&#12428;&#12425;&=
+#12398;&#26395;&#12414;&#12375;&#12367;&#12394;&#12356;<span lang=3D"en-nz=
+">&#31278;&#26063;&#12399;&#12381;&#12371;&#12391;</span>&#22900;&#38583;&=
+#21270;<span lang=3D"en-nz">&#12373;&#12428;&#12427;&#28858;&#12395;</span=
+>&#27969;&#21009;&#26893;&#27665;&#22320;&#12395;<span lang=3D"en-nz">&=
+#31227;&#20303;</span>&#12373;&#12379;&#12425;&#12428;&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-GB>Enslave</span></h3>
+<h3>&#22900;&#38583;&#21270;</h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Enslaves these races, forcing them into hard labor. When a race is
-enslaved at a colony it&#8217;s growth rate will be zero.<o:p></o:p></span>=
-</p>
+<p class=3DMsoNormal>&#12288;&#23550;&#35937;&#12398;<o:p><span style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#31278;&#26063;&#12434;&#22900;&#38583;&#21270;&#12375;&#12289;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#24444;&#12425;<span lang=3D"en-nz">&#12395;</span>&#37325;&#21172;&=
+#20685;&#12434;&#24375;&#21046;&#12375;&#12414;&#12377;&#12290;</span>=
+<span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12467;&#12525;&#12491;&#12540;&#12398;&#22900;&#38583;&#21270;&=
+#12373;&#12428;&#12383;&#31278;&#26063;&#12398;&#20154;&#21475;&#22679;&=
+#21152;&#29575;&#12399;&#65296;&#12395;&#25104;&#12426;&#12414;&#12377;&=
+#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>For each race that you enslave, the corresponding empires of those rac=
-es
-will take offense at your actions. The amount of offense is directly relate=
-d to
-the population amount that you enslave.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#12354;&#12394;&#12383;&#12364;&#22900;&#38583;<span lang=3D=
+"en-nz">&#12375;&#12383;&#31278;&#26063;&#12395;</span>&#23550;&#24540;&=
+#12377;&#12427;&#24093;&#22269;&#12399;&#12354;&#12394;&#12383;&#12398;&=
+#34892;&#21205;&#12395;<span lang=3D"en-nz">&#23550;&#12375;&#12390;</span=
+>&#33145;&#12434;&#31435;&#12390;&#12427;&#12391;&#12375;&#12423;&#12358;&=
+#12290;</span><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#23244;&#12431;&#12428;&#12427;&#31243;&#24230;&#12399;&#12289;&=
+#22900;&#38583;&#21270;&#12373;&#12428;&#12383;&#20154;&#21475;&#12398;&=
+#25968;&#12395;&#12424;&#12426;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Enslavement also provides a bonus to the colony's economy. The amount =
-of
-the bonus depends on the proportion of the total population that is enslave=
-d,
-up to a maximum of 50% if all of the population is enslaved.<o:p></o:p></sp=
-an></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#22900;&#38583;&#21270;&#12364;<span lang=3D"en-nz">&#12467;&=
+#12525;&#12491;&#12540;</span>&#12398;&#32076;&#28168;&#12395;&#12508;&=
+#12540;&#12490;&#12473;&#12434;<span lang=3D"en-nz">&#40782;&#12375;&=
+#12414;&#12377;</span>&#12290;</span><span style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12508;&#12540;&#12490;&#12473;&#12398;&#37327;&#12399;&#12289;&=
+#32207;&#20154;&#21475;&#12395;&#23550;&#12377;&#12427;&#22900;&#38583;&=
+#21270;&#12373;&#12428;&#12427;&#20154;&#21475;&#12398;&#21106;&#21512;&=
+#12395;&#20381;&#23384;&#12375;&#12289;&#20840;&#12390;&#12398;&#20303;&=
+#27665;&#12364;&#22900;&#38583;&#12395;&#12373;&#12428;&#12427;&#22580;&=
+#21512;&#12391;&#26368;&#22823;&#12398;&#65301;&#65296;%&#12392;&#12394;&=
+#12426;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>If you have enabled the empire policy setting &quot;Use Penal Colonies=
- to
-implement Enslave policy&quot; then some of your colonies will automaticall=
-y be
-set as Penal Colonies (policy set to Enslave). Your other colonies with pol=
-icy
-set to Resettle will migrate their unwanted races to the Penal colonies for
-enslavement.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p><span lang=3DEN-GB
+style=3D'mso-ansi-language:EN-GB;mso-no-proof:yes'><o:p>&#12418;&#12375;&=
+#24093;&#22269;<span lang=3D"en-nz">&#25919;&#31574;&#12391;&#12364;</span=
+>&#12300;&#22900;&#38583;'&#25919;&#31574;&#12434;&#23455;&#26045;&#12377;=
+&#12427;&#28858;&#12395;&#27969;&#21009;&#22320;&#12434;&#29992;&#12356;&=
+#12427;&#12301;<span lang=3D"en-nz">&#12434;ON&#12395;&#12375;&#12390;&=
+#12356;&#12427;&#12394;&#12425;&#12289;&#12354;&#12394;&#12383;&#12398;&=
+#12467;&#12525;&#12491;&#12540;&#12398;&#24190;&#12388;&#12363;&#12364;&=
+#33258;&#21205;&#30340;&#12395;<span lang=3D"en-nz" style=3D=
+"mso-ansi-language: EN-GB; mso-no-proof: yes">&#65288;&#25919;&#31574;&=
+#35373;&#23450;&#12364;&#12300;&#22900;&#38583;&#21270;&#12301;&#12398;&=
+#65289;</span>&#27969;&#21009;&#22320;&#12395;&#35373;&#23450;&#12373;&=
+#12428;&#12289;&#23550;&#35937;&#12398;</span>&#26395;&#12414;&#12375;&=
+#12367;&#12394;&#12356;<span lang=3D"en-nz">&#31278;&#26063;&#12434;&=
+#12381;&#12371;&#12408;&#31227;&#20303;&#12373;&#12379;&#12427;&#12391;&=
+#12375;&#12423;&#12358;</span>&#12290;</o:p></span></o:p></span></p>
 
-<h3><span lang=3DEN-GB>Exterminate</span></h3>
+<h3>&#26681;&#32118;</h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Steadily eliminates these races at the colony, reducing their populati=
-on
-until it reaches zero. When a race is being exterminated at a colony it&#82=
-17;s
-growth rate will be zero.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12288;&#23550;&#35937;&#12398;&#31278;&#26063;&#12364;</span><span=
+ lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12476;&#12525;</span><span style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#20154;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#12395;</span><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12394;&#12427;&#12414;&#12391;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12381;&#12398;&#20154;&#21475;&#12434;&#28187;&#12425;</span><span=
+ style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12375;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#12289;</span><span style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#12467;&#12525;&#12491;&#12540;&#12363;&#12425;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#25273;&#27578;&#12375;&#12414;&#12377;&#12290;</span><span style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'>&#26681;&#32118;&#12398;&#23550;&#35937;&#12398;&#31278;&#26063;&=
+#12398;&#20154;&#21475;&#22679;&#21152;&#29575;&#12399;&#65296;&#12395;&=
+#25104;&#12426;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>For each race that you are exterminating, the corresponding empires of
-those races will take deep offense at your actions. The amount of offense is
-directly related to the population amount that you exterminate.<o:p></o:p><=
-/span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p><o:p>&#12354;&#12394;&#12383;&#12364;<span lang=3D"en-nz">&=
+#26681;&#32118;&#12375;&#12424;&#12358;&#12392;&#12375;&#12390;&#12356;&=
+#12427;&#31278;&#26063;&#12395;</span>&#23550;&#24540;&#12377;&#12427;&=
+#24093;&#22269;&#12399;&#12354;&#12394;&#12383;&#12398;&#34892;&#21205;&=
+#12395;<span lang=3D"en-nz">&#23550;&#12375;&#12390;&#33879;&#12375;&=
+#12367;</span>&#33145;&#12434;&#31435;&#12390;&#12427;&#12391;&#12375;&=
+#12423;&#12358;&#12290;</span><span style=3D'mso-ansi-language:EN-GB=
+;mso-no-proof:
+yes'>&#23244;&#12431;&#12428;&#12427;&#31243;&#24230;&#12399;&#12289;&=
+#25490;&#38500;&#12375;&#12383;&#20154;&#21475;&#12398;&#25968;&#12395;&=
+#12424;&#12426;&#12414;&#12377;&#12290;</span></o:p></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB;ms=
-o-no-proof:
-yes'>Exterminating races will also negatively impact your empire's reputati=
-on
-&#8211; all other empire&#8217;s will be offended by your harsh actions.<o:=
-p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB;mso-no-proof:
+yes'><o:p>&#20154;&#31278;&#12434;&#26681;&#32118;&#12377;&#12427;&#12371;=
+&#12392;&#12399;&#12354;&#12394;&#12383;&#12398;&#24093;&#22269;&#12398;&=
+#35413;&#21028;&#12395;<span lang=3D"en-nz">&#19981;&#23450;&#30340;&=
+#12394;</span>&#24433;&#38911;<span lang=3D"en-nz">&#12418;</span>&#19982;=
+&#12360;&#12427;&#12391;&#12375;&#12423;&#12358; 
+&#65293; &#20182;&#12398;&#12377;&#12409;&#12390;&#12398;&#24093;&#22269;&=
+#12398;&#12364;&#12354;&#12394;&#12383;&#12398;&#27531;&#37239;&#12394;=
+<span lang=3D"en-nz">&#34892;&#21205;&#12395;</span>&#12424;&#12387;&=
+#12390;&#24863;&#24773;&#12434;&#23475;&#12373;&#12428;&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US'><=
-o:p>&nbsp;</o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US'>=
+<o:p>&nbsp;</o:p></span></p>
 
 </div>
 

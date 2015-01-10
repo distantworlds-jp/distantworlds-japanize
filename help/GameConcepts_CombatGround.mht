@@ -20,8 +20,8 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <meta name=3DGenerator content=3D"Microsoft Word 12">
 <meta name=3DOriginator content=3D"Microsoft Word 12">
 <link rel=3DFile-List href=3D"GameConcepts_CombatGround_files/filelist.xml">
-<link rel=3DEdit-Time-Data href=3D"GameConcepts_CombatGround_files/editdata=
-.mso">
+<link rel=3DEdit-Time-Data href=3D"GameConcepts_CombatGround_files=
+/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -53,11 +53,11 @@ w\:* {behavior:url(#default#VML);}
   <o:TargetScreenSize>1024x768</o:TargetScreenSize>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=3DdataStoreItem href=3D"GameConcepts_CombatGround_files/item0012.=
-xml"
+<link rel=3DdataStoreItem href=3D"GameConcepts_CombatGround_files/item0012=
+.xml"
 target=3D"GameConcepts_CombatGround_files/props0013.xml">
-<link rel=3DthemeData href=3D"GameConcepts_CombatGround_files/themedata.thm=
-x">
+<link rel=3DthemeData href=3D"GameConcepts_CombatGround_files/themedata=
+.thmx">
 <link rel=3DcolorSchemeMapping
 href=3D"GameConcepts_CombatGround_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
@@ -111,237 +111,237 @@ href=3D"GameConcepts_CombatGround_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -350,8 +350,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -480,8 +480,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -499,8 +499,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -518,8 +518,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -612,8 +612,8 @@ div.WordSection1
  @list l0
 	{mso-list-id:1349791735;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1768524802 67698689 67698691 67698693 67698689 6769=
-8691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:-1768524802 67698689 67698691 67698693 67698689=
+ 67698691 67698693 67698689 67698691 67698693;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -772,48 +772,58 @@ table.DWChart2EvenRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Taking over an enemy colony requires you to land an invasion force of
-troops. Your troops then battle with the defending forces at the colony.<o:=
-p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#25973;&#12398;&#26893;&#27665;&#22320;&#12434;&#21344;&#38936;&=
+#12377;&#12427;&#28858;&#12395;&#12399;&#12354;&#12394;&#12383;&#12398;&=
+#20405;&#25915;&#37096;&#38538;&#12434;&#38477;&#19979;&#12373;&#12379;&=
+#12397;&#12400;&#12394;&#12426;&#12414;&#12379;&#12435;&#12290; &#38477;&=
+#19979;&#24460;&#12395;&#12289;&#12354;&#12394;&#12383;&#12398;&#37096;&=
+#38538;&#12399;&#12467;&#12525;&#12491;&#12540;&#12434;&#38450;&#24481;&=
+#12375;&#12390;&#12356;&#12427;&#37096;&#38538;&#12392;&#25126;&#38360;&=
+#12375;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>D=
-efensive
-forces<o:p></o:p></span></h3>
+<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<o:p>&#38450;&#34907;&#36557;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Forces defending a colony are comprised of:<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12467;&#12525;&#12491;&#12540;&#12434;&#23432;&#20633;&#12375;&=
+#12390;&#12356;&#12427;&#36557;&#38538;&#12399;&#27425;&#12398;&#12418;&=
+#12398;&#12391;&#27083;&#25104;&#12373;&#12428;&#12414;&#12377;:</o:p>=
+</span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>Troops at the colony <o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'>&#12467;&#12525;&#12491;&#12540;&#12395;<o:p>&#12356;&=
+#12427;&#37096;&#38538;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>The colonies population <o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;</span></span></span><![endif]><span style=3D=
+'mso-ansi-language:EN-US;
+mso-no-proof:yes'><o:p>&#12467;&#12525;&#12491;&#12540;&#12398;&#20303;&=
+#20154;</o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coor=
-dsize=3D"21600,21600"
- o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=
-=3D"f"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"=
+ coordsize=3D"21600,21600"
+ o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe"=
+ filled=3D"f"
  stroked=3D"f">
  <v:stroke joinstyle=3D"miter"/>
  <v:formulas>
@@ -832,12 +842,12 @@ dsize=3D"21600,21600"
  </v:formulas>
  <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
  <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
-</v:shapetype><v:shape id=3D"Picture_x0020_11" o:spid=3D"_x0000_s1044" type=
-=3D"#_x0000_t75"
+</v:shapetype><v:shape id=3D"Picture_x0020_11" o:spid=3D"_x0000_s1044"=
+ type=3D"#_x0000_t75"
  style=3D'position:absolute;margin-left:59.65pt;margin-top:0;width:110.85pt;
  height:109.6pt;z-index:1;visibility:visible;mso-wrap-style:square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
@@ -847,54 +857,80 @@ dsize=3D"21600,21600"
 </v:shape><![endif]--><![if !vml]><img width=3D185 height=3D183
 src=3D"GameConcepts_CombatGround_files/image002.png" align=3Dright hspace=
 =3D15
-v:shapes=3D"Picture_x0020_11"><![endif]><span lang=3DEN-US style=3D'mso-ans=
-i-language:
-EN-US;mso-no-proof:yes'>Defending troops will naturally lead the defense of
-their colony. However the population of the colony will also join in the fi=
-ght,
-adding their strength to fight off your invasion. Each 500 million citizens=
- of
-a colonies population are roughly equivalent to a single defending troop.<o=
-:p></o:p></span></p>
+v:shapes=3D"Picture_x0020_11"><![endif]>&#38450;&#24481;<o:p><span lang=
+=3DEN-US style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#37096;&#38538;&#12399;&#12289;&#24403;&#28982;&=
+#12289;&#12467;&#12525;&#12491;&#12540;&#12398;&#38450;&#24481;&#12434;&=
+#25285;&#12356;&#12414;&#12377;&#12290;&#12375;&#12363;&#12375;&#12289;&=
+#12467;&#12525;&#12491;&#12540;&#12398;&#20303;&#27665;&#12418;&#12289;&=
+#20405;&#25915;&#12392;&#12398;&#25126;&#12356;&#12395;&#21442;&#21152;&=
+#12375;&#12381;&#12398;&#21147;&#12434;&#36024;&#12377;&#12391;&#12375;&=
+#12423;&#12358;&#12290;&#12467;&#12525;&#12491;&#12540;&#20154;&#21475;&=
+#65301;&#20740;&#20154;&#12364;&#12362;&#12424;&#12381;&#38450;&#24481;&=
+#37096;&#38538;&#19968;&#12388;&#12392;&#35211;&#12394;&#12373;&#12428;&=
+#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>However note that if a colony has no defending troops the population w=
-ill
-not rise up to defend the colony. They will consider this to be a hopeless
-situation and resign themselves to becoming part of the invading empire.<o:=
-p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12375;&#12363;&#12375;&#12394;&#12364;&#12425;&#12418;&#12375;&=
+#12467;&#12525;&#12491;&#12540;&#12364;&#38450;&#24481;&#37096;&#38538;&=
+#12434;&#25345;&#12387;&#12390;&#12356;&#12394;&#12356;&#12394;&#12425;=
+<span lang=3D"en-nz">&#12400;</span>&#12289;&#20303;&#27665;<span lang=3D=
+"en-nz">&#12399;</span>&#12467;&#12525;&#12491;&#12540;&#12434;&#23432;&=
+#12427;&#12383;&#12417;&#12395;&#31435;&#12385;&#19978;&#12364;&#12426;&=
+#12414;&#12379;&#12435;&#12290;&#20303;&#27665;&#12399;&#32118;&#26395;&=
+#30340;&#12394;&#29366;&#24907;&#12392;&#32771;&#12360;&#12289;&#20405;&=
+#20837;&#12375;&#12390;&#12356;&#12427;&#24093;&#22269;&#12398;&#19968;&=
+#37096;&#12395;&#12394;&#12427;&#12371;&#12392;&#12434;&#29976;&#21463;&=
+#12377;&#12427;&#12391;&#12375;&#12423;&#12358;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>When a ground battle is in progress each side may have bonuses or
-penalties to their defend or attack strength. These bonuses or penalties re=
-late
-to the composition of their forces, the type of planet and other factors.<o=
-:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>
+&#22320;&#19978;&#25126;&#12398;&#36914;&#34892;&#20013;&#12289;&#12381;&=
+#12428;&#12382;&#12428;&#12398;&#20596;&#12364;&#12381;&#12398;&#25915;&=
+#25731;&#12539;&#38450;&#24481;&#24375;&#24230;&#12395;&#12508;&#12540;&=
+#12490;&#12473;&#12420;&#12506;&#12490;&#12523;&#12486;&#12451;&#12434;&=
+#25345;&#12388;&#12363;&#12418;&#30693;&#12428;&#12414;&#12379;&#12435;&=
+#12290;&#12371;&#12428;&#12425;&#12398;&#12508;&#12540;&#12490;&#12473;&=
+#12420;&#12506;&#12490;&#12523;&#12486;&#12451;&#12540;&#12399;&#12289;&=
+#36557;&#38538;&#12289;&#24785;&#26143;&#12398;&#31278;&#39006;&#12420;&=
+#12381;&#12398;&#20182;&#12398;&#35201;&#22240;&#12395;&#38306;&#36899;&=
+#12375;&#12390;&#12356;&#12414;&#12377;</o:p></span></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>S=
-trategy<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<o:p>&#25126;&#30053;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>For an invasion to succeed, the invading troops should significantly
-outnumber the defenders. Prolonged battles can weaken invading troops &#821=
-1;
-even if they eventually win the invasion it will take some time to recupera=
-te
-their readiness. Quickly overwhelming the defenders with irresistible force=
- is
-the best strategy.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#20405;&#25915;&#12434;&#25104;&#21151;&#12373;&#12379;&#12427;&=
+#28858;&#12395;&#12399;&#12289;&#20405;&#25915;&#12377;&#12427;&#37096;&=
+#38538;&#12399;&#38450;&#24481;&#20596;&#12424;&#12426;&#25968;&#12391;&=
+#33879;&#12375;&#12367;&#19978;&#22238;&#12427;&#12409;&#12365;&#12391;&=
+#12377;&#12290; &#38263;&#26399;&#12398;&#25126;&#38360;&#12399;&#20405;&=
+#25915;&#37096;&#38538;&#12434;&#24369;&#20307;&#21270;&#12373;&#12379;&=
+#12414;&#12377;&#65293; 
+&#12383;&#12392;&#12360;&#24444;&#12425;&#12364;&#26368;&#32066;&#30340;&=
+#12395;&#20405;&#30053;&#12391;&#21213;&#12388;&#12392;&#12375;&#12390;&=
+#12418;&#12289;&#28310;&#20633;&#12434;&#22238;&#24489;&#12377;&#12427;&=
+#12398;&#12395;&#26178;&#38291;&#12434;&#35201;&#12377;&#12427;&#20107;&=
+#12395;&#12394;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;&#25269;&=
+#25239;&#12391;&#12365;&#12394;&#12356;&#21147;&#12391;&#38450;&#24481;&=
+#20596;&#12434;&#32032;&#26089;&#12367;&#22311;&#20498;&#12377;&#12427;&=
+#12398;&#12399;&#12289;&#26368;&#12418;&#33391;&#12356;&#25126;&#30053;&=
+#12391;&#12377;&#12290;<br></o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_12" o:=
-spid=3D"_x0000_s1043"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:51.9pt;margin-=
-top:0;
- width:103.1pt;height:103.7pt;z-index:2;visibility:visible;mso-wrap-style:s=
-quare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_12"=
+ o:spid=3D"_x0000_s1043"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:51.9pt=
+;margin-top:0;
+ width:103.1pt;height:103.7pt;z-index:2;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
@@ -904,51 +940,80 @@ quare;
 </v:shape><![endif]--><![if !vml]><img width=3D172 height=3D173
 src=3D"GameConcepts_CombatGround_files/image004.png" align=3Dright hspace=
 =3D15
-v:shapes=3D"Picture_x0020_12"><![endif]><span lang=3DEN-US style=3D'mso-ans=
-i-language:
-EN-US;mso-no-proof:yes'>You should also attempt to land your invading forces
-simultaneously, or as close to this as possible. Piecemeal deployment of
-invading troops will mean they get picked off individually by the defenders,
-greatly diluting their impact.<o:p></o:p></span></p>
+v:shapes=3D"Picture_x0020_12">&#12414;&#12383;&#12289;&#20405;&#25915;&=
+#36557;&#12399;&#21516;&#26178;&#12395;&#12289;&#12354;&#12427;&#12356;&=
+#12399;&#12391;&#12365;&#12427;&#12384;&#12369;&#38291;&#38548;&#12434;&=
+#31354;&#12369;&#12378;&#12395;&#38477;&#19979;&#12373;&#12379;&#12427;&=
+#12424;&#12358;&#12395;&#21209;&#12417;&#12427;&#12409;&#12365;&#12391;&=
+#12377;&#12290; 
+&#20405;&#25915;&#37096;&#38538;&#12434;&#23569;&#12375;&#12378;&#12388;&=
+#27966;&#36963;&#12377;&#12428;&#12400;&#12289;&#12381;&#12428;&#12425;&=
+#12398;&#34909;&#25731;&#21147;&#12399;&#33879;&#12375;&#12367;&#24369;&=
+#12414;&#12426;&#12289;&#38450;&#24481;&#20596;&#12395;&#12424;&#12387;&=
+#12390;&#21508;&#20491;&#25731;&#30772;&#12373;&#12428;&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;<br><![endif]></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>R=
-esolving
-the battle<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#25126;&=
+#38360;&#12398;&#35299;&#27770;</span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>When the troops of either side have been completely eliminated then the
-battle is over.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12356;&#12378;&#12428;&#12363;&#12398;&#20596;&#12398;<span lang=3D=
+"en-nz">&#37096;&#38538;</span>&#12364;&#23436;&#20840;&#12395;&#25490;&=
+#38500;&#12373;&#12428;&#12383;<span lang=3D"en-nz">&#26178;&#12395;</span=
+>&#12289;&#25126;&#38360;&#12399;<span lang=3D"en-nz">&#32066;&#20102;&=
+#12375;&#12414;&#12377;</span>&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>If the troops of the defending empire have been wiped out then the
-invading empire takes over the colony, adding it to their own empire. Any b=
-ases
-at the colony (e.g. space ports) are also immediately taken over by the
-invading empire.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12418;&#12375;&#38450;&#24481;&#20596;&#12398;&#24093;&#22269;&=
+#12398;&#37096;&#38538;&#12364;&#28040;&#28357;&#12373;&#12379;&#12425;&=
+#12428;&#12383;&#12394;&#12425;&#12289;&#20405;&#25915;&#12375;&#12383;&=
+#24093;&#22269;&#12399;&#12289;&#12467;&#12525;&#12491;&#12540;&#12434;&=
+#21344;&#38936;&#12375;&#12381;&#12398;&#24093;&#22269;&#12395;&#21152;&=
+#12360;&#12414;&#12377;&#12290; 
+&#21516;&#26178;&#12395;&#12289;&#12467;&#12525;&#12491;&#12540;&#12398;&=
+#12354;&#12425;&#12422;&#12427;&#22522;&#22320;&#65288;&#20363;&#12360;&=
+#12400;&#23431;&#23449;&#28207;&#65289;&#12418;&#36914;&#25915;&#12375;&=
+#12383;&#24093;&#22269;&#12395;&#12424;&#12387;&#12390;&#21344;&#25312;&=
+#12373;&#12428;&#12414;&#12377;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12290;</span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>If the troops of the invader are wiped out then the defending empire k=
-eeps
-its colony, though some of its troops may have been lost, and some of its
-population killed in the fighting.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>
+&#12418;&#12375;&#20405;&#25915;&#20596;&#12398;&#37096;&#38538;&#12364;&=
+#28040;&#28357;&#12373;&#12379;&#12425;&#12428;&#12383;&#12394;&#12425;&=
+#12289;&#38450;&#24481;&#20596;&#12398;&#37096;&#38538;&#12398;&#33509;&=
+#24178;&#12364;&#22833;&#12431;&#12428;&#12289;&#24190;&#12425;&#12363;&=
+#12398;&#20154;&#21475;&#12364;&#25126;&#38360;&#12391;&#27578;&#12373;&=
+#12428;&#12383;&#12363;&#12418;&#30693;&#12428;&#12414;&#12379;&#12435;&=
+#12364;&#12289;&#38450;&#24481;&#20596;&#12398;&#24093;&#22269;&#12399;&=
+#12381;&#12398;&#12467;&#12525;&#12491;&#12540;&#12434;&#32173;&#25345;&=
+#12375;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>In either case &#8211; whether the invader or defender wins &#8211; the
-colonies development level will be temporarily set back by the disruption.<=
-o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12393;&#12385;&#12425;&#12398;&#22580;&#21512;&#12391;&#12418; &=
+#65293;&#20405;&#25915;&#20596;&#12363;&#38450;&#24481;&#20596;&#12393;&=
+#12385;&#12425;&#12364;&#21213;&#12387;&#12390;&#12418;&#65293; &#12467;&=
+#12525;&#12491;&#12540;&#38283;&#30330;&#12524;&#12505;&#12523;&#12399;&=
+#28151;&#20081;&#12395;&#12424;&#12387;&#12390;&#19968;&#26178;&#30340;&=
+#12395;&#20302;&#19979;&#12377;&#12427;&#12391;&#12375;&#12423;&#12358;&=
+#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2" o:s=
-pid=3D"_x0000_s1042"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:232.1pt;margin=
--top:0;
- width:283.3pt;height:260.6pt;z-index:3;visibility:visible;mso-wrap-style:s=
-quare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2"=
+ o:spid=3D"_x0000_s1042"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:232.1pt=
+;margin-top:0;
+ width:283.3pt;height:260.6pt;z-index:3;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
@@ -958,34 +1023,62 @@ quare;
 </v:shape><![endif]--><![if !vml]><img width=3D472 height=3D434
 src=3D"GameConcepts_CombatGround_files/image005.png" align=3Dright hspace=
 =3D15
-v:shapes=3D"Picture_x0020_2"><![endif]><span lang=3DEN-US style=3D'mso-ansi=
--language:
-EN-US;mso-no-proof:yes'>Victorious troops (of either invader or defender) a=
-lso
-receive a promotion &#8211; their strength will increase, making them more
-effective in future battles.<o:p></o:p></span></p>
+v:shapes=3D"Picture_x0020_2"><![endif]><span lang=3DEN-US style=3D=
+'mso-ansi-language:
+EN-US;mso-no-proof:yes'><o:p>&#21213;&#21033;&#12375;&#12383;<o:p>&#65288;=
+&#20405;&#25915;<span lang=3D"en-nz">&#20596;</span>&#12354;&#12427;&=
+#12356;&#12399;&#38450;&#24481;&#20596;<span lang=3D"en-nz">&#12393;&=
+#12385;&#12425;&#12363;&#19968;&#26041;&#12398;</span>&#65289;</o:p>&=
+#37096;&#38538;&#12399;&#26119;&#36914;&#12434;&#21463;&#12369;&#12414;&=
+#12377; 
+<span lang=3D"en-nz">&#12290;</span>&#12381;&#12428;&#12425;&#12398;&=
+#24375;&#12373;&#12399;&#22679;&#21152;&#12375;&#12289;&#23558;&#26469;&=
+#12398;&#25126;&#38360;&#12391;&#12399;&#12356;&#12387;&#12381;&#12358;&=
+#21177;&#26524;&#30340;&#12395;&#12394;&#12427;&#12391;&#12375;&#12423;&=
+#12358;&#12290;</o:p></span></p>
+	<p class=3DMsoNormal>
+	<o:p></o:p></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>M=
-onitoring
-a ground invasion<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&#22320;=
+&#19978;&#25126;&#12434;&#35251;&#23519;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>You can monitor the progress of a ground invasion by selecting the col=
-ony.
-The colony information will be displayed in the Selection Panel at the
-bottom-left of the main view. Defending troops will appear here in the
-&#8220;Troops&#8221; section. Invading troops will also appear here &#8211;
-they will have a red background.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12354;&#12394;&#12383;&#12399;&#12289;&#12467;&#12525;&#12491;&=
+#12540;&#36984;&#25246;&#12377;&#12427;&#12371;&#12392;&#12395;&#12424;&=
+#12387;&#12390;&#12289;&#22320;&#19978;&#20405;&#25915;&#12398;&#36914;&=
+#27497;&#12434;&#35251;&#23519;&#12377;&#12427;&#12371;&#12392;&#12364;&=
+#12391;&#12365;&#12414;&#12377;&#12290; &#12467;&#12525;&#12491;&#12540;&=
+#12398;&#24773;&#22577;&#12399;&#20027;&#30011;&#38754;&#12398;&#19968;&=
+#30058;&#24038;&#19979;&#12398;&#36984;&#25246;&#12497;&#12493;&#12523;&=
+#12395;&#34920;&#31034;&#12373;&#12428;&#12427;&#12391;&#12375;&#12423;&=
+#12358;&#12290; 
+&#38450;&#24481;&#20596;&#12398;&#37096;&#38538;&#12399; &#8220;Troops&=
+#8221;&#12398;&#38917;&#30446;&#12395;&#34920;&#31034;&#12373;&#12428;&=
+#12414;&#12377;&#12290;&#20405;&#25915;&#20596;&#12398;&#37096;&#38538;&=
+#12418;&#21516;&#12376;&#25152;&#12395;&#34920;&#31034;&#12373;&#12428;&=
+#12414;&#12377;&#65293; &#12381;&#12428;&#12425;&#12399;&#36196;&#12356;&=
+#32972;&#26223;&#12434;&#25345;&#12388;&#12391;&#12375;&#12423;&#12358;&=
+#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>You can also display a detailed animated view of ground battles by ope=
-ning
-the Ground Report screen. To open this screen first select the colony in the
-Selection Panel, then click the Troops area in the Selection Panel.</span><=
-span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US'><o:p></o:p></span></p>
+<p class=3DMsoNormal><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US'><o:p>&#12354;&#12394;&=
+#12383;&#12399;&#12289; Ground 
+Report&#30011;&#38754;&#12434;&#38283;&#12367;&#12371;&#12392;&#12395;&=
+#12424;&#12387;&#12390;&#12289;&#21516;&#12376;&#12367;&#12450;&#12491;&=
+#12513;&#21270;&#12373;&#12428;&#12383;&#22320;&#19978;&#25126;&#12398;&=
+#35443;&#32048;&#30011;&#38754;&#12434;&#35211;&#12427;&#12371;&#12392;=
+<span lang=3D"en-nz">&#12418;</span>&#12391;&#12365;&#12414;&#12377;&=
+#12290; 
+&#12371;&#12398;&#30011;&#38754;&#12434;&#38283;&#12369;&#12427;&#12383;&=
+#12417;&#12395;&#12289;<span lang=3D"en-nz">&#26368;&#21021;&#12395;</span=
+>&#36984;&#25246;&#12497;&#12493;&#12523;<span lang=3D"en-nz">&#12391;=
+</span>&#12467;&#12525;&#12491;&#12540;&#12434;&#36984;&#25246;&#12375;&=
+#12289;&#12381;&#12428;&#12363;&#12425;&#36984;&#25246;&#12497;&#12493;&=
+#12523;&#12398;Troops 
+&#12456;&#12522;&#12450;&#12434;&#12463;&#12522;&#12483;&#12463;&#12375;&=
+#12390;&#12367;&#12384;&#12373;&#12356;&#12290;</o:p></span></p>
 
 </div>
 

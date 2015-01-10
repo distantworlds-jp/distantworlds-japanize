@@ -103,237 +103,237 @@ href=3D"GameConcepts_GovernmentTypes_HiveMind_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -342,8 +342,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -473,8 +473,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -492,8 +492,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -511,8 +511,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -719,158 +719,209 @@ table.DWChart2EvenRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>H=
-ive Mind
-governments can be formed by alien races that have a natural telepathic
-ability. The prime value is loyalty to the community as a whole &#8211;
-individual expression and freedom is suppressed for this greater common goo=
-d.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#38598;&#21512;&#24847;&=
+#35672;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#25919=
+;&#24220;</span><span style=3D'mso-ansi-language:EN-GB'>&#12399;&#29983;&=
+#26469;&#12398;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+>&#12486;&#12524;&#12497;&#12471;&#12540;&#33021;&#21147;&#12434;&#25345;&=
+#12387;&#12390;&#12356;&#12427;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#12456;&#12452;&#12522;&#12450;&#12531;&#31278;=
+&#26063;&#12364;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB=
+'>&#32068;&#32340;</span><span style=3D'mso-ansi-language:EN-GB'>&#12377;&=
+#12427;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12371=
+;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#20027;&#35201;&=
+#12394;&#20385;&#20516;&#12399;&#20849;&#21516;&#20307;&#20840;&#20307;=
+</span><span style=3D'mso-ansi-language:EN-GB'>&#12408;&#12398;</span>=
+<span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#24544;&#35488;&=
+#12391;&#12377; 
+&#65293; </span><span style=3D'mso-ansi-language:EN-GB'>&#20491;&#12293;&=
+#12398;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#34920=
+;&#29694;</span><span style=3D'mso-ansi-language:EN-GB'>&#12420;</span>=
+<span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#33258;&#30001;=
+</span><span style=3D'mso-ansi-language:EN-GB'>&#12399;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12371;&#12398;&#12424;&#12426=
+;&#22823;&#12365;&#12356;&#20844;&#30410;&#12398;&#12383;&#12417;&#12395;=
+</span><span style=3D'mso-ansi-language:EN-GB'>&#25233;&#21046;&#12373;&=
+#12428;&#12414;&#12377;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'>&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>I=
-n Hive
-Minds all work is divided amongst distinct social castes. Some castes are
-responsible for food production, others for <span class=3DSpellE>defense</s=
-pan>,
-while others care for administration. In some alien societies even reproduc=
-tion
-is specialized to a small caste, with one or more &#8220;queens&#8221;
-producing each new generation.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#38598;&#21512;&#24847;&=
+#35672;</span>&#12391;<span style=3D'mso-ansi-language:EN-GB'>&#12399;&=
+#12289;</span>&#12377;&#12409;&#12390;&#12398;&#20181;&#20107;&#12364;&=
+#26126;&#30637;&#12394;&#31038;&#20132;&#30340;&#12394;&#12459;&#12540;&=
+#12473;&#12488;&#21046;&#24230;&#12395;<span style=3D=
+'mso-ansi-language:EN-GB'>&#12424;&#12387;&#12390;</span>&#20998;&#37197;&=
+#12373;&#12428;&#12414;&#12377;&#12290;<span lang=3D"en-nz">&#24190;&=
+#12388;&#12363;&#12398;</span>&#31038;&#20250;&#30340;&#38542;&#32026;=
+<span lang=3D"en-nz">&#12399;</span>&#39135;&#31975;&#29983;&#29987;&=
+#12289;&#38450;&#34907;<span lang=3D"en-nz">&#12289;&#12381;</span>&#12398=
+;&#20182;&#12398;&#12418;&#12398;&#12395;&#23550;&#12375;&#12390;&#36012;&=
+#20219;&#12364;&#12354;&#12426;&#12414;&#12377;&#12289;&#20182;&#26041;&=
+#20182;<span lang=3D"en-nz">&#38542;&#32026;&#12364;</span>&#32076;&#21942=
+;&#12434;&#27671;&#12395;&#12363;&#12369;&#12414;&#12377;&#12290;&#33509;&=
+#24178;&#12398;&#30064;&#36074;&#12394;&#31038;&#20250;&#12391;&#29983;&=
+#27542;&#12373;&#12360;&#12289;&#65297;&#20154;&#20197;&#19978;&#12398;&=
+#12300;&#22899;&#29579;&#12301;&#12364;&#12381;&#12428;&#12382;&#12428;&=
+#12398;&#26032;&#19990;&#20195;&#12434;&#29987;&#12415;&#20986;&#12377;&=
+#12392;&#12356;&#12358;<span lang=3D"en-nz">&#24418;&#24335;</span>&#12391=
+;&#12289;&#23567;&#12373;&#12356;<span lang=3D"en-nz">&#23554;&#38272;&=
+#30340;&#12394;</span>&#31038;&#20250;&#30340;&#38542;&#32026;&#12391;&=
+#12377;&#12290;</o:p></o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>H=
-ive Mind
-government type is only available to <span class=3DSpellE>Gizurean</span>, =
-<span
-class=3DSpellE>Boskara</span> and <span class=3DSpellE>Sluken</span> alien =
-races.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#38598;&#21512;&#24847;&=
+#35672;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#25919=
+;&#24220;&#12479;&#12452;&#12503;&#12399;Gizurean 
+&#12289;Boskara &#12392; Sluken</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#31278;&#26063;&#12384;&#12369;&#12364;&#21462;=
+&#12427;&#12371;&#12392;&#12364;&#20986;&#26469;&#12414;&#12377;&#12290;=
+</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>T=
-he
-government attributes for Hive Mind are outlined below.<o:p></o:p></span></=
-p>
+<p class=3DMsoNormal>
+<o:p>
+<span style=3D"FONT-FAMILY: &quot;&#65325;&#65331; &#26126;&#26397;&quot;,=
+&quot;serif&quot;; mso-ascii-font-family: Verdana; mso-hansi-font-family:=
+ Verdana">
+<span style=3D'mso-ansi-language:EN-GB'>&#38598;&#21512;&#24847;&#35672;&=
+#25919;&#24220;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+>&#12398;&#23646;&#24615;&#12399;&#20197;&#19979;&#12398;&#12392;&#12362;&=
+#12426;&#12391;&#12377;&#12290;</span></span></o:p></p>
 
-<table class=3DDWChart2 border=3D0 cellspacing=3D0 cellpadding=3D0 style=3D=
-'border-collapse:
+<table class=3DDWChart2 border=3D0 cellspacing=3D0 cellpadding=3D0 style=
+=3D'border-collapse:
  collapse;mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td valign=3Dtop style=3D'background:#383838;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt;margin-right=
-:0cm;
-  margin-bottom:6.0pt;margin-left:0cm;text-align:right;mso-yfti-cnfc:64'><b
-  style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
-:Verdana'>Advantages<o:p></o:p></span></b></p>
+  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt=
+;margin-right:0cm;
+  margin-bottom:6.0pt;margin-left:0cm;text-align:right;mso-yfti-cnfc:64'>
+  <b
+  style=3D'mso-bidi-font-weight:normal'>
+  <span style=3D'mso-bidi-font-family:Verdana'>
+  <o:p>&#38263;&#25152;</o:p></span></b></p>
   </td>
   <td valign=3Dtop style=3D'background:#383838;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>-20% corruption<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>-40% war weariness<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>-5% maintenance costs<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>+10% approval rating<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>-20% &#27738;&#32887;</span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>-40% &#21421;&#25126;</span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>-5% &#32173;&#25345;&#36027;</span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>+10% &#25903;&#25345;&#29575;</span></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:1'>
   <td valign=3Dtop style=3D'background:#181818;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt;margin-right=
-:0cm;
+  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt=
+;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:right;mso-yfti-cnfc:128'><b
-  style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
-:Verdana'>Disadvantages<o:p></o:p></span></b></p>
+  style=3D'mso-bidi-font-weight:normal'><span style=3D=
+'mso-bidi-font-family:Verdana'>
+  &#30701;&#25152;</span></b></p>
   </td>
   <td valign=3Dtop style=3D'background:#181818;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'><span style=3D'mso-bidi-font-fam=
-ily:
-  Verdana'>None<b style=3D'mso-bidi-font-weight:normal'><o:p></o:p></b></sp=
-an></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>None<b style=3D'mso-bidi-font-weight:normal'><o:p></o:p></b>=
+</span></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:2'>
   <td valign=3Dtop style=3D'background:#383838;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt;margin-right=
-:0cm;
+  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt=
+;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:right;mso-yfti-cnfc:64'><b
-  style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
-:Verdana'>Natural
-  Friends<o:p></o:p></span></b></p>
+  style=3D'mso-bidi-font-weight:normal'><span style=3D=
+'mso-bidi-font-family:Verdana'>
+  &#21451;&#22909;&#30340;</span></b></p>
   </td>
   <td valign=3Dtop style=3D'background:#383838;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>Hive Minds<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>Way of Darkness<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>Military Dictatorships<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>Monarchies<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D'mso-bidi-font-fami=
-ly:
-  Verdana'>Despotisms<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#38598;&#21512;&#24847;&#35672;</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#26263;&#40658;&#25919;&#27835;</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>&#36557;&#20107;&#29420;&#35009;</span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'><span style=3D=
+'mso-bidi-font-family:
+  Verdana'>&#21531;&#20027;&#21046;&#24230;</span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:64'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#23554;&#21046;&#25919;&#27835;</o:p></span></p>
   </td>
  </tr>
  <tr style=3D'mso-yfti-irow:3;mso-yfti-lastrow:yes'>
   <td valign=3Dtop style=3D'background:#181818;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt;margin-right=
-:0cm;
+  <p class=3DMsoNormal align=3Dright style=3D'margin-top:6.0pt=
+;margin-right:0cm;
   margin-bottom:6.0pt;margin-left:0cm;text-align:right;mso-yfti-cnfc:128'><b
-  style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-bidi-font-family=
-:Verdana'>Natural
-  Rivals<o:p></o:p></span></b></p>
+  style=3D'mso-bidi-font-weight:normal'><span style=3D=
+'mso-bidi-font-family:Verdana'>
+  &#25973;&#23550;&#30340;</span></b></p>
   </td>
   <td valign=3Dtop style=3D'background:#181818;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'><span style=3D'mso-bidi-font-fam=
-ily:
-  Verdana'>Democracies<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'><span style=3D'mso-bidi-font-fam=
-ily:
-  Verdana'>Republics<o:p></o:p></span></p>
-  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm;margin-bo=
-ttom:
-  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'><span style=3D'mso-bidi-font-fam=
-ily:
-  Verdana'>Mercantile Guilds<o:p></o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#27665;&#20027;&#20027;&#32681;</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#20849;&#21644;&#21046;&#24230;</o:p></span></p>
+  <p class=3DMsoNormal style=3D'margin-top:6.0pt;margin-right:0cm=
+;margin-bottom:
+  6.0pt;margin-left:0cm;mso-yfti-cnfc:128'>
+  <span style=3D'mso-bidi-font-family:
+  Verdana'>
+  <o:p>&#21830;&#26989;&#36899;&#21512;</o:p></span></p>
   </td>
  </tr>
 </table>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-size:12.0pt;mso-ansi-=
-language:
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-size:12.0pt=
+;mso-ansi-language:
 EN-GB'><o:p>&nbsp;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'><=
-o:p>&nbsp;</o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>=
+<o:p>&nbsp;</o:p></span></p>
 
 </div>
 
