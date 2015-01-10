@@ -1,321 +1,321 @@
 Welcome
 Welcome
-Welcome to the Distant Worlds advanced tutorial.
+Distant Worlds の高度なチュートリアルへ、ようこそ。
 
-If you have not done so already, please take the basic tutorial from the main menu.
+まだ行っていない場合は、メインメニューから基本的なチュートリアルをご利用ください。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-Remember that you can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください
 ~
 Introduction
 Introduction
-This tutorial will consider the advanced tools available in the game to expand and manage your empire.
+このチュートリアルでは、あなたの帝国を拡大し管理するために、ゲームの高度なツールの利用を検討していきます。
 
-These tools include:
-- interacting with other empires
-- designing and building new ships and bases
-- using troops and intelligence agents
+これらのツールは、次のとおりです。
+- 他の帝国との対話
+- 新しい艦船と拠点の設計と構築
+- 部隊と諜報部員の使用
 ~
 Galaxy Map
 Galaxy Map
-Let's begin by looking at a tool that helps you find things in a vast galaxy - the Galaxy Map.
+広大な銀河で物事を見つけるのに役立つツールを見てみましょう。- 銀河マップ
 
-The Galaxy Map shows everything that you currently know about the galaxy: potential colonies, resources, alien populations, pirates and more.
+銀河マップを使用すると、現在の銀河について知っているすべてのものを示せます：潜在的な植民地、資源、異星人集団、海賊、もっと
 
-Information on this map is constantly updated by discoveries made by the ships in your empire.
+このマップに関する情報は、あなたの帝国の艦船による発見で 絶えず更新されます。
 
-You access the Galaxy Map using the button indicated, or by pressing the G key.
+あなたは、示されたボタンを使用するか、 [G] キーを押して、銀河マップにアクセスします。
 ~
 Galaxy Map - Select a System
 Galaxy Map - Select a System
 
-Click the galaxy map at left to select a system. The map indicator lines will snap-to the system nearest the location where you clicked.
+星系を選択するには、左側にある銀河の地図をクリックします。マップ支持線が、クリックした地点の最も近くの星系に調整して示します。
 ~
 Galaxy Map - Select a planet
 Galaxy Map - Select a planet
-Click the system map at top right to select a particular planet, moon or asteroid.
+特定の惑星、月やアステロイドを選択し、右上にあるシステムマップをクリックしてください。
 
-As in the galaxy map, the system map indicator lines will snap-to the planet nearest the location where you clicked.
+銀河マップの中のマップ支持線は、クリックした地点の最も近くの惑星に調整して示されます。
 ~
 Galaxy Map - Info Panel
 Galaxy Map - Info Panel
-Details on the selected planet or moon are displayed in the Info Panel at right middle.
+選択された惑星や月についての詳細は、右の中央の情報パネルに表示されます。
 ~
 Galaxy Map - Planet Surface
 Galaxy Map - Planet Surface
-A picture of the surface of the selected planet or moon is displayed at bottom right.
+選択された惑星や月の表面の画像が、右下に表示されます。
 ~
 Galaxy Map - Selecting View
 Galaxy Map - Selecting View
-You can filter the type of information displayed in the galaxy and system maps by selecting a view from the dropdown list.
+ドロップダウンリストからビューを選択することによって、銀河マップと星系マップで、表示される情報の種類を選別することができます。
 
-Systems and planets matching the selected view appear in yellow on the galaxy and system maps.
+選択整合された星系と惑星が、銀河マップと星系マップで黄色で表示されます。
 ~
 Expansion Planner
 Expansion Planner
-The Expansion Planner screen provides powerful tools to help you plan the location of your next colony or mining station.
+拡張計画画面では、あなたの次の植民地や鉱業局の位置を計画する際に役立つ強力なツールを提供します。
 
-From here you can assign missions to your colony ships and construction ships, using them to expand your empire.
+ここからあなたの帝国を拡大するために、それらを使用して、あなたのコロニー艦や建設船への任務を割り当てることができます。
 
-Open the Expansion Planner screen by using the button indicated or by pressing F3.
+示されているボタンを使用するか、[F3] キーを押して拡張計画画面を開きます。
 ~
 Expansion Planner - Resources
 Expansion Planner - Resources
-The top part of the screen shows the current status of all resources in the galaxy, including their current price and level of demand.
+画面の上部には、銀河系内のすべての資源の現在の価格と、需要のレベルを含んだ状態を示しています。
 
-You can use this information to decide which planets you should mine for resources.
+あなたは、資源を採掘すべき惑星を決定するために、この情報を使用できます。
 ~
 Expansion Planner - Targets
 Expansion Planner - Targets
-The bottom list can be changed to show various types of targets: potential colonies, potential mining locations, etc. Use the dropdown list to change the information shown here.
+下のリストは、目標の様々な型を表示するように変更できます：潜在的なコロニー、潜在的な採掘場所、など。ここに示されている情報を変更するには、ドロップダウンリストを使用します。
 
-When you select a target from the list its location in the galaxy is shown on the map at the right. You can use the buttons at the bottom to send a colony ship or construction ship to the location.
+リストからターゲットを選択すると、銀河内のその場所が右のマップに表示されます。下部の使用することで、その場所へコロニー艦か建設艦を送ることができます。
 ~
 Diplomacy & Other Empires
 Diplomacy & Other Empires
-As you explore the galaxy you will encounter other empires.
+銀河を探索すると、他の帝国と遭遇するでしょう。
 
-You can form beneficial treaties with friendly empires.
+友好的な帝国と有益な条約を形成することができます。
 
-But if relations deteriorate with another empire you could find yourself on the receiving end of trade sanctions or even war.
+しかし、関係が別の帝国と悪化した場合、貿易制裁受ける側、あるいは戦争となった自分自身を 見つけることでしょう。
 
-You can monitor diplomatic relations from the Diplomacy screen (F5 key)
+あなたは、外交画面（ [F5] キー）から外交関係を監視することができます。
 ~
 Diplomacy - Influences
 Diplomacy - Influences
-The diplomacy screen shows all of the relations for the selected empire. Each relation shows the total annual trade volume between the two empires.
+外交画面では、選択された帝国の関係のすべてを示しています。それぞれの関係は、二つの帝国間の年間総貿易量を示しています。
 
-Many factors influence relations between empires, but some important ones are:
-- Trade volume between empires
-- Competition over systems and resources
-- Like or dislike of an empire's Government type
+多くの要因が帝国との関係に影響を与えますが、いくつか重要なものは以下のとおりです。
+- 帝国の間の貿易量
+- 星系と資源をめぐる競争
+- 帝国の政府型の相性
 ~
 Diplomacy - Selected Empire
 Diplomacy - Selected Empire
-A summary of the selected empire appears at the right. This shows the empire's flag and dominant race.
+選択された帝国の要約が右上に表示されます。これは帝国の旗および支配的な種族を示しています。
 
-The selected empire's current relationship with us appears at the bottom.
+私達との選択した帝国の現在の関係は、下部に表示されます。
 
-You can initiate a conversation with the selected empire by clicking the Speak button at the top-right.
+右上の話すボタンをクリックすると、選択した帝国との対話を開始することができます。
 ~
 Diplomacy - Conversations
 Diplomacy - Conversations
-In the conversation screen you can select from the options in the bottom panel.
+対談画面では、パネルの下部のオプションから選択することができます。
 
-This includes sending warnings, changing your relationship (proposing treaties, declaring war) or offering gifts.
+これは、警告の送信、関係の変更（宣戦布告、条約を提案）、贈与の提供を含んでいます。
 ~
 Trade Sanctions & Blockades
 Trade Sanctions & Blockades
-Trade sanctions are where an empire refuses to trade with another empire. No resources will be bought or sold between the two empires.
+帝国が他の帝国との取引を拒否した場合、貿易制裁が行われます。資源が二帝国間で売買されません。
 
-When trade sanctions exist between two empires, blockades may be declared against enemy colonies and space ports. In this situation no trade by ANY empire is permitted with the blockaded colony or base. Blockades are enforced by military ships from the initiating empire.
+貿易制裁が二帝国間に存在する場合、封鎖が敵コロニーと宇宙港に対して宣言することができます。このような状況では、いかなる帝国であっても、コロニーや拠点での貿易は許可されません。封鎖は、開始している帝国から 軍艦によって実施されます。
 
-See the Galactopedia (F1) for more information on initiating blockades.
+封鎖開始の詳細については、Galactopedia [F1] を参照してください。
 ~
 Empire Comparisons
 Empire Comparisons
-You can track how you compare with other empires in the Empire Comparison screen.
+帝国の比較画面で、他の帝国と比較する方法を 追跡することができます。
 
-Open this screen using the indicated button or the V key.
+指示されたボタン、または [V] キーを使用して、この画面を開きます。~
 ~
 Victory Conditions
 Victory Conditions
-The progress of each empire towards meeting the victory conditions are shown here.
+各帝国の勝利条件への進捗状況は、ここに示されます。
 
-This includes each empire's unique race-specific victory conditions.
+これは、各帝国の独自の種族特有の勝利条件が含まれています。~
 ~
 Empire Comparison Graphs
 Empire Comparison Graphs
-Here you can also view graphs showing ordered rankings of all known empires based on several different factors.
+ここではまた、いくつかの異なる要因に基づいて、既知の全帝国の順序づけされた 順位を示すグラフを表示することができます。
 ~
 Research
 Research
-Research uncovers new technologies for use in constructing ships and bases.
+研究では、艦船や拠点を構築する際に使用するための新技術を、明らかにすることになります。
 
-It can also provide your empire with new capabilities, like colonizing new types of planets or constructing larger ships and bases.
+それはまた、新しい惑星型の植民地化、大型船や拠点の構築のような新機能を帝国に提供します。
 
-You choose which research projects you want to undertake in the Research screen (F7). Each of the three research areas (Weapons, Energy, HighTech) has its own tech tree containing all of the research projects for that area. 
+三つの研究分野（兵器、エネルギー、高度技術）の各々は、その領域の全研究課題を含んだ独自の技術ツリー を持っています。
 ~
 Research Stations
 Research Stations
-Research is performed in research laboratories at Space Ports or other dedicated Research Stations.
+研究は、宇宙港やその他の専用研究ステーションの研究室で行われます。
 
-As your empire grows you can research faster, requiring more research facilities.
+帝国が拡大するにつれ、より多くの研究施設を必要とし、より速く研究することができます。
 
-There are a number of different research categories. Each category has a collection of components that can be used in ships or bases.
+異なる研究分野がいくつかあります。各カテゴリには、艦船や拠点で使用することができる構成要素の集まりを持っています。
 ~
 Designs
 Designs
-All of the ships and bases in your empire must be based on a design. Designs are templates or blueprints for building a ship or base.
+あなたの帝国の全ての艦船と拠点は、設計に基づいている必要があります。設計は、艦船や基地を構築するためのテンプレートや設計図です。
 
-Designs are made by selecting a set of components that provide all of the functionality required for the particular type of ship or base.
+設計は、艦船や拠点の特定の型に必要な全機能を提供する構成要素の集まりを、選択することによって作られています。
 
-As your research progresses more advanced components become available. You should upgrade your designs to use the improved components.
+あなたの研究の進歩に伴い、高度な構成要素が利用可能になります。あなたは、改善された構成要素を使用できるように設計を改良する必要があります。
 
-Designs are managed from the Designs screen (F8 key).
+設計は、設計画面 [F8] キーで管理されます。
 ~
 Designs Screen
 Designs Screen
-In the Designs screen you can edit an existing design or create a new one.
+設計画面では、既存の設計を編集するか、または新しいものを作成することができます。
 
-Let's view an existing design for a military ship, a frigate.
+軍艦、フリゲートの既存の設計を見てみましょう。
 ~
 Design Detail Screen
 Design Detail Screen
-In the Design Detail screen you can edit or view a design.
+設計詳細画面では、設計を表示や編集することができます。
 
-Here you can add and remove components to customize your design to your own special requirements.
+ここでは、あなた独自の特別な要件に合わせて設計を作成するために、構成要素の追加や削除を行うことができます。
 
-The various panels on this screen give detailed information about the design.
+この画面上の様々なパネルは、設計に関する詳細な情報を与えています。
 
-Let's take a look at some of these.
+これらのいくつかを見てみましょう。
 ~
 Designs - Role and Tactics
 Designs - Role and Tactics
-Here you can select a picture for your design from any of the ship pictures in the game.
+ここでは、ゲーム中の艦船画像のいずれかから、あなたの設計のための画像を選択することができます。
 
-Assign a role for the design. This indicates the purpose of the ship or base. Each role has specific rules about what component types should be present.
+設計の役割を割り当てます。これは、艦船または拠点の目的を示します。各役割には、構成要素の種類が存在しなければならないかについての 特定の規則があります。
 
-Assign tactical behavior when in combat using battle and invasion tactics. See online help for more information on Battle Tactics and Invasion Tactics.
+戦闘や侵略戦術を使用して戦う時における、戦術的な動作を割り当てます。戦闘戦術と侵攻戦術の詳細については、オンラインヘルプを参照してください。
 ~
 Designs - Warnings
 Designs - Warnings
-This panel lists rules and recommendations to assist in producing a valid design. As you add and remove components to the design the warnings are updated to identify current problems.
+このパネルには、規則や有効な設計を製造する際に補助する、推奨事項を示しています。あなたが構成要素を追加および削除すると、現在の問題を識別するために、設計への警告が更新されます。
 
-Rules are in red and must be satisfied to allow the design to be saved.
+規則は赤色で表示され、設計を保存できるように満たされなければいけません。
 
-Recommendations are in yellow and can be ignored if desired.
+勧告は黄色であり、必要であれば無視することができます。
 ~
 Available Components
 Available Components
-This panel lists all components available for using in the design.
+このパネルは、設計で使用するための使用可能なすべての設計要素が表示されます。
 
-By default this list is filtered to only show the most recent version of each component type.
+通常このリストは、構成要素の各型の最新版を表示するように操作されています。
 ~
 Design Components
 Design Components
-This panel lists all of the components currently used on the design. This list effectively IS the design.
+このパネルには、現在の設計で使用されるすべての構成要素が一覧表示されます。このリストは、効果的に設計されています。
 
-Use the Add Component and Remove Component buttons to modify your design.
+[構成要素の追加] ボタン と [構成要素の削除] ボタン を使用して、あなたの設計を変更することが出来ます。
 
-If the design has already been used to build a ship or base you cannot modify it. You cannot change the components that it uses.
+設計がすでに艦船や拠点を建設するために使用されている場合は、それを変更することはできません。あなたは、それを使用する構成要素を変更することはできません。
 ~
 Designs - Component Detail
 Designs - Component Detail
-This panel provides detailed information for the currently selected component.
+このパネルには、現在選択されている構成要素の詳細情報を提供しています。
 
-The component shown here changes as you select different components in either the Available Components list or the Design Components list.
+利用可能な構成要素のリストか、構成要素設計のリストのいずれかの構成要素を選択でき、構成要素は、ここで変更を示します。
 ~
 Designs - Saving Your Design
 Designs - Saving Your Design
-When you are finished creating your new design click the Save button to make the design available for construction.
+新しい設計の作成を完了したら、建設用の設計が利用できるように [保存] ボタンをクリックします。
 
-Note that all requirements in the Warnings panel (in red) must be satisfied before you can save the new design.
+あなたは新しい設計を保存する前に警告パネル（赤）で、全要件が満たされなければならないことに注意してください。
 ~
 Construction
 Construction
-All construction costs money - you must have sufficient funds to buy new ships and bases.
+すべての建設は費用がかかります。 - あなたは新しい艦船や拠点を購入するために、十分な資金を持っている必要があります。
 
-As your technology level increases your construction abilities grow. You will be able to build progressively larger ships and bases.
+あなたの技術レベルが増加すると、あなたの建設能力が成長します。あなたは徐々により巨大な艦船や拠点を構築することができます。
 
-Let's take a look at two ways that you can build a new ship.
+新しい艦船を造ることができる2つの方法を見てみましょう。
 ~
 Construction - Main View
 Construction - Main View
-The first way to build a new ship is to select the build location in the main view. The build location can be either a space port (for most ship types) or a colony (for colony ships or construction ships).
+新しい艦船を構築する最初の方法は、メインビューで建設場所を選択することです。建設の場所は、宇宙港（ほとんどの艦種）か、コロニー（コロニー艦か建設船）のどちらかになります。
 
-With your colony or space port selected, right click to show a pop-up menu with a "Build" menu option.
+あなたのコロニーや宇宙港が選択された状態で、 [建設] メニュー オプションを表示して、右クリックを行います。
 
-The "Build" submenu lists all designs that are valid to build at this location. Select one to begin construction.
+[建設サブ] メニュー は、この場所に構築することが有効なすべての設計を示しています。建設を開始するかを選択します。
 
-If you cannot afford to build a particular design it will be disabled in the submenu.
+あなたが特定の設計を構築する余裕がなければ、サブメニューは無効になります。
 ~
 Construction Yards screen
 Construction Yards screen
-The second way to build a new ship involves jumping directly to the Space Port construction yards. Do this by clicking on the Construction Yards button (F10 key).
+新しい艦船を構築するための第二の方法は、宇宙港の建設ヤードに直接移動します。建設ヤードボタン [F10] キーをクリックしてこれを行います。
 
-In the Construction Yards tab, select a ship to purchase from the dropdown list at the right. Then click the "Purchase" button to begin construction.
+建設ヤードのタブで、右側にあるドロップダウンリストから、購入する艦船を選択します。その後、建設を開始するために [購入] ボタンをクリックします。
 
-If you cannot afford to build the selected ship your Available Funds will flash red.
+選択した艦船を構築する余裕がない場合、利用可能な資金が赤く点滅します。
 ~
 Build Order screen
 Build Order screen
-Another very efficient way to build new ships is the Build Order screen. Open this screen by clicking the Build Order button (F9 key).
+新しい艦船を構築するためのもう一つの非常に効率的な方法は、建設発注画面です。建設発注ボタン（ [F9] キー）をクリックして、この画面を開きます。
 
-On this screen you can see your current levels for each ship type, as well as the number of new ships suggested by your advisors.
+この画面では、あなたの顧問によって提案された新しい艦船の値だけでなく、あなたの現在の各艦船のレベルを確認することができます。
 
-You can modify the amount of ships for each type, and select a specific design to build.
+あなたは、各タイプの艦船の大きさを変更して、構築する特定の設計を選択することができます。
 
-When you are satisfied with the order, click the 'Purchase' button to buy the new ships and begin construction.
+あなたが発注に満足したならば、新し艦船を購入して建設を開始するために [購入] ボタンをクリックしてください。
 ~
 Fleets
 Fleets
-Fleets allow you to group a number of military ships together and assign missions to the entire group. This is useful for coordinating large attacks on enemy targets.
+艦隊は、軍艦を数隻まとめて艦隊とし、グループ全体への任務を割り当てることを行えます。これは、敵目標に大攻勢をしかける為の調整を行うのに便利です。
 ~
 Fleets - Assigning Ships
 Fleets - Assigning Ships
-You can assign any of your military ships to a fleet by selecting them, then right-clicking on them to display the mission popup menu. Select "Join Fleet" from the menu and then select which fleet you want to join in the submenu.
+次に、それらの上で右クリックして [任務] ポップアップメニューを表示し、それらを選択することによって艦隊にいずれかの軍艦を割り当てることができます。メニューから [艦隊に参加] を選択してから、サブメニューで参加する艦隊を選択します。
 
-From the submenu you can also create a new fleet with the selected ship as the first ship in the fleet.
+サブメニューから艦隊の最初の艦船のように、選択した艦船と新しい艦隊を作成することができます。
 ~
 Fleets - Appearance
 Fleets - Appearance
-When you are zoomed out to system level, fleets appear as an inverted triangle icon.
+あなたは、星系レベルにズームアウトされると、艦隊は逆三角形のアイコンとして表示されます。
 
-The number of ships in the fleet is displayed inside the triangle symbol.
+艦隊の艦船の数は三角形のシンボル内に表示されます。
 ~
 Fleets - Selecting
 Fleets - Selecting
-To select one of your fleets, just double-click any ship in the fleet.
+あなたの艦隊の一つを選択するには、艦隊の任意艦船をダブルクリックします。
 
-Fleets are managed from the Fleets screen (F12 key).
+艦隊は艦隊画面 [F12キー] から管理されます。
 ~
 Troops
 Troops
-Troops defend your colonies against invasion by enemy empires. They can also be used as attacking forces to invade and take over enemy colonies.
+部隊は敵の帝国の侵略に対するあなたのコロニーを守備します。彼らはまた、侵略部隊として攻撃に使用することができ、敵のコロニーを引き継ぎます。
 ~
 Troops - Recruiting
 Troops - Recruiting
-Troops are recruited at your colonies. They cost money to maintain, so only recruit troops that you really need.
+部隊は、あなたのコロニーで徴兵されます。彼らは維持するのに経費が必要なので、あなたが本当に必要とする部隊を募集します。
 
-You can recruit troops from the Troops tab of the Colonies screen (F2 key).
+あなたは、コロニー画面 [F2] キーの部隊タブから部隊を募集することができます。
 
-You can also right-click on any of your colonies in the main view to recruit them from the popup menu.
+また、メインビューで、コロニーのいずれかを右クリックし、ポップアップメニューから部隊徴兵までを選択することができます。
 ~
 Troops - Transporting
 Troops - Transporting
-Troops can be loaded onto ships that have troop storage components, such as troop transports or larger military ships. They can then be sent to another colony and unloaded there to reinforce it. Or they can be used as an invasion force at an enemy colony.
+部隊は、部隊輸送や大型軍用艦として部隊保管構成要素を持っている艦船に積み込むことができます。彼らはその後、別のコロニーに送られて、それを補強するために積み下ろすことができます。またそれらは、敵コロニーに侵略軍として使用することができます。
 
-The troops in your empire can be managed from the Troops screen.
+あなたの帝国の部隊は、部隊画面から管理することができます。
 ~
 Intelligence Missions
 Intelligence Missions
-Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+諜報任務は密かに他の帝国に潜入し、彼らの資産を盗んだり破壊することができます。
 
-Intelligence agents are the highly-trained and skilled specialists that you use to accomplish these missions.
+諜報機関は、これらの任務を遂行するために使用する、高度な訓練を受けた熟練した専門家です。
 
-Your agents can be managed from the Characters screen (F4 key).
+あなたの工作員は、文字画面（ [F4] キー）から管理することができます。
 ~
 Assigning missions
 Assigning missions
-The Mission summary panel at the bottom-right of the screen allows you to assign missions to agents.
+画面の右下にある任務要約パネルでは、諜報員を任務に割り当てることができます。
 
-Select a target empire for the mission and a mission type.
+任務と任務の種類に適した目標帝国を選択します。
 
-The more time you allow for the mission, the greater the chance of success.
+より多くの時間によって、偉大なる成功の機会を持ち、任務達成を可能にします。
 ~
 Counter Intelligence
 Counter Intelligence
-Counter intelligence is also critical to protect your empire. You can assign agents to prevent enemy intelligence missions - they will actively seek out spies and saboteurs and report any discoveries to you.
+彼らは積極的にスパイや諜報員を探し出し、あなたにどんな発見かを報告します。諜報活動はまた、あなたの帝国を保護することが重要です。あなたは敵の諜報任務を防止するために、工作員を割り当てることができます - 彼らは積極的にスパイや工作員を探し出し、あなたにどんな発見かを報告します。
 
-Beware of the negative fallout from botched intelligence missions - if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+やり損われた諜報任務から起こる負の副次効果に注意して下さい - もう一つの帝国がそれらに対してあなたの行動を発見した場合、それが劇的にあなたの帝国の彼らの評価を低下させ、さらには戦争につながる可能性があります。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-Please refer to the Galactopedia (F1) for even more detailed information.
+さらに詳細な情報についてはGalactopedia[F1]を参照してください。
 ~

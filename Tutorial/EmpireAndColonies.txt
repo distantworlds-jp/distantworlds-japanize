@@ -1,110 +1,110 @@
 ﻿Welcome
 Welcome
-Welcome to the Distant Worlds tutorial about your Empire and Colonies.
+Distant Worlds のチュートリアルへようこそ。このチュートリアルでは、貴方の帝国とコロニーについて学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 Your Empire
 Your Empire
-Now let's get an overview of your empire.
+ここでは、あなたの帝国の概要を得てみましょう。
 
-You can view a summary of your empire from the Empire Summary screen (F6). Click the Empire Summary button to show this screen.
+帝国概要画面（[F6] キー）からあなたの帝国のサマリーを表示できます。この画面が表示されるよう、[帝国概要] ボタンをクリックします。
 ~
 State vs Private
 State vs Private
-Your empire is divided into two sections:
-- State: the portion you control
-- Private: your private citizens who go about their own business without your help
+あなたの帝国は二つのセクションに分かれています:
+- 国家(State)：あなたがコントロールする部分
+- 民間(Private)：あなたの助けを借りずに自分のビジネスに取り掛かるあなたの市民
 
-Note that you only control the State portion of your empire. You have no direct control of your private citizens activities.
+あなたの帝国の国家の部分だけを、制御することに注意してください。あなたの市民活動を、直接制御することはできません。
 ~
 Private Citizens
 Private Citizens
-Your private citizens go about their own business, improving their colonies.
+あなたの一般市民は彼らのコロニーを改善し、自分のビジネスに取り掛かかります。
 
-This means that they trade goods, transport cargo and mine resources - all without any intervention from you.
+これは彼らが、商品、輸送貨物。鉱業資源を取引することを意味します - あなたからの介入は全くありません。
 ~
 State Activities
 State Activities
-The state portion of your empire has four basic tasks:
-- Exploring the galaxy
-- Colonizing new planets
-- Constructing new ships
-- Defending your empire
+あなたの帝国の国家の部分は、4つの基本的な任務があります。
+- 銀河を探索
+- 新惑星を植民地化
+- 新しい艦船を構築
+- あなたの帝国を防衛
 ~
 Government Style
 Government Style
-Each empire follows a particular style of government. Each government type has specific advantages and disadvantages.
+各帝国は、政府の特定のスタイルに従っています。各政府は、特定のタイプの長所と短所があります。
 
-You can change your government style by having a revolution. But there are negative side effects from revolution, including a temporary setback of development at your colonies.
+あなたが大変革を起こすことによって、あなたの政府のスタイルを変更することができます。 しかし、あなたのコロニーで開発の一時的な後退を含む大変革の負の副作用があります。
 ~
 State Income
 State Income
-Money is critical to fund your empire. Your state economy derives income from four areas:
-- colony taxes
-- transaction fees at your space ports
-- purchases of new ships by your private citizens
-- bonuses from trade with other empires
+資金はあなたの帝国にファンドを供給することが重要です。あなたの国家経済は、4つの領域から収入を導き出します:
+- コロニー税
+- あなたの宇宙港での取引手数料
+- あなたの市民による新たな船の購入
+- 他の帝国との貿易からのボーナス
 ~
 Colonies
 Colonies
-Let's take a look at the colonized planets in your empire.
+あなたの帝国に、植民地化された惑星を見てみましょう。
 
-Colonies are the heart of your empire. When you lose all of your colonies, you lose the game.
+コロニーはあなたの帝国の心臓部です。あなたはコロニーをすべて失ったとき、このゲームに敗北します。
 ~
 Colonies - Tax
 Colonies - Tax
-Colonies produce wealth. Your empire's main revenue comes from taxing colonies.
+コロニーは、富を生み出します。あなたの帝国の主な収入はコロニー税収から来ています。
 
-By default colony tax levels are controlled automatically, but you can alter each colony tax rate directly if you prefer.
+そしてお望みならば、あなたは直接、各コロニーの税率を変えることができます。
 ~
 Colonies - Growth
 Colonies - Growth
-Colonies grow in two ways: population and development level
+コロニーは2つの方法で成長します：人口と開発レベル
 
-Population: grows over time until it reaches a maximum level for the planet.
+人口：それは惑星の最大レベルに達するまで時間をかけて成長します。
 
-Development Level: when a colony receives a steady supply of luxury resources its general development level grows. Higher development level means more wealth and thus more tax revenue.
+開発レベル：コロニーは贅沢資源の安定供給を受けるとき、その一般的な開発のレベルが大きくなります。高い開発レベルは、より多くの富と、それによる多くの税収を意味します。 
 ~
 Population Indicator
 Population Indicator
-The population size and development level of a colony is indicated by the graph displayed in the colony's name badge.
+人口規模とコロニーの開発レベルはコロニーの名札に表示されるグラフで示されます。
 
-The horizontal axis indicates the population size. The vertical axis relates to the development level.
+横軸は、人口の大きさを示しています。縦軸は、開発レベルに関係します。
 ~
 Empire and Capital
 Empire and Capital
-The empire owning a colony is indicated by the color of the surrounding circle and name badge. If the colony is the empire capital a gold star also appears to the left of the name.
+コロニーを所有している帝国は、周囲の円の色と名札によって示されます。コロニーが帝国の首都である場合は、金色の星が名前の左に表示されます。
 ~
 Dominant Race
 Dominant Race
-The dominant alien race at the colony is displayed at the bottom of the name badge.
+コロニーにおける支配的な異種族は、名札の下部に表示されます。
 ~
 Resources
 Resources
-The natural resources present at the colony are also displayed at the bottom of the name badge.
+コロニーに存在する天然資源も、名札の下部に表示されます。
 
-These resources at your colonies are automatically mined and then used, either to build things or to be sold.
+なにかを造るか販売のために、あなたのコロニーのこれらの資源が自動的に採掘され、そして使われます。
 ~
 Colony List
 Colony List
-A complete list of all the colonies in your empire is available from the Colonies screen.
+あなたの帝国内のすべてのコロニーの完全なリストは、コロニー画面から利用できます。
 
-You can open this screen using the button indicated or by pressing the 'F2' key.
+あなたは、示されているボタンを使うか、[F2] キーを押すことによって、この画面を開くことができます。
 ~
 Colonies - Cycling
 Colonies - Cycling
-You can quickly cycle through all of the colonies in your empire by using the Cycle Colonies button.
+あなたは [コロニー 順送り] ボタンを使用して、あなたの帝国の植民地のすべてを迅速に順送りすることができます。
 
-You can do the same thing by pressing the 'C' key.
+あなたは、[C] キーを押すことによって、同じことを行うことができます。
 ~
 Completed
 Completed
-Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+このチュートリアルを習得していただきありがとうございます。さぁ、銀河を探索し、あなたの帝国の構築を始めましょう！
 
-When you are ready you can also try the other tutorials from the main menu.
+準備ができたら、あなたはまた、メインメニューから他のチュートリアルを試すことができます。
 ~

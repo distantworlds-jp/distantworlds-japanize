@@ -1,74 +1,74 @@
 ﻿Welcome
 Welcome
-In Distant Worlds you can play as a non-space-faring empire that must first develop the technologies of hyperspace travel and colonization before you can head out into the stars.
+Distant Worlds において非宇宙航行帝国としてプレイするためには、超空間航法やコロニー化の技術を開発する力量が必要です。
 
-This tutorial will explain how to play as a pre-warp empire.
+このチュートリアルではワープ以前の帝国としてプレイする方法を説明します。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 PreWarp Empire
 PreWarp Empire
-As a pre-warp empire you initially have no ships or bases at all. You are at the dawn of the age of space exploration!
+ワープ以前の帝国として、あなたは最初にまったく艦船や拠点を持っていません。宇宙探検時代の夜明けです！
 
-You start with only basic space technology - no hyperdrives, shields or colonization.
+あなたは、基本的な宇宙技術で始まります－ 超航法、兵器、シールドを持ちません。
 
-Your first task is to build an orbital spaceport. This spaceport will serve as a construction yard for building most of your space ships.
+あなたの最初の仕事は軌道上に宇宙港を構築することです。この宇宙港は、宇宙艦船のほとんどを構築するための工事ヤードとして機能します。
 
-The spaceport also provides research labs for progressing your technology level.
+宇宙港はまた、あなたの技術レベルを進めるための研究室を提供しています。
 ~
 Exploring Your Home System
 Exploring Your Home System
-You should next build some ships to explore your home system.
+あなたは、次に自分の最初の星系を探求するためにいくつかの船を構築する必要があります。
 
-Remember that without hyperdrives all travel will be at slow sub-light speeds. So even investigating your home system will take time.
+超航法はなく、すべての航行は、低速の亜光速になります。そうであっても自分の最初の星系を調査するには時間がかかります。
 
-Build some exploration ships at your spaceport and send them out to discover what resources and other items exist nearby.
+あなたの宇宙港でいくつかの探査艦を構築し、資源や他のアイテムが近くに存在するかを発見するために、それらを送り出します。
 ~
 Mining
 Mining
-Once you have identified useful nearby resources, you should build a Construction Ship at your colony and send it out to build a mining station to extract the resources.
+あなたは近くに有用な資源を見つけ出したら、コロニーで建設艦を建設し、資源を抽出する鉱業局を建設するために送り出す必要があります。
 
-Remember that the most important early resources are fuel (Caslon) and Steel. Other resources that you should prioritize include: Hydrogen, Lead, Carbon Fibre, Polymer and Silicon. All of these resources should usually be present somewhere in your home system, though sometimes in low abundances.
+最も重要な初期の資源は、燃料（カズロン）と鋼であることを覚えておいてください。あなたが優先順位をつけるべき他の資源が含まれます：水素、鉛、炭素繊維、高分子とシリコン。これらの資源のすべては、たまに低存在量にかかわらず、通常、自分の最初の星系のどこかに存在しなければりません。
 
-Building a network of mining stations spread across your home system will automatically trigger your private economy to build freighters and mining ships to transport the resources back to your home colony.
+自分の最初の星系に分散した鉱業局網を構築すると、資源を最初のコロニーに輸送する貨物船と採掘船を自動的に構築しあなたの民間経済の引き金となるでしょう。
 ~
 Research
 Research
-While you are establishing a mining network, you should focus your Research in the most important areas.
+あなたが鉱業網を構築している間、最も重要な分野の研究に焦点を当てるべきです。
 
-You should try to get some kind of weapon as early as possible to give your fledgling empire some defenses. Shields are also very useful to have to give your spaceport and military ships more endurance in battle.
+あなたは未熟な帝国にいくらかの防衛力を与えるために、できるだけ早く何らかの兵器を得ようとしなければなりません。シールドは、またあなたの宇宙港や軍艦が、戦闘で多くの持久力を与え持つため、とても便利です。
 
-Increasing the construction size of your ships and bases is also a good research choice.
+あなたの艦船と拠点の建設規模を大きくするのもまた、良好な研究の選択です。
 
-As soon as you are able, you should begin researching hyperdrives (Warp Field Precursors).
+あなたが有能ならば、できるだけ早く超航法（ワープフィールド前駆体）の研究を開始する必要があります。
 ~
 Breakthrough Technologies
 Breakthrough Technologies
-As you grow and become established, you should focus on researching hyperdrives to allow your ships to leave your home system and travel to other nearby stars.
+あなたが成長し確立されれば、最初の星系を離れ近くにある他の恒星へと旅立つ艦船のために、超航法の研究に焦点を当てるべきです。
 
-This research project may take some time, but once achieved you can then begin expanding to other star systems.
+この研究計画は、多少時間がかかるかもしれませんが、一度達成すれば、他の星系への拡張を開始することができます。
 
-The next key technology to research is Colonization. This will allow you to build Colony Ships and found new colonies for your empire.
+研究の次の鍵となる技術は、コロニーです。これは、あなたの帝国のためにコロニー艦を構築することができ、あらたな入植先コロニーを見つけます。
 
-Once these two key breakthroughs are reached you are well on your way to becoming a mighty stellar empire!
+一旦これらの2つの鍵となる躍進を達成できるなら、広大な星の帝国になるよい方法です！
 ~
 Expanding Across the Stars
 Expanding Across the Stars
-It is now time to spread your territory across the galaxy.
+今が、銀河全体にあなたの領土を広げるための時間です。
 
-As you explore you will encounter other empires and pirate factions, leading to peaceful cooperation and sharp conflict.
+あなたが探索すると、平和的な協力や鋭い対立につながる、他の帝国と海賊派閥に遭遇します。
 
-Continue to research new technology. Colonize promising new planets. Build a comprehensive mining network to make your empire rich in resources.
+新技術を研究し続けます。有望な新しい惑星をコロニー化します。資源であなたの帝国を豊かにするために、包括的な鉱業網を構築します。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-When you are ready you can also take the Finding Your Way Around tutorial from the main menu.
+準備ができたら、あなたは、メインメニューから基本操作のチュートリアルをはじめることもできます。
 
-Remember that you can refer to the Galactopedia (F1) at any time for more information.
+詳細については、Galactopedia[F1]を参照してください。
 ~

@@ -1,420 +1,420 @@
 Welcome
 Welcome
-Welcome to the Distant Worlds tutorial. In this tutorial you will learn the basics of how to run your empire.
+Distant Worlds のチュートリアルへようこそ。このチュートリアルでは、あなたの帝国を実行する方法の基礎を学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 Introduction
 Introduction
-Distant Worlds is a complex game, but the goal is simple: build and maintain a galactic empire.
+Distant Worlds は複雑なゲームですが、目標は単純です：銀河帝国の構築と維持。
 
-In the game you focus on 4 key areas:
-- Explore the galaxy
-- Colonize new planets
-- Extract valuable resources
-- Defend your empire
+ゲームでは、4つの主要分野に焦点を当てています：
+- 銀河を探索
+- 新惑星を植民地化
+- 価値ある資源を抽出
+- あなたの帝国を防衛
 ~
 The Galaxy
 The Galaxy
-The Galaxy is a big place - it's packed with new worlds to find, alien races to discover and resources to exploit.
+銀河は大きい場所です - 求める新世界、発見する異人種、搾取する資源が 満載です。
 
-Let's take a look at how you can move around the galaxy.
+銀河の周りを移動する方法を見てみましょう。
 ~
 Moving Around
 Moving Around
-The main view shows a portion of the galaxy - in this case a small portion of one star system near one of your colony planets.
+メインビューは、銀河の一部を示しています -この場合、星系の一部は、あなたのコロニー惑星の一つの近くを示しています。
 
-Move the mouse pointer to the edge of the screen to scroll the main view up, down, left or right. You can also use the arrow keys on your keyboard to do the same thing.
+上下左右にメインビューをスクロールするには、画面の端にマウスポインタを移動します。同じことを行うには、キーボードの [ 矢印 ] キーを使用することができます。
 
-You can also drag the main view by holding down the right mouse button.
+また、マウスの右ボタンを押したままにして、メインビューをドラッグすることができます。
 ~
 Moving Around - Zooming
 Moving Around - Zooming
-You can also zoom the main view in or out to see more or less of the galaxy.
+銀河の大小を見るために拡大/縮小で、メインビューをズームすることができます。
 
-Use the mouse scroll wheel to zoom the main view in or out. You can also use the PageUp and PageDown keys to do the same thing.
+拡大/縮小でメインビューをズームするには、マウスのスクロールホイールを使用してください。同じことをするために [PageUp] キー と [PageDown] キー を使用することができます。
 ~
 Zoom buttons
 Zoom buttons
-The ZoomIn and ZoomOut buttons on the main screen also allow you to zoom in or out.
+メイン画面上の [ZoomIn] ボタンでと [ZoomOut] ボタンでも、拡大/縮小することができます。
 ~
 System view
 System view
-When zoomed out to system level you can identify the colonies and ships for an empire by the empire's main color.
+星系レベルまでズームアウトするときは、帝国のメインカラーによって帝国のコロニーや艦船を識別することができます。
 
-You can zoom in to any location by holding down the 'Ctrl' key while clicking.
+あなたが [Ctrl] キーを押したままクリックすると、任意の場所を拡大することができます。
 ~
 Sector view
 Sector view
-As you zoom out further the main view changes to show systems.
+さらにズームアウトして、メインビューの星系表示を更新します。
 
-At this level ships and bases are shown as icons. The icon color indicates which empire the ship or base belongs to.
+このレベルでは、艦船や拠点がアイコンとして表示されます。アイコンの色は艦船や基地が属する帝国を示しています。
 ~
 Explored Systems
 Explored Systems
-Systems that you have explored have their names displayed next to them.
+探索された星系の隣には、それらの名前が表示されています。
 ~
 Unexplored Systems
 Unexplored Systems
-Systems that you have not yet explored have no name displayed next to them.
+探索されてない星系の隣には、それらの名前が表示されていません。
 ~
 Colonized Systems
 Colonized Systems
-Systems that have been colonized by an empire are circled with their empire's color.
+帝国によって植民地化された星系は、その帝国の色に囲まれています。
 
-The size of the circle indicates the system's relative importance - larger systems are more valuable.
+円の大きさは、星系の相対的な重要性を示しています - 大規模星系は、より貴重です。
 ~
 Empire Territory
 Empire Territory
-Systems that are part of an empire's territory have a colored background.
+帝国領土の一部の星系では、着色された背景を持っています。
 
-A system can be owned by an empire even when it is not colonized.
+それが植民地化されていない場合でも、星系を帝国が所有することができます。
 
-Colonies project their empire's influence into nearby systems, making them part of their empire's territory.
+コロニーは、近くの星系の帝国の影響力によって、彼らの帝国の領土の一部として示されます。
 ~
 Independent Systems
 Independent Systems
-Some systems have independent colonies of aliens that do not belong to any empire.
+一部のコロニーでは、任意の帝国に属していない宇宙人の独立したコロニーが存在します。
 
-These independent systems are circled with a solid grey line.
+これらの独立した星系は、グレーの実線で囲っています（チュートリアル中、存在しない場合が多い）
 
-They can be good targets for your empire to colonize - the aliens provide a critical boost to the population of your new colony, allowing it to quickly start earning income for your empire.
+彼らは、植民地化するために、あなたの帝国の良い標的にすることができます - 異星人は、あなたの帝国のためにすぐさま収入を得て開始することができ、あなたの新しいコロニーの住民に重大な向上を提供します。
 ~
 Systems with Potential Colonies
 Systems with Potential Colonies
-Any systems with potential colonies are indicated by a dashed grey circle.
+潜在的なコロニーを持つすべての星系は、灰色の破線の円で示されます（チュートリアル中、存在しない場合がままある）｡
 
-Build a new colony ship and send it to these uninhabited planets to establish a new colony for your empire.
+新しいコロニー艦を構築し、自分の帝国のための新しい植民地を確立するため、これらの無人の惑星にそれを送ってください。
 ~
 Zoom presets
 Zoom presets
-The Zoom buttons allow you to instantly zoom to several preset levels:
+[ズーム] ボタンを使用すると、即座にいくつかの決められたレベルにズームすることができます：
 - 100% (default)
-- system view
-- sector view
-- galaxy view
+- 星系ビュー (system view)
+- セクタービュー(sector view)
+- 銀河ビュー (galaxy view)
 ~
 Galactopedia Help
 Galactopedia Help
-The Galactopedia provides context-sensitive help on the currently selected item or the currently open screen.
+Galactopedia は、現在選択されている項目や、現在開いている画面上に状況依存ヘルプを提供します。
 
-It contains detailed information on all the different types of planets and ships you encounter in the galaxy. It also describes game concepts and explains each game screen.
+それは、惑星とあなたが銀河の中で遭遇する艦船のすべての異なるタイプに関する詳細な情報が含まれています。また、ゲームの概念を説明し、各ゲーム画面について説明します。
 
-You can access the Galactopedia Help system at any time by pressing F1 or by clicking the Help button.
+[F1] キーを押すか、[ヘルプ] ボタンをクリックすれば、いつでも Galactopedia ヘルプシステムにアクセスすることができます。
 ~
 Main Screen elements
 Main Screen elements
-Let's take a quick tour of some of the other elements on the main screen.
+メイン画面上で他の要素のいくつかを、ざっと見てみましょう。
 ~
 Selection Panel
 Selection Panel
-At the bottom left of the screen is the Selection Panel.
+画面左下の選択パネルです。
 
-This displays detailed information on the selected item, whether that be a colony, ship, system, etc.
+これは、植民地、艦船、星系等であるかどうか、選択した項目の詳細情報が表示されます
 
-To select an item in the main screen simply click on it with the mouse.
+メイン画面で項目を選択するには、単にマウスでクリックします。
 ~
 Empire Navigation Tool
 Empire Navigation Tool
-At the left of the screen is the Empire Navigation Tool. This is a set of scrollable lists that provide quick access to everything in your empire.
+画面の左側にある帝国ナビゲーションツールです。これはあなたの帝国内のすべてへの迅速なアクセスを提供する、スクロール可能なリストの集まりです。
 
-This includes items like: your colonies, space ports, construction ships, exploration ships, enemy targets, fleets, new potential colonies, potential mining locations, and much more.
+このような項目が含まれています：あなたのコロニー、宇宙港、建設艦、探査艦、敵目標、艦隊、新しい潜在的なコロニーは、潜在的な採掘場所、さらにもっと。
 
-Click an icon to open one of the lists. Click the icon again to close the list, or use the close button at the right of the list's title bar.
+リストのいずれかを開くには、アイコンをクリックします。リストを閉じるには、リストのタイトルバーの右にある 閉じる ボタンを使用するか、もう一度アイコンをクリックします。
 ~
 Empire Navigation Tool contd.
 Empire Navigation Tool contd.
-Click an item in a list to select it in the Selection Panel below.
+下記の選択パネルでそれを選択するには、リスト内の項目をクリックします。
 
-You can then use the Action buttons under the Selection Panel to access many common tasks for the selected item, allowing you to easily manage most of your empire directly from the main screen.
+選択項目の多くの一般的な任務にアクセスできる選択パネルの下の [ アクション ] ボタンは、簡単にメイン画面から直接あなたの帝国の大部分を管理することができます。
 
-Double-clicking an item in a list will move the main view to that item.
+リスト内の項目をダブルクリックすると、その項目にメインビューを移動します。
 
-When you are zoomed out to the sector- or galaxy-level then hovering over an item in a list will 'ping' the location of that item in the galaxy with an expanding yellow circle.
+セクターや銀河レベルにズームアウトさせた時、そのリスト内の項目上に移動すると、拡大した黄色い丸で銀河内のその項目の位置を伝えます。
 ~
 Map
 Map
-At the bottom right is a map. This shows the surrounding area.
+右下は、マップです。これは、周辺地域を示しています。
 
-The area displayed in the main view is indicated by the blue rectangle in the middle of the map.
+メインビューに表示されている領域は、マップの中央の青い四角形で示されます。
 
-Click anywhere on the map to move the main view to that location.
+その場所に、メインビューを移動するには、地図上の任意の場所をクリックしてください。
 
-The map automatically zooms in or out when you zoom the main view.
+メインビューをズームすると、マップは自動で拡大/縮小します。
 ~
 Scrolling message list
 Scrolling message list
-At the top of the screen is a list that displays recent events that have occurred in your empire.
+画面の上部にあなたの帝国で発生した最近のイベントが表示されたリストです。
 
-Click on an event in this list to move to the location of the event.
+イベントの場所に移動するには、このリスト内のイベントをクリックします。
 ~
 Pause/Resume
 Pause/Resume
-At the top-left of the screen is the Pause button. This allows you to pause or resume the game at any time.
+画面の左上に [一時停止] ボタンがあります。これにより、いつでもゲームの一時停止や再開できます。
 
-Click once to pause the game. Click again to resume the game.
+ゲームを一時停止するには、一回クリックします。ゲームを再開するには、もう一度クリックします。
 ~
 Game Menu
 Game Menu
-At the top-left of the screen is the Game Menu button.
+画面の左上に [ゲームメニュー] ボタンがあります。
 
-This accesses the Game Menu where you can load and save games, alter game options or exit the game.
+ゲームの保存やロード、ゲームのオプション変更、ゲーム終了をする場合、ゲームメニューにアクセスします。
 ~
 Game Options
 Game Options
-The Game Options screen (O key) allows you to customize game settings.
+ゲームのオプション画面（[O] キー）を使用すると、ゲームの設定をカスタマイズすることができます。
 
-In particular, you can automate certain empire tasks like Colonization, Ship Building, etc. This allows you to focus on other areas of your empire that interest you more.
+具体的には、植民地化や造船などのような特定の帝国のタスクを自動化することができます。これは、あなたの興味をもっと帝国の他の領域に集中することができます。
 
-When you first start Distant Worlds many tasks are automated for you. The automation of these tasks can be progressively turned off, as you desire greater control over the details of your empire.
+あなたが最初に Distant Worlds を起動すると、多くの任務は、あなたのために自動化されています。あなたの帝国の詳細を細かく制御望むならば、これらの任務の自動化は徐々に、オフにすることができます。
 ~
 Your Empire
 Your Empire
-Now let's get an overview of your empire.
+ここでは、あなたの帝国の概要を得てみましょう。
 
-You can view a summary of your empire from the Empire Summary screen (F6). Click the Empire Summary button to show this screen.
+帝国概要画面（[F6] キー）からあなたの帝国のサマリーを表示できます。この画面が表示されるよう、[帝国概要] ボタンをクリックします。
 ~
 State vs Private
 State vs Private
-Your empire is divided into two sections:
-- State: the portion you control
-- Private: your private citizens who go about their own business without your help
+あなたの帝国は二つのセクションに分かれています:
+- 国家(State)：あなたがコントロールする部分
+- 個人(Private)：あなたの助けを借りずに自分のビジネスに取り掛かるあなたの市民
 
-Note that you only control the State portion of your empire. You have no direct control of your private citizens activities.
+あなたの帝国の国家の部分だけを、制御することに注意してください。あなたの市民活動を、直接制御することはできません。
 ~
 Private Citizens
 Private Citizens
-Your private citizens go about their own business, improving their colonies.
+あなたの一般市民は彼らのコロニーを改善し、自分のビジネスに取り掛かかります。
 
-This means that they trade goods, transport cargo and mine resources - all without any intervention from you.
+これは彼らが、商品、輸送貨物。鉱業資源を取引することを意味します - あなたからの介入は全くありません。
 ~
 State Activities
 State Activities
-The state portion of your empire has four basic tasks:
-- Exploring the galaxy
-- Colonizing new planets
-- Constructing new ships
-- Defending your empire
+あなたの帝国の国家の部分は、4つの基本的な任務があります。
+- 銀河を探索
+- 新惑星を植民地化
+- 新しい艦船を構築
+- あなたの帝国を防衛
 ~
 Government Style
 Government Style
-Each empire follows a particular style of government. Each government type has specific advantages and disadvantages.
+各帝国は、政府の特定のスタイルに従っています。各政府は、特定のタイプの長所と短所があります。
 
-You can change your government style by having a revolution. But there are negative side effects from revolution, including a temporary setback of development at your colonies.
+あなたが大変革を起こすことによって、あなたの政府のスタイルを変更することができます。 しかし、あなたのコロニーで開発の一時的な後退を含む大変革の負の副作用があります。
 ~
 State Income
 State Income
-Money is critical to fund your empire. Your state economy derives income from four areas:
-- colony taxes
-- transaction fees at your space ports
-- purchases of new ships by your private citizens
-- bonuses from trade with other empires
+資金はあなたの帝国にファンドを供給することが重要です。あなたの国家経済は、4つの領域から収入を導き出します:
+- コロニー税
+- あなたの宇宙港での取引手数料
+- あなたの市民による新たな船の購入
+- 他の帝国との貿易からのボーナス
 ~
 Colonies
 Colonies
-Let's take a look at the colonized planets in your empire.
+あなたの帝国に、植民地化された惑星を見てみましょう。
 
-Colonies are the heart of your empire. When you lose all of your colonies, you lose the game.
+コロニーはあなたの帝国の心臓部です。あなたはコロニーをすべて失ったとき、このゲームに敗北します。
 ~
 Colonies - Tax
 Colonies - Tax
-Colonies produce wealth. Your empire's main revenue comes from taxing colonies.
+コロニーは、富を生み出します。あなたの帝国の主な収入はコロニー税収から来ています。
 
-By default colony tax levels are controlled automatically, but you can alter each colony tax rate directly if you prefer.
+そしてお望みならば、あなたは直接、各コロニーの税率を変えることができます。
 ~
 Colonies - Growth
 Colonies - Growth
-Colonies grow in two ways: population and development level
+コロニーは2つの方法で成長します：人口と開発レベル
 
-Population: grows over time until it reaches a maximum level for the planet.
+人口：それは惑星の最大レベルに達するまで時間をかけて成長します。
 
-Development Level: when a colony receives a steady supply of luxury resources its general development level grows. Higher development level means more wealth and thus more tax revenue.
+開発レベル：コロニーは贅沢資源の安定供給を受けるとき、その一般的な開発のレベルが大きくなります。高い開発レベルは、より多くの富と、それによる多くの税収を意味します。 
 ~
 Population Indicator
 Population Indicator
-The population size and development level of a colony is indicated by the graph displayed in the colony's name badge.
+人口規模とコロニーの開発レベルはコロニーの名札に表示されるグラフで示されます。
 
-The horizontal axis indicates the population size. The vertical axis relates to the development level.
+横軸は、人口の大きさを示しています。縦軸は、開発レベルに関係します。
 ~
 Empire and Capital
 Empire and Capital
-The empire owning a colony is indicated by the color of the surrounding circle and name badge. If the colony is the empire capital a gold star also appears to the left of the name.
+コロニーを所有している帝国は、周囲の円の色と名札によって示されます。コロニーが帝国の首都である場合は、金色の星が名前の左に表示されます。
 ~
 Dominant Race
 Dominant Race
-The dominant alien race at the colony is displayed at the bottom of the name badge.
+コロニーにおける支配的な異種族は、名札の下部に表示されます。
 ~
 Resources
 Resources
-The natural resources present at the colony are also displayed at the bottom of the name badge.
+コロニーに存在する天然資源も、名札の下部に表示されます。
 
-These resources at your colonies are automatically mined and then used, either to build things or to be sold.
+なにかを造るか販売のために、あなたのコロニーのこれらの資源が自動的に採掘され、そして使われます。
 ~
 Colony List
 Colony List
-A complete list of all the colonies in your empire is available from the Colonies screen.
+あなたの帝国内のすべてのコロニーの完全なリストは、コロニー画面から利用できます。
 
-You can open this screen using the button indicated or by pressing the 'F2' key.
+あなたは、示されているボタンを使うか、[F2] キーを押すことによって、この画面を開くことができます。
 ~
 Colonies - Cycling
 Colonies - Cycling
-You can quickly cycle through all of the colonies in your empire by using the Cycle Colonies button.
+あなたは [コロニー 順送り] ボタンを使用して、あなたの帝国の植民地のすべてを迅速に順送りすることができます。
 
-You can do the same thing by pressing the 'C' key.
+あなたは、[C] キーを押すことによって、同じことを行うことができます。
 ~
 Ships and Bases
 Ships and Bases
-Now let's take a look at ships and bases.
+今度は艦船や拠点を見てみましょう。
 
-Ships travel throughout the galaxy performing a wide range of tasks, from transporting cargo to defending your empire.
+艦船は、積荷の輸送からあなたの帝国の防御まで、銀河全体に渡って広範囲のタスクを行ない移動します。
 
-Bases are fixed platforms in space, usually located at a planet.
+拠点は、通常の惑星に位置する空間内の固定プラットフォームです。
 
-To see a complete list of all the ships and bases in your empire click the Ships and Bases button (F11 key).
+あなたの帝国内のすべての艦船と拠点の完全なリストを表示するには、[艦船·拠点] ボタン（[F11] キー）をクリックします。
 ~
 Ships and Bases - Designing
 Ships and Bases - Designing
-All your empire's ships and bases can be designed to your exact specifications in the Designs screen (F8 key).
+すべてのあなたの帝国の艦船と拠点は、デザイン画面（[F8] キー）にて、あなたの正確な仕様に合わせて設計できます。
 
-See the Advanced tutorial for more information on how to do this.
+これを行う方法の詳細については、高度なチュートリアルを参照してください。
 ~
 Assigning Missions
 Assigning Missions
-You can assign missions to any state-owned ship or base in your empire.
+あなたは、あなたの帝国内の任意の国営船か拠点に任務を割り当てることができます。
 
-However this does NOT include privately-owned ships like freighters, mining ships or mining stations. You have no control over these privately-owned ships and bases. They go about their business automatically, selecting missions for themselves.
+しかし、これは貨物船、採掘船や採掘局のような個人所有の船を含んでいません。あなたは、これらの私有の船舶や拠点を制御することはできません。彼らは、彼ら自身のための任務を選択し、自動的に彼らのビジネスに取り掛かります。
 ~
 Assigning a Mission
 Assigning a Mission
-To assign a mission to a ship first select it in the main view by left-clicking on it with the mouse.
+艦船に任務を割り当てるには、まずマウスで左クリックすることにより、メインビューでそれを選択します。
 
-Then right-click the mouse over the mission target, e.g. to make a ship move to another location right-click the mouse at that location.
+任務目標上でマウスを右クリックし、例えば別の場所でマウスを右クリックし、艦船を移動させます。
 
-Note that you may need to unpause the game to see the ship move.
+あなたは艦船の動きを見るため、ゲームの一時停止を解除が必要だということに注意してください。
 ~
 Missions - Popup Menu
 Missions - Popup Menu
-Right-clicking on the ship or base may also bring up a popup menu listing a number of missions.
+艦船や拠点上で右クリックすると、また任務の数をリストしたポップアップメニューをもたらすことがあります。
 
-These missions are specific to the particular type of ship or base. They may include: Exploration, Colonization, Building, Refueling, or many others.
+これらの任務は艦船または拠点の特定のタイプに固有のものです。以下が含まれる場合があります:探索、植民地化、建設、燃料補給、または他の多く。
 ~
 Automating Missions
 Automating Missions
-Ships can also be completely automated. This means that they assign missions for themselves.
+艦船はまた、完全に自動化することができます。これは、彼らが彼ら自身のために任務を割り当てることを意味します。
 
-To automate a ship first select it and then press the 'A' key. To turn off automation just assign a mission to the ship.
+艦船を自動化するには、まずそれを選択し、[A] キーを押します。自動機能を切るには船の任務を割り当てます。
 
-When a ship is automated a circular blue arrow appears in the bottom-right corner of the Selection Panel.
+艦船が自動化されたとき、丸まった青色の矢印が選択パネルの右下隅に表示されます。
 
-Note that ALL ships start the game automated.
+すべての艦船は、自動起動でゲームが開始することに注意してください。
 ~
 Missions for Bases
 Missions for Bases
-Although bases are stationary, they can also have missions.
+拠点が静止していますが、彼らはまた、任務を持つことができます。
 
-Base missions can include: building new ships, retrofitting to a new design or scrapping the base when it is no longer needed.
+拠点の任務は、以下のものが含まれます: 新しい艦船を構築する、新しい設計に改造する、必要がなくなった拠点を解体する。
 ~
 Types of Ships and Bases
 Types of Ships and Bases
-Let's take a look at the different types of ships and bases in your empire.
+あなたの帝国の艦船と拠点の異なる種類を見てみましょう。
 ~
 Exploration Ships
 Exploration Ships
-Exploration ships chart unknown areas of the galaxy. As they explore they reveal colonizable planets, uncover valuable resources and make contact with other empires.
+探査艦は、銀河の未知の領域を図表化します。彼らは、植民地化する惑星を明らかにし、貴重な資源を発見し、他の帝国と接触し、探索します。
 
-Exploration ships can be automated to explore on their own ('A' key).
+探査船は（[A] キー）自分自身で探索する自動化することができます。
 
-To cycle through all of your Exploration ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+あなたの探査船のすべての順送りは、[コロニーと探査艦 順送り] ボタン を使用するか、[X] キーを使用します。
 ~
 Colony Ships
 Colony Ships
-Colony ships allow you to colonize other planets, founding new worlds for your empire.
+コロニー艦はあなたの帝国のために新しい世界を設立し、他の惑星を植民地化することができます。
 
-The ship is consumed when a new colony is established. The resources from the ship are used to give the colony a kickstart.
+新しいコロニーが確立されたときに艦が消費されます。艦から資源がコロニーの建設にはずみを与えるために使用されます。
 
-While most ships are built at space ports, Colony ships can only be built at colonies.
+ほとんどの艦船は宇宙港で構築されますが、コロニー艦は唯一コロニーで構築することができます。
 ~
 Colony Ships contd.
 Colony Ships contd.
-To start with you can only colonize the native planet type of your race. But as your research uncovers new technology you can progressively colonize other types of planets.
+最初はあなたの種族の出身惑星型だけを、植民地化することができます。しかし、あなたの研究が新技術を発見すると、徐々に他の惑星型を植民地化することができるようになります。
 
-However you can always colonize planets where there is an existing independent alien population - regardless of the type of planet. In these situations the preexisting population may resist your colonization attempt, with the loss of your colony ship.
+既に独立した異星人の集団があっても、あなたは常に惑星を植民地化することができます。 - 惑星型に関係なく。このような状況では既存の集団は、あなたの植民地化の試みに、コロニー艦の損失を伴うような抵抗を行うかもしれません。
 
-To cycle through all your colony ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+あなたのコロニー艦のすべての順送りは、[コロニーと探査艦 順送り] ボタン を使用するか、[X] キーを使用します。
 ~
 Space Ports
 Space Ports
-Space Ports are bases that provide many important services for your empire. Space Ports must always be built at a colony.
+宇宙港は、あなたの帝国のために多くの重要なサービスを提供する拠点です。宇宙港は常にコロニーに建てなければなりません。
 
-They serve as a central point of trade for your empire. Mined resources are brought here by freighters and mining ships.
+彼らはあなたの帝国の貿易の中心点として機能します。採掘された資源は、貨物船と採掘船でここに運び集められます。
 
-Space Ports also provide construction facilities for your empire. Both state and private ships are built here. When private citizens purchase freighters or other ships, your empire earns income.
+宇宙港はまた、あなたの帝国の建設施設を提供しています。国家と民間の両方の艦船がここで構築されています。民間人が貨物または他の船舶を購入すると、あなたの帝国は収入を獲得します。
 ~
 Space Ports contd.
 Space Ports contd.
-Space Ports also provide other vital functions:
-- Heavy weapons provide strong defense for the colony
-- Research facilities for your scientists and engineers
-- Bonuses that help keep the colony population happy: medical facilities and recreation centres
+宇宙港は、他に重要な機能を提供します。
+- 重兵器はコロニーのための強力な防御を提供
+- あなたの科学者やエンジニアのための研究施設
+- コロニー集団の幸せを保つ補助ボーナス：医療施設やレクリエーションセンター
 
-To cycle through all of your Space Ports use the Cycle Space Ports button, or use the 'P' key.
+あなたの宇宙港のすべての順送りは、[宇宙港 順送り] ボタン を使用するか、[P] キーを使用します。
 ~
 Freighters
 Freighters
-Freighters transport cargo between colonies, mining stations and space ports. They come in small, medium and large sizes.
+貨物船は、コロニー、鉱業局、宇宙港 間の貨物を運搬します。大中小のサイズが入港してきます。
 
-Freighters work for your empire, but they are not yours. They belong to the private citizens in your empire. All transportation of goods in your empire is performed by private citizens.
+貨物船は、あなたの帝国のために働きますが、彼らはあなたのものではありません。彼らはあなたの帝国の民間人に属します。あなたの帝国での商品のすべての輸送は民間人によって行われます。
 
-Thus you cannot assign missions to Freighters.
+したがって、あなたは貨物船への任務を割り当てることはできません。
 ~
 Mining Ships
 Mining Ships
-Mining Ships are mobile resource extraction ships. They mine resources that are in high demand, returning them to your nearest space port.
+採掘船は、機動資源採掘船です。彼らは需要が高い資源を採掘し、宇宙港に納め続けます。
 
-Mining ships work for your empire, but they are not yours. They belong to the private citizens in your empire.
+採掘船は、あなたの帝国のために働きますが、彼らはあなたのものではありません。彼らはあなたの帝国の民間人に属します。
 
-Thus you cannot assign missions to Mining ships.
+したがって、あなたは採掘船に任務を割り当てることはできません。
 ~
 Mining Stations
 Mining Stations
-Mining Stations are bases that extract resources from planets, moons, asteroids and gas clouds.
+鉱業局は、惑星、衛星、小惑星やガス雲から資源を抽出する拠点です。
 
-They can be either standard mining stations or gas mining stations.
+彼らは標準的な鉱業局か、ガス採掘局のどちらかになります。
 
-Mining Stations are built by Construction Ships at resource-rich planets.
+鉱業局は、資源が豊富な惑星に建設艦によって構築されます。
 ~
 Construction Ships
 Construction Ships
-Construction Ships are mobile construction yards. They can build bases at uninhabited planets or even in deep space.
+建設艦は、機動建設ヤードです。彼らは人が住んでいない惑星、あるいは深宇宙に拠点を構築することができます。
 
-Use the Cycle Construction Ships button to cycle through all the construction ships in your empire, or use the 'Y' key.
+あなたの帝国内のすべての建設艦の順送りは、[建設船 順送り] ボタン、または [Y] キーを使用します。
 ~
 Military Ships
 Military Ships
-Military ships defend your empire from enemy empires and from marauding pirates.
+軍艦は、敵の帝国と海賊の略奪から、あなたの帝国を守ります。
 
-They can be assigned the following missions:
-- Attack an enemy target
-- Patrol a colony or base, watching for attackers
-- Escort a civilian ship, such as a construction ship or mining ship
+これらは、次の任務を割り当てることができます。
+- 敵の目標を攻撃
+- 攻撃者の監視、コロニーまたは拠点のパトロール
+- 建設艦や採掘船のような艦船や、民間の船を護衛
 
-There are various sizes and classes of military ships.
+軍艦のサイズと種類は様々です。
 
-Use the Cycle Military Ships button to cycle through them, or use the 'M' key.
+それらを順送りするには、[軍艦 順送り] ボタンを使用するか、または [M] キーを使用します。
 ~
 Find Idle Ships
 Find Idle Ships
-You can find ships that don't currently have a mission by clicking the Cycle Idle Ships button (or press the I key).
+あなたは、[アイドル 順送り] ボタン をクリック（[I] キーを押すか）して、任務を持っていない艦船を見つけることができます。
 
-This helps you find ships that are not being used so that you can assign missions to them.
+これはあなたが彼らに任務を割り当てることができ、未使用の艦船を見つけることができます。
 ~
 Completed
 Completed
-Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+このチュートリアルを習得していただきありがとうございます。さぁ、銀河を探索し、あなたの帝国の構築を始めましょう！
 
-When you are ready you can also try the Advanced Tutorial from the main menu.
+準備ができたら、あなたはまた、メインメニューから上級チュートリアルを試すことができます。
 ~

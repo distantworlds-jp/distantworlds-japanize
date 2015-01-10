@@ -1,73 +1,73 @@
 ﻿Welcome
 Welcome
-Welcome to the Distant Worlds tutorial about Dealing with Pirates when playing as a normal empire.
+Distant Worlds のチュートリアルにようこそ。ここでは通常の帝国として海賊との取引する方法について学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 Pirates
 Pirates
-You will likely encounter pirates at some point in your expansion across your home system.
+あなたは、おそらく最初の星系を拡張を広げる中、どこかで海賊に遭遇します。
 
-Early in the game you are poorly equipped to resist any pirates, so you should agree to pay a Protection Agreement with any pirates. This is especially true before your spaceport is armed.
+ゲームの初期段階で、任意の海賊に抵抗する装備が不十分のため、あなたは任意の海賊に保護協定の費用を支払うことに同意しなければなりません。あなたの宇宙港が武装する前に特に当てはまります。
 
-Paying dastardly pirates may seem to be cowardly and weak, but it will give you time to establish your empire properly.
+卑劣な海賊に支払うことは、臆病と弱いように見えるかもしれませんが、それはあなたに適切な帝国を確立するための時間を与えます。
 ~
 Pirates - Putting Them To Work
 Pirates - Putting Them To Work
-However pirates can also be useful to you. In the early game you may have resource shortages at your colony. For a price, pirates can help fill any gaps by smuggling resources to you.
+しかし海賊はまた、あなたの役に立ちます。ゲームの初期では、コロニーで資源不足があるかもしれません。海賊は、料金分の資源だけを密輸によっていくらかの不足を埋める手伝いを行えます。
 
-To request a pirate smuggling mission select your colony and click the 'Assign Mercenary Smuggling Mission' action button underneath the Selection Panel. Select the desired resource (or 'All') in the small pop-up panel that appears and click the Assign button.
+海賊の密輸任務要請は、コロニーを選択し選択パネルの下側の「傭兵密輸任務割り当て」行動ボタンをクリックします。小さなポップアップパネルで目的の資源(または「すべて」)を選択してください。[割り当て]ボタンが表示されたらクリックします。
 
-The smuggling mission will appear in the Pirate Missions panel in the Empire Navigation Tool at screen left. You can cancel the smuggling mission at any time by clicking the Cancel button here.
+密輸任務は画面左側にある帝国ナビゲーションツールで海賊任務パネルに表示されます。ここで[キャンセル]ボタンをクリックすることにより、いつでも密輸任務をキャンセルすることができます。
 
-Once accepted by a pirate faction, their smuggling freighters will eventually arrive at your colony to drop off the requested resources.
+一度、海賊派閥によって受け入れた彼らの密輸貨物は、要求された資源をあなたのコロニーで下ろし最終的に到着します
 ~
 Pirates - Attack Missions
 Pirates - Attack Missions
-You can also pay pirates to attack a target of another empire.
+また、別の帝国目標を攻撃するよう海賊に支払うことができます。
 
-To request one of these Pirate Attack missions, select the target enemy base and click the 'Assign Mercenary Attack Mission' action button underneath the Selection Panel.
+これらの海賊の攻撃任務の一つを要求するには、目標の敵の拠点を選択し、選択パネルの下の「傭兵攻撃任務」行動ボタンをクリックします。
 
-The new attack mission will appear in the Pirate Missions panel in the ENT, the same as for smuggling missions. Pirate factions will bid on the mission, until one faction wins the mission.
+新しい攻撃任務は帝国ナビゲーションツールで、密輸任務と同じ海賊任務パネルに表示されます。ひとつの海賊派閥が任務を獲得するまで、海賊派閥は任務に入札します。
 
-When the pirates complete the attack mission for you (by destroying or capturing the target base) the fee will automatically be paid to them.
+海賊があなたのために攻撃任務を（目標基地を破壊するか鹵獲して）完了すると料金が自動的に支払われます。
 ~
 Pirates - Defend Missions
 Pirates - Defend Missions
-You can also pay pirates to protect a base or colony in your own empire for two years. These Defend missions are obviously only available to pirate factions with whom you already have a Protection Agreement.
+また、2年間のあなたの所有する帝国内の拠点またはコロニーを守るために海賊へ支払いをすることができます。 これらの防衛任務はあなたが既に保護協定を明らか保有している海賊派閥にのみ利用できます。
 
-To request one of these Pirate Defend missions, select the base or colony you want protected and click the 'Assign Mercenary Defense Mission' action button underneath the Selection Panel.
+これらの海賊防衛任務の一つを要請するには、防衛したい拠点またはコロニーを選択し、選択パネルの下側の「傭兵防衛任務への割り当て」行動ボタンをクリックします。
 
-The new defend mission will appear in the Pirate Missions panel in the ENT, the same as for smuggling missions. Pirate factions will bid on the mission, until one faction wins the mission.
+新しい防衛任務は帝国ナビゲーションツールで、密輸任務と同じ海賊任務パネルに表示されます。ひとつの海賊派閥が任務を獲得するまで、海賊派閥は任務に入札します。
 
-When the pirates complete the defend mission for you (by protecting your base or colony until the specified date) the fee will automatically be paid to them.
+海賊があなたを守備する任務を完了すると料金がが自動的に彼らに支払われます（指定した日付まで、拠点とコロニーを保護すること）。
 ~
 Clearing out Pirates
 Clearing out Pirates
-As your empire becomes stronger you may want to eradicate nearby pirate factions.
+あなたの帝国が強くなるにつれて近くの海賊派閥を根絶することができます。
 
-To completely eliminate a pirate faction you must destroy all of the following:
-- colonies (controlled or owned)
-- refuelling locations (spaceports or gas mining stations)
-- construction ships or resupply ships
+完全に海賊派を排除するには、次のすべてを破棄しなければなりません：
+- コロニー(支配または所有)
+- 燃料補給場所(宇宙港やガス採掘局)
+- 建設艦や補給艦
 
-Tracking down and eliminating all of the above can take time and effort. However you can severely handicap a pirate faction by simply destroying their spaceport. With their construction yard eliminated the faction is no longer able to build new ships.
+突き止めるおよび上記のすべてを排除することは、時間と労力がかかることがあります。しかし、単に彼らの宇宙港を破壊することによって、海賊派閥を深刻で不利な状態にすることが出来ます。建設ヤードがなくなると派閥は、もはや新しい艦船を構築することができません。
 ~
 Eradicating Pirates at your Colonies
 Eradicating Pirates at your Colonies
-Pirate factions may establish control at one or more of your colonies. They may have also built a pirate facility at the colony, such as a Pirate Base or Pirate Fortress.
+海賊派閥は、あなたのコロニーの1以上に支配を確立することができます。彼らはまた、コロニーで、海賊基地や海賊要塞の海賊施設を建設している可能性があります。
 
-Pirates derive much of their income from controlling colonies, so you should make every effort to remove them from your colony. To eradicate the pirates you should launch a ground invasion against the pirate facility at your colony.
+海賊は支配コロニーから収入の多くを引き出すので、あなたのコロニーからそれらを削除するためにあらゆる努力を行うべきです。海賊を根絶するために、あなたのコロニーの海賊施設に対する地上侵攻を行う必要があります。
 
-To do this open the Facilities tab in the Colonies screen (F2). Select the target pirate facility - the 'Scrap' button will change to 'Attack'. Clicking the attack button will launch a ground attack against the pirate facility using all of your troops currently at the colony. If successful, the ground attack will destroy the pirate facility.
+コロニー画面[F2]の施設タブを開くには行うには。目標の海賊施設を選択してください－「廃止」ボタンが、「攻撃」に変わります。攻撃ボタンをクリックすると、コロニーで、現在のあなたの部隊のすべてを使って、海賊施設に対する地上攻撃を開始します。成功した場合、地上攻撃は海賊施設を破壊します。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-Please refer to the Galactopedia (F1) for more information.
+詳細については、Galactopedia[F1]を参照してください。
 ~

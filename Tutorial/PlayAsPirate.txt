@@ -1,224 +1,224 @@
 ﻿Welcome
 Welcome
-Distant Worlds offers the ability to play as a pirate faction.
+Distant Worlds は海賊派閥としてプレイする機能を提供しています
 
-This tutorial will explain how to play as a pirate faction.
+このチュートリアルは、海賊としてプレイする方法を説明します。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 Pirates are different
 Pirates are different
-Pirates differ from standard empires in a number of important ways. 
+海賊は、重要ないくつかの方法で標準的な帝国とは異なります。 
 
-A major difference is that pirates usually do not have colonies. Instead they start with a spaceport at a gas giant planet.
+主な違いは、海賊たちは通常、コロニーを持っていないということです。その代わりに彼らは、巨大ガス惑星にある宇宙港で開始します。
 
-Pirates cannot colonize planets. But they can build spaceports anywhere.
+海賊は惑星をコロニー化することはできません。しかし、彼らはどこかに宇宙港を構築することができます。
 ~
 Pirate Spaceport
 Pirate Spaceport
-The center of your pirate faction is your starting spaceport. This is where your Pirate Leader character is usually based.
+あなたの海賊派閥の中心部は、あなたの開始する宇宙港です。あなたの海賊の首領となる人物が、通常本拠地とするところです。
 
-At your pirate spaceport you can build new ships, as well as repair and retrofit existing ships.
+あなたの海賊の宇宙港では、新造船だけでなく、修理を行って既存の艦船を改造することができます。
 
-Your spaceport also serves as a refuelling depot for your ships.
+あなたの宇宙港はまた、あなたの艦船のための補給庫として機能します。
 
-When your income allows, you can build additional spaceports at any location using your Construction Ship.
+あなたの収入が許すならば、建設船を使用して任意の場所に追加の宇宙港を構築することができます。
 ~
 Construction Ships
 Construction Ships
-Pirates can construct their own bases.
+Distant Worlds の以前の版と異なり、Shadows では海賊が、自分の拠点を構築することができます。
 
-Each pirate faction starts the game with their own Construction Ship. This is used to build mining stations and other bases.
+各海賊派閥は自分の建設船でゲームを開始します。これは、鉱業局など拠点を構築するために使用されます。
 
-Note that because pirates do not own colonies, they cannot build additional Construction Ships. So protect your starting Construction Ship well - losing it would be a major blow!
+海賊は自分のコロニーを所有しないため、彼らが更なる建設船を造ることができないことに注意してください。したがって、あなたの開始時に存在する建設船を上手に保護してください－それを失うことは大きな打撃です！
 
-However pirates can board and capture Construction Ships of other empires, as described later in this tutorial.
+しかしながら、このチュートリアルの後半で説明するように、海賊は他の帝国の建設船に乗り込んで鹵獲することができます。
 ~
 Pirate Income
 Pirate Income
-While standard empires gain most of their income from colonies, pirates earn income from different sources.
+標準的な帝国がコロニーから大部分の収入を得ていますが、海賊は異なる供給源から収入を稼ぎ出します。
 
-Let's take a look at the primary sources of pirate income:
-- Controlled Colonies
-- Protection Agreements
-- Pirate Missions
-- Mining
-- Raids
+海賊の収入の主な供給源を見てみましょう：
+- コロニー支配
+- 保護協定
+- 海賊任務
+- 鉱業
+- 襲撃
 ~
 Controlled Colonies
 Controlled Colonies
-Although pirates cannot own colonies like standard empires, they can CONTROL colonies by moving their military ships to a colony.
+海賊は標準的な帝国のようなコロニーの所有を行えませんが、コロニーへ軍艦を移動してコロニーを支配することができます。
 
-The more military strength they have near a colony, the faster their level of control will increase, topping out at 100%.
+彼らがコロニーの近くにより強力な軍事力を持つほど、彼らの支配レベルはより速く増加し、100%で最高に達します。
 
-Controlling a colony allows pirates to siphon off it's income - the higher the control, the more money is collected from the colony.
+コロニーを支配する海賊は、収入から吸い上げることができます－支配レベルが高いと、より多くのお資金をコロニーから収集されます。
 
-Note that multiple pirate factions can control a colony at the same time. Also note that very large colonies have a lower maximum control level (i.e. cannot reach 100%)
+複数の海賊派閥が同時にコロニーを支配できることに注意してください。また、非常に大規模なコロニーは、低い最大支配レベルを持っていることに注意してください（つまり、100％に達することができない）。
 ~
 Pirate Bases at Controlled Colonies
 Pirate Bases at Controlled Colonies
-Pirates can establish permanent control of a colony by building a Pirate Base planetary facility. The first faction to build a Pirate Base controls the colony. Control must reach 50% before a Pirate Base can be built.
+海賊は海賊拠点惑星施設を構築することにより、コロニーの永久支配を確立することができます。海賊拠点を構築する最初の派閥は、コロニーを支配します。海賊拠点を構築する前に、支配が50％に到達する必要があります。
 
-Pirates can also build a Pirate Fortress planetary facility at a controlled colony. Control must be at 100% before a Pirate Fortress can be built.
+海賊はまた、支配されているコロニーに海賊要塞惑星施設を建設することができます。海賊要塞を構築する前に、支配が100％でなければなりません。
 
-Having a Pirate Base or Pirate Fortress at a controlled colony increases the income from the colony.
+支配されたコロニーに海賊拠点や海賊要塞を持つことは、コロニーからの収入を増加させます。
 ~
 Protection Agreements
 Protection Agreements
-Pirates have very simple diplomacy. When they meet another faction they are aggressive towards them - they will freely attack their ships and bases.
+海賊は、非常に単純な外交を持っています。彼らは別の派閥に会うとき、それらに対して攻撃的です。 - 彼らは自由に艦船や拠点を攻撃します。
 
-But pirates can offer Protection Agreements to other empires, requesting monthly payment in exchange for refraining from attacking the other empire. You can offer protection agreements from the Diplomacy screen (F5).
+しかし、海賊は他の帝国を攻撃控えることを引き換えに、毎月の支払いを要求して、他の帝国と保護協定を提案することができます。あなたは、外交画面[F5]から保護協定を提案することができます。
 
-A protection agreement can pave the way for a mutually-beneficial long-term relationship between the pirate faction and the standard empire, potentially leading to Defense Missions and other opportunities.
+保護協定は、海賊派閥と標準的な帝国の間で相互に利益をもたらす長期的な関係のために道を開き、潜在的に防衛任務や他の機会につながることができます。
 
-Pirates can also offer Truces to other pirate factions. In this case there is no monthly fee - each pirate faction simply agrees not to attack the other.
+海賊は、他の海賊派閥に休戦を提案することができます。この場合、月締め料金はありません - 各海賊派閥は、単に他をを攻撃しないことに同意します。
 ~
 Pirate Missions
 Pirate Missions
-Standard empires and independent colonies may sometimes offer special missions to pirate factions.
+標準的な帝国と独立コロニーは時々海賊派閥に特別な任務を提供することがあります。
 
-These missions can be accessed from the Pirate Missions panel in the Empire Navigation Tool at screen left.
+これらの任務は、画面左側にある帝国ナビゲーションツールで海賊任務パネルから利用することができます。
 
-Before a pirate faction can undertake a mission they must first either accept or bid on the mission in the Empire Navigation Tool.
+海賊派閥は、任務に着手する前に、最初に受諾するか、帝国ナビゲーションツールの任務に入札するかのいずれかが必要になります。
 
-Let's take a look at the three types of missions available: Smuggling, Attack and Defense.
+利用可能の任務の3つの種類を見てみましょう：密輸、攻撃、防御
 ~
 Pirate Smuggling Missions
 Pirate Smuggling Missions
-When an empire or independent colony is short of resources, they may decide to offer a Smuggling mission to supply the affected colony.
+帝国または独立コロニーが資源不足に陥った場合、影響を受けたコロニーへの供給のための密輸任務を提案することを決定できます。
 
-Pirate freighters always earn some smuggling income when they deliver resources to a location in another empire. But when a Smuggling mission is active then a large bonus is paid for resources delivered to the colony.
+彼らは別の帝国の場所に資源を送り届けるとき、海賊貨物船は常にいくらかの密輸収入を稼ぎ出します。しかし、密輸の使命が有効であるとき、大きな利益がコロニーに届けられた資源に対して支払われます。
 
-Note that pirate freighters appear as independent freighters to other empires, so they can usually dock at a colony or base undetected.
+海賊貨物船は、他の帝国に独立した貨物船として現れ、コロニーまたは拠点に検出されずに通常入渠できることに注意して下さい。
 
-Also note that pirate factions can build civilian ships (including smuggling freighters) directly using the 'Build new civilian ship' action button at their spaceport.
+また、海賊派閥が直接彼らの宇宙港で「民間船新構築」のアクションボタンを使用して民間船（密輸貨物を含む）を構築できることに注意してください。
 ~
 Pirate Attack Missions
 Pirate Attack Missions
-Other empires may offer Attack missions, where they pay pirate factions to attack an enemy target for them.
+他の帝国は、彼らにとっての敵目標を攻撃する海賊派閥に支払う攻撃任務を提案するかもしれません。
 
-For attack missions, pirate factions must bid on the mission, lowering the price for the mission with each bid. The last pirate faction to bid gets the attack mission.
+攻撃任務のために海賊派閥は、各入札で任務の価格を下げて、入札しなければなりません。入札する最後の海賊派閥が、攻撃任務を手に入れます。
 
-Payment is made for the attack mission when it is completed. The mission is completed when the target is either destroyed or captured.
+支払いは、攻撃任務が完了すると行われます。目標が破壊されるか、鹵獲されたときに任務が完了します。
 
-Accepted attack missions must be completed by a specific date. Failure to complete the mission will very negatively affect your relations with the requesting empire.
+受理された攻撃任務は、特定の日付までに完了しなければなりません。任務を完了しないと、依頼している帝国とあなたの関係に、非常に悪い影響を与えます。
 ~
 Pirate Defense Missions
 Pirate Defense Missions
-Other empires may offer Defense missions, where they pay pirate factions to protect one of their own bases for a time period.
+他の帝国は、ある期間に彼らの拠点の一つを保護のために海賊派閥に支払う防衛任務を、提案するかもしれません。
 
-For defense missions, pirate factions must bid on the mission, lowering the price for the mission with each bid. The last pirate faction to bid gets the defense mission.
+防衛任務のために海賊派閥は、各入札で任務の価格を下げて、入札しなければなりません。入札する最後の海賊派閥が、防衛任務を手に入れます。
 
-Defense missions can only be bidded on by pirate factions that have a protection agreement with the requesting empire.
+防衛任務は、依頼する帝国と保護協定を締結している海賊派閥のみが、入札することができます。
 
-Payment is made for the defense mission when the time period expires and the base remains unharmed.
+支払いは、期間が終了し拠点が無事残っている場合、防衛任務のために行われます。
 ~
 Mining
 Mining
-Pirates can supply other empires with resources from their mining stations.
+海賊は彼らの採掘局からの資源を他の帝国へ供給することができます。
 
-This can be especially profitable in a game with many pre-warp empires, as they may have trouble supplying all of their own resources.
+これは、自身のすべての資源供給に問題の可能性がある多くのワープ以前の帝国とのゲームでは特に有益となります。
 
-Smuggling missions can also increase the income from mining.
+密輸任務はまた、採掘からの収入を増やすことができます。
 ~
 Raids
 Raids
-Pirates can perform raids against the bases and colonies of other empires.
+海賊は他帝国の拠点とコロニーに対して襲撃を実行することができます。
 
-Raids involve using Assault Pods to either board an enemy base, or to launch a ground invasion of an enemy colony.
+襲撃は、敵拠点への乗り込みか、敵コロニーへの地上侵攻降下のいずれかで、強襲ポッドの使用を必要とします。
 
-Successful raids gain loot for the pirate faction. Loot may take the form of money, research breakthroughs or resources.
+成功した急襲は、海賊派閥のために戦利品を得ます。戦利品は、資金や研究の躍進や資源の形で得ることができます。
 
-Note that raiding a target that has already been recently raided will earn much lower bonuses.
+すでに最近襲撃された目標を襲撃すると、はるかに低い特典獲得なることに注意してください。
 ~
 Capturing Ships and Bases
 Capturing Ships and Bases
-A typical characteristic of pirates is to board and capture enemy ships and bases.
+海賊の典型的な特徴は、乗り込みと、敵艦船や拠点の鹵獲です。
 
-To board a target the attacking ship must have Assault Pod components.
+目標に乗り込む攻撃艦は、強襲ポッド構成要素を持っている必要があります。
 
-To initiate a Capture mission: select a military ship with assault capability, hover over the target while holding down the Shift key, then right-click the target.
+鹵獲任務開始するには：Shiftキーを押しながら攻撃能力を持つ軍艦を選択し、目標上にマウスカーソルを移動させ、その後、目標を右クリックします。
 
-Click 'Continue' for details on how boarding and capture works.
+乗り込みと鹵獲の動作方法の詳細については、[続行]をクリックします。
 ~
 Boarding and Capture
 Boarding and Capture
-Before boarding a target, it's shields must be lowered, and the attacking ship must close to within assault pod range. Assault Pods will then launch towards the target, and if they successfully reach it will then board.
+目標に乗り込む前にそのシールドを低くする必要があり、攻撃艦が強襲ポッド範囲内である必要があります。強襲ポッドは目標に向けて発射され、そして彼らが正常に到達した場合、次に乗り込むでしょう。
 
-A battle then takes place inside the targetted ship or base, with defending forces fighting against the boarding parties. Defending forces are comprised of the ships crew (based on Hab Module components), any unexpended Assault Pods on the ship, and any Troops onboard the ship.
+戦いはその後、目標となる艦船か拠点の内部で、乗り込む隊を迎え撃つ守備隊とで起こります。防衛隊は、艦船の乗組員（住居モジュールの構成要素に基づき）、艦船の上の任意未使用強襲ポッド、そして船船上の任意の部隊で構成されています。
 
-If the boarders are successful then the ship or base is captured, changing ownership to the attacking empire.
+乗り込みが成功した場合、その後艦船または拠点が攻撃側帝国に所有権を変更すると鹵獲されます。
 
-Note that Assault Pods can be shot down by Point Defense weapons while they are in transit towards the target.
+強襲ポッドが目標に向け通行中に、ポイント防衛兵器で撃墜することができることに注意してください。
 ~
 Tractor Beams
 Tractor Beams
-Pirates typically use Tractor Beam weapons on their ships. Tractor beams are very useful for pulling and pushing enemy targets.
+海賊は通常、艦船で牽引ビーム兵器を使用します。牽引ビームは敵目標を牽引したり、押し出すために非常に有用です。
 
-When a ship is pursuing a target it can pull the target towards itself for more effective attack. When a ship is fleeing an attacker it can push the attacker away, allowing better escape.
+艦船が目標を追跡している場合、より効果的な攻撃のために自分自身に向けて目標を牽引することができます。艦船が攻撃を逃れている場合、優れた脱出を可能にするため先に攻撃側を押し出すことが出来ます。
 
-Tractor beams work better against smaller and closer targets.
+牽引ビームは、より小さく近い目標に対してうまく機能します。
 
-Note that Tractor Beam weapons are very useful when attempting to capture enemy ships.
+敵艦船を鹵獲しようとしたとき、牽引ビーム兵器が非常に有用であることに注意してください。
 ~
 Pirate Play Styles
 Pirate Play Styles
-Pirate factions follow one of four playstyles that define how they act:
-- Balanced: control colonies, protection agreements, capturing ships
-- Raider: control colonies, build Pirate Bases and Fortresses
-- Mercenary: attack and defense missions, raids, capturing ships
-- Smuggler: smuggling missions, protection agreements, spying
+海賊派閥は、行動する方法を定義する4つのプレイス形式の一つに従ってください:
+- 平均的：コロニー支配、保護協定、鹵獲艦船
+- 教習車：コロニー支配、海賊の拠点と要塞を構築
+- 傭兵：攻撃と防御任務、襲撃、鹵獲艦船
+- 密輸業者：密輸任務、保護協定、スパイ
 
-Select the playstyle for your pirate faction in the 'Your Empire' screen in game setup.
+ゲーム設定で、「あなたの帝国」画面で、海賊派閥のためにプレイ形式を選択します。
 ~
 Pirate Victory Conditions
 Pirate Victory Conditions
-Pirate play styles also affect the victory conditions that a pirate faction must meet.
+海賊のプレイ様式はまた、海賊派閥が満たす必要のある勝利条件に影響を与えます。
 
-Note that pirates compete against other pirate factions to achieve victory, NOT against standard empires.
+海賊は標準的な帝国に対する勝利ではなく、勝利を達成するために他の海賊派閥と競うことに注意してください。
 
-Pirate factions are eliminated from the game when they lose all of the following:
-- colonies (controlled or owned)
-- refuelling locations (spaceports or gas mining stations)
-- construction ships or resupply ships
+次のすべてを失ったときに海賊派閥は、ゲームから除外されています：
+- コロニー（支配または所有）
+- 燃料補給場所（宇宙港やガス採掘局）
+- 建設船や補給船
 ~
 Pirate Criminal Network
 Pirate Criminal Network
-You may eventually achieve 100% control of a colony and build a Pirate Fortress facility there. At this point you then have the option of building a special pirate mini-wonder called the 'Criminal Network'.
+あなたは最終的にコロニーの100％支配を実現し、そこに海賊要塞施設を建設できます。この時点で、「犯罪ネットワーク」と呼ばれる特殊な海賊の小驚異を構築する選択肢があります。
 
-The Criminal Network fully entrenches your control of a colony, allowing you to completely take it over, owning it just like a normal empire. You can then build Construction Ships, Resupply Ships and even Colony Ships here. This allows you to colonize new planets for your pirate faction.
+犯罪ネットワークが完全にコロニー支配を確定し、あなたが完全にそれを引き継ぐことができ、ただ普通の帝国のようにそれを所有します。その後、建設艦、補給艦、コロニー艦さえここで構築することが可能です。あなたの海賊版派閥のために、新しい惑星をコロニー化することができます。
 
-The Criminal Network also allows you to recruit troops at the colony. With recruited troops you can then invade enemy colonies and take them over.
+犯罪ネットワークはまた、コロニーで部隊を募兵ができます。募兵部隊を使用すると、敵のコロニーに侵略しそれらを引き継ぐことができます。
 
-You also receive a bonus 1% victory points for each 500 million of population at colonies that you fully own.
+また、コロニーの人口500百万人を完全所有する度に、1％勝利ポイント特典を受け取ります。
 ~
 Defending against Attack
 Defending against Attack
-Note that pirate facilities (Pirate Base, Pirate Fortress, Criminal Network) can sometimes be destroyed in raids on your colony by other pirate factions.
+海賊施設（海賊拠点、海賊要塞、犯罪ネットワーク）は、時々他の海賊派閥によってあなたのコロニーを襲撃し破壊ができることに注意してください。
 
-So be sure to defend your colonies from attacking enemy ships, preventing them from getting close enough to raid your colony.
+ですから、あなたのコロニーを襲撃するために十分近づいてくる敵艦船の攻撃からあなたのコロニーを守るよう防いでください。
 
-Also note that when you control a colony that is owned by a normal empire, then that empire may launch a ground attack to eradicate you from their colony, destroying any pirate facilities you have built.
+あなたは通常の帝国に所有されているコロニーを支配する場合にも、その帝国がそのコロニーからあなたを根絶するために地上降下攻撃の開始や、 あなたが構築している任意の海賊施設を破壊することがあることに注意してください。
 
-These ground invasions are launched by the owning empire from the Facilities tab of the Colonies screen (F2). Selecting the target pirate facility will cause the 'Scrap' button to change to 'Attack'. Clicking the attack button will launch a ground attack against the pirate facility using all of the troops currently at the colony.
+これらの地上侵略はコロニー画面の施設タブ[F2]から所有帝国によって起動されます。目標海賊施設を選択すると、「廃止」ボタンが「攻撃」ボタンに変化します。攻撃ボタンをクリックすると、現在のコロニーの部隊すべてを使って、海賊施設に対する地上攻撃を開始します。
 ~
 Summary
 Summary
-Pirates provide a very different play experience in Distant Worlds. 
+海賊は、 Distant Worlds Shadows で非常に異なるプレイ体験を提供します。 
 
-As a space-based faction, your focus is more on your ships and bases, instead of colonies.
+宇宙基盤の派閥として、あなたの焦点はコロニーの代わりに、あなたの艦船と拠点に多くなります。
 
-Pirates have slow research, but compensate by having better spies, allowing them to steal tech and other information.
+海賊はゆっくりと研究しますが、技術やその他の情報を盗むできる優れたスパイを持つことによって補います。
 
-In the pre-warp era, pirates can exploit undeveloped standard empires
+ワープ以前の時代には、海賊は未発達の標準的な帝国を活用することができます。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-Please refer to the Galactopedia (F1) for even more detailed information on Pirates.
+海賊について、より詳細な情報については、Galactopedia[F1]を参照してください。
 ~
