@@ -1,136 +1,136 @@
 ﻿Welcome
 Welcome
-Welcome to the Distant Worlds tutorial about Research, Ship Design and Construction.
+Distant Worlds のチュートリアルへようこそ。ここでは研究と艦船の設計及び建造について学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-Remember that you can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください
 ~
 Research
 Research
-Research uncovers new technologies for use in constructing ships and bases.
+研究では、艦船や拠点を構築する際に使用するための新技術を、明らかにすることになります。
 
-It can also provide your empire with new capabilities, like colonizing new types of planets or constructing larger ships and bases.
+それはまた、新しい惑星型の植民地化、大型船や拠点の構築のような新機能を帝国に提供します。
 
-You choose which research projects you want to undertake in the Research screen (F7). Each of the three research areas (Weapons, Energy, HighTech) has its own tech tree containing all of the research projects for that area. 
+三つの研究分野（兵器、エネルギー、高度技術）の各々は、その領域の全研究課題を含んだ独自の技術ツリー を持っています。
 ~
 Research Stations
 Research Stations
-Research is performed in research laboratories at Space Ports or other dedicated Research Stations.
+研究は、宇宙港やその他の専用研究ステーションの研究室で行われます。
 
-As your empire grows you can research faster, requiring more research facilities.
+帝国が拡大するにつれ、より多くの研究施設を必要とし、より速く研究することができます。
 
-There are a number of different research categories. Each category has a collection of components that can be used in ships or bases.
+異なる研究分野がいくつかあります。各カテゴリには、艦船や拠点で使用することができる構成要素の集まりを持っています。
 ~
 Designs
 Designs
-All of the ships and bases in your empire must be based on a design. Designs are templates or blueprints for building a ship or base.
+あなたの帝国の全ての艦船と拠点は、設計に基づいている必要があります。設計は、艦船や基地を構築するためのテンプレートや設計図です。
 
-Designs are made by selecting a set of components that provide all of the functionality required for the particular type of ship or base.
+設計は、艦船や拠点の特定の型に必要な全機能を提供する構成要素の集まりを、選択することによって作られています。
 
-As your research progresses more advanced components become available. You should upgrade your designs to use the improved components.
+あなたの研究の進歩に伴い、高度な構成要素が利用可能になります。あなたは、改善された構成要素を使用できるように設計を改良する必要があります。
 
-Designs are managed from the Designs screen (F8 key).
+設計は、設計画面 [F8] キーで管理されます。
 ~
 Designs Screen
 Designs Screen
-In the Designs screen you can edit an existing design or create a new one.
+設計画面では、既存の設計を編集するか、または新しいものを作成することができます。
 
-Let's view an existing design for a military ship, a frigate.
+軍艦、フリゲートの既存の設計を見てみましょう。
 ~
 Design Detail Screen
 Design Detail Screen
-In the Design Detail screen you can edit or view a design.
+設計詳細画面では、設計を表示や編集することができます。
 
-Here you can add and remove components to customize your design to your own special requirements.
+ここでは、あなた独自の特別な要件に合わせて設計を作成するために、構成要素の追加や削除を行うことができます。
 
-The various panels on this screen give detailed information about the design.
+この画面上の様々なパネルは、設計に関する詳細な情報を与えています。
 
-Let's take a look at some of these.
+これらのいくつかを見てみましょう。
 ~
 Designs - Role and Tactics
 Designs - Role and Tactics
-Here you can select a picture for your design from any of the ship pictures in the game.
+ここでは、ゲーム中の艦船画像のいずれかから、あなたの設計のための画像を選択することができます。
 
-Assign a role for the design. This indicates the purpose of the ship or base. Each role has specific rules about what component types should be present.
+設計の役割を割り当てます。これは、艦船または拠点の目的を示します。各役割には、構成要素の種類が存在しなければならないかについての 特定の規則があります。
 
-Assign tactical behavior when in combat using battle and invasion tactics. See online help for more information on Battle Tactics and Invasion Tactics.
+戦闘や侵略戦術を使用して戦う時における、戦術的な動作を割り当てます。戦闘戦術と侵攻戦術の詳細については、オンラインヘルプを参照してください。
 ~
 Designs - Warnings
 Designs - Warnings
-This panel lists rules and recommendations to assist in producing a valid design. As you add and remove components to the design the warnings are updated to identify current problems.
+このパネルには、規則や有効な設計を製造する際に補助する、推奨事項を示しています。あなたが構成要素を追加および削除すると、現在の問題を識別するために、設計への警告が更新されます。
 
-Rules are in red and must be satisfied to allow the design to be saved.
+規則は赤色で表示され、設計を保存できるように満たされなければいけません。
 
-Recommendations are in yellow and can be ignored if desired.
+勧告は黄色であり、必要であれば無視することができます。
 ~
 Available Components
 Available Components
-This panel lists all components available for using in the design.
+このパネルは、設計で使用するための使用可能なすべての設計要素が表示されます。
 
-By default this list is filtered to only show the most recent version of each component type.
+通常このリストは、構成要素の各型の最新版を表示するように操作されています。
 ~
 Design Components
 Design Components
-This panel lists all of the components currently used on the design. This list effectively IS the design.
+このパネルには、現在の設計で使用されるすべての構成要素が一覧表示されます。このリストは、効果的に設計されています。
 
-Use the Add Component and Remove Component buttons to modify your design.
+[構成要素の追加] ボタン と [構成要素の削除] ボタン を使用して、あなたの設計を変更することが出来ます。
 
-If the design has already been used to build a ship or base you cannot modify it. You cannot change the components that it uses.
+設計がすでに艦船や拠点を建設するために使用されている場合は、それを変更することはできません。あなたは、それを使用する構成要素を変更することはできません。
 ~
 Designs - Component Detail
 Designs - Component Detail
-This panel provides detailed information for the currently selected component.
+このパネルには、現在選択されている構成要素の詳細情報を提供しています。
 
-The component shown here changes as you select different components in either the Available Components list or the Design Components list.
+利用可能な構成要素のリストか、構成要素設計のリストのいずれかの構成要素を選択でき、構成要素は、ここで変更を示します。
 ~
 Designs - Saving Your Design
 Designs - Saving Your Design
-When you are finished creating your new design click the Save button to make the design available for construction.
+新しい設計の作成を完了したら、建設用の設計が利用できるように [保存] ボタンをクリックします。
 
-Note that all requirements in the Warnings panel (in red) must be satisfied before you can save the new design.
+あなたは新しい設計を保存する前に警告パネル（赤）で、全要件が満たされなければならないことに注意してください。
 ~
 Construction
 Construction
-All construction costs money - you must have sufficient funds to buy new ships and bases.
+すべての建設は費用がかかります。 - あなたは新しい艦船や拠点を購入するために、十分な資金を持っている必要があります。
 
-As your technology level increases your construction abilities grow. You will be able to build progressively larger ships and bases.
+あなたの技術レベルが増加すると、あなたの建設能力が成長します。あなたは徐々により巨大な艦船や拠点を構築することができます。
 
-Let's take a look at two ways that you can build a new ship.
+新しい艦船を造ることができる2つの方法を見てみましょう。
 ~
 Construction - Main View
 Construction - Main View
-The first way to build a new ship is to select the build location in the main view. The build location can be either a space port (for most ship types) or a colony (for colony ships or construction ships).
+新しい艦船を構築する最初の方法は、メインビューで建設場所を選択することです。建設の場所は、宇宙港（ほとんどの艦種）か、コロニー（コロニー艦か建設船）のどちらかになります。
 
-With your colony or space port selected, right click to show a pop-up menu with a "Build" menu option.
+あなたのコロニーや宇宙港が選択された状態で、 [建設] メニュー オプションを表示して、右クリックを行います。
 
-The "Build" submenu lists all designs that are valid to build at this location. Select one to begin construction.
+[建設サブ] メニュー は、この場所に構築することが有効なすべての設計を示しています。建設を開始するかを選択します。
 
-If you cannot afford to build a particular design it will be disabled in the submenu.
+あなたが特定の設計を構築する余裕がなければ、サブメニューは無効になります。
 ~
 Construction Yards screen
 Construction Yards screen
-The second way to build a new ship involves jumping directly to the Space Port construction yards. Do this by clicking on the Construction Yards button (F10 key).
+新しい艦船を構築するための第二の方法は、宇宙港の建設ヤードに直接移動します。建設ヤードボタン [F10] キーをクリックしてこれを行います。
 
-In the Construction Yards tab, select a ship to purchase from the dropdown list at the right. Then click the "Purchase" button to begin construction.
+建設ヤードのタブで、右側にあるドロップダウンリストから、購入する艦船を選択します。その後、建設を開始するために [購入] ボタンをクリックします。
 
-If you cannot afford to build the selected ship your Available Funds will flash red.
+選択した艦船を構築する余裕がない場合、利用可能な資金が赤く点滅します。
 ~
 Build Order screen
 Build Order screen
-Another very efficient way to build new ships is the Build Order screen. Open this screen by clicking the Build Order button (F9 key).
+新しい艦船を構築するためのもう一つの非常に効率的な方法は、建設発注画面です。建設発注ボタン（ [F9] キー）をクリックして、この画面を開きます。
 
-On this screen you can see your current levels for each ship type, as well as the number of new ships suggested by your advisors.
+この画面では、あなたの顧問によって提案された新しい艦船の値だけでなく、あなたの現在の各艦船のレベルを確認することができます。
 
-You can modify the amount of ships for each type, and select a specific design to build.
+あなたは、各タイプの艦船の大きさを変更して、構築する特定の設計を選択することができます。
 
-When you are satisfied with the order, click the 'Purchase' button to buy the new ships and begin construction.
+あなたが発注に満足したならば、新しい艦船を購入して建造を開始するために [購入] ボタンをクリックしてください。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-Please refer to the Galactopedia (F1) for even more detailed information.
+さらに詳細な情報についてはGalactopedia[F1]を参照してください。
 ~

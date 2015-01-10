@@ -1,0 +1,48 @@
+にゃ～(=>ェ<=)
+
+これは｢Distant Worlds Universe 1.9.5.2用Tutorial日本語化パック｣の解説のようなものにゃ
+
+
+1) .7zの中身について
+Tutorialフォルダ
+その中の11個の.txtファイル(たぶん100%日本語化されている)
+解説のようなもの.txt(今読んでるコレ!)
+
+2)　使い方
+Distant Worlds Universe\Tutorialフォルダの中に11個の.txtファイルを投入し、英語原文ファイルと置き換える(元のはバックアップ推奨)
+
+※注意　Distant Worlds Universe\Tutorialフォルダの中にdesktop.iniという謎ファイルがあるかもしれないにゃ
+　　　　(隠しファイルとして見えないかもしれない)
+　　　　正体不明だけど、日本語化ファイルと置き換えたあとも保持しておいたほうが良いかもしれないにゃ
+
+3)　解説
+UniverseからTutorialの仕様が変わってShadows以前の日本語化ファイルはそのままでは使えなくなりましたにゃ
+
+なので、Distant Worlds 関係ファイル置き場にDW_Shadows_Tutorial.zipとしてupされている、
+｢Distant World Shadows用の チュートリアルのizu3的怪しい邦訳｣の内容を、
+Universe仕様に分割された各txtファイルにほぼ丸写ししましたにゃ
+
+ほぼ丸写しなので、誤訳っぽいところの修正や、他の日本語化txtとの用語のすり合わせなどはされてないですにゃ
+
+
+旧仕様のファイルは新仕様で以下のように分割されたにゃ
+
+basic.txt
+以前の基礎チュートリアル用。UniverseのTutorialフォルダにも入ってるがおそらくもう使われていない
+次の三つに分割
+FindingYourWayAround.txt、EmpireAndColonies.txt、ShipsAndMissions.txt
+
+advanced.txt
+以前の上級チュートリアル用。UniverseのTutorialフォルダにも入ってるがおそらくもう使われていない
+次の三つに分割
+ExpansionDiplomacy.txt、FleetsTroops.txt、ResearchDesign.txt
+
+PreWarpEmpire.txt
+以前のプリワープ帝国プレイチュートリアル用。
+旧仕様のままのファイル名は残っているけど、新仕様のファイルは内容のおよそ半分が切り取られて、
+DealingWithPirates.txtに分割された
+
+PlayAsPirate.txt
+以前の海賊団プレイチュートリアル用
+旧仕様のままのファイル名は残っていて、内容も以前のものとほぼ同じだけど、
+文章の最初の行辺りが新仕様に合わせて多少改変されている

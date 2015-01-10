@@ -1,162 +1,162 @@
 ﻿Welcome
 Welcome
-Welcome to the Distant Worlds tutorial about Ships and Bases, and assigning missions to your ships.
+Distant Worlds のチュートリアルへようこそ。このチュートリアルでは艦船や基地およびあなたの船に割り当てる任務について学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-You can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください。
 ~
 Ships and Bases
 Ships and Bases
-Now let's take a look at ships and bases.
+今度は艦船や拠点を見てみましょう。
 
-Ships travel throughout the galaxy performing a wide range of tasks, from transporting cargo to defending your empire.
+艦船は、積荷の輸送からあなたの帝国の防御まで、銀河全体に渡って広範囲のタスクを行ない移動します。
 
-Bases are fixed platforms in space, usually located at a planet.
+拠点は、通常の惑星に位置する空間内の固定プラットフォームです。
 
-To see a complete list of all the ships and bases in your empire click the Ships and Bases button (F11 key).
+あなたの帝国内のすべての艦船と拠点の完全なリストを表示するには、[艦船·拠点] ボタン（[F11] キー）をクリックします。
 ~
 Ships and Bases - Designing
 Ships and Bases - Designing
-All your empire's ships and bases can be designed to your exact specifications in the Designs screen (F8 key).
+すべてのあなたの帝国の艦船と拠点は、デザイン画面（[F8] キー）にて、あなたの正確な仕様に合わせて設計できます。
 
-See the tutorial 'Research, Ship Design and Construction' for more information on how to do this.
+これを行う方法の詳細については、高度なチュートリアルを参照してください。
 ~
 Assigning Missions
 Assigning Missions
-You can assign missions to any state-owned ship or base in your empire.
+あなたは、あなたの帝国内の任意の国営船か拠点に任務を割り当てることができます。
 
-However this does NOT include privately-owned ships like freighters, mining ships or mining stations. You have no control over these privately-owned ships and bases. They go about their business automatically, selecting missions for themselves.
+しかし、これは貨物船、採掘船や採掘局のような個人所有の船を含んでいません。あなたは、これらの私有の船舶や拠点を制御することはできません。彼らは、彼ら自身のための任務を選択し、自動的に彼らのビジネスに取り掛かります。
 ~
 Assigning a Mission
 Assigning a Mission
-To assign a mission to a ship first select it in the main view by left-clicking on it with the mouse.
+艦船に任務を割り当てるには、まずマウスで左クリックすることにより、メインビューでそれを選択します。
 
-Then right-click the mouse over the mission target, e.g. to make a ship move to another location right-click the mouse at that location.
+任務目標上でマウスを右クリックし、例えば別の場所でマウスを右クリックし、艦船を移動させます。
 
-Note that you may need to unpause the game to see the ship move.
+あなたは艦船の動きを見るため、ゲームの一時停止を解除が必要だということに注意してください。
 ~
 Missions - Popup Menu
 Missions - Popup Menu
-Right-clicking on the ship or base may also bring up a popup menu listing a number of missions.
+艦船や拠点上で右クリックすると、また任務の数をリストしたポップアップメニューをもたらすことがあります。
 
-These missions are specific to the particular type of ship or base. They may include: Exploration, Colonization, Building, Refueling, or many others.
+これらの任務は艦船または拠点の特定のタイプに固有のものです。以下が含まれる場合があります:探索、植民地化、建設、燃料補給、または他の多く。
 ~
 Automating Missions
 Automating Missions
-Ships can also be completely automated. This means that they assign missions for themselves.
+艦船はまた、完全に自動化することができます。これは、彼らが彼ら自身のために任務を割り当てることを意味します。
 
-To automate a ship first select it and then press the 'A' key. To turn off automation just assign a mission to the ship.
+艦船を自動化するには、まずそれを選択し、[A] キーを押します。自動機能を切るには船の任務を割り当てます。
 
-When a ship is automated a circular blue arrow appears in the bottom-right corner of the Selection Panel.
+艦船が自動化されたとき、丸まった青色の矢印が選択パネルの右下隅に表示されます。
 
-Note that ALL ships start the game automated.
+すべての艦船は、自動起動でゲームが開始することに注意してください。
 ~
 Missions for Bases
 Missions for Bases
-Although bases are stationary, they can also have missions.
+拠点が静止していますが、彼らはまた、任務を持つことができます。
 
-Base missions can include: building new ships, retrofitting to a new design or scrapping the base when it is no longer needed.
+拠点の任務は、以下のものが含まれます: 新しい艦船を構築する、新しい設計に改造する、必要がなくなった拠点を解体する。
 ~
 Types of Ships and Bases
 Types of Ships and Bases
-Let's take a look at the different types of ships and bases in your empire.
+あなたの帝国の艦船と拠点の異なる種類を見てみましょう。
 ~
 Exploration Ships
 Exploration Ships
-Exploration ships chart unknown areas of the galaxy. As they explore they reveal colonizable planets, uncover valuable resources and make contact with other empires.
+探査艦は、銀河の未知の領域を図表化します。彼らは、植民地化する惑星を明らかにし、貴重な資源を発見し、他の帝国と接触し、探索します。
 
-Exploration ships can be automated to explore on their own ('A' key).
+探査船は（[A] キー）自分自身で探索する自動化することができます。
 
-To cycle through all of your Exploration ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+あなたの探査船のすべての順送りは、[コロニーと探査艦 順送り] ボタン を使用するか、[X] キーを使用します。
 ~
 Colony Ships
 Colony Ships
-Colony ships allow you to colonize other planets, founding new worlds for your empire.
+コロニー艦はあなたの帝国のために新しい世界を設立し、他の惑星を植民地化することができます。
 
-The ship is consumed when a new colony is established. The resources from the ship are used to give the colony a kickstart.
+新しいコロニーが確立されたときに艦が消費されます。艦から資源がコロニーの建設にはずみを与えるために使用されます。
 
-While most ships are built at space ports, Colony ships can only be built at colonies.
+ほとんどの艦船は宇宙港で構築されますが、コロニー艦は唯一コロニーで構築することができます。
 ~
 Colony Ships contd.
 Colony Ships contd.
-To start with you can only colonize the native planet type of your race. But as your research uncovers new technology you can progressively colonize other types of planets.
+最初はあなたの種族の出身惑星型だけを、植民地化することができます。しかし、あなたの研究が新技術を発見すると、徐々に他の惑星型を植民地化することができるようになります。
 
-However you can always colonize planets where there is an existing independent alien population - regardless of the type of planet. In these situations the preexisting population may resist your colonization attempt, with the loss of your colony ship.
+既に独立した異星人の集団があっても、あなたは常に惑星を植民地化することができます。 - 惑星型に関係なく。このような状況では既存の集団は、あなたの植民地化の試みに、コロニー艦の損失を伴うような抵抗を行うかもしれません。
 
-To cycle through all your colony ships use the Cycle Colony and Exploration Ships button, or use the 'X' key.
+あなたのコロニー艦のすべての順送りは、[コロニーと探査艦 順送り] ボタン を使用するか、[X] キーを使用します。
 ~
 Space Ports
 Space Ports
-Space Ports are bases that provide many important services for your empire. Space Ports must always be built at a colony.
+宇宙港は、あなたの帝国のために多くの重要なサービスを提供する拠点です。宇宙港は常にコロニーに建てなければなりません。
 
-They serve as a central point of trade for your empire. Mined resources are brought here by freighters and mining ships.
+彼らはあなたの帝国の貿易の中心点として機能します。採掘された資源は、貨物船と採掘船でここに運び集められます。
 
-Space Ports also provide construction facilities for your empire. Both state and private ships are built here. When private citizens purchase freighters or other ships, your empire earns income.
+宇宙港はまた、あなたの帝国の建設施設を提供しています。国家と民間の両方の艦船がここで構築されています。民間人が貨物または他の船舶を購入すると、あなたの帝国は収入を獲得します。
 ~
 Space Ports contd.
 Space Ports contd.
-Space Ports also provide other vital functions:
-- Heavy weapons provide strong defense for the colony
-- Research facilities for your scientists and engineers
-- Bonuses that help keep the colony population happy: medical facilities and recreation centres
+宇宙港は、他に重要な機能を提供します。
+- 重兵器はコロニーのための強力な防御を提供
+- あなたの科学者やエンジニアのための研究施設
+- コロニー集団の幸せを保つ補助ボーナス：医療施設やレクリエーションセンター
 
-To cycle through all of your Space Ports use the Cycle Space Ports button, or use the 'P' key.
+あなたの宇宙港のすべての順送りは、[宇宙港 順送り] ボタン を使用するか、[P] キーを使用します。
 ~
 Freighters
 Freighters
-Freighters transport cargo between colonies, mining stations and space ports. They come in small, medium and large sizes.
+貨物船は、コロニー、鉱業局、宇宙港 間の貨物を運搬します。大中小のサイズが入港してきます。
 
-Freighters work for your empire, but they are not yours. They belong to the private citizens in your empire. All transportation of goods in your empire is performed by private citizens.
+貨物船は、あなたの帝国のために働きますが、彼らはあなたのものではありません。彼らはあなたの帝国の民間人に属します。あなたの帝国での商品のすべての輸送は民間人によって行われます。
 
-Thus you cannot assign missions to Freighters.
+したがって、あなたは貨物船への任務を割り当てることはできません。
 ~
 Mining Ships
 Mining Ships
-Mining Ships are mobile resource extraction ships. They mine resources that are in high demand, returning them to your nearest space port.
+採掘船は、機動資源採掘船です。彼らは需要が高い資源を採掘し、宇宙港に納め続けます。
 
-Mining ships work for your empire, but they are not yours. They belong to the private citizens in your empire.
+採掘船は、あなたの帝国のために働きますが、彼らはあなたのものではありません。彼らはあなたの帝国の民間人に属します。
 
-Thus you cannot assign missions to Mining ships.
+したがって、あなたは採掘船に任務を割り当てることはできません。
 ~
 Mining Stations
 Mining Stations
-Mining Stations are bases that extract resources from planets, moons, asteroids and gas clouds.
+採掘基地は、惑星、衛星、小惑星やガス雲から資源を抽出する拠点です。
 
-They can be either standard mining stations or gas mining stations.
+彼らは標準的な採掘基地か、ガス採掘基地のどちらかになります。
 
-Mining Stations are built by Construction Ships at resource-rich planets.
+採掘基地は、資源が豊富な惑星に建設船によって構築されます。
 ~
 Construction Ships
 Construction Ships
-Construction Ships are mobile construction yards. They can build bases at uninhabited planets or even in deep space.
+建設船は、機動建設ヤードです。彼らは人が住んでいない惑星、あるいは深宇宙に拠点を構築することができます。
 
-Use the Cycle Construction Ships button to cycle through all the construction ships in your empire, or use the 'Y' key.
+あなたの帝国内のすべての建設船の順送りは、[建設船 順送り] ボタン、または [Y] キーを使用します。
 ~
 Military Ships
 Military Ships
-Military ships defend your empire from enemy empires and from marauding pirates.
+軍艦は、敵の帝国と海賊の略奪から、あなたの帝国を守ります。
 
-They can be assigned the following missions:
-- Attack an enemy target
-- Patrol a colony or base, watching for attackers
-- Escort a civilian ship, such as a construction ship or mining ship
+これらは、次の任務を割り当てることができます。
+- 敵の目標を攻撃
+- 攻撃者の監視、コロニーまたは拠点のパトロール
+- 建設艦や採掘船のような艦船や、民間の船を護衛
 
-There are various sizes and classes of military ships.
+軍艦のサイズと種類は様々です。
 
-Use the Cycle Military Ships button to cycle through them, or use the 'M' key.
+それらを順送りするには、[軍艦 順送り] ボタンを使用するか、または [M] キーを使用します。
 ~
 Find Idle Ships
 Find Idle Ships
-You can find ships that don't currently have a mission by clicking the Cycle Idle Ships button (or press the I key).
+あなたは、[アイドル 順送り] ボタン をクリック（[I] キーを押すか）して、任務を持っていない艦船を見つけることができます。
 
-This helps you find ships that are not being used so that you can assign missions to them.
+これはあなたが彼らに任務を割り当てることができ、未使用の艦船を見つけることができます。
 ~
 Completed
 Completed
-Thank you for taking this tutorial. Now go and explore the galaxy and build your empire!
+このチュートリアルを習得していただきありがとうございます。さぁ、銀河を探索し、あなたの帝国の構築を始めましょう！
 
-When you are ready you can also try the other tutorials from the main menu.
+準備ができたら、あなたはまた、メインメニューから他のチュートリアルを試すことができます。
 ~

@@ -1,78 +1,78 @@
 Welcome
 Welcome
-Welcome to the Distant Worlds tutorial about Fleets, Troops and Intelligence missions.
+Distant Worlds のチュートリアルへようこそ。ここでは艦隊と地上軍、諜報任務について学びます。
 
-To progress through each step of this tutorial click the 'Continue' button.
+このチュートリアルの各手順を進行する [Continue] ボタンをクリックしてください。
 
-Remember that you can move this tutorial window by dragging it with the mouse.
+あなたは、マウスでドラッグして、このチュートリアルのウィンドウを移動できます。
 
-Let's get started: click the 'Continue' button below.
+始めましょう：下の [Continue] ボタンをクリックしてください
 ~
 Fleets
 Fleets
-Fleets allow you to group a number of military ships together and assign missions to the entire group. This is useful for coordinating large attacks on enemy targets.
+艦隊は、軍艦を数隻まとめて艦隊とし、グループ全体への任務を割り当てることを行えます。これは、敵目標に大攻勢をしかける為の調整を行うのに便利です。
 ~
 Fleets - Assigning Ships
 Fleets - Assigning Ships
-You can assign any of your military ships to a fleet by selecting them, then right-clicking on them to display the mission popup menu. Select "Join Fleet" from the menu and then select which fleet you want to join in the submenu.
+次に、それらの上で右クリックして [任務] ポップアップメニューを表示し、それらを選択することによって艦隊にいずれかの軍艦を割り当てることができます。メニューから [艦隊に参加] を選択してから、サブメニューで参加する艦隊を選択します。
 
-From the submenu you can also create a new fleet with the selected ship as the first ship in the fleet.
+サブメニューから艦隊の最初の艦船のように、選択した艦船と新しい艦隊を作成することができます。
 ~
 Fleets - Appearance
 Fleets - Appearance
-When you are zoomed out to system level, fleets appear as an inverted triangle icon.
+あなたは、星系レベルにズームアウトされると、艦隊は逆三角形のアイコンとして表示されます。
 
-The number of ships in the fleet is displayed inside the triangle symbol.
+艦隊の艦船の数は三角形のシンボル内に表示されます。
 ~
 Fleets - Selecting
 Fleets - Selecting
-To select one of your fleets, just double-click any ship in the fleet.
+あなたの艦隊の一つを選択するには、艦隊の任意艦船をダブルクリックします。
 
-Fleets are managed from the Fleets screen (F12 key).
+艦隊は艦隊画面 [F12キー] から管理されます。
 ~
 Troops
 Troops
-Troops defend your colonies against invasion by enemy empires. They can also be used as attacking forces to invade and take over enemy colonies.
+部隊は敵の帝国の侵略に対するあなたのコロニーを守備します。彼らはまた、侵略部隊として攻撃に使用することができ、敵のコロニーを引き継ぎます。
 ~
 Troops - Recruiting
 Troops - Recruiting
-Troops are recruited at your colonies. They cost money to maintain, so only recruit troops that you really need.
+部隊は、あなたのコロニーで徴兵されます。彼らは維持するのに経費が必要なので、あなたが本当に必要とする部隊を募集します。
 
-You can recruit troops from the Troops tab of the Colonies screen (F2 key).
+あなたは、コロニー画面 [F2] キーの部隊タブから部隊を募集することができます。
 
-You can also right-click on any of your colonies in the main view to recruit them from the popup menu.
+また、メインビューで、コロニーのいずれかを右クリックし、ポップアップメニューから部隊徴兵までを選択することができます。
 ~
 Troops - Transporting
 Troops - Transporting
-Troops can be loaded onto ships that have troop storage components, such as troop transports or larger military ships. They can then be sent to another colony and unloaded there to reinforce it. Or they can be used as an invasion force at an enemy colony.
+部隊は、部隊輸送や大型軍用艦として部隊保管構成要素を持っている艦船に積み込むことができます。彼らはその後、別のコロニーに送られて、それを補強するために積み下ろすことができます。またそれらは、敵コロニーに侵略軍として使用することができます。
 
-The troops in your empire can be managed from the Troops screen.
+あなたの帝国の部隊は、部隊画面から管理することができます。
 ~
 Intelligence Missions
 Intelligence Missions
-Intelligence missions enable you to secretly infiltrate other empires and steal or destroy their assets.
+諜報任務は密かに他の帝国に潜入し、彼らの資産を盗んだり破壊することができます。
 
-Intelligence agents are the highly-trained and skilled specialists that you use to accomplish these missions.
+諜報機関は、これらの任務を遂行するために使用する、高度な訓練を受けた熟練した専門家です。
 
-Your agents can be managed from the Characters screen (F4 key).
+あなたの工作員は、文字画面（ [F4] キー）から管理することができます。
 ~
 Assigning missions
 Assigning missions
-The Mission summary panel at the bottom-right of the screen allows you to assign missions to agents.
+画面の右下にある任務要約パネルでは、諜報員を任務に割り当てることができます。
 
-Select a target empire for the mission and a mission type.
+任務と任務の種類に適した目標帝国を選択します。
 
-The more time you allow for the mission, the greater the chance of success.
+より多くの時間によって、偉大なる成功の機会を持ち、任務達成を可能にします。
 ~
 Counter Intelligence
 Counter Intelligence
-Counter intelligence is also critical to protect your empire. You can assign agents to prevent enemy intelligence missions - they will actively seek out spies and saboteurs and report any discoveries to you.
+彼らは積極的にスパイや諜報員を探し出し、あなたにどんな発見かを報告します。諜報活動はまた、あなたの帝国を保護することが重要です。あなたは敵の諜報任務を防止するために、工作員を割り当てることができます - 彼らは積極的にスパイや工作員を探し出し、あなたにどんな発見かを報告します。
 
-Beware of the negative fallout from botched intelligence missions - if another empire discovers your actions against them it will dramatically lower their estimation of your empire, and could even lead to war.
+やり損われた諜報任務から起こる負の副次効果に注意して下さい - もう一つの帝国がそれらに対してあなたの行動を発見した場合、それが劇的にあなたの帝国の彼らの評価を低下させ、さらには戦争につながる可能性があります。
 ~
 Completed
 Completed
-Thank you for taking this tutorial.
+このチュートリアルを習得していただきありがとうございます。
 
-Please refer to the Galactopedia (F1) for even more detailed information.
+さらに詳細な情報についてはGalactopedia[F1]を参照してください。
 ~
