@@ -108,237 +108,237 @@ href=3D"GameConcepts_Pirates_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -347,8 +347,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -501,8 +501,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -520,8 +520,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -539,8 +539,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -656,8 +656,8 @@ div.WordSection1
  @list l0
 	{mso-list-id:210850853;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1046190314 67698689 67698691 67698693 67698689 6769=
-8691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:-1046190314 67698689 67698691 67698693 67698689=
+ 67698691 67698693 67698689 67698691 67698693;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -816,42 +816,86 @@ table.DWChart2EvenRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Pirates are entirely space-based factions. Pirates have a focus on
-survival and a tougher path for growth than a normal planetary empire. Pira=
-tes
-are not necessarily evil, chaotic and destructive, though they can be played
-that way. Pirate factions usually start with one space port orbiting a
-fuel-providing gas giant, several military ships, a few private ships, one
-construction ship and possibly one resupply ship.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'><o:p>&#28023;&#36042;&#12399;&#23436;&#20840;&#12395;&#23431;&#23449;=
+&#12434;&#22522;&#30990;&#12392;&#12377;&#12427;&#27966;&#38309;&#12391;&=
+#12377;&#12290;&#28023;&#36042;&#12391;&#12399;&#29983;&#23384;&#12395;&=
+#28966;&#28857;&#12364;&#12354;&#12383;&#12387;&#12390;&#12362;&#12426;&=
+#12289;&#36890;&#24120;&#12398;&#24785;&#26143;&#12398;&#24093;&#22269;&=
+#12424;&#12426;&#21427;&#12375;&#12356;&#25104;&#38263;&#12408;&#12398;&=
+#36947;&#12434;&#25345;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;&=
+#28023;&#36042;&#12434;<span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12418;&#28151;&#27788;&#12392;&#12375;&#12383;&#12289;&#12381;&=
+#12375;&#12390;&#30772;&#22730;&#30340;&#12394;&#24746;&#12391;</span>&=
+#12398;&#12424;&#12358;&#12395;&#12503;&#12524;&#12540;&#12377;&#12427;&=
+#12371;&#12392;&#12418;&#20986;&#26469;&#12414;&#12377;&#12364;&#12289;&=
+#24517;&#12378;&#12375;&#12418;&#28151;&#27788;&#12392;&#12375;&#12383;&=
+#12381;&#12358;&#12392;&#12356;&#12358;&#35379;&#12391;&#12399;&#12354;&=
+#12426;&#12414;&#12379;&#12435;&#12290;&#28023;&#36042;&#27966;&#38309;&=
+#12399;&#36890;&#24120;&#12289;&#29123;&#26009;&#12434;&#20379;&#32102;&=
+#12377;&#12427;&#24040;&#22823;&#12460;&#12473;&#24785;&#26143;&#12398;&=
+#36556;&#36947;&#12395;&#12354;&#12427;&#23431;&#23449;&#28207;&#12434;&=
+#19968;&#12388;&#12289;&#25968;&#38587;&#12398;&#36557;&#33382;&#12289;&=
+#23569;&#25968;&#12398;&#27665;&#38291;&#33337;&#12289;&#65297;&#38587;&=
+#12398;&#24314;&#35373;&#33337;&#12392;&#12418;&#12375;&#12363;&#12377;&=
+#12427;&#12392;&#65297;&#27231;&#12398;&#35036;&#32102;&#33337;&#12356;&=
+#12358;&#29366;&#24907;&#12391;&#22987;&#12417;&#12414;&#12377;&#12290;=
+</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>If a pirate faction loses all its space ports, controlled colonies (see
-later), construction ships and resupply ships, it is considered to be
-eliminated. Often any survivors will join another pirate faction or planeta=
-ry
-empire before this point is reached.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12418;&#12375;&#28023;&#36042;&#27966;&#38309;&#12364;&#12381;&=
+#12398;&#12377;&#12409;&#12390;&#12398;<span lang=3D"en-nz">&#12289;&=
+#23431;&#23449;&#28207;</span>&#12289;<span lang=3D"en-nz">&#25903;&#37197=
+;&#12377;&#12427;&#12467;&#12525;&#12491;&#12540;</span>&#65288;<span lang=
+=3D"en-nz">&#24460;&#12395;&#35352;&#36848;</span>&#65289;&#12289;&#24314;=
+&#35373;&#33337;&#12392;&#35036;&#32102;&#33337;&#12434;&#22833;&#12358;&=
+#12394;&#12425;&#12289;&#12381;&#12428;&#12399;<span lang=3D"en-nz">&=
+#28040;&#28357;&#12375;</span>&#12414;&#12377;&#12290;&#12375;&#12400;&=
+#12375;&#12400;&#12289;<span lang=3D"en-nz">&#28040;&#28357;&#12377;&=
+#12427;&#21069;&#12395;&#20840;&#12390;&#12398;</span>&#29983;&#23384;&=
+#32773;<span lang=3D"en-nz">&#12364;&#12289;&#21029;&#12398;</span>&#28023=
+;&#36042;&#27966;&#38309;&#12354;&#12427;&#12356;&#12399;&#24785;&#26143;&=
+#12398;&#24093;&#22269;&#12395;&#21512;&#27969;&#12377;&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Construction ships are a very valuable resource for pirates. Each fact=
-ion
-has a working hyperspace-capable construction ship, but cannot immediately
-build more. They do however start with the technology to rapidly travel bet=
-ween
-the stars and to capture or raid for anything they may need.<o:p></o:p></sp=
-an></p>
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#24314;&#35373;&#33337;&#12399;&#28023;&#36042;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12395;&#12392;&#12387;&#12390;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#38750;&#24120;&#12395;&#36020;&#37325;&#12394;&#36039;&#28304;&=
+#12391;&#12377;&#12290;&#12381;&#12428;&#12382;&#12428;&#12398;&#27966;&=
+#38309;&#12364;&#20316;&#21205;&#12375;&#12390;&#12356;&#12427;</span>=
+<span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12495;&#12452;&#12497;&#12540;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12473;&#12506;&#12540;&#12473;&#23550;&#24540;&#12398;&#24314;&=
+#35373;&#33337;&#12434;&#25345;&#12387;&#12390;&#12356;&#12414;&#12377;&=
+#12289;&#12375;&#12363;&#12375;&#12377;&#12368;&#12395;</span><span style=
+=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12399;&#36861;&#21152;&#12434;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#20316;&#12427;&#12371;&#12392;&#12364;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#20986;&#26469;&#12414;&#12379;&#12435;&#12290;&#12375;&#12363;&=
+#12375;&#12289;&#24444;&#12425;&#12399;&#12289;&#24517;&#35201;&#12395;&=
+#24540;&#12376;&#12390;&#26143;&#12398;&#38291;&#12434;&#32032;&#26089;&=
+#12367;&#31227;&#21205;&#12377;&#12427;&#12289;&#12381;&#12375;&#12390;&=
+#25343;&#25429;&#12392;&#12289;&#35186;&#25731;&#12398;&#12383;&#12417;&=
+#12398;&#25216;&#34899;&#12434;&#25345;&#12387;&#12390;&#22987;&#12417;&=
+#12414;&#12377;&#12290;</span></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>D=
-ifferent
-Playstyles<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&#27096;=
+&#12293;&#12394;&#12503;&#12524;&#12452;&#12473;&#12479;&#12452;&#12523;=
+</o:p></span></h3>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coor=
-dsize=3D"21600,21600"
- o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=
-=3D"f"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"=
+ coordsize=3D"21600,21600"
+ o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe"=
+ filled=3D"f"
  stroked=3D"f">
  <v:stroke joinstyle=3D"miter"/>
  <v:formulas>
@@ -870,8 +914,8 @@ dsize=3D"21600,21600"
  </v:formulas>
  <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
  <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
-</v:shapetype><v:shape id=3D"_x0000_s1041" type=3D"#_x0000_t75" style=3D'po=
-sition:absolute;
+</v:shapetype><v:shape id=3D"_x0000_s1041" type=3D"#_x0000_t75" style=3D=
+'position:absolute;
  margin-left:229.85pt;margin-top:0;width:281.05pt;height:233.75pt;z-index:2;
  visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;
  mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
@@ -881,527 +925,957 @@ sition:absolute;
  <v:imagedata src=3D"GameConcepts_Pirates_files/image004.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D468 height=3D390
-src=3D"GameConcepts_Pirates_files/image001.png" align=3Dright hspace=3D15 v=
-:shapes=3D"_x0000_s1041"><![endif]><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>The race an=
-d Pirate
-playstyle selected in Game Setup greatly affect how your pirate faction will
-play. The playstyle is the most significant choice: each playstyle adds bon=
-uses
-or penalties to various parts of the game as well as unique victory conditi=
-ons.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image001.png" align=3Dright hspace=3D15=
+ v:shapes=3D"_x0000_s1041"><![endif]><o:p><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12466;&#12540;&#12512;&#35373=
+;&#23450;&#12391;&#36984;&#25246;&#12375;&#12383;&#31278;&#26063;&#12392;=
+</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#28023;&=
+#36042;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&=
+#12503;&#12524;&#12452;&#12473;&#12479;&#12452;&#12523;&#12399;&#12289;=
+</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12354;&=
+#12394;&#12383;&#12398;&#28023;&#36042;&#27966;&#38309;</span><span style=
+=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12434;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12393;&=
+#12398;&#12424;&#12358;&#12395;&#12503;&#12524;&#12540;&#12377;&#12427;&=
+#12363;&#12395;&#24433;&#38911;&#12434;&#19982;&#12360;&#12414;&#12377;&=
+#12290;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&=
+#12503;&#12524;&#12452;&#12473;&#12479;&#12452;&#12523;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'> &#12399;&=
+#26368;&#12418;&#37325;&#35201;&#12394;&#36984;&#25246;&#12391;&#12377;&=
+#65306;&#12381;&#12428;&#12382;&#12428;&#12398;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12503;&#12524;&#12452;&#12473=
+;&#12479;&#12452;&#12523;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12364;&=
+#12289;&#12518;&#12491;&#12540;&#12463;&#12394;&#21213;&#21033;&#29366;&=
+#24907;&#12392;&#12289;&#12466;&#12540;&#12512;&#12398;</span><span style=
+=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#21508;&#25152;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12395;=
+</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#29305;&=
+#20856;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12354;&=
+#12427;&#12356;&#12399;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:yes'>&#32624;&#21063;</span><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#12434;=
+</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#19982;&=
+#12360;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
-EN-US
-style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Balanced</span></b><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>: This fact=
-ion has
-no significant advantages or disadvantages and is able to play as any of the
-other playstyles, but not quite as well. If you want to try a bit of
-everything, this is the playstyle to choose.<o:p></o:p></span></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>
+<span
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#65288;&#24179;&#22343=
+;&#65289;</span></b><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>:
+<o:p>&#12371;&#12398;&#20826;&#27966;&#12399;&#37325;&#35201;&#12394;&=
+#21033;&#28857;&#12354;&#12427;&#12356;&#12399;&#19981;&#21033;&#12434;&=
+#25345;<span lang=3D"en-nz">&#12385;&#12414;&#12379;&#12435;&#12290;</span=
+>&#20182;&#12398;<span lang=3D"en-nz">&#12354;&#12425;&#12422;&#12427;&=
+#12503;&#12524;&#12452;&#12473;&#12479;&#12452;&#12523;&#12392;&#21516;&=
+#12376;&#12424;&#12358;&#12394;&#20107;&#12434;</span>&#12289;&#12375;&=
+#12363;&#12375;<span lang=3D"en-nz">&#21516;&#12376;&#31243;&#12395;&=
+#12399;&#19978;&#25163;&#12367;&#12394;&#12367;&#12289;&#12503;&#12524;&=
+#12540;</span>&#12377;&#12427;&#12371;&#12392;&#12364;&#21487;&#33021;&=
+#12391;&#12377;&#12290;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:yes'>&#12418;&#12375;&#12289;&#12354;&#12394;&#12383;&#12364=
+;&#12354;&#12425;&#12422;&#12427;&#20107;&#12434;&#12375;&#12390;&#12415;&=
+#12383;&#12356;&#12398;&#12394;&#12425;&#12289;&#12371;&#12398;&#12503;&=
+#12524;&#12452;&#12473;&#12479;&#12452;&#12523;&#12434;&#36984;&#25246;&=
+#12377;&#12427;&#12409;&#12365;&#12391;&#12375;&#12423;&#12358;&#12290;=
+</span></o:p></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
-EN-US
-style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Mercenary</span></b><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>: Focused o=
-n attack
-and defense missions. Good at capturing enemy ships and conducting raids. C=
-an
-maintain a larger military fleet. Improved Weapons and Energy research, slow
-High Tech research. Strong hidden bases which can be built quickly and inex=
-pensively.<o:p></o:p></span></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>
+<span lang=3DEN-US
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#65288;&#20653;&#20853=
+;&#65289;</span></b><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>:
+<o:p>&#25973;&#33382;<span lang=3D"en-nz">&#12398;&#25343;&#25429;&#12392;=
+</span>&#12289;&#35186;&#25731;<span lang=3D"en-nz">&#12364;&#24471;&=
+#24847;&#12391;&#12377;</span>&#12290;&#12424;&#12426;&#22823;&#12365;&=
+#12356;<span lang=3D"en-nz">&#33382;&#38538;&#12434;</span>&#32173;&#25345=
+;&#12377;&#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&=
+#12290;&#27494;&#22120;&#12392;&#12456;&#12493;&#12523;&#12462;&#12540;&=
+#30740;&#31350;<span lang=3D"en-nz">&#12399;&#25913;&#21892;&#12373;&=
+#12428;</span>&#12289;<span lang=3D"en-nz">&#65418;&#65394;&#65411;&#65400=
+;&#25216;&#34899;&#12398;</span>&#30740;&#31350;<span lang=3D"en-nz">&=
+#12399;&#36933;&#12367;&#12394;&#12426;&#12414;&#12377;</span>&#12290;=
+</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#24375;&=
+#21147;&#12394;&#38560;&#12428;&#12383;&#25312;&#28857;&#12434;&#32032;&=
+#26089;&#12367;&#23433;&#20385;&#12395;&#20316;&#12427;&#12371;&#12392;&=
+#12364;&#20986;&#26469;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
-EN-US
-style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Raider</span></b><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>: The most
-&#8220;nomadic&#8221; of the pirate playstyles. Focused on raids and ship a=
-nd
-base capture at which they are unsurpassed. Poor smugglers. Slightly higher
-maintenance costs. Bonus on Weapons research, but slow High Tech research. =
-Base
-building is slow and expensive.<o:p></o:p></span></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>
+<b style=3D'mso-bidi-font-weight:normal'>
+<span
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<span
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#65288;</span><span=
+ lang=3DEN-US
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#30053;&#22890;</span>=
+<span
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#65289;</span></span>=
+</b></b><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>:<o:p>=
+<span lang=3D"en-nz">&#20182;&#12395;&#20006;&#12406;&#12418;&#12398;&=
+#12364;&#28961;&#12356;&#12411;&#12393;</span>&#35186;&#25731;&#12392;&=
+#33337;&#12392;<span lang=3D"en-nz">&#22522;&#22320;&#12398;&#25343;&=
+#25429;&#12395;</span>&#28966;&#28857;&#12434;&#21512;&#12431;&#12379;=
+<span lang=3D"en-nz">&#12390;&#12356;&#12414;&#12377;</span>&#12290;</span=
+><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#23494;&#36664;=
+&#12399;&#20047;&#12375;&#12367;&#12289;&#32173;&#25345;&#36027;&#12418;&=
+#23569;&#12375;&#39640;&#12417;&#12391;&#12377;&#12290;&#27494;&#22120;&=
+#30740;&#31350;&#12395;&#12508;&#12540;&#12490;&#12473;&#12364;&#12354;&=
+#12426;&#12414;&#12377;&#12364;&#12289;&#65418;&#65394;&#65411;&#65400;&=
+#25216;&#34899;&#12399;&#36933;&#12367;&#12394;&#12426;&#12414;&#12377;&=
+#12290;&#38560;&#12428;&#12383;&#25312;&#28857;&#12399;&#12289;&#39640;&=
+#20385;&#12391;&#20316;&#12427;&#12398;&#12395;&#26178;&#38291;&#12364;&=
+#25499;&#12363;&#12426;&#12414;&#12377;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
-EN-US
-style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Smuggler</span></b><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>: The most =
-peaceful
-of the pirate playstyles. Focused on smuggling and trade. Weak at raids and
-ship and base capture. Slow to research Weapons, but bonuses to Energy and =
-High
-Tech research. Fastest playstyle for taking over planets completely, very h=
-ard
-to remove from a planet once they have facilities there.<o:p></o:p></span><=
-/p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>
+<span
+style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>&#65288;&#23494;&#36664=
+;&#65289;</span></b><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>: </span>
+<span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<o:p>
+&#26368;&#12418;&#24179;&#21644;&#30340;&#12394;&#28023;&#36042;&#12503;&=
+#12524;&#12452;&#12473;&#12479;&#12452;&#12523;&#12391;&#12377;&#12290;&=
+#23494;&#36664;&#12392;&#36031;&#26131;&#12395;&#28966;&#28857;&#12364;&=
+#12354;&#12426;&#12414;&#12377;&#12290;&#35186;&#25731;&#12420;&#33337;&=
+#12539;&#22522;&#22320;&#12398;&#25343;&#25429;&#12395;&#12399;&#20778;&=
+#12428;&#12414;&#12379;&#12435;&#12290;&#27494;&#22120;&#30740;&#31350;&=
+#12399;&#36933;&#12356;&#12391;&#12377;&#12364;&#12289;&#12456;&#12493;&=
+#12523;&#12462;&#12540;&#12392;&#65418;&#65394;&#65411;&#65400;&#12395;&=
+#12399;&#12508;&#12540;&#12490;&#12473;&#12364;&#12354;&#12426;&#12414;&=
+#12377;&#12290;&#24785;&#26143;&#12434;&#23436;&#20840;&#12395;&#20055;&=
+#12387;&#21462;&#12427;&#20107;&#12395;&#38306;&#12375;&#12390;&#12399;&=
+#26368;&#36895;&#12391;&#12289;&#12414;&#12383;&#26045;&#35373;&#12434;&=
+#25345;&#12387;&#12390;&#12356;&#12427;&#24785;&#26143;&#12363;&#12425;&=
+#38750;&#24120;&#12395;&#21462;&#38500;&#12363;&#12428;&#38627;&#12367;&=
+#12394;&#12427;&#12503;&#12524;&#12452;&#12473;&#12479;&#12452;&#12523;&=
+#12391;&#12377;&#12290;</o:p></span></p>
 
-<h2><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_0" o:spid=3D"_x0000_s10=
-40"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:298.75pt;margi=
-n-top:35.5pt;
- width:349.95pt;height:262.9pt;z-index:1;visibility:visible;mso-wrap-style:=
-square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<h2><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_0" o:spid=3D=
+"_x0000_s1040"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:298.75pt=
+;margin-top:35.5pt;
+ width:349.95pt;height:262.9pt;z-index:1;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image003.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D583 height=3D438
-src=3D"GameConcepts_Pirates_files/image002.png" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_0"><![endif]><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Pirate Econ=
-omy<o:p></o:p></span></h2>
+src=3D"GameConcepts_Pirates_files/image002.png" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_0"><![endif]><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:yes'>&#28023;&#36042;&#32076;&#28168=
+;</span></h2>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>The pirate economy is very different from a normal empire. Normal empi=
-res
-derive most of their income from taxing their colonies. Pirates do not usua=
-lly
-own colonies directly, so cannot earn tax income.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#28023;&#36042;&#32076;&#28168;&#12399;&#36890;&#24120;&#12398;&=
+#24093;&#22269;<span lang=3D"en-nz">&#12398;&#12381;&#12428;&#12392;&=
+#12399;</span>&#38750;&#24120;&#12395;&#30064;&#12394;&#12387;&#12390;&=
+#12356;&#12414;&#12377;&#12290; &#36890;&#24120;&#12398;&#24093;&#22269;=
+<span lang=3D"en-nz">&#12399;&#12467;&#12525;&#12491;&#12540;&#12408;&=
+#12398;</span>&#35506;&#31246;&#12363;&#12425;&#12381;&#12398;&#21454;&=
+#20837;&#12398;&#22823;&#37096;&#20998;&#12434;&#24341;&#12365;&#20986;&=
+#12375;&#12414;&#12377;&#12290;&#28023;&#36042;&#12364;&#36890;&#24120;&=
+#12289;&#30452;&#25509;<span lang=3D"en-nz">&#12467;&#12525;&#12491;&=
+#12540;&#12434;</span>&#25152;&#26377;&#12375;&#12414;&#12379;&#12435;=
+<span lang=3D"en-nz">&#12375;</span>&#12289;&#12381;&#12428;&#12411;&=
+#12393;&#31246;&#37329;&#21454;&#20837;&#12434;&#24471;&#12427;&#12371;&=
+#12392;<span lang=3D"en-nz">&#12399;</span>&#12391;&#12365;&#12414;&#12379=
+;&#12435;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal>Overall pirate income is much less stable and relies o=
-n a
-much more active <span class=3DSpellE>playstyle</span> to maintain and grow=
-.</p>
+<p class=3DMsoNormal>&#20840;&#20307;&#30340;&#12395;&#12289;&#28023;&=
+#36042;&#12398;&#21454;&#20837;&#12399;&#12378;&#12387;&#12392;&#23433;&=
+#23450;&#12375;&#12390;&#12356;&#12394;&#12367;&#12390;&#12289;&#32173;&=
+#25345;&#12392;&#22679;&#21152;&#12395;&#23550;&#12375;&#12390;&#12399;&=
+#12289;&#12378;&#12387;&#12392;&#26377;&#21177;&#12394;&#12503;&#12524;&=
+#12452;&#12473;&#12479;&#12452;&#12523;&#12395;&#38972;&#12426;&#12414;&=
+#12377;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Protection Ag=
-reements</b>
-are the easiest way for pirates to make money. Protection Agreements can be
-offered to any empire through the Diplomacy screen (F5). If they are
-intimidated enough, they will accept and pay you regularly to leave them al=
-one.
-Between Pirate factions, these are considered truces and do not involve any
-payment, but can also be easily broken.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#20445;&=
+#35703;&#21332;&#23450;</b>&#12399;&#28023;&#36042;&#12364;&#37329;&#12434=
+;&#12418;&#12358;&#12369;&#12427;&#26368;&#12418;&#23481;&#26131;&#12394;&=
+#26041;&#27861;&#12391;&#12377;&#12290;&#20445;&#35703;&#21332;&#23450;&=
+#12399;&#22806;&#20132;&#12473;&#12463;&#12522;&#12540;&#12531;&#65288;F5&=
+#65289;&#12434;&#36890;&#12375;&#12390;&#12393;&#12435;&#12394;&#24093;&=
+#22269;&#12408;&#12391;&#12418;&#30003;&#12375;&#20837;&#12428;&#12427;&=
+#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#12418;&=
+#12375;&#24444;&#12425;&#12364;&#21313;&#20998;&#12395;&#33029;&#12363;&=
+#12373;&#12428;&#12390;&#12356;&#12427;&#12394;&#12425;&#12289;&#24444;&=
+#12425;&#12434;&#12411;&#12387;&#12390;&#12362;&#12356;&#12390;&#36016;&=
+#12358;&#12383;&#12417;&#12395;&#12289;&#12354;&#12394;&#12383;&#12434;&=
+#21463;&#12369;&#20837;&#12428;&#23450;&#26399;&#30340;&#12395;&#25903;&=
+#25173;&#12358;&#12391;&#12375;&#12423;&#12358;&#12290;&#28023;&#36042;&=
+#27966;&#38309;&#12398;&#38291;&#12398;&#22580;&#21512;&#12289;&#12371;&=
+#12428;&#12425;&#12399;&#20572;&#25126;&#12395;&#30456;&#24403;&#12375;&=
+#12289;&#25903;&#25173;&#12356;&#12434;&#20276;&#12356;&#12414;&#12379;&=
+#12435;&#12289;&#12375;&#12363;&#12375;&#23481;&#26131;&#12395;&#30772;&=
+#26820;&#12373;&#12428;&#12414;&#12377;&#12290;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Controlled Co=
-lonies</b>
-represent income your faction gains through increasing its influence on a
-colony. This can be an independent colony or one belonging to another empir=
-e. Larger
-colonies in terms of population are much harder to control than smaller
-colonies.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#25903;&=
+#37197;&#19979;&#12398;&#12467;&#12525;&#12491;&#12540;</b>&#12399;&#12289=
+;&#12354;&#12394;&#12383;&#12398;&#27966;&#38309;&#12364;&#12289;&#12467;&=
+#12525;&#12491;&#12540;&#12395;&#23550;&#12377;&#12427;&#12381;&#12398;&=
+#24433;&#38911;&#21147;&#12434;&#22679;&#12420;&#12377;&#12371;&#12392;&=
+#12434;&#36890;&#12376;&#12390;&#12289;&#22679;&#12377;&#21454;&#20837;&=
+#12434;&#34920;&#12375;&#12414;&#12377;&#12290;&#12381;&#12398;&#12467;&=
+#12525;&#12491;&#12540;&#12399;&#29420;&#31435;&#12384;&#12387;&#12383;&=
+#12426;&#21029;&#12398;&#24093;&#22269;&#12395;&#23646;&#12375;&#12390;&=
+#12356;&#12427;&#12418;&#12398;&#12363;&#12418;&#30693;&#12428;&#12414;&=
+#12379;&#12435;&#12290;&#20154;&#21475;&#12364;&#22810;&#12356;&#12467;&=
+#12525;&#12491;&#12540;&#12399;&#12289;&#23567;&#12373;&#12356;&#12467;&=
+#12525;&#12491;&#12540;&#12424;&#12426;&#25903;&#37197;&#19979;&#12395;&=
+#12362;&#12367;&#20107;&#12364;&#12424;&#12426;&#22256;&#38627;&#12391;&=
+#12377;&#12290;</p>
 
-<p class=3DMsoNormal>As pirate influence on a planet increases, the
-planet&#8217;s corruption also increases and a portion of the planet&#8217;s
-economy is redirected to the pirate faction. Depending on the pirate <span
-class=3DSpellE>playstyle</span> this can represent anything from an actual
-tribute payment to running the planetary black market.</p>
+<p class=3DMsoNormal>
+&#24785;&#26143;&#12395;&#23550;&#12377;&#12427;&#28023;&#36042;&#12398;&=
+#24433;&#38911;&#21147;&#12364;&#22679;&#21152;&#12377;&#12427;&#12395;&=
+#12388;&#12428;&#12390;&#12289;&#24785;&#26143;&#12398;&#27738;&#32887;&=
+#12418;&#22679;&#21152;&#12375;&#12414;&#12377;&#12290;&#12381;&#12375;&=
+#12390;&#24785;&#26143;&#12398;&#32076;&#28168;&#12398;&#19968;&#37096;&=
+#20998;&#12364;&#28023;&#36042;&#27966;&#38309;&#12398;&#12418;&#12398;&=
+#12392;&#25104;&#12426;&#12414;&#12377;&#12290;&#12371;&#12428;&#12364;&=
+#20309;&#12434;&#34920;&#12375;&#12390;&#12356;&#12427;&#12398;&#12363;&=
+#12399;&#12289;&#20107;&#23455;&#19978;&#12398;&#12415;&#12363;&#12376;&=
+#12417;&#26009;&#12398;&#25903;&#25173;&#12356;&#12363;&#12425;&#24785;&=
+#26143;&#12398;&#38343;&#24066;&#22580;&#12398;&#36939;&#21942;&#12414;&=
+#12391;&#12289;&#20309;&#12398;&#28023;&#36042;&#12503;&#12524;&#12452;&=
+#12473;&#12479;&#12452;&#12523;&#12395;&#12424;&#12427;&#12363;&#12391;&=
+#22793;&#12431;&#12426;&#12414;&#12377;&#12290;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Pirate Missio=
-ns</b> give
-rewards for attacking or defending targets. If you complete a pirate mission
-successfully, your relations with the planet or empire that requested the
-mission increases. This will result in future missions being more lucrative=
-. However
-failure will harm your relations with the requesting empire.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#28023;&=
+#36042;&#20219;&#21209;</b>&#12399;&#27161;&#30340;&#12434;&#25915;&#25731=
+;&#12377;&#12427;&#12363;&#12289;&#12354;&#12427;&#12356;&#12399;&#23432;&=
+#12427;&#20107;&#12391;&#22577;&#37228;&#12434;&#24471;&#12414;&#12377;&=
+#12290;&#12418;&#12375;&#12354;&#12394;&#12383;&#12364;&#25104;&#21151;&=
+#35023;&#12395;&#28023;&#36042;&#20219;&#21209;&#12434;&#23436;&#20102;&=
+#12377;&#12427;&#12394;&#12425;&#12289;&#20381;&#38972;&#12375;&#12383;&=
+#24785;&#26143;&#12354;&#12427;&#12356;&#12399;&#24093;&#22269;&#12392;&=
+#12398;&#12354;&#12394;&#12383;&#12398;&#38306;&#20418;&#12364;&#25913;&=
+#21892;&#12375;&#12414;&#12377;&#12290;&#12371;&#12428;&#12399;&#23558;&=
+#26469;&#12398;&#20219;&#21209;&#12364;&#12424;&#12426;&#20786;&#12363;&=
+#12427;&#12424;&#12358;&#12395;&#12394;&#12427;&#12392;&#12356;&#12358;&=
+#32080;&#26524;&#12434;&#40782;&#12377;&#12391;&#12375;&#12423;&#12358;&=
+#12290;&#12375;&#12363;&#12375;&#12394;&#12364;&#12425;&#12289;&#22833;&=
+#25943;&#12377;&#12428;&#12400;&#20381;&#38972;&#12375;&#12383;&#24093;&=
+#22269;&#12392;&#12398;&#12354;&#12394;&#12383;&#12398;&#38306;&#20418;&=
+#12399;&#20663;&#12388;&#12367;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Looting Destr=
-oyed
-Ships or Bases and Scrapping Captured Ships or Bases </b>is income gained f=
-rom
-the simple act of using your own ships to cause mayhem. It is entirely poss=
-ible
-to raid a base for valuable loot and then earn more income by destroying it
-afterwards.<b style=3D'mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>
+&#30772;&#22730;&#12375;&#12383;&#33337;&#12420;&#22522;&#22320;&#12363;&=
+#12425;&#12398;&#30053;&#22890;&#12392;&#25343;&#25429;&#12375;&#12383;&=
+#33337;&#12420;&#22522;&#22320;&#12398;&#30772;&#26820;</b><span style=3D=
+'mso-bidi-font-weight:normal'><o:p>&#12399;&#12289;&#12354;&#12394;&#12383=
+;&#33258;&#36523;&#12398;&#33337;&#12434;&#22823;&#28151;&#20081;&#12434;&=
+#36215;&#12371;&#12377;&#12383;&#12417;&#12395;&#20351;&#12358;&#21336;&=
+#32020;&#12394;&#34892;&#28858;&#12363;&#12425;&#24471;&#12425;&#12428;&=
+#12427;&#21454;&#20837;&#12391;&#12377;&#12290;&#36020;&#37325;&#12394;&=
+#30053;&#22890;&#21697;&#12398;&#12383;&#12417;&#12395;&#12505;&#12540;&=
+#12473;&#12434;&#35186;&#25731;&#12375;&#12390;&#12289;&#12381;&#12375;&=
+#12390;&#12381;&#12398;&#24460;&#12395;&#12381;&#12428;&#12434;&#30772;&=
+#22730;&#12377;&#12427;&#12371;&#12392;&#12395;&#12424;&#12387;&#12390;&=
+#12418;&#12387;&#12392;&#22810;&#12367;&#12398;&#21454;&#20837;&#12434;&=
+#24471;&#12427;&#12371;&#12392;&#12418;&#23436;&#20840;&#12395;&#21487;&=
+#33021;&#12391;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Smuggling and=
- Mining </b><span
-class=3DGramE>are</span> the most peaceful sources of income for Pirates.
-Smuggling rewards are earned through completing Pirate Smuggling Missions. =
-Mining
-is earned through the sale of resources to other factions. A great way to e=
-arn
-extra income is to have a good network of mines (especially for rare and in
-demand resources) along with enough freighters to take on smuggling mission=
-s.<b
-style=3D'mso-bidi-font-weight:normal'><o:p></o:p></b></p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#23494;&=
+#36664;&#12392;&#25505;&#25496;</b><span
+style=3D'mso-bidi-font-weight:normal'><o:p>&#12399;&#12497;&#12452;&#12524=
+;&#12540;&#12484;&#12395;&#12392;&#12387;&#12390;&#12289;&#26368;&#12418;&=
+#31311;&#12420;&#12363;&#12394;&#21454;&#20837;&#28304;&#12391;&#12377;&=
+#12290;&#23494;&#36664;&#22577;&#37228;&#12399;&#12289;&#28023;&#36042;&=
+#23494;&#36664;&#20381;&#38972;&#12434;&#23436;&#20102;&#12377;&#12427;&=
+#12371;&#12392;&#12434;&#36890;&#12376;&#12390;&#12289;&#29554;&#24471;&=
+#12373;&#12428;&#12414;&#12377;&#12290;&#25505;&#25496;&#12399;&#20182;&=
+#12398;&#20826;&#27966;&#12408;&#12398;&#36039;&#28304;&#12398;&#22770;&=
+#21364;&#12434;&#36890;&#12375;&#12390;&#29554;&#24471;&#12373;&#12428;&=
+#12414;&#12377;&#12290;&#36861;&#21152;&#12398;&#22577;&#37228;&#12434;&=
+#24471;&#12427;&#32032;&#26228;&#12425;&#12375;&#12356;&#26041;&#27861;&=
+#12399;&#12289;<span
+style=3D'mso-bidi-font-weight:normal'>&#33391;&#12356;&#37489;&#23665;&=
+#65288;&#29305;&#12395;&#36020;&#37325;&#12363;&#38656;&#35201;&#12398;&=
+#39640;&#12356;&#65289;&#12398;&#12493;&#12483;&#12488;&#12527;&#12540;&=
+#12463;&#12392;&#12289;</span>&#21313;&#20998;&#12394;&#36008;&#29289;&=
+#33337;&#12434;&#25345;&#12388;&#12371;&#12392;&#12391;&#12377;&#12290;=
+</o:p></span></p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Selling Infor=
-mation</b>
-is done through the Diplomacy screen (F5) and can be very lucrative, especi=
-ally
-in the Age of Shadows where the planetary empires start off with much less
-knowledge and technology than the Pirate factions. Beware though: any knowl=
-edge
-or technology you sell may end up being used against you!</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#24773;&=
+#22577;&#12398;&#36009;&#22770;</b>&#12399;&#22806;&#20132;&#12473;&#12463=
+;&#12522;&#12540;&#12531;&#65288;F5&#65289;&#12363;&#12425;&#24471;&#12425=
+;&#12428;&#12289;&#12381;&#12375;&#12390;&#12289;&#29305;&#12395;&#24785;&=
+#26143;&#12398;&#24093;&#22269;&#12364;&#28023;&#36042;&#27966;&#38309;&=
+#12424;&#12426;&#12399;&#12427;&#12363;&#12395;&#23569;&#12375;&#12398;&=
+#30693;&#35672;&#12392;&#25216;&#34899;&#12363;&#12425;&#22987;&#12417;&=
+#12427;&#24433;&#12398;&#26178;&#20195;&#12391;&#12399;&#12289;&#38750;&=
+#24120;&#12395;&#20786;&#12363;&#12426;&#24471;&#12414;&#12377;&#12290;&=
+#12369;&#12428;&#12393;&#12418;&#27880;&#24847;&#12375;&#12390;&#12367;&=
+#12384;&#12373;&#12356;&#65306;&#12354;&#12394;&#12383;&#12364;&#22770;&=
+#12426;&#36796;&#12416;&#12393;&#12435;&#12394;&#30693;&#35672;&#12354;&=
+#12427;&#12356;&#12399;&#25216;&#34899;&#12391;&#12418;&#12354;&#12394;&=
+#12383;&#12395;&#23550;&#12375;&#12390;&#20351;&#29992;&#12373;&#12428;&=
+#12427;&#12363;&#12418;&#12375;&#12428;&#12414;&#12379;&#12435;&#65281;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Resorts</b> a=
-re a
-source of income for Pirates just as they are for Empires. Build them near
-systems with large planetary populations and on locations with large scenery
-bonuses for the best results.</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#35251;&=
+#20809;</b>&#12399;&#24093;&#22269;&#12398;&#26178;&#12392;&#21516;&#27096=
+;&#12395;&#12289;&#28023;&#36042;&#12395;&#12392;&#12387;&#12390;&#12418;&=
+#21454;&#20837;&#28304;&#12395;&#12394;&#12426;&#12414;&#12377;&#12290;&=
+#22810;&#12367;&#12398;&#24785;&#26143;&#12398;&#20303;&#27665;&#12364;&=
+#12356;&#12427;&#26143;&#31995;&#12398;&#20621;&#12391;&#22823;&#12365;&=
+#12356;&#35251;&#20809;&#12508;&#12540;&#12490;&#12473;&#12434;&#25345;&=
+#12387;&#12390;&#12356;&#12427;&#22580;&#25152;&#12395;&#12381;&#12428;&=
+#12425;&#12434;&#20316;&#12428;&#12400;&#12289;&#26368;&#12418;&#12424;&=
+#12356;&#32080;&#26524;&#12364;&#24471;&#12425;&#12428;&#12414;&#12377;&=
+#12290;</p>
 
-<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Raids</b> can=
- result
-in direct credit income, which is reported here. Loot from raids can also b=
-e in
-the form of resources or research, which <span class=3DGramE>are</span> rep=
-orted
-separately in the Messages screen (H key).</p>
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>&#35186;&=
+#25731;</b>&#12364;&#30452;&#25509;&#12398;&#12463;&#12524;&#12472;&#12483=
+;&#12488;&#21454;&#20837;&#12434;&#12418;&#12383;&#12425;&#12377;&#12371;&=
+#12392;&#12364;&#12391;&#12365;&#12289;&#12371;&#12371;&#12391;&#22577;&=
+#21578;&#12373;&#12428;&#12414;&#12377;&#12290;&#35186;&#25731;&#12395;&=
+#12424;&#12427;&#30053;&#22890;&#21697;&#12399;&#21516;&#12376;&#12367; 
+Messages &#12473;&#12463;&#12522;&#12540;&#12531;&#65288;&#65320;&#12398;&=
+#12461;&#12540;&#65289;&#12391;&#21029;&#12395;&#22577;&#21578;&#12373;&=
+#12428;&#12427;&#36039;&#28304;&#12420;&#30740;&#31350;&#12394;&#20107;&=
+#12418;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
 
-<h2><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>C=
-ontrolling
-Colonies<o:p></o:p></span></h2>
+<h2><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<o:p>&#12467;&#12525;&#12491;&#12540;&#12398;&#25903;&#37197;</o:p></span>=
+</h2>
 
-<p class=3DMsoNormal>One of the key strategies for a pirate faction is colo=
-ny
-control. Any pirate ship from your faction, whether an explorer, an armed
-frigate or a peaceful smuggler, will increase your influence on a planet. I=
-ntimidation
-is the fastest way to increase influence, so military power in orbit works =
-more
-quickly than smuggling missions, and a successful raid can result in a very
-significant influence increase.</p>
+<p class=3DMsoNormal>
+&#28023;&#36042;&#27966;&#38309;&#12398;&#37325;&#35201;&#12394;&#25126;&=
+#30053;&#12398;&#65297;&#12388;&#12399;&#12467;&#12525;&#12491;&#12540;&=
+#12398;&#25903;&#37197;&#12391;&#12377;&#12290;&#12354;&#12394;&#12383;&=
+#12398;&#27966;&#38309;&#12398;&#12394;&#12435;&#12425;&#12363;&#12398;&=
+#28023;&#36042;&#12398;&#33337;&#65288;&#35519;&#26619;&#33337;&#12289;&=
+#27494;&#35013;&#12375;&#12383;&#12501;&#12522;&#12466;&#12540;&#12488;&=
+#12420;&#12289;&#24179;&#21644;&#30340;&#12394;&#23494;&#36664;&#33337;&=
+#65289;&#12364;&#24785;&#26143;&#12395;&#23550;&#12377;&#12427;&#12354;&=
+#12394;&#12383;&#12398;&#24433;&#38911;&#21147;&#12434;&#22679;&#21152;&=
+#12373;&#12379;&#12414;&#12377;&#12290;&#33029;&#36843;&#12399;&#26368;&=
+#12418;&#26089;&#12367;&#24433;&#38911;&#21147;&#12434;&#22679;&#12420;&=
+#12377;&#26041;&#27861;&#12391;&#12377;&#12290;&#23494;&#36664;&#12424;&=
+#12426;&#36556;&#36947;&#19978;&#12398;&#27494;&#21147;&#12364;&#12378;&=
+#12387;&#12392;&#26089;&#12367;&#20685;&#12365;&#12414;&#12377;&#12289;&=
+#12381;&#12375;&#12390;&#25104;&#21151;&#12375;&#12383;&#35186;&#25731;&=
+#12364;&#12363;&#12394;&#12426;&#12398;&#24433;&#38911;&#12398;&#22679;&=
+#21152;&#12434;&#40782;&#12375;&#12414;&#12377;&#12290;</p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>As a pirate faction gains greater control over a colony, they siphon o=
-ff
-income from the colony. The amount of income depends on the size of the
-population at the colony and the level of control the pirate faction has ov=
-er
-the colony. Thus the greatest income is gained from high levels of control =
-at
-colonies with large populations.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>
+&#28023;&#36042;&#27966;&#38309;&#12364;&#12467;&#12525;&#12491;&#12540;&=
+#12408;&#12398;&#37325;&#22823;&#12394;&#25903;&#37197;&#12434;&#24471;&=
+#12427;&#12392;&#12365;&#12289;&#12363;&#12428;&#12425;&#12399;&#12467;&=
+#12525;&#12491;&#12540;&#12398;&#21454;&#30410;&#12434;&#21560;&#12356;&=
+#19978;&#12370;&#12427;&#12424;&#12358;&#12395;&#12394;&#12426;&#12414;&=
+#12377;&#12290;&#21454;&#30410;&#38989;&#12399;&#28023;&#36042;&#27966;&=
+#38309;&#12364;&#12467;&#12525;&#12491;&#12540;&#12395;&#25345;&#12387;&=
+#12390;&#12356;&#12427;&#25903;&#37197;&#12524;&#12505;&#12523;&#12392;&=
+#12467;&#12525;&#12491;&#12540;&#12398;&#20154;&#21475;&#12398;&#22823;&=
+#12365;&#12373;&#12395;&#20381;&#23384;&#12375;&#12414;&#12377;&#12290;&=
+#12381;&#12428;&#12391;&#26368;&#12418;&#22823;&#12365;&#12356;&#21454;&=
+#20837;&#12399;&#12289;&#39640;&#12356;&#12524;&#12505;&#12523;&#12398;&=
+#25903;&#37197;&#12391;&#22810;&#12367;&#12398;&#20303;&#27665;&#12434;&=
+#25345;&#12388;&#12467;&#12525;&#12491;&#12540;&#12363;&#12425;&#24471;&=
+#12425;&#12428;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal>Up to three pirate factions can have influence on any =
-single
-colony, but only one can have full control.</p>
+<p class=3DMsoNormal>
+&#19968;&#12388;&#12398;&#12467;&#12525;&#12491;&#12540;&#12395;&#23550;&=
+#12375;&#12390;&#26368;&#22823;&#12391;&#65299;&#12388;&#12414;&#12391;&=
+#12398;&#28023;&#36042;&#27966;&#38309;&#12364;&#24433;&#38911;&#21147;&=
+#12434;&#25345;&#12388;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&=
+#12377;&#12289;&#12375;&#12363;&#12375;&#23436;&#20840;&#12394;&#25903;&=
+#37197;&#12434;&#25345;&#12388;&#20107;&#12364;&#12391;&#12365;&#12427;&=
+#12398;&#12399;&#19968;&#12388;&#12398;&#27966;&#38309;&#12398;&#12415;&=
+#12391;&#12377;&#12290;</p>
 
-<p class=3DMsoNormal>Influence decays over time and can only be regained by
-having a presence at the colony, typically by having ships nearby. If multi=
-ple
-pirate factions have ships near a colony, their relative strength will
-determine who gains influence and who loses influence, so an occasional
-smuggling ship will not trump the influence of an orbiting pirate fleet.</p>
+<p class=3DMsoNormal>
+&#24433;&#38911;&#21147;&#12364;&#38263;&#12356;&#38291;&#12395;&#34928;&=
+#36864;&#12375;&#12289;&#12467;&#12525;&#12491;&#12540;&#12395;&#24433;&=
+#38911;&#12434;&#19982;&#12360;&#32154;&#12369;&#12427;&#12289;&#20856;&=
+#22411;&#30340;&#12395;&#12399;&#36817;&#12367;&#12395;&#33337;&#12434;&=
+#25345;&#12388;&#12289;&#20107;&#12395;&#12424;&#12387;&#12390;&#12398;&=
+#12415;&#21462;&#12426;&#25147;&#12377;&#12427;&#12371;&#12392;&#12364;&=
+#12391;&#12365;&#12414;&#12377;&#12290;&#12418;&#12375;&#22810;&#25968;&=
+#12398;&#28023;&#36042;&#27966;&#38309;&#12364;&#12467;&#12525;&#12491;&=
+#12540;&#12398;&#38291;&#38555;&#12391;&#33337;&#12434;&#25345;&#12387;&=
+#12390;&#12356;&#12427;&#12394;&#12425;&#12289;&#33337;&#12398;&#30456;&=
+#23550;&#30340;&#12394;&#21147;&#12364;&#35504;&#12364;&#24433;&#38911;&=
+#21147;&#12434;&#29554;&#24471;&#12377;&#12427;&#12363;&#12289;&#12381;&=
+#12375;&#12390;&#35504;&#12364;&#24433;&#38911;&#21147;&#12434;&#22833;&=
+#12358;&#12363;&#12434;&#27770;&#23450;&#12377;&#12427;&#12391;&#12375;&=
+#12423;&#12358;&#12290;&#25925;&#12395;&#26178;&#25240;&#12398;&#23494;&=
+#36664;&#33337;&#12364;&#26059;&#22238;&#12375;&#12390;&#12356;&#12427;&=
+#28023;&#36042;&#12501;&#12522;&#12540;&#12488;&#12398;&#24433;&#38911;&=
+#12395;&#25171;&#12385;&#21213;&#12390;&#12394;&#12356;&#12391;&#12375;&=
+#12423;&#12358;&#12290;</p>
 
-<p class=3DMsoNormal>The larger the population of a colony, the more diffic=
-ult it
-is to fully control. Some large colonies may not be possible to fully contr=
-ol,
-so pirate factions tend to focus on small and medium population colonies wh=
-ere
-they can have more influence. Large population colonies are worth some effo=
-rt
-though as they typically have much larger planetary incomes as well and thus
-reward a pirate faction with influence with more siphoned revenue than a
-smaller planet would.</p>
+<p class=3DMsoNormal>
+&#12467;&#12525;&#12491;&#12540;&#12398;&#20154;&#21475;&#12364;&#12424;&=
+#12426;&#22810;&#12356;&#12392;&#12289;&#12381;&#12428;&#12384;&#12369;&=
+#12381;&#12428;&#12364;&#23436;&#20840;&#12394;&#25903;&#37197;&#12434;&=
+#24471;&#12427;&#12371;&#12392;&#12364;&#12356;&#12387;&#12381;&#12358;&=
+#38627;&#12375;&#12367;&#12394;&#12426;&#12414;&#12377;&#12290;&#33509;&=
+#24178;&#12398;&#22823;&#12365;&#12356;&#12467;&#12525;&#12491;&#12540;&=
+#12399;&#23436;&#20840;&#12395;&#25903;&#37197;&#12377;&#12427;&#12371;&=
+#12392;&#12364;&#19981;&#21487;&#33021;&#12363;&#12418;&#12375;&#12428;&=
+#12414;&#12379;&#12435;&#12289;&#12381;&#12428;&#12391;&#28023;&#36042;&=
+#27966;&#38309;&#12399;&#12418;&#12387;&#12392;&#22810;&#12367;&#12398;&=
+#24433;&#38911;&#21147;&#12434;&#25345;&#12388;&#12371;&#12392;&#12364;&=
+#12391;&#12365;&#12427;&#23567;&#12373;&#12356;&#12363;&#20013;&#12367;&=
+#12425;&#12356;&#12398;&#20154;&#21475;&#12398;&#12467;&#12525;&#12491;&=
+#12540;&#12395;&#28966;&#28857;&#12434;&#21512;&#12431;&#12379;&#12427;&=
+#20670;&#21521;&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;</p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>H=
-idden
-Pirate Bases and Fortresses<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>
+<o:p>&#38560;&#12428;&#12383;&#28023;&#36042;&#25312;&#28857;&#12392;&=
+#35201;&#22622;</o:p></span></h3>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_1" o:s=
-pid=3D"_x0000_s1039"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:68.75pt;margin=
--top:0;
- width:119.95pt;height:119.8pt;z-index:3;visibility:visible;mso-wrap-style:=
-square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_1"=
+ o:spid=3D"_x0000_s1039"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:68.75pt=
+;margin-top:0;
+ width:119.95pt;height:119.8pt;z-index:3;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image009.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D200 height=3D200
-src=3D"GameConcepts_Pirates_files/image006.jpg" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_1"><![endif]><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Once a pira=
-te
-faction has 50% control of a colony they can build a Hidden Pirate Base
-planetary facility at the colony. The first faction to build a Hidden Pirate
-Base gains permanent control of the colony. Once a Pirate Base is built at =
-the
-colony, the owning faction no longer needs to keep military ships nearby to
-retain control &#8211; the Pirate Base will permanently retain at least 50%
-control of the colony.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image006.jpg" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_1"><![endif]><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&=
+#28023;&#36042;&#27966;&#38309;&#12364;&#12467;&#12525;&#12491;&#12540;=
+<span lang=3D"en-nz">&#12395;</span>&#65301;&#65296;&#65285;<span lang=3D=
+"en-nz">&#20197;&#19978;&#12398;&#25903;&#37197;</span>&#12434;&#25345;=
+<span lang=3D"en-nz">&#12388;&#12392;</span>&#12289;&#12467;&#12525;&=
+#12491;&#12540;&#12395;&#12362;&#12356;&#12390;<span lang=3D"en-nz">&=
+#38560;&#12428;&#12383;&#28023;&#36042;&#25312;&#28857;</span>&#12434;&=
+#20316;&#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&=
+#12290;<span lang=3D"en-nz">&#26368;&#21021;&#12395;</span>&#38560;&#12428=
+;&#12383;&#28023;&#36042;<span lang=3D"en-nz">&#25312;&#28857;</span>&=
+#12434;<span lang=3D"en-nz">&#20316;&#12387;&#12383;</span>&#27966;&#38309=
+;&#12399;&#12467;&#12525;&#12491;&#12540;&#12398;<span lang=3D"en-nz">&=
+#27704;&#32154;&#12377;&#12427;&#25903;&#37197;&#12434;&#24471;&#12414;&=
+#12377;&#12290;&#28023;&#36042;&#25312;&#28857;&#12364;&#12467;&#12525;&=
+#12491;&#12540;&#12395;&#20316;&#12425;&#12428;&#12383;&#12398;&#12394;&=
+#12425;&#12289;&#25152;&#26377;&#12375;&#12390;&#12356;&#12427;&#27966;&=
+#38309;&#12399;&#12418;&#12358;&#25903;&#37197;&#12434;&#32173;&#25345;&=
+#12377;&#12427;&#12383;&#12417;&#12395;&#36557;&#33382;&#12434;&#36817;&=
+#12367;&#12395;&#32622;&#12356;&#12390;&#12362;&#12367;&#24517;&#35201;&=
+#12399;&#12354;&#12426;&#12414;&#12379;&#12435; 
+&#65293; &#28023;&#36042;&#25312;&#28857;&#12399;&#27704;&#20037;&#12395;&=
+#12467;&#12525;&#12491;&#12540;&#12395;&#23550;&#12375;&#12390;&#23569;&=
+#12394;&#12367;&#12392;&#12418;&#65301;&#65296;&#65285;&#12398;&#25903;&=
+#37197;&#12434;&#32173;&#25345;&#12377;&#12427;&#12391;&#12375;&#12423;&=
+#12358;&#12290;</span></o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>If a pirate faction reaches 100% control of a colony they can build a
-Hidden Pirate Fortress planetary facility. However they must first have a
-completed Pirate Base facility at the colony. Once a faction builds a Pirate
-Fortress they will permanently retain 100% control of the colony.<o:p></o:p=
-></span></p>
+<p class=3DMsoNormal>
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12418;&#12375;&#28023;&#36042;&#27966;&#38309;&#12364;&#12467;&=
+#12525;&#12491;&#12540;&#12398;&#65297;&#65296;&#65296;&#65285;&#12398;=
+<span lang=3D"en-nz">&#25903;&#37197;</span>&#12395;<span lang=3D"en-nz">&=
+#21040;&#36948;&#12375;&#12383;&#12394;&#12425;</span>&#12289;&#38560;&=
+#12383;&#28023;&#36042;<span lang=3D"en-nz">&#35201;&#22622;&#26045;&=
+#35373;&#12434;</span>&#12434;&#24314;&#12390;&#12427;&#12371;&#12392;&=
+#12364;&#12391;&#12365;&#12414;&#12377;&#12290;<span lang=3D"en-nz">&=
+#12383;&#12384;&#12375;&#12381;&#12398;&#21069;&#12395;&#12289;</span>&=
+#12467;&#12525;&#12491;&#12540;&#12395;&#23436;&#25104;&#12375;&#12383;&=
+#28023;&#36042;<span lang=3D"en-nz">&#25312;&#28857;&#26045;&#35373;</span=
+>&#12434;&#25345;&#12387;&#12390;&#12356;&#12394;&#12367;&#12390;<span=
+ lang=3D"en-nz">&#12356;&#12394;&#12369;&#12428;&#12400;</span>&#12394;&=
+#12426;&#12414;&#12379;&#12435;&#12290;&#27966;&#38309;&#12364;&#28023;&=
+#36042;&#35201;&#22622;&#12434;&#24314;&#12390;<span lang=3D"en-nz">&=
+#12383;&#12394;&#12425;</span>&#12289;&#27704;&#20037;&#12395;&#12467;&=
+#12525;&#12491;&#12540;&#12398;&#65297;&#65296;&#65296;&#65285;&#12398;=
+<span lang=3D"en-nz">&#25903;&#37197;</span>&#12434;&#32173;&#25345;&=
+#12377;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_10" o:=
-spid=3D"_x0000_s1038"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:153.1pt;margin=
--top:0;
- width:204.3pt;height:93.5pt;z-index:8;visibility:visible;mso-wrap-style:sq=
-uare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_10"=
+ o:spid=3D"_x0000_s1038"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:153.1pt=
+;margin-top:0;
+ width:204.3pt;height:93.5pt;z-index:8;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image013.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D340 height=3D156
-src=3D"GameConcepts_Pirates_files/image010.png" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_10"><![endif]><span
-lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>Hidden Pira=
-te Bases
-and Fortresses can sometimes be destroyed during a raid by another faction.=
- If
-built at a colony owned by a normal planetary empire, they can be destroyed=
- by
-a ground attack. A colony owner can launch a ground attack against the Pira=
-te
-Base by selecting the base in the Facilities tab of the Colonies screen and=
- clicking
-the &#8220;Attack&#8221; button.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image010.png" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_10"><![endif]><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&=
+#38560;&#12428;&#12383;&#28023;&#36042;<span lang=3D"en-nz">&#25312;&=
+#28857;</span>&#12392;&#35201;&#22622;<span lang=3D"en-nz">&#12399;&#12289=
+;&#21029;&#12398;</span>&#27966;&#38309;&#12395;&#12424;<span lang=3D=
+"en-nz">&#12427;</span>&#35186;&#25731;&#12398;&#12395;<span lang=3D"en-nz=
+">&#12424;&#12387;&#12390;</span>&#30772;&#22730;&#12373;&#12428;&#12427;&=
+#12371;&#12392;&#12364;<span lang=3D"en-nz">&#12354;&#12426;&#12414;&=
+#12377;</span>&#12290;&#12418;&#12375;<span lang=3D"en-nz">&#12381;&#12428=
+;&#12425;&#12364;</span>&#36890;&#24120;&#12398;&#24785;&#26143;&#12398;&=
+#24093;&#22269;&#12364;&#25152;&#26377;&#12377;&#12427;&#12467;&#12525;&=
+#12491;&#12540;&#12395;&#20316;&#12425;&#12428;<span lang=3D"en-nz">&=
+#12390;&#12356;&#12427;&#12398;</span>&#12394;&#12425;&#12289;<span lang=
+=3D"en-nz">&#12381;&#12428;&#12425;&#12434;</span>&#22320;&#19978;&#25915;=
+&#25731;&#12395;&#12424;&#12387;&#12390;&#30772;&#28357;<span lang=3D=
+"en-nz">&#12377;&#12427;&#20107;&#12364;&#20986;&#26469;&#12414;&#12377;=
+</span>&#12290;&#12467;&#12525;&#12491;&#12540;<span lang=3D"en-nz">&=
+#12398;</span>&#25152;&#26377;&#32773;<span lang=3D"en-nz">&#12399;</span>=
+&#12289;<span lang=3D"en-nz">&#12467;&#12525;&#12491;&#12540;&#30011;&=
+#38754;</span>&#12398;<span lang=3D"en-nz">&#26045;&#35373;</span>&#12479;=
+&#12502;&#12434;&#36984;&#25246;&#12375;&#12289;&#12381;&#12375;&#12390;&=
+#12300;&#25915;&#25731;&#12301;&#12508;&#12479;&#12531;&#12434;&#12463;&=
+#12522;&#12483;&#12463;&#12377;&#12427;&#12371;&#12392;&#12395;&#12424;&=
+#12387;&#12390;&#12289;&#28023;&#36042;<span lang=3D"en-nz">&#25312;&=
+#28857;</span>&#12395;&#23550;<span lang=3D"en-nz">&#12377;&#12427;</span>=
+&#22320;&#19978;&#25915;&#25731;&#12395;&#30528;&#25163;&#12377;&#12427;&=
+#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;</o:p>=
+</span></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>C=
-riminal
-Network<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&#29359;=
+&#32618;&#12493;&#12483;&#12488;&#12527;&#12540;&#12463;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Once a pirate faction has a Pirate Fortress at a controlled colony they
-can then build the Criminal Network pirate wonder. The Criminal Network is a
-powerful criminal organization that allows a pirate faction to take full
-ownership of a colony, controlling it just like a standard empire.</span><s=
-pan
-lang=3DEN-US style=3D'mso-ansi-language:EN-US'> <span style=3D'mso-no-proof=
-:yes'>This
-allows the pirate faction to earn tax income from the colony.<o:p></o:p></s=
-pan></span></p>
+<p class=3DMsoNormal><span
+lang=3DEN-US style=3D'mso-ansi-language:EN-US'> <span style=3D=
+'mso-no-proof:yes'>
+<o:p>&#28023;&#36042;&#27966;&#38309;<span lang=3D"en-nz">&#12364;&#25903;=
+&#37197;&#12377;&#12427;</span>&#12467;&#12525;&#12491;&#12540;&#12395;&=
+#28023;&#36042;&#35201;&#22622;&#12434;<span lang=3D"en-nz">&#25345;&=
+#12387;&#12390;&#12356;&#12427;&#12394;&#12425;</span>&#12289;&#12381;&=
+#12428;&#65289;&#12425;&#12399;&#12381;&#12428;&#12363;&#12425;&#39514;&=
+#30064;&#30340;&#24314;&#36896;&#29289;<span lang=3D"en-nz">&#65306;</span=
+>&#29359;&#32618;<span lang=3D"en-nz">&#12493;&#12483;&#12488;&#12527;&=
+#12540;&#12463;</span>&#12434;<span lang=3D"en-nz">&#20316;&#12427;</span>=
+&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;</span></span>=
+<span style=3D'mso-no-proof:yes'><span style=3D'mso-ansi-language:EN-US'>&=
+#12290;&#29359;&#32618;&#12493;&#12483;&#12488;&#12527;&#12540;&#12463;&=
+#12399;&#28023;&#36042;&#27966;&#38309;&#12395;&#12289;&#12467;&#12525;&=
+#12491;&#12540;&#12398;&#23436;&#20840;&#12394;&#25152;&#26377;&#27177;&=
+#12434;&#24471;&#12390;&#12289;&#27161;&#28310;&#30340;&#12394;&#24093;&=
+#22269;&#12392;&#12414;&#12387;&#12383;&#12367;&#21516;&#12376;&#12395;&=
+#12381;&#12428;&#12434;&#31649;&#29702;&#12377;&#12427;&#12371;&#12392;&=
+#12434;&#21487;&#33021;&#12395;&#12377;&#12427;&#24375;&#21147;&#12394;&=
+#29359;&#32618;&#32068;&#32340;&#12391;&#12377;&#12290;&#12371;&#12428;&=
+#12399;&#28023;&#36042;&#20826;&#27966;&#12364;&#12467;&#12525;&#12491;&=
+#12540;&#12363;&#12425;&#12398;&#31246;&#37329;&#21454;&#20837;&#12434;&=
+#24471;&#12427;&#12371;&#12392;&#12434;&#21487;&#33021;&#12395;&#12375;&=
+#12414;&#12377;&#12290;</span></span></o:p></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2" o:s=
-pid=3D"_x0000_s1037"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:68.7pt;margin-=
-top:0;
- width:119.9pt;height:119.8pt;z-index:9;visibility:visible;mso-wrap-style:s=
-quare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2"=
+ o:spid=3D"_x0000_s1037"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:68.7pt=
+;margin-top:0;
+ width:119.9pt;height:119.8pt;z-index:9;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image012.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D200 height=3D200
-src=3D"GameConcepts_Pirates_files/image011.jpg" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_2"><![endif]><span
-style=3D'mso-no-proof:yes'>This means that the colony publicly identifies as
-belonging to the pirate faction. The pirate faction can then recruit troops
-here to invade other colonies. They can also build Colony Ships here to
-colonize other planets. And they can also build additional Contruction Ships
-here. At this point the pirate faction has become a pseudo-empire and can
-compete directly with normal empires.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image011.jpg" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_2"><![endif]><span
+style=3D'mso-no-proof:yes'><o:p>&#12371;&#12398;&#25163;&#27573;&#12399;&=
+#12289;&#12467;&#12525;&#12491;&#12540;&#12364;&#20844;&#30340;&#12395;&=
+#28023;&#36042;&#27966;&#38309;&#12395;&#23646;&#12375;&#12390;&#12356;&=
+#12427;&#12371;&#12392;&#12434;&#31034;&#12375;&#12414;&#12377;&#12290;&=
+#28023;&#36042;&#27966;&#38309;&#12399;&#12381;&#12371;&#12391;&#20182;&=
+#12398;&#12467;&#12525;&#12491;&#12540;&#12434;&#20405;&#30053;&#12377;&=
+#12427;&#12383;&#12417;&#12398;&#37096;&#38538;&#12434;&#21215;&#38598;&=
+#12377;&#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&=
+#12290;&#12414;&#12383;&#12289;&#20182;&#12398;&#24785;&#26143;&#12434;&=
+#26893;&#27665;&#22320;&#21270;&#12377;&#12427;&#12383;&#12417;&#12395;&=
+#26893;&#27665;&#33337;&#12434;&#24314;&#36896;&#12377;&#12427;&#20107;&=
+#12418;&#20986;&#26469;&#12414;&#12377;&#12290;&#12381;&#12375;&#12390;&=
+#12289;&#36861;&#21152;&#12398;&#24314;&#35373;&#33337;&#12434;&#24314;&=
+#36896;&#12377;&#12427;&#12371;&#12392;&#12418;&#21487;&#33021;&#12391;&=
+#12377;&#12290;&#12371;&#12398;&#26178;&#28857;&#12391;&#28023;&#36042;&=
+#27966;&#38309;&#12399;&#25836;&#20284;&#24093;&#22269;&#12392;&#12394;&=
+#12426;&#12289;&#12381;&#12375;&#12390;&#30452;&#25509;&#36890;&#24120;&=
+#12398;&#24093;&#22269;&#12392;&#31478;&#20105;&#12377;&#12427;&#12371;&=
+#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal>Each colony owned by a pirate faction (instead of just
-controlled) adds a significant bonus to that pirate faction&#8217;s victory
-level, above and beyond other victory conditions. The Criminal Network is t=
-he
-path away from a nomadic space existence and towards ultimate galactic powe=
-r.<span
-style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+<p class=3DMsoNormal><span
+style=3D'mso-no-proof:yes'>
+<o:p>
+&#28023;&#36042;&#27966;&#38309;&#12395;&#12424;&#12387;&#12390;&#25152;&=
+#26377;&#12373;&#12428;&#12356;&#12427;&#65288;&#21336;&#12395;&#25903;&=
+#37197;&#12373;&#12428;&#12390;&#12356;&#12427;&#12398;&#12391;&#12399;&=
+#12394;&#12367;&#65289;&#12467;&#12525;&#12491;&#12540;&#27598;&#12395;&=
+#12289;&#20182;&#12398;&#21213;&#21033;&#29366;&#24907;&#12434;&#36234;&=
+#12360;&#12390;&#12289;&#12381;&#12398;&#28023;&#36042;&#27966;&#38309;&=
+#12398;&#21213;&#21033;&#12524;&#12505;&#12523;&#12395;&#37325;&#35201;&=
+#12394;&#29305;&#20856;&#12364;&#21152;&#12360;&#12425;&#12428;&#12414;&=
+#12377;&#12290;&#29359;&#32618;&#12493;&#12483;&#12488;&#12527;&#12540;&=
+#12463;&#12399;&#12399;&#23431;&#23449;&#12398;&#25918;&#28010;&#29983;&=
+#27963;&#12363;&#12425;&#38626;&#12428;&#12289;&#37504;&#27827;&#31995;&=
+#12398;&#31350;&#26997;&#12398;&#12497;&#12527;&#12540;&#12408;&#12392;&=
+#21521;&#12363;&#12358;&#36947;&#12391;&#12377;&#12290;</o:p></span></p>
 
-<h2><span style=3D'mso-no-proof:yes'>Pirate Missions<o:p></o:p></span></h2>
+<h2><span style=3D'mso-no-proof:yes'>
+<o:p>&#28023;&#36042;&#20219;&#21209;</o:p></span></h2>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_3" o:s=
-pid=3D"_x0000_s1036"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:65.5pt;margin-=
-top:0;
- width:116.7pt;height:184.3pt;z-index:4;visibility:visible;mso-wrap-style:s=
-quare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_3"=
+ o:spid=3D"_x0000_s1036"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:65.5pt=
+;margin-top:0;
+ width:116.7pt;height:184.3pt;z-index:4;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image015.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D194 height=3D307
-src=3D"GameConcepts_Pirates_files/image016.png" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_3"><![endif]><span
-style=3D'mso-no-proof:yes'>Other empires and independent colonies can offer=
- paid
-missions to pirates. These missions include smuggling resources, defending a
-base or colony or attacking an enemy target.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image016.png" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_3"><![endif]><span
+style=3D'mso-no-proof:yes'><o:p>&#20182;&#12398;&#24093;&#22269;&#12392;&=
+#29420;&#31435;&#12467;&#12525;&#12491;&#12540;&#12399;&#12289;&#28023;&=
+#36042;&#12395;&#22577;&#37228;&#12434;&#25903;&#25173;&#12387;&#12390;&=
+#20219;&#21209;&#12434;&#20381;&#38972;&#12377;&#12427;&#12371;&#12392;&=
+#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#12371;&#12428;&#12425;&=
+#12398;&#20219;&#21209;&#12395;&#12399;&#12289;&#36039;&#28304;&#12398;&=
+#23494;&#36664;&#12289;&#22522;&#22320;&#12354;&#12427;&#12356;&#12399;&=
+#12467;&#12525;&#12491;&#12540;&#38450;&#34907;&#12289;&#25973;&#12398;&=
+#27161;&#30340;&#12408;&#12398;&#25915;&#25731;&#12289;&#12364;&#21547;&=
+#12414;&#12428;&#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>When another empire o=
-ffers a
-pirate mission it will appear in the Pirate Missions list in the Empire
-Navigation Tool. To accept and carry out the mission a pirate faction must
-first place a bid on the mission. If other empires also bid on the same mis=
-sion
-the price will be lowered, and other empires then have an opportunity to pl=
-ace
-an even lower bid. Eventually the bidding expires and the lowest bid gets t=
-he
-mission.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>
+&#20182;&#12398;&#24093;&#22269;&#12364;&#28023;&#36042;&#20219;&#21209;&=
+#30003;&#12375;&#20837;&#12428;&#12383;&#12392;&#12365;&#12289;&#65413;&=
+#65419;&#65438;&#65401;&#65438;&#65392;&#65404;&#65390;&#65437;&#65410;&=
+#65392;&#65433;&#12395;&#28023;&#36042;&#20219;&#21209;&#12398;&#12522;&=
+#12473;&#12488;&#12364;&#29694;&#12431;&#12428;&#12427;&#12391;&#12375;&=
+#12423;&#12358;&#12290;&#28023;&#36042;&#27966;&#38309;&#12364;&#20219;&=
+#21209;&#12434;&#21463;&#12369;&#12390;&#23455;&#34892;&#12377;&#12427;&=
+#28858;&#12395;&#12399;&#12289;&#26368;&#21021;&#12395;&#20219;&#21209;&=
+#12395;&#23550;&#12375;&#12390;&#20837;&#26413;&#12434;&#34892;&#12431;&=
+#12394;&#12369;&#12428;&#12400;&#12394;&#12426;&#12414;&#12379;&#12435;&=
+#12290;&#12418;&#12375;&#20182;&#12398;&#24093;&#22269;&#12364;&#21516;&=
+#12376;&#20219;&#21209;&#12395;&#20837;&#26413;&#12375;&#12383;&#12394;&=
+#12425;&#12289;&#20385;&#26684;&#12399;&#19979;&#12370;&#12425;&#12428;&=
+#12427;&#12391;&#12375;&#12423;&#12358;&#12289;&#12381;&#12375;&#12390;&=
+#20182;&#12398;&#24093;&#22269;&#12364;&#12381;&#12428;&#12363;&#12425;&=
+#12373;&#12425;&#12395;&#12373;&#12425;&#12395;&#20302;&#12356;&#20385;&=
+#26684;&#20837;&#26413;&#12434;&#32622;&#12367;&#27231;&#20250;&#12434;&=
+#25345;&#12385;&#12414;&#12377;&#12290;&#26368;&#32066;&#30340;&#12395;&=
+#20837;&#26413;&#26399;&#38480;&#12364;&#20999;&#12428;&#12289;&#12381;&=
+#12375;&#12390;&#26368;&#20302;&#20837;&#26413;&#20385;&#26684;&#12394;&=
+#12418;&#12398;&#12364;&#20219;&#21209;&#12434;&#24471;&#12414;&#12377;&=
+#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>The assigned pirate f=
-action
-must then carry out the mission within the allotted time, usually 2 years. =
-If
-they sucessfully carry out the mission they are automatically paid the miss=
-ion
-fee by the requesting empire. If they fail the mission then no fee is paid =
-and
-their reputation with the requesting empire suffers.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>
+&#35531;&#12369;&#36000;&#12387;&#12383;&#28023;&#36042;&#27966;&#38309;&=
+#12399;&#12289;&#21106;&#12426;&#24403;&#12390;&#12425;&#12428;&#12383;&=
+#26178;&#38291;&#65288;&#36890;&#24120;&#12399;&#20108;&#24180;&#65289;&=
+#20869;&#12395;&#12381;&#12398;&#20219;&#21209;&#12434;&#23455;&#34892;&=
+#12375;&#12394;&#12369;&#12428;&#12400;&#12394;&#12426;&#12414;&#12379;&=
+#12435;&#12290;&#12418;&#12375;&#24444;&#12425;&#12364;&#20219;&#21209;&=
+#12395;&#25104;&#21151;&#12375;&#12383;&#12398;&#12394;&#12425;&#12289;&=
+#33258;&#21205;&#30340;&#12395;&#20381;&#38972;&#12375;&#12383;&#24093;&=
+#22269;&#12363;&#12425;&#20219;&#21209;&#12398;&#22577;&#37228;&#12364;&=
+#25903;&#25173;&#12431;&#12428;&#12414;&#12377;&#12290;&#12418;&#12375;&=
+#20219;&#21209;&#12395;&#22833;&#25943;&#12375;&#12383;&#22580;&#21512;&=
+#12399;&#12289;&#22577;&#37228;&#12399;&#25903;&#25173;&#12431;&#12428;&=
+#12378;&#12289;&#20381;&#38972;&#12375;&#12383;&#24093;&#22269;&#12392;&=
+#12398;&#38306;&#20418;&#12399;&#24746;&#21270;&#12377;&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>To complete an Attack=
- mission
-you must either destroy or capture the target before the mission expiry dat=
-e. Completing
-a Defense mission means preventing an attack of any kind (destroy, capture,
-raid) on the target until the mission expiry date.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>
+&#25915;&#25731;&#20219;&#21209;&#12434;&#23436;&#20102;&#12377;&#12427;&=
+#12383;&#12417;&#12395;&#12399;&#12289;&#12354;&#12394;&#12383;&#12399;&=
+#20219;&#21209;&#12398;&#26377;&#21177;&#26399;&#38480;&#12398;&#21069;&=
+#12395;&#27161;&#30340;&#12434;&#30772;&#22730;&#12377;&#12427;&#12363;&=
+#12289;&#12354;&#12427;&#12356;&#12399;&#25343;&#25429;&#12375;&#12394;&=
+#12367;&#12390;&#12399;&#12394;&#12426;&#12414;&#12379;&#12435;&#12290;&=
+#38450;&#34907;&#20219;&#21209;&#12434;&#23436;&#20102;&#12377;&#12427;&=
+#12395;&#12399;&#12289;&#27963;&#21205;&#12398;&#26377;&#21177;&#26399;&=
+#38480;&#12414;&#12391;&#27161;&#30340;&#12395;&#23550;&#12377;&#12427;&=
+#12354;&#12425;&#12422;&#12427;&#31278;&#39006;&#12398;&#25915;&#25731;&=
+#65288;&#30772;&#22730;&#12289;&#25343;&#25429;&#12289;&#35186;&#25731;&=
+#65289;&#12434;&#38450;&#12368;&#20107;&#12364;&#24517;&#35201;&#12391;&=
+#12377;&#12290;</o:p></span></p>
 
-<h3><span style=3D'mso-no-proof:yes'>Assigning Attack and Defense Missions<=
-o:p></o:p></span></h3>
+<h3><span style=3D'mso-no-proof:yes'>&#25915;&#25731;&#20219;&#21209;&=
+#12392;&#38450;&#24481;&#20219;&#21209;&#12398;&#21106;&#12426;&#24403;&=
+#12390;</span></h3>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_5" o:s=
-pid=3D"_x0000_s1035"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_5"=
+ o:spid=3D"_x0000_s1035"
  type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:0;margin-top:0;
- width:34.5pt;height:26.85pt;z-index:5;visibility:visible;mso-wrap-style:sq=
-uare;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+ width:34.5pt;height:26.85pt;z-index:5;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image018.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D58 height=3D45
-src=3D"GameConcepts_Pirates_files/image017.png" align=3Dleft hspace=3D15 v:=
-shapes=3D"Picture_x0020_5"><![endif]><span
-style=3D'mso-no-proof:yes'>To assign a pirate Attack mission, first select =
-an
-enemy base. Then click the Assign Attack Mission action button underneath t=
-he
-Selection Panel. The new pirate Attack mission will appear in the Pirate
-Missions list in the Empire Navigation Tool. Pirate factions can then place=
- bids
-on the mission.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image017.png" align=3Dleft hspace=3D15=
+ v:shapes=3D"Picture_x0020_5"><![endif]><span
+style=3D'mso-no-proof:yes'><o:p>&#28023;&#36042;&#25915;&#25731;&#20219;&=
+#21209;&#12434;&#21106;&#12426;&#24403;&#12390;&#12427;&#12383;&#12417;&=
+#12395;&#12289;&#26368;&#21021;&#12395;&#25973;&#12398;&#22522;&#22320;&=
+#12434;&#36984;&#25246;&#12375;&#12390;&#12367;&#12384;&#12373;&#12356;&=
+#12290;&#12381;&#12428;&#12363;&#12425;&#36984;&#25246;&#12497;&#12493;&=
+#12523;&#12398;&#19979;&#12398;&#25915;&#25731;&#20219;&#21209;&#21106;&=
+#12426;&#24403;&#12390;&#12508;&#12479;&#12531;&#12434;&#12463;&#12522;&=
+#12483;&#12463;&#12375;&#12390;&#12367;&#12384;&#12373;&#12356;&#12290;&=
+#26032;&#12375;&#12356;&#28023;&#36042;&#25915;&#25731;&#20219;&#21209;&=
+#12364;&#24093;&#22269;&#65413;&#65419;&#65438;&#65401;&#65438;&#65392;&=
+#65404;&#65390;&#65437;&#65410;&#65392;&#65433;&#12398;&#28023;&#36042;&=
+#20219;&#21209;&#12398;&#20013;&#12395;&#36861;&#21152;&#12373;&#12428;&=
+#12414;&#12377;&#12290;&#12381;&#12428;&#12363;&#12425;&#12289;&#28023;&=
+#36042;&#27966;&#38309;&#12364;&#12381;&#12428;&#12395;&#23550;&#12375;&=
+#12390;&#20837;&#26413;&#12434;&#34892;&#12360;&#12414;&#12377;&#12290;<span
+style=3D'mso-no-proof:yes'>&#12381;&#12428;&#12363;&#12425;&#36984;&#25246=
+;&#12497;&#12493;&#12523;&#12398;&#19979;&#12398;&#38450;&#24481;&#20219;&=
+#21209;&#21106;&#12426;&#24403;&#12390;&#12508;&#12479;&#12531;&#12434;&=
+#12463;&#12522;&#12483;&#12463;&#12375;&#12390;&#12367;&#12384;&#12373;&=
+#12356;&#12290;</span></o:p></span></p>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_8" o:s=
-pid=3D"_x0000_s1034"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_8"=
+ o:spid=3D"_x0000_s1034"
  type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:0;margin-top:0;
- width:34.5pt;height:29pt;z-index:6;visibility:visible;mso-wrap-style:squar=
-e;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+ width:34.5pt;height:29pt;z-index:6;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:left;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image020.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D58 height=3D48
-src=3D"GameConcepts_Pirates_files/image021.png" align=3Dleft hspace=3D15 v:=
-shapes=3D"Picture_x0020_8"><![endif]><span
-style=3D'mso-no-proof:yes'>Assigning a pirate Defense mission is similar. F=
-irst
-select a base or colony in your empire. Then click the Assign Defense Missi=
-on
-action button underneath the Selection Panel.<o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image021.png" align=3Dleft hspace=3D15=
+ v:shapes=3D"Picture_x0020_8"><![endif]><span
+style=3D'mso-no-proof:yes'><o:p>&#28023;&#36042;&#38450;&#34907;&#20219;&=
+#21209;&#12434;&#21106;&#12426;&#24403;&#12390;&#12418;&#12411;&#12412;&=
+#21516;&#12376;&#12391;&#12377;&#12290;&#26368;&#21021;&#12395;&#12354;&=
+#12394;&#12383;&#12398;&#24093;&#22269;&#12398;&#22522;&#22320;&#12363;&=
+#12467;&#12525;&#12491;&#12540;&#12434;&#36984;&#25246;&#12375;&#12390;&=
+#12367;&#12384;&#12373;&#12356;&#12290;<span
+style=3D'mso-no-proof:yes'>&#12381;&#12428;&#12363;&#12425;&#36984;&#25246=
+;&#12497;&#12493;&#12523;&#12398;&#19979;&#12398;&#38450;&#34907;&#20219;&=
+#21209;&#21106;&#12426;&#24403;&#12390;&#12508;&#12479;&#12531;&#12434;&=
+#12463;&#12522;&#12483;&#12463;&#12375;&#12390;&#12367;&#12384;&#12373;&=
+#12356;&#12290;</span></o:p></span></p>
 
-<h3><span style=3D'mso-no-proof:yes'>Smuggling Missions<o:p></o:p></span></=
-h3>
+<h3><span style=3D'mso-no-proof:yes'>
+<o:p>&#23494;&#36664;&#20219;&#21209;</o:p></span></h3>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_9" o:s=
-pid=3D"_x0000_s1033"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:83.45pt;margin=
--top:0;
- width:134.65pt;height:266.5pt;z-index:7;visibility:visible;mso-wrap-style:=
-square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_9"=
+ o:spid=3D"_x0000_s1033"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:83.45pt=
+;margin-top:0;
+ width:134.65pt;height:266.5pt;z-index:7;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
  <v:imagedata src=3D"GameConcepts_Pirates_files/image024.png" o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D224 height=3D444
-src=3D"GameConcepts_Pirates_files/image027.png" align=3Dright hspace=3D15 v=
-:shapes=3D"Picture_x0020_9"><![endif]><span
-style=3D'mso-no-proof:yes'>Smuggling missions can be requested for any colo=
-ny. </span>Click
-on the &#8220;Assign Smuggling Mission&#8221; action button underneath the =
-Selection
-Panel to post the mission. You can choose to either request smuggling for a=
-ll
-resources that are in low supply or to focus your request on a single resou=
-rce.
-Focusing on a single resource will generally address that specific shortage
-much more quickly, but when there is a shortage in more than one resource, =
-a smuggling
-mission for all resources will be more helpful.<span style=3D'mso-no-proof:=
-yes'><o:p></o:p></span></p>
+src=3D"GameConcepts_Pirates_files/image027.png" align=3Dright hspace=3D15=
+ v:shapes=3D"Picture_x0020_9"><![endif]><span
+style=3D'mso-no-proof:yes'><o:p>&#23494;&#36664;&#20219;&#21209;&#12399;&=
+#12289;&#20219;&#24847;&#12398;&#12467;&#12525;&#12491;&#12540;&#12398;&=
+#12383;&#12417;&#12395;&#35201;&#35531;&#12377;&#12427;&#12371;&#12392;&=
+#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#20219;&#21209;&#12434;&=
+#20381;&#38972;&#12377;&#12427;&#12383;&#12417;&#12395;&#36984;&#25246;&=
+#12497;&#12493;&#12523;&#12398;&#12300;&#23494;&#36664;&#20219;&#21209;&=
+#12434;&#21106;&#12426;&#24403;&#12390;&#12427;&#12301;&#34892;&#21205;&=
+#12508;&#12479;&#12531;&#12434;&#12463;&#12522;&#12483;&#12463;&#12375;&=
+#12390;&#12367;&#12384;&#12373;&#12356;&#12290;&#12354;&#12394;&#12383;&=
+#12399;&#20379;&#32102;&#12398;&#23569;&#12394;&#12356;&#12377;&#12409;&=
+#12390;&#12398;&#36039;&#28304;&#12398;&#23494;&#36664;&#12434;&#27714;&=
+#12417;&#12427;&#20107;&#12418;&#12289;&#19968;&#12388;&#12398;&#36039;&=
+#28304;&#12395;&#35201;&#35531;&#12434;&#38598;&#20013;&#12377;&#12427;&=
+#12371;&#12392;&#12377;&#12427;&#20107;&#12418;&#12391;&#12365;&#12414;&=
+#12377;&#12290;&#19968;&#12388;&#12398;&#36039;&#28304;&#12395;&#28966;&=
+#28857;&#12434;&#21512;&#12431;&#12379;&#12427;&#12371;&#12392;&#12399;&=
+#12289;&#19968;&#33324;&#12395;<span style=3D'mso-no-proof:yes'>&#12381;&=
+#12398;&#29305;&#23450;&#12398;&#27424;&#20047;&#12408;&#12398;</span>&=
+#12424;&#12426;&#36895;&#12356;&#21462;&#12426;&#32068;&#12415;&#12434;&=
+#12418;&#12383;&#12425;&#12377;&#12391;&#12375;&#12423;&#12358;&#12290;&=
+#12375;&#12363;&#12375;&#65297;&#12424;&#12426;&#22810;&#12356;&#36039;&=
+#28304;&#12364;&#27424;&#20047;&#12375;&#12390;&#12356;&#12427;&#26178;&=
+#12399;&#12289;&#12377;&#12409;&#12390;&#12398;&#36039;&#28304;&#12408;&=
+#12398;&#23494;&#36664;&#20219;&#21209;&#12364;&#12289;&#12424;&#12426;&=
+#21161;&#12369;&#12392;&#12394;&#12427;&#12391;&#12375;&#12423;&#12358;&=
+#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>Note that for smuggli=
-ng
-missions there is no bidding &#8211; any pirate faction can simply accept t=
-he mission
-and begin smuggling the requested resources to the requesting colony. Every=
- 100
-units of the requested resource delivered to the colony earns credits. Note
-that pirate factions cannot directly control their smuggling freighters. But
-freighters will give priority to fulfilling accepted smuggling missions.<o:=
-p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>&#23494;&#36664;&#20219;&#21209;&#12395;&#12399;&#20837;&#26413;&=
+#12364;&#12394;&#12356;&#12371;&#12392;&#12395;&#27880;&#24847;&#12434;&=
+#25173;&#12387;&#12390;&#12367;&#12384;&#12373;&#12356; &#65293; 
+&#12354;&#12425;&#12422;&#12427;&#28023;&#36042;&#27966;&#38309;&#12364;&=
+#20219;&#21209;&#12434;&#12434;&#21463;&#12369;&#12390;&#12289;&#35201;&=
+#35531;&#12375;&#12390;&#12356;&#12427;&#12467;&#12525;&#12491;&#12540;&=
+#12408;&#12392;&#27714;&#12417;&#12425;&#12428;&#12383;&#36039;&#28304;&=
+#12434;&#12473;&#12434;&#12371;&#12387;&#12381;&#12426;&#23494;&#36664;&=
+#12375;&#22987;&#12417;&#12427;&#20107;&#12364;&#12391;&#12365;&#12414;&=
+#12377;&#12290;&#12467;&#12525;&#12491;&#12540;&#12395;&#23626;&#12369;&=
+#12425;&#12428;&#12383;&#12289;&#27714;&#12417;&#12425;&#12428;&#12383;&=
+#36039;&#28304;&#12398;&#12518;&#12491;&#12483;&#12488;&#27598;&#12395;&=
+#12289;&#65297;&#65296;&#65296;&#12463;&#12524;&#12472;&#12483;&#12488;&=
+#12364;&#12418;&#12383;&#12425;&#12373;&#12428;&#12414;&#12377;&#12290;&=
+#28023;&#36042;&#27966;&#38309;&#12364;&#30452;&#25509;&#12289;&#24444;&=
+#12425;&#12398;&#23494;&#36664;&#36008;&#29289;&#33337;&#12434;&#12467;&=
+#12531;&#12488;&#12525;&#12540;&#12523;&#12391;&#12365;&#12394;&#12356;&=
+#12371;&#12392;&#12395;&#27880;&#24847;&#12434;&#25173;&#12387;&#12390;&=
+#12367;&#12384;&#12373;&#12356;&#12290;&#12369;&#12428;&#12393;&#12418;&=
+#36008;&#29289;&#33337;&#12399;&#12289;&#35201;&#35531;&#12373;&#12428;&=
+#12390;&#12356;&#12427;&#23494;&#36664;&#20219;&#21209;&#12398;&#36930;&=
+#34892;&#12395;&#20778;&#20808;&#30340;&#12395;&#21462;&#12426;&#32068;&=
+#12416;&#12391;&#12375;&#12423;&#12358;&#12290;</o:p></span></p>
 
-<h2><span style=3D'mso-no-proof:yes'>Raids<o:p></o:p></span></h2>
+<h2><span style=3D'mso-no-proof:yes'>&#35186;&#25731;<o:p></o:p></span></h2>
 
-<p class=3DMsoNormal>Raids can be assigned to any pirate ship with assault =
-pods. Raids
-can be targeted at colonies or bases. The goal of a raid is not to conquer =
-or
-destroy, but to loot. The type of target influences the type of loot gained=
-. Colonies
-are the most dangerous targets but also the most likely to give the largest
-rewards. However other locations such as mining stations and research stati=
-ons (which
-are much easier to raid) will give more focused rewards.</p>
+<p class=3DMsoNormal>
+&#35186;&#25731;&#12399;&#12289;&#24375;&#35186;&#33351;&#12434;&#35013;&=
+#20633;&#12375;&#12390;&#12356;&#12427;&#12354;&#12425;&#12422;&#12427;&=
+#28023;&#36042;&#33337;&#12395;&#21106;&#12426;&#24403;&#12390;&#12427;&=
+#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#35186;&=
+#25731;&#12399;&#65402;&#65435;&#65414;&#65392;&#12354;&#12427;&#12356;&=
+#12399;&#22522;&#22320;&#12434;&#23550;&#35937;&#12395;&#12377;&#12427;&=
+#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;&#35186;&=
+#25731;&#12398;&#30446;&#30340;&#12399;&#24449;&#26381;&#12420;&#30772;&=
+#22730;&#12391;&#12399;&#12394;&#12367;&#12289;&#30053;&#22890;&#12391;&=
+#12377;&#12290;&#30446;&#27161;&#12398;&#31278;&#39006;&#12399;&#24471;&=
+#12425;&#12428;&#12427;&#30053;&#22890;&#21697;&#12398;&#31278;&#39006;&=
+#12395;&#24433;&#38911;&#12434;&#19982;&#12360;&#12414;&#12377;&#12290;&=
+#12467;&#12525;&#12491;&#12540;&#12399;&#26368;&#12418;&#21361;&#38522;&=
+#12391;&#12377;&#12364;&#12289;&#21516;&#26178;&#12395;&#26368;&#12418;&=
+#22823;&#12365;&#12356;&#22577;&#37228;&#12434;&#24471;&#12425;&#12428;&=
+#12427;&#21487;&#33021;&#24615;&#12364;&#26368;&#12418;&#39640;&#12356;&=
+#30446;&#27161;&#12391;&#12377;&#12290;&#12375;&#12363;&#12375;&#12394;&=
+#12364;&#12425;&#12289;&#65288;&#35186;&#25731;&#12377;&#12427;&#12371;&=
+#12392;&#12364;&#12378;&#12387;&#12392;&#12424;&#12426;&#23481;&#26131;&=
+#12391;&#12354;&#12427;&#65289;&#25505;&#37489;&#22522;&#22320;&#12420;&=
+#30740;&#31350;&#22522;&#22320;&#12398;&#12424;&#12358;&#12394;&#20182;&=
+#12398;&#22580;&#25152;&#12399;&#12289;&#12424;&#12426;&#29305;&#23450;&=
+#12373;&#12428;&#12383;&#22577;&#37228;&#12364;&#24471;&#12425;&#12428;&=
+#12427;&#12391;&#12375;&#12423;&#12358;&#12290;</p>
 
-<p class=3DMsoNormal>Raids can damage their target. For planetary raids, the
-economy of the colony is damaged for some time after a raid and the happine=
-ss
-of the colony population is also reduced. A raid increases your influence a=
-nd
-control over a colony more quickly than any other mechanism. But if you
-continue raiding a colony, the reduced economic output of the colony will a=
-lso reduce
-your income from control of the colony. Thus you must weigh short term gain
-against long term gain when deciding how often to raid or whether to simply
-siphon income from a colony more gradually.</p>
+<p class=3DMsoNormal>
+&#35186;&#25731;&#12399;&#12381;&#12398;&#27161;&#30340;&#12395;&#25613;&=
+#23475;&#12434;&#19982;&#12360;&#12427;&#12371;&#12392;&#12364;&#12391;&=
+#12365;&#12414;&#12377;&#12290;&#24785;&#26143;&#12398;&#35186;&#25731;&=
+#12398;&#12383;&#12417;&#12395;&#12289;&#12467;&#12525;&#12491;&#12540;&=
+#12398;&#32076;&#28168;&#12399;&#35186;&#25731;&#24460;&#12375;&#12400;&=
+#12425;&#12367;&#12398;&#38291;&#25613;&#23475;&#12434;&#21463;&#12369;&=
+#12289;&#12414;&#12383;&#12467;&#12525;&#12491;&#12540;&#12398;&#20303;&=
+#20154;&#12398;&#24184;&#31119;&#12418;&#21516;&#12376;&#12367;&#28187;&=
+#23569;&#12375;&#12414;&#12377;&#12290;&#35186;&#25731;&#12364;&#20182;&=
+#12398;&#12356;&#12363;&#12394;&#12427;&#12513;&#12459;&#12491;&#12474;&=
+#12512;&#12424;&#12426;&#12418;&#12356;&#12387;&#12381;&#12358;&#36895;&=
+#12367;&#12354;&#12394;&#12383;&#12398;&#12467;&#12525;&#12491;&#12540;&=
+#12408;&#12398;&#24433;&#38911;&#21147;&#12392;&#25903;&#37197;&#12434;&=
+#22679;&#12420;&#12375;&#12414;&#12377;&#12290;&#12369;&#12428;&#12393;&=
+#12289;&#12418;&#12375;&#12354;&#12394;&#12383;&#12364;&#12467;&#12525;&=
+#12491;&#12540;&#12434;&#35186;&#25731;&#12375;&#32154;&#12369;&#12427;&=
+#12394;&#12425;&#12289;&#12467;&#12525;&#12491;&#12540;&#12398;&#32076;&=
+#28168;&#29983;&#29987;&#39640;&#12398;&#28187;&#23569;&#12395;&#12424;&=
+#12387;&#12390;&#12354;&#12394;&#12383;&#12398;&#12467;&#12525;&#12491;&=
+#12540;&#12398;&#25903;&#37197;&#12395;&#12424;&#12427;&#21454;&#20837;&=
+#12418;&#28187;&#12427;&#12391;&#12375;&#12423;&#12358;&#12290;&#12381;&=
+#12428;&#12391;&#12354;&#12394;&#12383;&#12399;&#12289;&#12393;&#12398;&=
+#31243;&#24230;&#12289;&#35186;&#25731;&#12377;&#12427;&#12289;&#12354;&=
+#12427;&#12356;&#24464;&#12293;&#12395;&#12467;&#12525;&#12491;&#12540;&=
+#12363;&#12425;&#12398;&#21454;&#20837;&#12434;&#21560;&#12356;&#19978;&=
+#12370;&#12427;&#12409;&#12365;&#12363;&#12393;&#12358;&#12363;&#27770;&=
+#12417;&#12427;&#12392;&#12365;&#12289;&#30701;&#26399;&#30340;&#21033;&=
+#30410;&#12392;&#12434;&#38263;&#26399;&#30340;&#21033;&#30410;&#12392;&=
+#12434;&#22825;&#31204;&#12395;&#12363;&#12369;&#12394;&#12367;&#12390;&=
+#12399;&#12394;&#12426;&#12414;&#12379;&#12435;&#12290;</p>
 
-<p class=3DMsoNormal>Targets that have recently been raided will provide mu=
-ch
-less loot for repeated raids.</p>
+<p class=3DMsoNormal>&#26368;&#36817;&#35186;&#25731;&#12373;&#12428;&=
+#12383;&#27161;&#30340;&#12363;&#12425;&#12399;&#12289;&#12424;&#12426;&=
+#23569;&#12375;&#12375;&#12363;&#30053;&#22890;&#21697;&#12434;&#24471;&=
+#12425;&#12428;&#12414;&#12379;&#12435;&#12290;</p>
 
-<h3><span style=3D'mso-no-proof:yes'>How to Raid<o:p></o:p></span></h3>
+<h3><span style=3D'mso-no-proof:yes'>&#35186;&#25731;&#12398;<o:p>&#12420;=
+&#12426;&#26041;</o:p></span></h3>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>To raid a base or col=
-ony
-select a military ship or fleet with assault pods, hold down the Alt-key, a=
-nd
-right click the enemy target.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p><span style=3D'mso-no-proof:yes'>&#22522;&#22320;&#12354;&#12427;&=
+#12356;&#12399;&#12467;&#12525;&#12491;&#12540;&#12434;</span>&#35186;&=
+#25731;&#12377;&#12427;&#12383;&#12417;&#12395;&#12399;&#12289;&#24375;&=
+#35186;&#33351;&#12434;&#35013;&#20633;&#12375;&#12383;&#36557;&#12398;&=
+#33337;&#12354;&#12427;&#12356;&#12399;&#33382;&#38538;&#12434;&#36984;&=
+#25246;&#12375;&#12390;&#12289; 
+Alt &#12461;&#12540;&#12434;&#25276;&#12375;&#12388;&#12388;&#12289;&=
+#12381;&#12375;&#12390;&#30446;&#27161;&#12398;&#25973;&#12434;&#21491;&=
+#12463;&#12522;&#12483;&#12463;&#12375;&#12414;&#12377;&#12290;</o:p>=
+</span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>When raiding an enemy=
- base
-the raiding ships will attempt to lower the shields of the target and board=
- it.
-A battle then takes place on the base between the defenders and the raiding
-forces. This is very similar to capturing a base. But in this case, if the
-boarding party defeats the defenders, instead of capturing the base the rai=
-ders
-simply loot it and leave.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>
+&#25973;&#12398;&#22522;&#22320;&#12434;&#35186;&#25731;&#12377;&#12427;&=
+#12392;&#12365;&#12289;&#35186;&#25731;&#12377;&#12427;&#33337;&#12399;&=
+#30446;&#27161;&#12398;&#12471;&#12540;&#12523;&#12489;&#12434;&#19979;&=
+#12370;&#12390;&#12289;&#12381;&#12375;&#12390;&#12381;&#12428;&#12395;&=
+#24375;&#35186;&#12434;&#12375;&#12424;&#12358;&#12392;&#35430;&#12415;&=
+#12427;&#12391;&#12375;&#12423;&#12358;&#12290;&#12381;&#12428;&#12363;&=
+#12425;&#12289;&#22522;&#22320;&#12398;&#20013;&#12391;&#38450;&#24481;&=
+#20596;&#12392;&#35186;&#25731;&#20596;&#12398;&#36557;&#38291;&#12391;&=
+#25126;&#38360;&#12364;&#34892;&#12394;&#12431;&#12428;&#12414;&#12377;&=
+#12290;&#12371;&#12428;&#12399;&#22522;&#22320;&#12398;&#25343;&#25429;&=
+#12395;&#38750;&#24120;&#12395;&#39006;&#20284;&#12375;&#12390;&#12356;&=
+#12414;&#12377;&#12290;&#12369;&#12428;&#12393;&#12418;&#12371;&#12398;&=
+#22580;&#21512;&#12289;&#12418;&#12375;&#24375;&#35186;&#37096;&#38538;&=
+#12364;&#38450;&#24481;&#20596;&#12434;&#36000;&#12363;&#12377;&#12394;&=
+#12425;&#12289;&#22522;&#22320;&#12434;&#25343;&#25429;&#12377;&#12427;&=
+#20195;&#12431;&#12426;&#12395;&#12289;&#35186;&#25731;&#32773;&#12399;&=
+#12381;&#12371;&#12363;&#12425;&#30053;&#22890;&#12384;&#12369;&#12375;&=
+#12390;&#12289;&#12381;&#12375;&#12390;&#21435;&#12426;&#12414;&#12377;&=
+#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>Raiding an enemy colo=
-ny is
-similar to an invasion. The raiding ships will approach the colony and laun=
-ch
-assault pods. The assault pods land special Pirate Raider troops that then
-battle with any defending troops at the colony. If the raiders win the grou=
-nd
-battle they then loot the colony.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-no-proof:yes'>
+<o:p>
+&#25973;&#12398;&#12467;&#12525;&#12491;&#12540;&#12434;&#35186;&#25731;&=
+#12377;&#12427;&#12371;&#12392;&#12399;&#20405;&#30053;&#12395;&#39006;&=
+#20284;&#12375;&#12390;&#12356;&#12414;&#12377;&#12290;&#35186;&#25731;&=
+#12377;&#12427;&#33337;&#12399;&#12467;&#12525;&#12491;&#12540;&#12395;&=
+#25509;&#36817;&#12375;&#12390;&#12289;&#12381;&#12375;&#12390;&#24375;&=
+#35186;&#33351;&#12434;&#30330;&#23556;&#12377;&#12427;&#12391;&#12375;&=
+#12423;&#12358;&#12290;&#24375;&#35186;&#33351;&#12399;&#12467;&#12525;&=
+#12491;&#12540;&#12395;&#12362;&#12356;&#12390;&#12381;&#12398;&#26178;&=
+#38450;&#24481;&#12375;&#12390;&#12356;&#12427;&#12354;&#12425;&#12422;&=
+#12427;&#37096;&#38538;&#12392;&#25126;&#12358;&#29305;&#21029;&#12394;&=
+#28023;&#36042;&#35186;&#25731;&#37096;&#38538;&#12434;&#38477;&#12429;&=
+#12375;&#12414;&#12377;&#12290;&#12418;&#12375;&#35186;&#25731;&#37096;&=
+#38538;&#12364;&#22320;&#19978;&#25126;&#12391;&#21213;&#12390;&#12400;&=
+#12289;&#24444;&#12425;&#12399;&#12467;&#12525;&#12491;&#12540;&#12434;&=
+#30053;&#22890;&#12375;&#12414;&#12377;&#12290;</o:p></span></p>
 
 </div>
 

@@ -44,11 +44,11 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
   <o:TargetScreenSize>1024x768</o:TargetScreenSize>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=3DdataStoreItem href=3D"GameConcepts_ColonyGrowth_files/item0006.=
-xml"
+<link rel=3DdataStoreItem href=3D"GameConcepts_ColonyGrowth_files/item0006=
+.xml"
 target=3D"GameConcepts_ColonyGrowth_files/props0007.xml">
-<link rel=3DthemeData href=3D"GameConcepts_ColonyGrowth_files/themedata.thm=
-x">
+<link rel=3DthemeData href=3D"GameConcepts_ColonyGrowth_files/themedata=
+.thmx">
 <link rel=3DcolorSchemeMapping
 href=3D"GameConcepts_ColonyGrowth_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
@@ -102,237 +102,237 @@ href=3D"GameConcepts_ColonyGrowth_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -341,8 +341,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -479,8 +479,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -498,8 +498,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -517,8 +517,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -614,8 +614,8 @@ div.WordSection1
  @list l0
 	{mso-list-id:807356418;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1921386968 67698689 67698691 67698693 67698689 67698=
-691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:1921386968 67698689 67698691 67698693 67698689=
+ 67698691 67698693 67698689 67698691 67698693;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -658,8 +658,8 @@ div.WordSection1
 @list l1
 	{mso-list-id:992878722;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-2125980116 67698689 67698691 67698693 67698689 6769=
-8691 67698693 67698689 67698691 67698693;}
+	mso-list-template-ids:-2125980116 67698689 67698691 67698693 67698689=
+ 67698691 67698693 67698689 67698691 67698693;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -702,8 +702,8 @@ div.WordSection1
 @list l2
 	{mso-list-id:1745955665;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-363038406 336134145 336134147 336134149 336134145 3=
-36134147 336134149 336134145 336134147 336134149;}
+	mso-list-template-ids:-363038406 336134145 336134147 336134149 336134145=
+ 336134147 336134149 336134145 336134147 336134149;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -714,8 +714,8 @@ div.WordSection1
 @list l3
 	{mso-list-id:1819761010;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1860086970 336134145 336134147 336134149 336134145 3=
-36134147 336134149 336134145 336134147 336134149;}
+	mso-list-template-ids:1860086970 336134145 336134147 336134149 336134145=
+ 336134147 336134149 336134145 336134147 336134149;}
 @list l3:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -827,6 +827,10 @@ table.DWChart2EvenRow
 	mso-style-qformat:yes;
 	mso-style-parent:DW_Chart;
 	mso-tstyle-shading:#181818;}
+.auto-style3 {
+	font-size: x-small;
+	font-family: "&#65325;&#65331; &#65328;&#26126;&#26397;";
+}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext=3D"edit" spidmax=3D"16386">
@@ -842,206 +846,340 @@ table.DWChart2EvenRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>T=
-o achieve
-maximum revenue from your colonies you must help them develop to their full=
-est
-potential.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;&#12467;</span><span=
+ lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12525;&#12491;&#12540;&=
+#12363;&#12425;&#21487;&#33021;&#12394;&#38480;&#12426;&#26368;&#22823;&=
+#12398;&#21454;&#20837;&#12434;&#24471;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#12427;&#28858;&#12395;&#12399;</span><span=
+ lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12289;&#12467;&#12525;&=
+#12491;&#12540;&#12398;&#30330;&#23637;&#12434;&#21161;&#12369;&#12394;&=
+#12369;&#12428;&#12400;&#12394;&#12426;&#12414;&#12379;&#12435;&#12290;=
+</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>C=
-olony
-income is calculated as follows:<o:p></o:p></span></p>
+<p class=3DMsoNormal style=3D"height: 16px">
+<span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#12467;&#12525;&#12491;&#12540;&#21454;&#20837;<span lang=3D"en-nz">=
+&#12399;</span>&#27425;&#12398;&#12424;&#12358;&#12395;&#35336;&#31639;&=
+#12373;&#12428;&#12414;&#12377;&#65306;</o:p></span></p>
 
-<p class=3DMsoNormal style=3D'text-indent:36.0pt'><i style=3D'mso-bidi-font=
--style:
-normal'><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>Colony Income =
-=3D Total
-Population &times; Development Level<o:p></o:p></span></i></p>
+<p class=3DMsoNormal style=3D'text-indent:36.0pt'>
+<i style=3D'mso-bidi-font-style:
+normal'><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#12467;&#12525;&#12491;&#12540;&#21454;&#20837; &#65309; &#32207;&=
+#20154;&#21475;&times;&#38283;&#30330;&#12524;&#12505;&#12523;</o:p></span=
+></i></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>T=
-hus to maximize
-revenue you must maximize both the population and development of each colon=
-y.<o:p></o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#12391;&#12377;&#12398;&#12391;&#12289;&#21454;&#20837;&#12434;&=
+#26368;&#22823;&#12395;&#12377;&#12427;&#12383;&#12417;&#12395;&#12399;&=
+#12289;&#12354;&#12394;&#12383;&#12399;&#12381;&#12428;&#12382;&#12428;&=
+#12398;&#26893;&#27665;&#22320;&#12398;&#12467;&#12525;&#12491;&#12540;&=
+#12398;&#20154;&#21475;&#12392;&#38283;&#30330;&#20001;&#26041;&#12434;&=
+#26368;&#22823;&#12395;&#12375;&#12394;&#12367;&#12390;&#12399;&#12394;&=
+#12426;&#12414;&#12379;&#12435;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>F=
-ast
-population growth and high colony development level are both achieved via t=
-he
-same methods:<o:p></o:p></span></p>
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#36895;&#12356;&#20154;&#21475;&#22679;&#21152;&#12392;&#39640;&=
+#12356;<span lang=3D"en-nz">&#12467;&#12525;&#12491;&#12540;</span>&#38283=
+;&#30330;&#12524;&#12505;&#12523;<span lang=3D"en-nz">&#12399;</span>&=
+#21516;&#12376;&#26041;&#27861;&#12395;&#12424;&#12387;&#12390;&#36948;&=
+#25104;<span lang=3D"en-nz">&#20986;&#26469;&#12414;&#12377;</span>&#65306=
+;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Keep
-taxes at a reasonable level</span><span lang=3DEN-GB style=3D'font-size:12.=
-0pt;
-font-family:"Times New Roman","serif";mso-ansi-language:EN-GB'> </span><span
-lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;</span></span></span><![endif]><o:p><span
+lang=3DEN-GB style=3D'mso-ansi-language:EN-GB' class=3D"auto-style3">&=
+#31246;&#37329;&#12434;&#22949;&#24403;&#12394;&#12524;&#12505;&#12523;&=
+#12395;&#20445;&#12387;&#12390;&#12367;&#12384;&#12373;&#12356;</span>=
+</o:p></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Ensure
-a good supply of luxury resources<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;</span></span></span><![endif]><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'><o:p>&#39640;&#32026;&#36039;&#28304;&#12398;&=
+#33391;&#22909;&#12394;&#20379;&#32102;&#12434;&#20445;&#12387;&#12390;&=
+#12367;&#12384;&#12373;&#12356;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-0 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Ensure
-all necessary strategic resources are supplied to the colony<o:p></o:p></sp=
-an></p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;</span></span></span><![endif]><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'><o:p>&#12377;&#12409;&#12390;&#12398;&#24517;&=
+#35201;&#12394;&#25126;&#30053;&#36039;&#28304;&#12398;&#12467;&#12525;&=
+#12491;&#12540;&#12408;&#12398;&#20379;&#32102;&#12434;&#20445;&#12387;&=
+#12390;&#12367;&#12384;&#12373;&#12356;</o:p></span></p>
 
-<h3><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>Essential Strategic
-Resources<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-GB'><o:p>&#25126;&#30053;&#36039;&=
+#28304;&#12398;&#22522;&#26412;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>C=
-olonies require
-certain strategic resources to grow at full speed. These strategic resources
-are consumed by the colony as it grows and develops. When one or more of th=
-ese
-essential strategic resources is not present, colony growth will be slower =
-and
-the population will be less satisfied.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12467;&#12525;&#12491;&#12540=
+;&#12364;&#26368;&#22823;&#12398;&#36895;&#24230;&#12391;&#30330;&#23637;&=
+#12377;&#12427;&#12395;&#12399;&#12354;&#12427;&#29305;&#23450;&#12398;&=
+#25126;&#30053;&#36039;&#28304;&#12364;&#24517;&#35201;&#12392;&#12373;&=
+#12428;&#12414;&#12377;&#12290; 
+&#12467;&#12525;&#12491;&#12540;&#12364;&#25104;&#38263;&#12375;&#38283;&=
+#30330;&#12373;&#12428;&#12427;&#26178;&#12395;&#12289;&#12371;&#12428;&=
+#12425;&#12398;&#25126;&#30053;&#36039;&#28304;&#12364;&#28040;&#36027;&=
+#12373;&#12428;&#12414;&#12377;&#12290; 
+&#12371;&#12428;&#12425;&#12398;&#22522;&#26412;&#30340;&#12394;&#25126;&=
+#30053;&#36039;&#28304;&#12398;&#65297;&#12388;&#20197;&#19978;&#12364;&=
+#23384;&#22312;&#12375;&#12390;&#12356;&#12394;&#12356;&#12392;&#12365;&=
+#12289;&#26893;&#27665;&#22320;&#12398;&#25104;&#38263;&#12399;&#12424;&=
+#12426;&#36933;&#12356;&#12367;&#12289;&#20303;&#27665;&#12399;&#12354;&=
+#12414;&#12426;&#28288;&#36275;&#12375;&#12394;&#12356;&#12391;&#12375;&=
+#12423;&#12358;&#12290;<br></o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>S=
-trategic
-resources required for growth at colonies are: Steel, Lead, Carbon Fibre,
-Polymer, Silicon, Hydrogen, <span class=3DGramE>Caslon</span>.<o:p></o:p></=
-span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12467;&#12525;&#12491;&#12540=
+;&#12398;&#25104;&#38263;&#12398;&#12383;&#12417;&#12395;&#24517;&#35201;&=
+#12392;&#12373;&#12428;&#12427;&#25126;&#30053;&#36039;&#28304;&#12399;&=
+#27425;&#12398;&#12418;&#12398;&#12391;&#12377;&#65306;&#37444;&#37628;&=
+#12289;&#37467;&#12289;&#28845;&#32032;&#32330;&#32173;&#12289;&#65422;&=
+#65439;&#65432;&#65423;&#65392;&#12289;&#65404;&#65432;&#65402;&#65437;&=
+#12289;&#27700;&#32032;&#12289;&#65398;&#65405;&#65438;&#65435;&#65437;&=
+#12290;</o:p></span></p>
 
-<h3><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>Population growth<=
-o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#20154;&#21475;&#22679;&#21152;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>S=
-mall
-colonies have faster population growth: when a colony has less than 500 mil=
-lion
-people, then population growth receives a 50% bonus.<o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#23567;&#12373;&#12356;<span=
+ lang=3D"en-nz">&#12467;&#12525;&#12491;&#12540;&#12399;</span>&#12424;&=
+#12426;&#36895;&#12356;&#20154;&#21475;&#22679;&#21152;<span lang=3D"en-nz=
+">&#36895;&#24230;</span>&#12434;&#25345;&#12387;&#12390;&#12356;&#12414;&=
+#12377;&#65306;<span lang=3D"en-nz">&#12467;&#12525;&#12491;&#12540;&=
+#12398;&#20154;&#21475;&#12364;</span>&#65301;&#20740;&#20154;&#20197;&=
+#19979;&#12398;&#12392;&#12365;&#12289;&#20154;&#21475;&#22679;&#21152;=
+<span lang=3D"en-nz">&#12395;</span>&#65301;&#65296;&#65285;&#12398;&=
+#12508;&#12540;&#12490;&#12473;&#12434;&#21463;&#12369;&#21462;&#12426;&=
+#12414;&#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>M=
-igration
-of your citizens from large colonies to smaller ones is a major factor in
-achieving fast growth of new colonies. Citizens will be naturally attracted=
- to
-nearby colonies with low taxes and good development levels. They will board
-passenger ships and migrate to those new colonies, boosting the population
-there.</span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-GB'>&#12288;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#22823;&=
+#12365;&#12356;<span style=3D'mso-ansi-language:EN-GB'>&#12467;&#12525;&=
+#12491;&#12540;&#12363;&#12425;&#23567;&#12373;&#12356;&#12467;&#12525;&=
+#12491;&#12540;</span></span><span style=3D'mso-ansi-language:EN-GB'>&=
+#12408;&#12398;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+>&#24066;&#27665;&#12398;&#31227;&#20303;&#12399;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#12289;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'>&#26032;&#12375;&#12356;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#12467;&#12525;&#12491;&#12540;</span><span=
+ lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12398;&#36895;&#12356;&=
+#25104;&#38263;&#12434;&#36948;&#25104;&#12377;&#12427;</span><span style=
+=3D'mso-ansi-language:EN-GB'>&#28858;&#12395;</span><span lang=3DEN-GB=
+ style=3D'mso-ansi-language:EN-GB'>&#37325;&#35201;&#12394;&#35201;&#22240=
+;&#12391;&#12377;&#12290; </span>
+<span style=3D'mso-ansi-language:EN-GB'>&#24066;&#27665;&#12399;&#12289;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#20302;&=
+#12356;&#31246;&#37329;&#12392;&#33391;&#12356;&#38283;&#30330;&#12524;&=
+#12505;&#12523;</span><span style=3D'mso-ansi-language:EN-GB'>&#12394;&=
+#36817;&#12367;&#12398;&#12467;&#12525;&#12491;&#12540;&#12395;&#24403;&=
+#28982;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#24341=
+;&#12365;&#20184;&#12369;&#12425;&#12428;&#12427;&#12391;&#12375;&#12423;&=
+#12358;&#12290;&#24444;&#12425;&#12399;&#23458;&#33337;&#12395;&#20055;&=
+#12426;&#36796;&#12435;&#12391;&#12289;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#26032;&#12375;&#12356;&#12467;&#12525;&#12491;=
+&#12540;&#12395;&#31227;&#20303;&#12375;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'>&#12289;&#12381;&#12371;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#12398;</span><span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'>&#20154;&#21475;&#12434;&#24341;&#12365;&#19978;=
+&#12370;</span><span style=3D'mso-ansi-language:EN-GB'>&#12427;&#12391;&=
+#12375;&#12423;&#12358;&#12290;</span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>S=
-ome areas
-of colonization research can also accelerate population growth at particular
-planet types.<o:p></o:p></span></p>
-
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>C=
-olony
-populations eventually reach a natural limit, at which point no further
-population growth will occur. This limit is determined by two factors:<o:p>=
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-GB'>&#12288;&=
+#20837;&#26893;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+><o:p>&#30740;&#31350;&#12398;&#33509;&#24178;&#12398;&#12456;&#12522;&=
+#12450;<span lang=3D"en-nz">&#12418;&#12289;</span>&#29305;&#23450;&#12398=
+;&#24785;&#26143;&#12479;&#12452;&#12503;<span lang=3D"en-nz">&#12398;=
+</span>&#20154;&#21475;&#22679;&#21152;&#12434;&#21152;&#36895;&#12377;&=
+#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;=
 </o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l1 level1 lfo4'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Quality
-of world: more hospitable worlds with higher quality allow for higher maxim=
-um
-population levels</span><span lang=3DEN-GB style=3D'font-size:12.0pt;font-f=
-amily:
-"Times New Roman","serif";mso-ansi-language:EN-GB'> </span><span lang=3DEN-=
-GB
-style=3D'mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12467;&#12525;&#12491;&#12540=
+;<span lang=3D"en-nz">&#12398;</span>&#20154;&#21475;<span lang=3D"en-nz">=
+&#12399;</span>&#26368;&#32066;&#30340;&#12395;&#33258;&#28982;&#12398;&=
+#38480;&#24230;&#12395;&#36948;&#12375;&#12414;&#12377;&#12289;&#12381;&=
+#12375;&#12390;<span lang=3D"en-nz">&#12381;&#12428;&#20197;&#19978;&=
+#12399;</span>&#20154;&#21475;&#22679;&#21152;&#12364;&#36215;&#12371;&=
+#12425;&#12394;&#12356;&#12391;&#12375;&#12423;&#12358;&#12290; 
+&#12371;&#12398;&#38480;&#30028;&#12399;&#65298;&#12388;&#12398;&#35201;&=
+#22240;&#12395;&#12424;&#12387;&#12390;&#27770;&#23450;&#12373;&#12428;&=
+#12414;&#12377;&#65306;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l1 level1 lfo4'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Size
-of world: larger worlds allow for higher maximum population levels<o:p></o:=
-p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo4'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'mso-ansi-language:EN-GB'>&=
+#19990;&#30028;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+>&#12398;</span><span style=3D'mso-ansi-language:EN-GB'>&#21697;&#36074;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#65306;&=
+#12424;&#12426;&#39640;&#12356;&#21697;&#36074;&#12434;&#25345;&#12387;&=
+#12390;&#12356;&#12427;&#12356;&#12387;&#12381;&#12358;</span><span style=
+=3D'mso-ansi-language:EN-GB'>&#24555;&#36969;</span><span lang=3DEN-GB=
+ style=3D'mso-ansi-language:EN-GB'>&#12394;&#19990;&#30028;</span><span=
+ style=3D'mso-ansi-language:EN-GB'>&#12399;&#12289;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12424;&#12426;&#39640;&#12356=
+;&#26368;&#39640;&#20154;&#21475;&#12524;&#12505;&#12523;&#12434;</span>=
+<span style=3D'mso-ansi-language:EN-GB'>&#21487;&#33021;&#12395;&#12375;&=
+#12414;&#12377;&#12290;</span><span lang=3DEN-GB style=3D'font-size:12.0pt=
+;font-family:
+"Times New Roman","serif";mso-ansi-language:EN-GB'> </span><span lang=
+=3DEN-GB
+style=3D'mso-ansi-language:EN-GB'><o:p></o:p>
+</span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-1 level1 lfo4'><![if !supportLists]><span
-lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;<sp=
-an
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-GB style=3D'mso-ansi-languag=
-e:EN-GB'>Native
-planet type: if the type of the planet or moon is the native type for the r=
-ace
-living there, then the maximum population is 10% higher<o:p></o:p></span></=
-p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo4'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#19990;&#30028;</span><span=
+ lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12398;&#22823;&#12365;&=
+#12373;&#65306;&#12424;&#12426;&#22823;&#12365;&#12356;</span><span style=
+=3D'mso-ansi-language:EN-GB'>&#19990;&#30028;&#12399;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12424;&#12426;&#39640;&#12356=
+;&#26368;&#39640;&#20154;&#21475;&#12524;&#12505;&#12523;&#12434;</span>=
+<span style=3D'mso-ansi-language:EN-GB'>&#21487;&#33021;&#12395;&#12375;&=
+#12414;&#12377;&#12290;</span></o:p></p>
 
-<h3><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>Colony Development=
- Level:
-Population + Luxury Resources<o:p></o:p></span></h3>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo4'><![if !supportLists]><span
+lang=3DEN-GB style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-GB'><span style=3D'mso-list:Ignore'>&middot;=
+<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#26412;&#26469;&#12398;=
+</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#24785;&=
+#26143;&#12479;&#12452;&#12503;&#65306;&#12418;&#12375;&#24785;&#26143;&=
+#12354;&#12427;&#12356;&#12399;&#26376;&#12398;&#12479;&#12452;&#12503;&=
+#12364;&#12381;&#12398;</span><span style=3D'mso-ansi-language:EN-GB'>&=
+#31278;&#26063;&#12398;&#29983;&#12365;&#12390;&#12356;&#12427;&#26412;&=
+#26469;&#12398;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'=
+>&#12479;&#12452;&#12503;&#12391;&#12354;&#12427;&#12394;&#12425;&#12289;=
+</span><span style=3D'mso-ansi-language:EN-GB'>&#26368;&#22823;&#20154;&=
+#21475;</span><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12399=
+;&#65297;&#65296;&#65285;&#12424;&#12426;</span><span style=3D=
+'mso-ansi-language:EN-GB'>&#39640;&#12367;&#25104;&#12426;&#12414;&#12377;=
+&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>C=
-olony
-development level is comprised of two parts (as explained further below): 5=
-0%
-from population + 50% from luxury resources<o:p></o:p></span></p>
+<h3><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>
+<o:p>&#12467;&#12525;&#12491;&#12540;&#38283;&#30330;&#12524;&#12505;&=
+#12523;&#65306;&#20154;&#21475; &#65291; <span lang=3D"en-nz">&#39640;&=
+#32026;&#36039;&#28304;</span></o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>At
-population of 500 million, population development reaches full 50%. Smaller
-populations have proportionally less population development.<o:p></o:p></sp=
-an></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12467;&#12525;&#12491;&#12540=
+;&#38283;&#30330;&#12524;&#12505;&#12523;&#12399;<span lang=3DEN-GB style=
+=3D'mso-ansi-language:EN-GB'>&#65288;&#19979;<span lang=3D"en-nz">&#12391;=
+</span>&#35500;&#26126;&#12373;&#12428;&#12427;&#12424;&#12358;&#12395;&=
+#65289;</span>&#65298;&#12388;&#12398;&#37096;&#20998;&#12391;&#27083;&=
+#25104;&#12373;&#12428;&#12390;&#12356;&#12414;&#12377;&#65306;&#20154;&=
+#21475;<span lang=3D"en-nz">&#12363;&#12425;&#65301;&#65296;&#65285;</span> 
+&#65291; <span lang=3D"en-nz">&#39640;&#32026;&#36039;&#28304;&#12363;&=
+#12425;&#65301;&#65296;&#65285;</span></span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>L=
-uxury
-resources are consumed by colonies. Having access to many luxury resources
-raises a colony&#8217;s luxury development level, producing more income. Ea=
-ch
-luxury resource raises the development level by approximately 5%, thus when=
- a
-colony has consistent access to 10 luxury resources its luxury development
-level will slowly <span class=3DGramE>rise</span> to 50%.<o:p></o:p></span>=
-</p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#65301;&#20740;&#12398;&#20154=
+;&#21475;&#12391;&#12289;&#20154;&#21475;<span lang=3D"en-nz">&#20998;&=
+#12398;&#38283;&#30330;</span>&#12364;&#12501;&#12523;&#12398;&#65301;&=
+#65296;&#65285;&#12395;&#36948;&#12375;&#12414;&#12377;&#12290;&#12424;&=
+#12426;&#23567;&#12373;&#12356;&#20154;&#21475;&#12364;&#30456;&#23550;&=
+#30340;&#12395;&#12424;&#12426;&#23569;&#12394;&#12356;&#20154;&#21475;=
+<span lang=3D"en-nz">&#12395;&#12424;&#12427;</span>&#38283;&#30330;&=
+#12434;&#25345;<span lang=3D"en-nz">&#12385;&#12414;&#12377;</span>&#12290=
+;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>C=
-ombining
-both population development and luxury development gives the total colony
-development level, for a standard total maximum of 100%.<o:p></o:p></span><=
-/p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-GB style=3D=
+'mso-ansi-language:EN-GB'><o:p>&#39640;&#32026;&#36039;&#28304;&#12399;&=
+#12467;&#12525;&#12491;&#12540;&#12395;&#12424;&#12387;&#12390;&#28040;&=
+#36027;&#12373;&#12428;&#12414;&#12377;&#12290;&#22810;&#12367;&#12398;&=
+#39640;&#32026;&#36039;&#28304;&#12408;&#12398;&#12450;&#12463;&#12475;&=
+#12473;&#12434;&#25345;&#12388;&#12371;&#12392;&#12399;&#12289;&#12424;&=
+#12426;&#22810;&#12367;&#12398;&#21454;&#20837;&#12434;&#29987;&#12415;&=
+#20986;&#12375;&#12289;&#12467;&#12525;&#12491;&#12540;&#12398;&#39640;&=
+#32026;&#36039;&#28304;<span lang=3D"en-nz">&#20998;&#12398;</span>&#38283=
+;&#30330;&#12524;&#12505;&#12523;&#12434;&#24341;&#12365;&#19978;&#12370;&=
+#12414;&#12377;&#12290; 
+&#39640;&#32026;&#36039;&#28304;&#27598;&#12395;&#12362;&#12424;&#12381;&=
+#65301;&#65285;&#38283;&#30330;&#12524;&#12505;&#12523;&#12364;&#24341;&=
+#12365;&#19978;&#12370;&#12425;&#12428;&#12414;&#12377;&#12290;&#12467;&=
+#12525;&#12491;&#12540;&#12364;&#65297;&#65296;&#12398;&#39640;&#32026;&=
+#36039;&#28304;&#12408;&#12398;&#19968;&#36011;&#12375;&#12383;&#12450;&=
+#12463;&#12475;&#12473;&#12434;&#25345;&#12387;&#12390;&#12356;&#12427;&=
+#12392;&#12365;&#12289;&#12381;&#12398;&#39640;&#32026;&#36039;&#28304;=
+<span lang=3D"en-nz">&#20998;&#12398;</span>&#38283;&#30330;&#12524;&=
+#12505;&#12523;&#12399;&#12422;&#12387;&#12367;&#12426;&#12392;&#65301;&=
+#65296;&#65285;&#12395;&#19978;&#26119;&#12377;&#12427;&#12391;&#12375;&=
+#12423;&#12358;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-GB style=3D'mso-ansi-language:EN-GB'>H=
-owever
-other factors can increase colony development above 100%. For example, a co=
-lony
-may have ancient ruins which provide a development bonus (up to 50% extra),=
- or
-the colony may have access to special luxury resources (extra 30%).<o:p></o=
-:p></span></p>
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#20154;&#21475;<span lang=3D=
+"en-nz">&#20998;&#38283;&#30330;&#12392;&#39640;&#32026;&#36039;&#28304;&=
+#20998;&#38283;&#30330;&#12434;</span>&#32080;&#21512;<span lang=3D"en-nz"=
+>&#12377;&#12427;&#12371;&#12392;&#12391;</span>&#12289;<span lang=3D=
+"en-nz">&#22522;&#26412;&#30340;&#12395;&#12399;&#26368;&#22823;&#12391;=
+</span>&#65297;&#65296;&#65296;&#65285;<span lang=3D"en-nz">&#12391;</span=
+>&#12289;<span lang=3D"en-nz">&#32207;&#21512;&#30340;&#12394;</span>&=
+#12467;&#12525;&#12491;&#12540;<span lang=3D"en-nz">&#12398;</span>&#38283=
+;&#30330;&#12524;&#12505;&#12523;<span lang=3D"en-nz">&#12364;&#24471;&=
+#12425;&#12428;&#12414;&#12377;</span>&#12290;</o:p></span></p>
+
+<p class=3DMsoNormal>
+<o:p><span style=3D'mso-ansi-language:EN-GB'>&#12288;</span><span lang=
+=3DEN-GB style=3D'mso-ansi-language:EN-GB'>&#12375;&#12363;&#12375;&#12394=
+;&#12364;&#12425;&#12289;&#20182;&#12398;&#35201;&#22240;&#12364;&#65297;&=
+#65296;&#65296;&#65285;&#20197;&#19978;&#12395;&#12467;&#12525;&#12491;&=
+#12540;&#38283;&#30330;&#12434;&#22679;&#12420;&#12377;<span lang=3D"en-nz=
+">&#12363;&#12418;&#30693;&#12428;&#12414;&#12379;&#12435;</span>&#12290; 
+&#20363;&#12360;&#12400;&#12289;&#12467;&#12525;&#12491;&#12540;&#12364;&=
+#38283;&#30330;&#12508;&#12540;&#12490;&#12473;&#65288;&#26368;&#39640;=
+<span lang=3D"en-nz">&#12391;&#65291;</span>&#65301;&#65296;&#65285;&=
+#65289;&#12434;&#25552;&#20379;&#12377;&#12427;&#21476;&#20195;&#36986;&=
+#36321;&#12434;&#25345;&#12387;&#12390;&#12356;&#12427;&#12363;&#12418;&=
+#12375;&#12428;&#12414;&#12379;&#12435;&#12289;&#12354;&#12427;&#12356;&=
+#12399;<span lang=3D"en-nz">&#12467;&#12525;&#12491;&#12540;&#12399;</span=
+>&#29305;&#21029;&#39640;&#32026;&#36039;&#28304;&#12408;&#12398;&#12450;&=
+#12463;&#12475;&#12473;&#12434;&#25345;&#12387;&#12390;&#12356;&#12427;&=
+#12363;&#12418;&#12375;&#12428;&#12414;&#12379;&#12435;&#65288;<span lang=
+=3D"en-nz">&#65291;</span>&#65299;&#65296;&#65285;&#65289;&#12290;</o:p>=
+</span></p>
 
 </div>
 

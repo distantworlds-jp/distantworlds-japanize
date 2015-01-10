@@ -19,8 +19,8 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <meta name=3DProgId content=3DWord.Document>
 <meta name=3DGenerator content=3D"Microsoft Word 12">
 <meta name=3DOriginator content=3D"Microsoft Word 12">
-<link rel=3DFile-List href=3D"GameConcepts_BoardingAndCapture_files/filelis=
-t.xml">
+<link rel=3DFile-List href=3D"GameConcepts_BoardingAndCapture_files=
+/filelist.xml">
 <link rel=3DEdit-Time-Data
 href=3D"GameConcepts_BoardingAndCapture_files/editdata.mso">
 <!--[if !mso]>
@@ -57,8 +57,8 @@ w\:* {behavior:url(#default#VML);}
 <link rel=3DdataStoreItem
 href=3D"GameConcepts_BoardingAndCapture_files/item0008.xml"
 target=3D"GameConcepts_BoardingAndCapture_files/props0009.xml">
-<link rel=3DthemeData href=3D"GameConcepts_BoardingAndCapture_files/themeda=
-ta.thmx">
+<link rel=3DthemeData href=3D"GameConcepts_BoardingAndCapture_files=
+/themedata.thmx">
 <link rel=3DcolorSchemeMapping
 href=3D"GameConcepts_BoardingAndCapture_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
@@ -112,237 +112,237 @@ href=3D"GameConcepts_BoardingAndCapture_files/colorschememapping.xml">
   DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 2"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 3"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 4"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 5"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 6"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 7"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 8"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"heading 9"/>
-  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
-ue"
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D=
+"true"
    QFormat=3D"true" Name=3D"caption"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
- Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default=
+ Paragraph Font"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
   <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
   <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
    Name=3D"Placeholder Text"/>
-  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
-No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D=
+"No Spacing"/>
   <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
   <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
-"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
   <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
   <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
   <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
-"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading"/>
   <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
   <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
-=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"=
+ Name=3D"Revision"/>
   <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
    Name=3D"List Paragraph"/>
-  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
-"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=
+=3D"Quote"/>
   <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
    Name=3D"Intense Quote"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
  Accent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 1"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 2"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 3"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 4"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 5"/>
-  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
-t 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
- 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid=
  Accent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
-cent 6"/>
-  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
-cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading=
+ 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading=
+ 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful=
+ Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid=
+ Accent 6"/>
   <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
    Name=3D"Subtle Emphasis"/>
   <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
@@ -351,8 +351,8 @@ cent 6"/>
    Name=3D"Subtle Reference"/>
   <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
    Name=3D"Intense Reference"/>
-  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
-"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=
+=3D"Book Title"/>
   <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
    UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
   <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
@@ -488,8 +488,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
-raphCxSpFirst
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst,=
+ div.MsoListParagraphCxSpFirst
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -507,8 +507,8 @@ raphCxSpFirst
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
-agraphCxSpMiddle
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle,=
+ div.MsoListParagraphCxSpMiddle
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -526,8 +526,8 @@ agraphCxSpMiddle
 	mso-fareast-font-family:"MS Mincho";
 	mso-bidi-font-family:"Times New Roman";
 	color:#AAAAAA;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
-phCxSpLast
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast,=
+ div.MsoListParagraphCxSpLast
 	{mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
@@ -619,8 +619,8 @@ div.WordSection1
  @list l0
 	{mso-list-id:292365739;
 	mso-list-type:hybrid;
-	mso-list-template-ids:-1692358568 336134145 336134147 336134149 336134145 =
-336134147 336134149 336134145 336134147 336134149;}
+	mso-list-template-ids:-1692358568 336134145 336134147 336134149 336134145=
+ 336134147 336134149 336134145 336134147 336134149;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -631,8 +631,8 @@ div.WordSection1
 @list l1
 	{mso-list-id:1340277799;
 	mso-list-type:hybrid;
-	mso-list-template-ids:362032714 336134145 336134147 336134149 336134145 33=
-6134147 336134149 336134145 336134147 336134149;}
+	mso-list-template-ids:362032714 336134145 336134147 336134149 336134145=
+ 336134147 336134149 336134145 336134147 336134149;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -643,8 +643,8 @@ div.WordSection1
 @list l2
 	{mso-list-id:1869374367;
 	mso-list-type:hybrid;
-	mso-list-template-ids:198753182 336134145 336134147 336134149 336134145 33=
-6134147 336134149 336134145 336134147 336134149;}
+	mso-list-template-ids:198753182 336134145 336134147 336134149 336134145=
+ 336134147 336134149 336134145 336134147 336134149;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -771,10 +771,10 @@ table.DWChart2EvenRow
 
 <div class=3DWordSection1>
 
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coor=
-dsize=3D"21600,21600"
- o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=
-=3D"f"
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"=
+ coordsize=3D"21600,21600"
+ o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe"=
+ filled=3D"f"
  stroked=3D"f">
  <v:stroke joinstyle=3D"miter"/>
  <v:formulas>
@@ -797,227 +797,362 @@ dsize=3D"21600,21600"
 =3D"#_x0000_t75"
  style=3D'position:absolute;margin-left:104.8pt;margin-top:0;width:156pt;
  height:164.4pt;z-index:1;visibility:visible;mso-wrap-style:square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:page'>
- <v:imagedata src=3D"GameConcepts_BoardingAndCapture_files/image001.png" o:=
-title=3D""/>
+ <v:imagedata src=3D"GameConcepts_BoardingAndCapture_files/image001.png"=
+ o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page" anchory=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D260 height=3D274
-src=3D"GameConcepts_BoardingAndCapture_files/image001.png" align=3Dright hs=
-pace=3D15
-v:shapes=3D"Picture_x0020_0"><![endif]><span lang=3DEN-US style=3D'mso-ansi=
--language:
-EN-US;mso-no-proof:yes'>Properly equipped ships allow you to board and capt=
-ure
-enemy targets.<o:p></o:p></span></p>
+src=3D"GameConcepts_BoardingAndCapture_files/image001.png" align=3Dright=
+ hspace=3D15
+v:shapes=3D"Picture_x0020_0"><![endif]>&#12288;<span lang=3DEN-US style=3D=
+'mso-ansi-language:
+EN-US;mso-no-proof:yes'><o:p>&#36969;&#20999;&#12394;&#35013;&#20633;&=
+#12434;&#25345;&#12388;&#33337;&#12399;&#12289;&#24375;&#35186;&#12434;&=
+#34892;&#12356;&#12289;&#30446;&#27161;&#12398;&#25973;&#12434;&#25343;&=
+#25429;&#12377;&#12427;&#12371;&#12392;&#12364;&#21487;&#33021;&#12391;&=
+#12377;&#12290;</o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Assault Pods are used to launch boarding parties against nearby enemy
-ships or bases. The armed boarding parties travel a short distance to a tar=
-get.
-On reaching the target, the attackers board the enemy vessel and fight with=
- the
-defenders.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'><o:p>&#24375;&#35186;&#31361;&#25731;&#33351;&#12399;&#36817;&#12367;=
+&#12398;&#25973;&#33382;&#12354;&#12427;&#12356;&#12399;&#25973;&#22522;&=
+#22320;&#12395;&#23550;&#12375;&#12390;&#24375;&#35186;&#37096;&#38538;&=
+#12434;&#36865;&#12426;&#20986;&#12377;&#12383;&#12417;&#12395;&#20351;&=
+#12431;&#12428;&#12414;&#12377;</span>&#12290;&#27494;&#35013;&#12375;&=
+#12383;&#24375;&#35186;&#37096;&#38538;&#12399;&#36817;&#36317;&#38626;&=
+#12398;&#30446;&#27161;&#12408;&#31227;&#21205;&#12375;&#12414;&#12377;&=
+#12290;&#30446;&#27161;&#12395;&#36948;&#12377;&#12427;&#12392;&#12289;&=
+#25915;&#25731;&#37096;&#38538;&#12399;&#25973;&#12398;&#33337;&#12395;&=
+#20055;&#12426;&#36796;&#12435;&#12391;&#12289;&#12381;&#12375;&#12390;&=
+#38450;&#34907;&#37096;&#38538;&#12392;&#25126;&#12356;&#12414;&#12377;&=
+#12290;</o:p></p>
+	<p class=3DMsoNormal>
+	<o:p><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12288;</span></o:p></p>
+	<p class=3DMsoNormal>
+	<o:p><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12288;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#24375;&#35186;&#12399;&#27425;&#12398;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#26465;&#20214;&#12391;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#38283;&#22987;&#12377;&#12427;&#12371;&#12392;&#12364;&#20986;&=
+#26469;&#12414;&#12377;&#65306;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>A boarding attempt can be launched against a target when:<o:p></o:p></=
-span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo1'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;</span></span></span><![endif]><span style=3D=
+'mso-ansi-language:EN-US;
+mso-no-proof:yes'><o:p>&#30446;&#27161;&#12364;&#23556;&#31243;&#20869;=
+</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l0 level1 lfo1'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>the target is in range<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l0 level1 lfo1'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'><o:p>&#30446;&#27161;&#12398;&#12472;&#12540;&#12523;&=
+#12489;&#12364;&#20302;&#12356;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-0 level1 lfo1'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>the target has low shields<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<o:p><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#30446;&#27161;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12399;&#21427;&#37325;&#12395;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#38450;&#24481;&#12373;&#12428;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12390;&#12356;&#12427;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12363;&#12418;&#12375;&#12428;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12378;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12289;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12381;&#12398;&#22580;&#21512;&#12289;</span><span lang=3DEN-US=
+ style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#22810;&#12367;&#12398;&#25915;&#25731;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#20596;&#12398;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#33337;&#12363;&#12425;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12398;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#22810;&#25968;&#12398;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#24375;&#35186;&#37096;&#38538;&#12364;</span><span lang=3DEN-US=
+ style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#24517;&#35201;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12392;&#12373;&#12428;&#12414;&#12377;</span><span lang=3DEN-US=
+ style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Some targets may be well defended and thus require multiple boarding
-parties from a number of attacking ships.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&nbsp;<o:p><o:p><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12288;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#33337;&#12354;&#12427;&#12356;&#12399;<span lang=3D"en-nz">&#22522;=
+&#22320;&#12364;&#24375;&#35186;&#12373;&#12428;&#12390;&#12356;&#12427;&=
+#26178;&#12399;&#12289;&#28857;&#28357;&#12377;&#12427;</span>&#20132;&=
+#24046;<span lang=3D"en-nz">&#12375;&#12383;</span>&#30701;&#21091;&#12398=
+;&#12450;&#12452;&#12467;&#12531;&#12364;<span lang=3D"en-nz">&#12381;=
+</span>&#12398;&#19978;&#12395;&#29694;&#12431;&#12428;&#12414;&#12377;&=
+#12290;<span lang=3D"en-nz">&#25126;&#12358;&#37096;&#38538;&#12398;&=
+#24375;&#12373;&#12399;</span>&#36984;&#25246;&#12497;&#12493;&#12523;=
+<span lang=3D"en-nz">&#12391;</span>&#35211;&#12425;&#12428;&#12427;&=
+#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12377;&#12290;</o:p></o:p=
+></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>While a ship or base is being boarded a flashing crossed-cutlass icon =
-appears
-over the ship or base. The strength of the opposing forces can be viewed in=
- the
-Selection Panel.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'><o:p>&#12418;&#12375;<span lang=3D"en-nz">&#25915;&#25731;&#20596;=
+</span>&#12364;&#25126;&#12356;&#12395;&#21213;<span lang=3D"en-nz">&=
+#12387;&#12383;</span>&#12394;&#12425;&#12289;&#12381;&#12428;&#12425;&=
+#12399;&#25973;&#33382;&#12354;&#12427;&#12356;&#12399;&#22522;&#22320;&=
+#12434;<span lang=3D"en-nz">&#25343;&#25429;&#12375;&#12289;<span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12381;&#12428;&#12434;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#23436;&#20840;&#12395;&#25903;&#37197;&#12375;</span>&#12414;&=
+#12377;&#12290;</span></o:p></span></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>If the attackers win the battle they capture the enemy ship or base,
-taking full control of the vessel.<o:p></o:p></span></p>
-
-<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2" o:s=
-pid=3D"_x0000_s1027"
- type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:124.3pt;margin=
--top:0;
- width:175.5pt;height:150.45pt;z-index:2;visibility:visible;mso-wrap-style:=
-square;
- mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right=
-:9pt;
+<p class=3DMsoNormal><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2"=
+ o:spid=3D"_x0000_s1027"
+ type=3D"#_x0000_t75" style=3D'position:absolute;margin-left:124.3pt=
+;margin-top:0;
+ width:175.5pt;height:150.45pt;z-index:2;visibility:visible=
+;mso-wrap-style:square;
+ mso-wrap-distance-left:9pt;mso-wrap-distance-top:0=
+;mso-wrap-distance-right:9pt;
  mso-wrap-distance-bottom:0;mso-position-horizontal:right;
  mso-position-horizontal-relative:page;mso-position-vertical:absolute;
  mso-position-vertical-relative:text'>
- <v:imagedata src=3D"GameConcepts_BoardingAndCapture_files/image004.png" o:=
-title=3D""/>
+ <v:imagedata src=3D"GameConcepts_BoardingAndCapture_files/image004.png"=
+ o:title=3D""/>
  <w:wrap type=3D"square" anchorx=3D"page"/>
 </v:shape><![endif]--><![if !vml]><img width=3D292 height=3D251
-src=3D"GameConcepts_BoardingAndCapture_files/image004.png" align=3Dright hs=
-pace=3D15
-v:shapes=3D"Picture_x0020_2"><![endif]><span lang=3DEN-US style=3D'mso-ansi=
--language:
-EN-US;mso-no-proof:yes'>During the fighting, some components on the ship or
-base may sustain minor damage, and thus may be disabled for a while after t=
-he
-battle has ended.<o:p></o:p></span></p>
+src=3D"GameConcepts_BoardingAndCapture_files/image004.png" align=3Dright=
+ hspace=3D15
+v:shapes=3D"Picture_x0020_2"><![endif]>&#12288;<o:p><span style=3D=
+'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#25126;&#38360;&#12398;</span><span lang=3DEN-US=
+ style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#38291;&#12395;&#12289;&#33337;&#12354;&#12427;&=
+#12356;&#12399;&#22522;&#22320;&#12398;</span><span style=3D=
+'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#24190;&#12388;&#12363;&#12398;&#37096;&#21697;&=
+#12364;</span>&#36605;&#12356;<span lang=3DEN-US style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#34987;&#23475;&#12434;&#21463;&#12369;&#12427;&=
+#12363;&#12418;&#12375;&#12428;</span><span style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#12414;&#12379;&#12435;&#12290;&#12381;&#12428;&=
+#25925;&#12395;&#12289;&#25126;&#38360;&#12364;</span><span lang=3DEN-US=
+ style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#32066;&#12431;&#12387;&#12383;&#12354;&#12392;=
+</span><span style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#12289;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#12375;&#12400;&#12425;&#12367;&#12398;&#38291;&=
+#12289;</span><span style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#34892;&#21205;&#19981;&#33021;&#12395;&#12394;=
+</span><span lang=3DEN-US style=3D'mso-ansi-language:
+EN-US;mso-no-proof:yes'>&#12427;&#12363;&#12418;&#12375;&#12428;&#12414;&=
+#12379;&#12435;&#12290;</span></o:p></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>Note that in the Empire Policy screen you can determine the default
-actions to take when a ship or base is successfully captured. This may incl=
-ude
-immediately scrapping the ship or base, sending it to a construction yard f=
-or
-disassembly, or sending it for retrofit. See the section &#8220;Boarding &a=
-mp;
-Capture&#8221;.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<o:p><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#24093;&#22269;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#25919;&#31574;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#30011;&#38754;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12391;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12289;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12354;&#12394;&#12383;&#12364;&#33337;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12363;&#22522;&#22320;&#12398;&#25343;&#25429;&#12395;&#25104;&=
+#21151;&#12375;&#12383;&#22580;&#21512;&#12395;&#21462;&#12427;</span>=
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12487;&#12501;&#12457;&#12523;&#12488;&#12398;&#34892;&#21205;&=
+#12434;&#27770;&#23450;&#12377;&#12427;&#12371;&#12392;&#12364;&#12391;&=
+#12365;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12414;&#12377;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12290;&#12371;&#12428;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12395;&#12399;&#12289;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#33337;&#12354;&#12427;&#12356;&#12399;&#22522;&#22320;&#12434;=
+</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12289;&#30452;&#12385;&#12395;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12473;&#12463;&#12521;&#12483;&#12503;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12377;&#12427;&#12289;</span><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#20998;&#35299;</span><span style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#12363;&#25913;&#33391;&#12398;&#28858;&#12395;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#36896;&#33337;&#25152;&#12395;&#31227;&#21205;&#12373;&#12379;&=
+#12427;&#12289;&#12364;&#21547;&#12414;&#12428;&#12414;&#12377;</span>=
+<span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12290;</span><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12300;</span><span lang=3DEN-US style=3D'mso-ansi-language:EN-US=
+;mso-no-proof:
+yes'>&#24375;&#35186; &amp; &#21344;&#38936;</span><span style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'>&#12301;&#38917;&#30446;&#12434;&#21442;&#29031;&#12398;&#12371;&=
+#12392;&#12290;</span></o:p></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>A=
-ssigning
-a Capture mission<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&#25343;=
+&#25429;&#20219;&#21209;&#12434;&#21106;&#12426;&#24403;&#12390;&#12427;=
+</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>To manually initiate a Boarding and Capture mission against a target:<=
-o:p></o:p></span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'><o:p>&#12288;&#25163;&#21205;&#12391;&#12289;&#30446;&#27161;&#12395;=
+&#23550;&#12375;&#12390;&#24375;&#35186; &amp; &#25343;&#25429;&#20219;&=
+#21209;&#12434;&#38283;&#22987;&#12377;&#12427;&#65306;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l2 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>select an attacking ship or fleet with Assault Pods<o:p><=
-/o:p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'>&#25915;&#25731;<o:p>&#12377;&#12427;&#24375;&#35186;&=
+#31361;&#25731;&#33351;&#12434;&#35013;&#20633;&#12375;&#12383;&#33337;&=
+#12363;&#33382;&#38538;&#12434;&#12289;&#36984;&#25246;&#12377;&#12427;=
+</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l2 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>hover over the target ship or base<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt=
+;mso-list:l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'><o:p>&#30446;&#27161;&#12398;&#33382;&#33351;&#12363;&=
+#22522;&#22320;&#12398;&#19978;&#12395;&#12509;&#12452;&#12531;&#12479;&=
+#12434;&#25345;&#12387;&#12390;&#12356;&#12367;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l2 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>hold down the Shift key, the mouse pointer will change to=
- a
-Capture hook<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt=
+;mso-list:l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;
+mso-no-proof:yes'>hold down the Shift</span><span style=3D=
+'mso-ansi-language:EN-US;
+mso-no-proof:yes'>&#12461;&#12540;&#12434;&#25276;&#12375;&#32154;&#12369;=
+&#12427;&#38291;&#12289;&#12510;&#12454;&#12473;&#12509;&#12452;&#12531;&=
+#12479;&#12540;&#12364;&#25343;&#25429;&#12501;&#12483;&#12463;&#12395;&=
+#22793;&#12431;&#12426;&#12414;&#12377;&#12290;</span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-2 level1 lfo2'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>right-click the target<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l2 level1 lfo2'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'><o:p>&#12479;&#12540;&#12466;&#12483;&#12488;&#12434;&=
+#21491;&#12463;&#12522;&#12483;&#12463;&#12375;&#12414;&#12377;&#12290;=
+</o:p></span></p>
 
-<h3><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'>D=
-efending
-against Boarding actions<o:p></o:p></span></h3>
+<h3><span style=3D'mso-ansi-language:EN-US;mso-no-proof:yes'><o:p>&#24375;=
+&#35186;&#12363;&#12425;&#12398;&#38450;&#24481;</o:p></span></h3>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>When attackers board a target, the defenders automatically fight back =
-to
-repel the boarders.<o:p></o:p></span></p>
+<p class=3DMsoNormal>&#12288;<span lang=3DEN-US style=3D=
+'mso-ansi-language:EN-US;mso-no-proof:
+yes'><o:p>&#25915;&#25731;<span lang=3D"en-nz">&#38538;</span>&#12364;&=
+#30446;&#27161;&#12395;&#20055;&#12426;&#36796;&#12416;<span lang=3D"en-nz=
+">&#12392;</span>&#12289;<span lang=3D"en-nz">&#38450;&#24481;&#20596;&=
+#12399;&#24375;&#35186;&#38538;</span>&#12434;&#36861;&#12356;&#25173;&=
+#12358;&#12383;&#12417;&#12395;&#33258;&#21205;<span lang=3D"en-nz">&=
+#12391;</span>&#21453;&#25731;&#12375;&#12414;&#12377;&#12290;</o:p></span=
+></p>
 
-<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US;ms=
-o-no-proof:
-yes'>For ships and bases the defending forces are comprised of:<o:p></o:p><=
-/span></p>
+<p class=3DMsoNormal><span style=3D'mso-ansi-language:EN-US;mso-no-proof:
+yes'>
+<o:p>&#12288;&#33337;&#12363;&#22522;&#22320;&#12398;&#38450;&#24481;&=
+#37096;&#38538;&#12398;&#27083;&#25104;&#65306;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt;mso-list:=
-l1 level1 lfo3'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>the crew, determined by the Hab Modules on the ship or ba=
-se<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo3'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'>&#20055;&#32068;&#21729;&#12290;&#29983;&#21629;&#32173;=
+&#25345;&#35013;&#32622;&#12395;&#22522;&#12356;&#12390;&#27770;&#23450;&=
+#12373;&#12428;&#12427;&#12290;</span></p>
 
-<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt;mso-list=
-:l1 level1 lfo3'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>any unexpended Assault Pods (i.e. Assault Pods on the tar=
-get
-defend against attack)<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo3'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'>
+<o:p>&#38750;&#28040;&#32791;&#29366;&#24907;&#12398;&#24375;&#35186;&=
+#31361;&#25731;&#33351;&#65288;&#12388;&#12414;&#12426;&#30446;&#27161;&=
+#12364;&#35013;&#20633;&#12377;&#12427;&#24375;&#35186;&#31361;&#25731;&=
+#33351;&#12399;&#25915;&#25731;&#12408;&#12398;&#38450;&#24481;&#12395;&=
+#12418;&#25104;&#12426;&#12414;&#12377;&#65289;</o:p></span></p>
 
-<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt;mso-list:l=
-1 level1 lfo3'><![if !supportLists]><span
-lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso=
--bidi-font-family:
-Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D'mso-list:Ig=
-nore'>&middot;<span
-style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
-&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=3DEN-US style=3D'mso-ansi-languag=
-e:EN-US;
-mso-no-proof:yes'>any Troops onboard<o:p></o:p></span></p>
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-18.0pt=
+;mso-list:l1 level1 lfo3'><![if !supportLists]><span
+lang=3DEN-US style=3D'font-family:Symbol;mso-fareast-font-family:Symbol=
+;mso-bidi-font-family:
+Symbol;mso-ansi-language:EN-US;mso-no-proof:yes'><span style=3D=
+'mso-list:Ignore'>&middot;<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;
+</span></span></span><![endif]>
+<span style=3D'mso-ansi-language:EN-US;
+mso-no-proof:yes'>&#20055;&#33337;&#12375;&#12390;&#12356;&#12427;&#20840;=
+&#37096;&#38538;</span></p>
 
 </div>
 
