@@ -13,7 +13,8 @@
 ### インストール方法
 
 1. `C:\Matrix Game\Distant Worlds Universe\`フォルダのバックアップを取ります
-2. この[distantsworlds-master.zip](https://github.com/distantworlds-jp/distantworlds/archive/master.zip)を解凍し、distantworlds-master/distantworlds-master以下のフォルダを、上記のゲームがインストールされているフォルダに上書きします
+2. この[distantworlds-japanize-master.zip](https://github.com/distantworlds-jp/distantworlds-japanize/archive/master.zip)を解凍します
+3. 解凍したフォルダの`distantworlds-japanize-master/distantworlds-japanize-master`以下のフォルダを、上記のゲームがインストールされているフォルダに上書きします
 
 ### 翻訳ミスに気がついたら？
 
