@@ -8,7 +8,7 @@
  
 これをうまいこと解決できないか？ということで本リポジトリの立ち上げへと踏み切りました。
 
- ついでに日本語Wikiが無いのでGitHub Wikiをその代わりにしちゃおうという目論見もあります。
+ ついでに日本語Wikiが無いので[GitHub Wiki](https://github.com/distantworlds-jp/distantworlds-japanize/wiki)をその代わりにしちゃおうという目論見もあります。
 
 ### インストール方法
 
